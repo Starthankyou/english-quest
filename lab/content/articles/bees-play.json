@@ -1,0 +1,451 @@
+{
+ "id": "bees-play",
+ "category": "動物行為",
+ "title": "Do Bees Play?",
+ "subtitle": "蜜蜂也會玩嗎？",
+ "source": "原創教學文章；研究內容依 Dona et al.（2022）Animal Behaviour 原始論文，2026-10-21 核對",
+ "sources": [
+  {
+   "title": "Dona, H. S. G., et al. (2022). Do bumble bees play? Animal Behaviour, 194, 239–251.",
+   "url": "https://doi.org/10.1016/j.anbehav.2022.08.013",
+   "accessed": "2026-10-21"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "Bees and Little Balls",
+   "paras": [
+    [
+     "Puppies chase their tails. Kittens bat at pieces of string. Children kick balls just for fun. We are used to seeing young mammals play. But what about insects? Can a tiny bee play? A group of scientists in London decided to find out.",
+     "小狗會追自己的尾巴，小貓會撥弄一段線，小孩會為了好玩踢球。我們很習慣看到年幼的哺乳動物玩耍。那昆蟲呢？一隻小小的蜜蜂會玩嗎？倫敦的一群科學家決定一探究竟。"
+    ],
+    [
+     "They built a special area next to a bumblebee nest. The bees could walk along a clear path to get sugar water and pollen. Next to the path, the scientists placed small wooden balls. Some balls could move, and some were stuck to the floor. The bees did not need the balls at all. The scientists filmed everything and watched each bee carefully.",
+     "他們在一個熊蜂巢旁邊搭了一個特別的區域。蜜蜂可以沿著一條暢通的小路去取糖水和花粉。科學家在小路旁邊放了幾顆小木球，有些球可以滾動，有些則黏在地上。蜜蜂根本不需要這些球。科學家把一切都錄了下來，仔細觀察每一隻蜜蜂。"
+    ],
+    [
+     "But the bees went to the balls again and again. They held on to them and rolled them across the floor. Over 18 days, 45 bees rolled balls 910 times. Some bees rolled balls more than 100 times. They did this even after they had found the food. Some bees even left the path to the food so that they could roll a ball.",
+     "但蜜蜂一次又一次地跑去找那些球。牠們抱住球，把球在地上滾來滾去。在 18 天裡，45 隻蜜蜂一共滾了 910 次球，有些蜜蜂滾了超過 100 次。即使已經找到食物，牠們還是會這麼做。有些蜜蜂甚至會離開通往食物的路，只為了去滾一顆球。"
+    ],
+    [
+     "The scientists noticed something else. Younger bees rolled balls more than older bees. This is similar to many young mammals, which play more than adults. Male bees also rolled each ball for longer than female bees. The bees did not seem stressed or hungry. They had plenty of food the whole time.",
+     "科學家還注意到另一件事：年輕的蜜蜂比年紀大的蜜蜂更常滾球。這和許多年幼的哺乳動物很像，牠們都比成年後更愛玩。雄蜂每次滾球的時間，也比雌蜂長。這些蜜蜂看起來既不緊張也不餓，牠們一直都有充足的食物。"
+    ],
+    [
+     "The rolling did not give the bees food or any other reward. They seemed to do it because they enjoyed it. The scientists said this behavior met the rules that biologists use to describe play. Maybe even small creatures have a world of feelings that we are only beginning to understand.",
+     "滾球沒有為蜜蜂帶來食物或任何其他獎勵，牠們似乎是因為喜歡才這麼做。科學家表示，這種行為符合生物學家用來定義「玩耍」的標準。也許，就連小小的生物，也擁有一個我們才剛開始了解的感受世界。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "Do Bees Play?",
+   "paras": [
+    [
+     "Play is easy to recognise in puppies, kittens and children, but it is much harder to define. Biologists usually describe play as behaviour that has no immediate practical purpose, is done voluntarily and repeatedly, and happens when an animal is relaxed rather than stressed. Most clear examples involve mammals and birds. In 2022, a team of researchers in London asked whether an insect could meet the same criteria. Play matters to scientists because it may help young animals practise skills, explore their world and feel good.",
+     "在小狗、小貓和孩子身上，玩耍很容易辨認，但要定義它卻難得多。生物學家通常把玩耍描述為：沒有立即的實際目的、出於自願且會反覆進行，而且是在動物放鬆而非緊張時發生的行為。最明確的例子大多是哺乳類和鳥類。2022 年，倫敦的一組研究者想知道：昆蟲能不能符合同樣的標準。玩耍對科學家來說很重要，因為它可能幫助幼小的動物練習技能、探索世界，並讓牠們感覺良好。"
+    ],
+    [
+     "They connected a bumblebee nest to an arena that contained an open path leading to food — sugar water and pollen. On either side of the path were small wooden balls. In one area the balls could be moved; in the other they were fixed to the floor. Because the path was clear, the bees could easily reach the food without touching any balls. The researchers also cleaned the balls every day so that the bees could not follow scent marks left by other bees.",
+     "他們把一個熊蜂巢連接到一個場地，場地裡有一條通往食物——糖水和花粉——的開放小路。小路兩側擺著小木球：一邊的球可以移動，另一邊的球則固定在地上。因為小路暢通，蜜蜂不碰任何一顆球，也能輕鬆拿到食物。研究者每天都清洗木球，讓蜜蜂無法追蹤其他蜜蜂留下的氣味。"
+    ],
+    [
+     "Yet many of them chose to roll the balls anyway, holding on to them and moving them across the floor. Over 18 days, the researchers recorded 910 ball-rolling actions by 45 bees. Some individuals rolled balls more than 100 times, and most continued rolling for days after they had already found the food.",
+     "然而，很多蜜蜂還是選擇去滾球：牠們抱住球，把球在地面上移動。在 18 天裡，研究者記錄到 45 隻蜜蜂共 910 次滾球動作。有些個體滾了超過 100 次，而且大多數在早已找到食物之後，仍持續滾了好幾天。"
+    ],
+    [
+     "Two further findings strengthened the case for play. In a separate test, bees developed a preference for a coloured room where they had been able to roll balls, suggesting the activity was rewarding in itself. And younger bees rolled balls more than older ones, a pattern similar to the juvenile play of many mammals. Males also tended to roll each ball for longer than females. The researchers also made sure the bees always had plenty of food, so the rolling was unlikely to be caused by hunger or stress.",
+     "另外兩項發現讓「這是玩耍」的說法更有力。在另一個測試中，蜜蜂對一個曾讓牠們滾球的彩色房間產生了偏好，表示這項活動本身就帶來獎勵感。此外，年輕的蜜蜂比年長的更常滾球，這和許多哺乳動物幼年時的玩耍模式很像。雄蜂每次滾球的時間也往往比雌蜂長。研究者也確保蜜蜂一直有充足的食物，所以滾球不太可能是飢餓或壓力造成的。"
+    ],
+    [
+     "The researchers concluded that ball rolling fulfilled the main criteria for animal play. The finding does not prove that bees feel joy in the way humans do. But it adds to growing evidence that insects may have positive experiences, and it raises questions about how we treat creatures we once assumed were simple machines.",
+     "研究者的結論是：滾球符合動物玩耍的主要標準。這項發現並不能證明蜜蜂感受到的快樂和人類一樣，但它為「昆蟲可能擁有正面經驗」增添了越來越多的證據，也讓我們反思：該如何對待那些我們曾以為只是簡單機器的生物。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "Play in a Small Brain",
+   "paras": [
+    [
+     "Play is one of those behaviours that seems obvious until we try to define it. Animal behaviour researchers generally require that play be not immediately functional, that it be voluntary or rewarding in itself, that it differ in form from serious behaviour such as feeding or mating, that it be repeated without being rigidly stereotyped, and that it occur when the animal is free from stress. By these standards, play has been documented in many mammals and birds. Whether a creature with a brain smaller than a sesame seed could meet them is another matter.",
+     "玩耍是那種看似再明顯不過、直到試圖定義時才發現困難的行為。動物行為研究者通常要求玩耍符合以下條件：沒有立即的功能；出於自願或本身就帶來獎勵；形式上不同於覓食、交配等「正經」行為；會反覆出現但不是僵化的刻板動作；而且發生在動物沒有壓力的時候。依照這些標準，許多哺乳類和鳥類都被記錄到會玩耍。至於一個大腦比芝麻還小的生物能否符合，就是另一回事了。"
+    ],
+    [
+     "A team based in London set out to test this with bumblebees. They connected a colony to an arena in which an unobstructed path led from the nest to sugar solution and pollen. To either side lay small wooden balls — mobile in one area, glued down in the other. The design mattered: since the bees could reach food without interacting with the balls, any rolling could not easily be explained as a by-product of foraging. The balls were also cleaned daily to remove any scent cues, so that bees were not simply following the trails of nestmates.",
+     "一支以倫敦為基地的研究團隊，決定用熊蜂來檢驗這個問題。他們把一個蜂群連接到一個場地，場地裡有一條暢通的小路，從蜂巢通往糖水和花粉。小路兩側放著小木球——一邊可以滾動，另一邊用膠黏住。這個設計很關鍵：既然蜜蜂不必碰球就能拿到食物，那麼任何滾球行為，都很難被解釋為覓食的副產品。木球每天都會清洗，去除氣味線索，以免蜜蜂只是跟著同巢夥伴的氣味走。"
+    ],
+    [
+     "Over eighteen days, 45 individually marked bees performed 910 ball-rolling actions, with some rolling balls more than a hundred times. Most continued to visit and roll balls on subsequent days, deviating from the direct route to food in order to do so. The durations and distances of the rolls varied widely, which argued against a mechanical, stereotyped habit of the kind seen in stressed captive animals. Some bees, in other words, chose to spend time on an activity that brought them nothing material in return.",
+     "在十八天裡，45 隻個別標記的蜜蜂共做出 910 次滾球動作，有些蜜蜂滾了超過一百次。大多數蜜蜂在之後幾天仍會回去滾球，甚至為此偏離通往食物的直接路線。滾球的時間長短和距離差異很大，這說明它不是那種在承受壓力的圈養動物身上看到的機械式刻板習慣。換句話說，有些蜜蜂選擇把時間花在一項沒有任何物質回報的活動上。"
+    ],
+    [
+     "Further experiments supported the interpretation. When bees were trained with two differently coloured chambers, only one of which allowed ball rolling, they later preferred the colour associated with rolling — evidence that the activity itself acted as a reward. Younger bees rolled more than older ones, peaking within their first days of adult life, a developmental pattern that resembles juvenile play in mammals. The authors also took care to rule out alternative explanations such as clutter clearing or attempted mating. Food was available at all times, making it unlikely that the behaviour was driven by hunger or stress.",
+     "後續實驗支持了這個詮釋。當蜜蜂在兩個不同顏色的房間中接受訓練、而只有其中一間可以滾球時，牠們之後會偏好與滾球相關的那個顏色——這證明這項活動本身就是一種獎勵。年輕的蜜蜂比年長的更常滾球，而且在成蟲生活的最初幾天達到高峰，這種發育模式和哺乳動物的幼年玩耍很相似。作者也仔細排除了其他解釋，例如清理雜物或嘗試交配。食物隨時都有，所以這種行為不太可能是由飢餓或壓力所驅動。"
+    ],
+    [
+     "The study does not show that bees experience pleasure as humans do, and the authors called for research into whether such behaviour occurs in the wild. Its significance lies elsewhere: it challenges the assumption that insects are purely reflexive machines. If even a bumblebee will pause on its way to food to roll a ball, then curiosity and enjoyment may be far older and more widespread in the animal kingdom than we tend to assume — a possibility with real implications for how we study, farm and protect the smallest creatures around us.",
+     "這項研究並沒有證明蜜蜂體驗快樂的方式和人類一樣，作者也呼籲進一步研究：這種行為是否也會在野外出現。它的意義在別處：它挑戰了「昆蟲只是純反射機器」的假設。如果連一隻熊蜂都會在前往食物的路上停下來滾球，那麼好奇與樂趣在動物界中，可能比我們以為的更古老、也更普遍——這個可能性，對我們如何研究、飼養和保護身邊最小的生物，有著實際的影響。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "hook",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "setup",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "rolling",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "evidence",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "meaning",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "insects",
+   "pos": "n.",
+   "meaning": "昆蟲（複數）",
+   "example": "Bees and ants are insects.",
+   "family": "insect (sing.)"
+  },
+  {
+   "w": "mammals",
+   "pos": "n.",
+   "meaning": "哺乳動物（複數）",
+   "example": "Whales are mammals, not fish.",
+   "family": "mammal (sing.)"
+  },
+  {
+   "w": "pollen",
+   "pos": "n.",
+   "meaning": "花粉",
+   "example": "Bees carry pollen from flower to flower.",
+   "family": "pollinate (v.)"
+  },
+  {
+   "w": "reward",
+   "pos": "n.",
+   "meaning": "獎勵、回報",
+   "example": "The dog got a treat as a reward.",
+   "family": "rewarding (adj.)"
+  },
+  {
+   "w": "voluntarily",
+   "pos": "adv.",
+   "meaning": "自願地",
+   "example": "He voluntarily cleaned the room.",
+   "family": "voluntary (adj.)"
+  },
+  {
+   "w": "criteria",
+   "pos": "n.",
+   "meaning": "標準、準則（複數）",
+   "example": "The project meets all the criteria.",
+   "family": "criterion (sing.)"
+  },
+  {
+   "w": "preference",
+   "pos": "n.",
+   "meaning": "偏好",
+   "example": "Do you have a preference for tea or coffee?",
+   "family": "prefer (v.)"
+  },
+  {
+   "w": "behaviour",
+   "pos": "n.",
+   "meaning": "行為（美式 behavior）",
+   "example": "Scientists study animal behaviour.",
+   "family": "behave (v.)"
+  },
+  {
+   "w": "juvenile",
+   "pos": "adj.",
+   "meaning": "幼年的、青少年的",
+   "example": "Juvenile animals often play.",
+   "family": "—"
+  },
+  {
+   "w": "stereotyped",
+   "pos": "adj.",
+   "meaning": "刻板的、一成不變的",
+   "example": "Stressed animals may show stereotyped movements.",
+   "family": "stereotype (n.)"
+  },
+  {
+   "w": "foraging",
+   "pos": "n.",
+   "meaning": "覓食",
+   "example": "Bees spend hours foraging for nectar.",
+   "family": "forage (v.)"
+  },
+  {
+   "w": "implications",
+   "pos": "n.",
+   "meaning": "影響、含意（複數）",
+   "example": "The decision has serious implications.",
+   "family": "imply (v.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "just for fun",
+   "type": "phrase",
+   "meaning": "只是為了好玩",
+   "usage": "強調沒有其他目的。",
+   "example": "We played the game just for fun.",
+   "writing": "S + V + just for fun."
+  },
+  {
+   "phrase": "find out",
+   "type": "phrase",
+   "meaning": "查明、發現",
+   "usage": "find out + wh-子句／that 子句。",
+   "example": "Let’s find out what happened.",
+   "writing": "Scientists decided to find out + wh-子句"
+  },
+  {
+   "phrase": "held on",
+   "type": "phrase",
+   "meaning": "抓住、緊握（hold on 的過去式）",
+   "usage": "hold on (to sth)：抓牢。",
+   "example": "She held on to the rope.",
+   "writing": "S + held on to + N"
+  },
+  {
+   "phrase": "rule out",
+   "type": "phrase",
+   "meaning": "排除（可能性）",
+   "usage": "rule out + 可能性／原因。",
+   "example": "Doctors ruled out a serious illness.",
+   "writing": "S + ruled out + N"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "S + be used to + V-ing／N",
+   "meaning": "習慣於……",
+   "example": "We are used to seeing young mammals play.",
+   "tip": "be used to 後接動名詞，不同於 used to + V（過去常常）。"
+  },
+  {
+   "frame": "even after + S + had + p.p.",
+   "meaning": "即使在……之後",
+   "example": "They did this even after they had found the food.",
+   "tip": "過去完成式表示先發生的事。"
+  },
+  {
+   "frame": "S + does not prove that ...; its significance lies elsewhere",
+   "meaning": "……並未證明……；它的意義在別處",
+   "example": "The study does not show that bees experience pleasure as humans do. Its significance lies elsewhere.",
+   "tip": "先承認限制，再說明真正的價值。"
+  },
+  {
+   "frame": "If even + N + V, then + S + may + V",
+   "meaning": "如果連……都……，那麼……可能……",
+   "example": "If even a bumblebee will pause to roll a ball, then curiosity may be far older than we assume.",
+   "tip": "用極端例子推出更廣的結論。"
+  }
+ ],
+ "quote": {
+  "text": "Man only plays when in the full meaning of the word he is a man, and he is only completely a man when he plays.",
+  "author": "Friedrich Schiller",
+  "work": "Letters upon the Aesthetic Education of Man (1795), Letter XV（Project Gutenberg 英譯本）",
+  "url": "https://www.gutenberg.org/ebooks/6798"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "Why did the bees not need the balls?",
+    "options": [
+     "They could get food along a clear path",
+     "The balls were too heavy",
+     "The bees were asleep",
+     "The balls were made of sugar"
+    ],
+    "a": 0,
+    "why": "第二段：蜜蜂沿著暢通小路就能取得食物。",
+    "evidence": "The bees could walk along a clear path to get sugar water and pollen."
+   },
+   {
+    "q": "How many times did the 45 bees roll balls in 18 days?",
+    "options": [
+     "45",
+     "100",
+     "910",
+     "18"
+    ],
+    "a": 2,
+    "why": "第三段。",
+    "evidence": "Over 18 days, 45 bees rolled balls 910 times."
+   },
+   {
+    "q": "Which bees rolled balls more?",
+    "options": [
+     "Older bees",
+     "Younger bees",
+     "Queen bees",
+     "Sick bees"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "Younger bees rolled balls more than older bees."
+   },
+   {
+    "q": "Did rolling the balls give the bees food?",
+    "options": [
+     "Yes, every time",
+     "No, it gave them no food or reward",
+     "Only on weekends",
+     "Only for male bees"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "The rolling did not give the bees food or any other reward."
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "According to biologists, when does play usually happen?",
+    "options": [
+     "When an animal is hungry",
+     "When an animal is relaxed rather than stressed",
+     "Only at night",
+     "When an animal is in danger"
+    ],
+    "a": 1,
+    "why": "第一段的定義。",
+    "evidence": "happens when an animal is relaxed rather than stressed"
+   },
+   {
+    "q": "Why was it important that the path to food was clear?",
+    "options": [
+     "Bees could reach the food without touching any balls",
+     "It made the bees faster",
+     "It saved money",
+     "It helped scientists clean the arena"
+    ],
+    "a": 0,
+    "why": "第二段最後一句。",
+    "evidence": "the bees could easily reach the food without touching any balls"
+   },
+   {
+    "q": "What did the coloured-room test suggest?",
+    "options": [
+     "Bees cannot see colours",
+     "Rolling balls was rewarding in itself",
+     "Bees prefer dark rooms",
+     "Bees were stressed"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "suggesting the activity was rewarding in itself"
+   },
+   {
+    "q": "What does the writer say the finding does NOT prove?",
+    "options": [
+     "That bees roll balls",
+     "That bees feel joy in the way humans do",
+     "That younger bees play more",
+     "That bees can find food"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "The finding does not prove that bees feel joy in the way humans do."
+   }
+  ],
+  "advanced": [
+   {
+    "q": "Which of the following is NOT one of the criteria for play listed in paragraph 1?",
+    "options": [
+     "It is not immediately functional",
+     "It is repeated without being rigidly stereotyped",
+     "It occurs when the animal is free from stress",
+     "It always involves other animals"
+    ],
+    "a": 3,
+    "why": "第一段列出的標準不包括「一定要和其他動物一起」。",
+    "evidence": "that it occur when the animal is free from stress"
+   },
+   {
+    "q": "Why did the varied durations and distances of rolls matter?",
+    "options": [
+     "They argued against a mechanical, stereotyped habit",
+     "They proved the bees were stressed",
+     "They showed the balls were broken",
+     "They measured the bees’ speed"
+    ],
+    "a": 0,
+    "why": "第三段最後一句。",
+    "evidence": "which argued against a mechanical, stereotyped habit"
+   },
+   {
+    "q": "Which alternative explanations did the authors rule out?",
+    "options": [
+     "Clutter clearing or attempted mating",
+     "Hunger and thirst",
+     "Cold weather",
+     "Disease"
+    ],
+    "a": 0,
+    "why": "第四段最後一句。",
+    "evidence": "rule out alternative explanations such as clutter clearing or attempted mating"
+   },
+   {
+    "q": "What assumption does the study challenge?",
+    "options": [
+     "That bees make honey",
+     "That insects are purely reflexive machines",
+     "That mammals play",
+     "That balls can roll"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "it challenges the assumption that insects are purely reflexive machines"
+   }
+  ]
+ },
+ "reflections": [
+  "What do you do “just for fun”? Why do you think play matters for humans — and maybe for other animals?",
+  "If insects can have positive experiences, should that change how we treat them? Give one example."
+ ],
+ "videos": [
+  {
+   "title": "Why I’m Building a Model of the Bee Brain",
+   "channel": "TEDxFulbrightSydney · Andrew Barron",
+   "url": "https://www.ted.com/talks/andrew_barron_why_i_m_building_a_model_of_the_bee_brain",
+   "kind": "TEDx",
+   "desc": "A scientist explains why the tiny bee brain can teach us about how brains work.",
+   "zh": "一位科學家解釋，為什麼小小的蜜蜂大腦能教我們大腦如何運作。",
+   "question": "What surprised you about what bee brains can do?"
+  },
+  {
+   "title": "Every city needs healthy honey bees",
+   "channel": "TEDxBoston · Noah Wilson-Rich",
+   "url": "https://www.ted.com/talks/noah_wilson_rich_every_city_needs_healthy_honey_bees",
+   "kind": "TEDx",
+   "desc": "A biologist on why bees matter to cities and what threatens them.",
+   "zh": "一位生物學家談蜜蜂對城市的重要性，以及牠們面臨的威脅。",
+   "question": "How could your school or neighbourhood help bees?"
+  }
+ ]
+}

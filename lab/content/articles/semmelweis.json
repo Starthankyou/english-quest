@@ -1,0 +1,456 @@
+{
+ "id": "semmelweis",
+ "category": "歷史與科學",
+ "title": "The Doctor Who Said “Wash Your Hands”",
+ "subtitle": "叫醫生洗手卻被嘲笑的醫生",
+ "source": "原創教學文章；史實依 Wikipedia〈Ignaz Semmelweis〉及 Keske（2025）醫學史回顧，2026-10-21 核對",
+ "sources": [
+  {
+   "title": "Wikipedia: Ignaz Semmelweis",
+   "url": "https://en.wikipedia.org/wiki/Ignaz_Semmelweis",
+   "accessed": "2026-10-21"
+  },
+  {
+   "title": "Keske, Ş. (2025). Ignaz Philip Semmelweis: The Tragic Pioneer of Hand Hygiene. Infectious Diseases & Clinical Microbiology, 7(2).",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12255899/",
+   "accessed": "2026-10-21"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "Two Clinics, One Mystery",
+   "paras": [
+    [
+     "Today, washing your hands before seeing a patient seems obvious. Every doctor and nurse does it. But less than two hundred years ago, many doctors did not wash their hands at all. One doctor tried to change this. His name was Ignaz Semmelweis, and his story is both inspiring and sad.",
+     "今天，看病人之前先洗手，似乎是理所當然的事，每位醫生和護理師都會這麼做。但在不到兩百年前，很多醫生根本不洗手。有一位醫生試圖改變這件事。他叫伊格納茲．塞麥爾維斯，他的故事既鼓舞人心，又令人難過。"
+    ],
+    [
+     "In the 1840s, Semmelweis worked at a large hospital in Vienna. The hospital had two clinics where women gave birth. In the first clinic, doctors and medical students cared for the mothers. In the second clinic, midwives did. Strangely, many more mothers died of a fever in the first clinic. Women even begged to go to the second clinic.",
+     "1840 年代，塞麥爾維斯在維也納一家大醫院工作。醫院有兩個產科病房：第一病房由醫生和醫學生照顧產婦，第二病房則由助產士照顧。奇怪的是，第一病房死於發燒的產婦多得多，婦女們甚至哀求要住進第二病房。"
+    ],
+    [
+     "In 1847, a friend of Semmelweis died after cutting his finger while studying a dead body. Semmelweis noticed that his friend had the same illness as the mothers. He had an idea. The doctors often went straight from studying dead bodies to helping mothers. Maybe they were carrying something deadly on their hands.",
+     "1847 年，塞麥爾維斯的一位朋友在解剖遺體時割傷手指，不久就過世了。塞麥爾維斯注意到，朋友得的病和那些產婦一樣。他想到一個點子：醫生們常常剛解剖完遺體，就直接去幫產婦接生。也許他們的手上帶著某種致命的東西。"
+    ],
+    [
+     "So he asked every doctor to wash their hands in a special chlorine solution before examining mothers. The results were amazing. The death rate in the first clinic fell from about 18 percent to less than 2 percent. His simple idea saved many lives.",
+     "於是他要求每位醫生在檢查產婦前，都用一種特別的含氯溶液洗手。結果非常驚人：第一病房的死亡率從大約 18% 降到不到 2%。他簡單的點子拯救了許多生命。"
+    ],
+    [
+     "But many doctors did not believe him. Some felt insulted, and some laughed at him. He could not explain why washing worked, because nobody knew about germs yet. Semmelweis died in 1865, sad and alone. Only years later did scientists prove that germs cause disease. Being right, it seems, is not always enough.",
+     "但很多醫生不相信他，有些人覺得被冒犯，有些人嘲笑他。他無法解釋為什麼洗手有效，因為當時還沒有人知道細菌的存在。塞麥爾維斯在 1865 年過世，孤單而悲傷。直到多年以後，科學家才證明細菌會導致疾病。看來，光是「對的」，並不一定足夠。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "The Doctor Who Said “Wash Your Hands”",
+   "paras": [
+    [
+     "Few medical habits seem as obvious today as washing your hands. Yet in the middle of the nineteenth century, the idea that a doctor’s hands could carry disease was considered not only unproven but insulting. The story of Ignaz Semmelweis, the Hungarian doctor who first showed the power of handwashing, is a lesson in how evidence can be ignored when it challenges people’s sense of who they are. It is also a reminder that saving lives sometimes depends as much on persuasion as on discovery.",
+     "如今，很少有醫療習慣像洗手這樣理所當然。然而在十九世紀中期，「醫生的手可能帶著疾病」這個想法，不只被認為沒有證據，甚至被認為是一種侮辱。伊格納茲．塞麥爾維斯——第一個證明洗手力量的匈牙利醫生——的故事告訴我們：當證據挑戰到人們對自我的認知時，它可能會被忽視。它也提醒我們：拯救生命，有時候既取決於發現，也同樣取決於說服。"
+    ],
+    [
+     "In 1846, Semmelweis began working at Vienna General Hospital, which ran two maternity clinics. The First Clinic was staffed by doctors and medical students; the Second by midwives. The difference in outcomes was shocking. The First Clinic had an average maternal death rate of about 10 percent, mostly from childbed fever, while the Second Clinic’s rate was under 4 percent. Women knew this, and many begged to be admitted to the Second Clinic.",
+     "1846 年，塞麥爾維斯開始在維也納總醫院工作，醫院設有兩個產科病房：第一病房由醫生和醫學生負責，第二病房由助產士負責。兩者的結果差距驚人：第一病房的產婦平均死亡率約為 10%，大多死於產褥熱；第二病房則低於 4%。婦女們都知道這件事，很多人哀求住進第二病房。"
+    ],
+    [
+     "The breakthrough came in 1847, when his friend Jakob Kolletschka died after being cut by a student’s scalpel during an autopsy. Kolletschka’s illness looked very similar to childbed fever. Semmelweis reasoned that doctors were carrying “cadaverous particles” on their hands from the autopsy room to the mothers they examined — something midwives, who did not perform autopsies, were not doing.",
+     "突破出現在 1847 年：他的朋友雅各布．科勒奇卡在解剖時被學生的手術刀割傷，隨後過世。科勒奇卡的病，看起來和產褥熱非常相似。塞麥爾維斯推論：醫生們把「屍體微粒」從解剖室帶到了他們檢查的產婦身上——而不做解剖的助產士，就沒有這個問題。"
+    ],
+    [
+     "He ordered staff to wash their hands in a solution of chlorinated lime before examining patients. The effect was dramatic. In April 1847, before the new rule, the death rate in the First Clinic was 18.3 percent. After handwashing began, it fell to under 2 percent and became comparable to that of the Second Clinic. A simple basin of disinfectant had achieved what years of debate had not.",
+     "他下令工作人員在檢查病人前，用含氯石灰溶液洗手。效果非常顯著：1847 年 4 月，新規定實施之前，第一病房的死亡率是 18.3%；開始洗手之後，降到不到 2%，和第二病房差不多。一盆簡單的消毒液，做到了多年爭論都做不到的事。"
+    ],
+    [
+     "Yet many colleagues rejected his findings. Some were offended by the suggestion that they were responsible for their patients’ deaths, and Semmelweis could not offer a scientific explanation, since germ theory had not yet been established. Increasingly isolated, he was committed to an asylum in 1865 and died two weeks later. His ideas were widely accepted only after Louis Pasteur and Joseph Lister showed how germs cause infection. Today, handwashing is one of the most basic rules of infection control in hospitals around the world.",
+     "然而，許多同事拒絕接受他的發現。有些人因為被暗示要為病人的死負責而感到被冒犯，而塞麥爾維斯也提不出科學解釋，因為當時細菌理論還沒有建立。他越來越孤立，1865 年被送進精神病院，兩週後過世。直到路易．巴斯德和約瑟夫．李斯特證明細菌如何造成感染之後，他的想法才被廣泛接受。如今，洗手是全世界醫院感染控制最基本的規定之一。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "When Evidence Is Not Enough",
+   "paras": [
+    [
+     "It is tempting to tell the history of science as a steady march of good ideas defeating bad ones. The case of Ignaz Semmelweis complicates that story. In the 1840s, he produced some of the clearest evidence in the history of medicine for a simple intervention that saved lives — and was largely ignored, mocked and eventually pushed out of his profession. His experience raises an uncomfortable question: why do sound findings sometimes fail to persuade?",
+     "我們很容易把科學史說成好想法穩定擊敗壞想法的進程。塞麥爾維斯的案例讓這個故事變得複雜。1840 年代，他為一項簡單、能救命的介入措施，提出了醫學史上最清楚的證據之一——卻在很大程度上被忽視、被嘲笑，最後被排擠出他的專業。他的經歷引出一個令人不安的問題：為什麼可靠的發現，有時卻無法說服人？"
+    ],
+    [
+     "At Vienna General Hospital, two maternity clinics operated side by side, creating what was in effect a natural experiment. The First Clinic, run by doctors and medical students, had an average maternal mortality of around 10 percent, largely from puerperal, or childbed, fever; the Second Clinic, staffed by midwives, averaged below 4 percent. The reputation of the First Clinic was so grim that women pleaded to be admitted to the Second. Because both clinics belonged to the same hospital in the same city, the striking gap between them could not easily be blamed on outside conditions; it demanded an explanation from within.",
+     "在維也納總醫院，兩個產科病房並排運作，實際上形成了一個「自然實驗」。由醫生和醫學生負責的第一病房，產婦平均死亡率約為 10%，大多死於產褥熱；由助產士負責的第二病房，平均則低於 4%。第一病房的名聲糟到婦女們懇求要住進第二病房。由於兩個病房屬於同一座城市的同一家醫院，它們之間驚人的差距很難歸咎於外在條件；答案必須從內部找。"
+    ],
+    [
+     "The decisive clue came in 1847, when Semmelweis’s colleague Jakob Kolletschka died after a scalpel wound sustained during a post-mortem examination, displaying symptoms strikingly similar to those of the dying mothers. Semmelweis concluded that doctors were transferring “cadaverous particles” from the autopsy room to the delivery ward. He instituted mandatory handwashing with chlorinated lime, and mortality in the First Clinic, which had stood at 18.3 percent in April 1847, fell to below 2 percent. In other words, a single procedural change, applied consistently, reduced deaths by roughly ninety percent within months.",
+     "決定性的線索出現在 1847 年：塞麥爾維斯的同事科勒奇卡在一次驗屍中被手術刀割傷後過世，他的症狀和垂死的產婦驚人地相似。塞麥爾維斯推斷，醫生們把「屍體微粒」從解剖室轉移到了產房。他強制規定用含氯石灰洗手，第一病房的死亡率從 1847 年 4 月的 18.3%，降到不到 2%。換句話說，一項始終如一執行的流程改變，在短短幾個月內讓死亡人數減少了大約九成。"
+    ],
+    [
+     "Why, then, was he not celebrated? Several factors converged. He lacked a theoretical mechanism, since the germ theory of disease had not yet been established. His conclusion implied that respected physicians were themselves the cause of their patients’ deaths — a deeply threatening message. And, by many accounts, his increasingly confrontational manner alienated potential allies. In 1865 he was committed to an asylum and died within weeks, probably of an infected wound. Recognition came only after Pasteur established germ theory and Lister pioneered antiseptic surgery. Each of these obstacles alone might have slowed acceptance; together, they proved nearly impossible to overcome in his lifetime.",
+     "那麼，他為什麼沒有受到推崇？好幾個因素交會在一起。他缺乏理論機制，因為疾病的細菌理論當時尚未建立。他的結論暗示，受人尊敬的醫師本身就是病人死亡的原因——這是一個極具威脅性的訊息。而且，根據許多記載，他越來越強硬對立的態度，也疏遠了可能的盟友。1865 年，他被送進精神病院，幾週內就過世，很可能死於傷口感染。直到巴斯德建立細菌理論、李斯特開創無菌手術之後，他才得到肯定。這些阻礙中的任何一個，單獨存在時或許只會讓接受過程變慢；但加在一起，在他有生之年幾乎無法克服。"
+    ],
+    [
+     "The term “Semmelweis reflex” is now sometimes used for the tendency to reject new evidence that contradicts established beliefs or professional self-image. The lesson cuts both ways. It warns institutions against dismissing inconvenient data, but it also reminds those with new ideas that evidence alone rarely changes minds; explanation, communication and trust matter as well. Being right, Semmelweis discovered at great personal cost, is not the same as being heard. Modern discussions of medical error, scientific peer review and public health communication still return to his case for this reason.",
+     "如今，「塞麥爾維斯反射」一詞有時被用來指一種傾向：拒絕與既有信念或專業自我形象相矛盾的新證據。這個教訓是雙向的。它警告體制不要忽視令人不便的數據，也提醒擁有新想法的人：光靠證據很少能改變人心；解釋、溝通和信任同樣重要。塞麥爾維斯付出了巨大的個人代價才明白：「說對了」和「被聽見」，是兩回事。正因如此，今天討論醫療疏失、科學同儕審查和公共衛生溝通時，仍不斷回到他的案例。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "hook",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "two-clinics",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "clue",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "handwashing",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "rejection",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "clinic",
+   "pos": "n.",
+   "meaning": "診所、病房",
+   "example": "She works at a children’s clinic.",
+   "family": "clinical (adj.)"
+  },
+  {
+   "w": "midwives",
+   "pos": "n.",
+   "meaning": "助產士（複數）",
+   "example": "Midwives help women give birth.",
+   "family": "midwife (sing.)"
+  },
+  {
+   "w": "fever",
+   "pos": "n.",
+   "meaning": "發燒",
+   "example": "He stayed home with a fever.",
+   "family": "feverish (adj.)"
+  },
+  {
+   "w": "solution",
+   "pos": "n.",
+   "meaning": "溶液；解決辦法",
+   "example": "Clean the cut with a salt solution.",
+   "family": "dissolve (v.)"
+  },
+  {
+   "w": "insulted",
+   "pos": "adj.",
+   "meaning": "受到侮辱的",
+   "example": "She felt insulted by his joke.",
+   "family": "insult (v./n.)"
+  },
+  {
+   "w": "germs",
+   "pos": "n.",
+   "meaning": "細菌、病菌",
+   "example": "Wash your hands to remove germs.",
+   "family": "germ (sing.)"
+  },
+  {
+   "w": "maternal",
+   "pos": "adj.",
+   "meaning": "母親的、產婦的",
+   "example": "Maternal health has improved worldwide.",
+   "family": "mother (n.)"
+  },
+  {
+   "w": "autopsy",
+   "pos": "n.",
+   "meaning": "驗屍、解剖",
+   "example": "An autopsy showed the cause of death.",
+   "family": "—"
+  },
+  {
+   "w": "dramatic",
+   "pos": "adj.",
+   "meaning": "劇烈的、顯著的",
+   "example": "There was a dramatic change in the weather.",
+   "family": "dramatically (adv.)"
+  },
+  {
+   "w": "rejected",
+   "pos": "v.",
+   "meaning": "拒絕（reject 的過去式）",
+   "example": "The company rejected his idea.",
+   "family": "rejection (n.)"
+  },
+  {
+   "w": "isolated",
+   "pos": "adj.",
+   "meaning": "孤立的",
+   "example": "He felt isolated at his new school.",
+   "family": "isolate (v.), isolation (n.)"
+  },
+  {
+   "w": "mortality",
+   "pos": "n.",
+   "meaning": "死亡率",
+   "example": "Infant mortality has fallen sharply.",
+   "family": "mortal (adj.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "laughed at",
+   "type": "phrase",
+   "meaning": "嘲笑（laugh at 的過去式）",
+   "usage": "laugh at sb／sth：嘲笑；不同於 laugh with（一起笑）。",
+   "example": "The other kids laughed at his idea.",
+   "writing": "Some people laughed at + N"
+  },
+  {
+   "phrase": "side by side",
+   "type": "phrase",
+   "meaning": "並排地、並存",
+   "usage": "副詞片語；也可比喻兩件事同時存在。",
+   "example": "The two shops stand side by side.",
+   "writing": "A and B operated side by side."
+  },
+  {
+   "phrase": "cuts both ways",
+   "type": "idiom",
+   "meaning": "（論點）兩方面都適用；雙面刃",
+   "usage": "an argument／lesson cuts both ways。",
+   "example": "Fame cuts both ways: it brings money and stress.",
+   "writing": "The lesson cuts both ways: ..."
+  },
+  {
+   "phrase": "in effect",
+   "type": "discourse_marker",
+   "meaning": "實際上",
+   "usage": "= in practice；放句中強調實質。",
+   "example": "The new rule is, in effect, a ban.",
+   "writing": "S + was, in effect, + N"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "Only + 時間副詞 + did + S + V",
+   "meaning": "直到……才……（倒裝）",
+   "example": "Only years later did scientists prove that germs cause disease.",
+   "tip": "Only 加時間副詞放句首時，主要子句要倒裝。"
+  },
+  {
+   "frame": "not only A but (even) B",
+   "meaning": "不只 A，甚至 B",
+   "example": "The idea was considered not only unproven but insulting.",
+   "tip": "A、B 詞性要對等（形容詞對形容詞）。"
+  },
+  {
+   "frame": "Why, then, + 倒裝疑問句?",
+   "meaning": "那麼，為什麼……？",
+   "example": "Why, then, was he not celebrated?",
+   "tip": "論說文中用來帶出下一段要回答的核心問題。"
+  },
+  {
+   "frame": "A is not the same as B",
+   "meaning": "A 不等於 B",
+   "example": "Being right is not the same as being heard.",
+   "tip": "動名詞當主詞時，兩邊結構要對等。"
+  }
+ ],
+ "quote": {
+  "text": "A new scientific truth does not generally triumph by persuading its opponents and getting them to admit their errors, but rather by its opponents gradually dying out and giving way to a new generation that is raised on it.",
+  "author": "Max Planck",
+  "work": "Scientific Autobiography and Other Papers (1949), tr. F. Gaynor",
+  "url": "https://en.wikiquote.org/wiki/Max_Planck"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "Who cared for the mothers in the first clinic?",
+    "options": [
+     "Midwives",
+     "Doctors and medical students",
+     "Nurses only",
+     "Family members"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "In the first clinic, doctors and medical students cared for the mothers."
+   },
+   {
+    "q": "What gave Semmelweis his idea?",
+    "options": [
+     "A book he read",
+     "His friend’s death after a cut during a study of a dead body",
+     "A letter from the queen",
+     "A dream"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "a friend of Semmelweis died after cutting his finger while studying a dead body"
+   },
+   {
+    "q": "What happened to the death rate after handwashing?",
+    "options": [
+     "It went up",
+     "It stayed the same",
+     "It fell from about 18 percent to less than 2 percent",
+     "It fell to zero"
+    ],
+    "a": 2,
+    "why": "第四段。",
+    "evidence": "The death rate in the first clinic fell from about 18 percent to less than 2 percent."
+   },
+   {
+    "q": "Why couldn’t Semmelweis explain why washing worked?",
+    "options": [
+     "He was too busy",
+     "Nobody knew about germs yet",
+     "He did not want to",
+     "His hospital closed"
+    ],
+    "a": 1,
+    "why": "第五段。",
+    "evidence": "nobody knew about germs yet"
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "What was the average maternal death rate in the First Clinic?",
+    "options": [
+     "About 4 percent",
+     "About 10 percent",
+     "About 18 percent",
+     "About 2 percent"
+    ],
+    "a": 1,
+    "why": "第二段：第一病房約 10%，第二病房低於 4%。",
+    "evidence": "The First Clinic had an average maternal death rate of about 10 percent"
+   },
+   {
+    "q": "Why did midwives not have the same problem, according to Semmelweis?",
+    "options": [
+     "They washed with soap",
+     "They did not perform autopsies",
+     "They had fewer patients",
+     "They worked at night"
+    ],
+    "a": 1,
+    "why": "第三段最後。",
+    "evidence": "something midwives, who did not perform autopsies, were not doing"
+   },
+   {
+    "q": "What was the death rate in April 1847, before the new rule?",
+    "options": [
+     "2 percent",
+     "4 percent",
+     "10 percent",
+     "18.3 percent"
+    ],
+    "a": 3,
+    "why": "第四段。",
+    "evidence": "In April 1847, before the new rule, the death rate in the First Clinic was 18.3 percent."
+   },
+   {
+    "q": "Why were some colleagues offended?",
+    "options": [
+     "Semmelweis suggested they were responsible for patients’ deaths",
+     "He was younger than them",
+     "He refused to work",
+     "He wanted more money"
+    ],
+    "a": 0,
+    "why": "第五段。",
+    "evidence": "Some were offended by the suggestion that they were responsible for their patients’ deaths"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "Why does the writer call the two clinics “a natural experiment”?",
+    "options": [
+     "They operated side by side with different staff and different outcomes",
+     "They were built in nature",
+     "They were designed by scientists",
+     "They used the same doctors"
+    ],
+    "a": 0,
+    "why": "第二段：兩個病房並排運作，人員不同、結果不同。",
+    "evidence": "two maternity clinics operated side by side, creating what was in effect a natural experiment"
+   },
+   {
+    "q": "Which factor is NOT mentioned as a reason Semmelweis was not celebrated?",
+    "options": [
+     "He lacked a theoretical mechanism",
+     "His conclusion threatened respected physicians",
+     "His manner alienated potential allies",
+     "His data were proven false"
+    ],
+    "a": 3,
+    "why": "第四段列出前三個原因；數據從未被證明是錯的。",
+    "evidence": "He lacked a theoretical mechanism"
+   },
+   {
+    "q": "What does the “Semmelweis reflex” refer to?",
+    "options": [
+     "A medical test for fever",
+     "The tendency to reject new evidence that contradicts established beliefs",
+     "A handwashing technique",
+     "A type of reflex in newborns"
+    ],
+    "a": 1,
+    "why": "最後一段定義。",
+    "evidence": "the tendency to reject new evidence that contradicts established beliefs or professional self-image"
+   },
+   {
+    "q": "In what sense does the lesson “cut both ways”?",
+    "options": [
+     "It warns institutions and also reminds innovators that evidence alone rarely changes minds",
+     "It applies only to doctors",
+     "It shows handwashing is harmful",
+     "It proves Semmelweis was wrong"
+    ],
+    "a": 0,
+    "why": "最後一段說明了兩面的教訓。",
+    "evidence": "It warns institutions against dismissing inconvenient data, but it also reminds those with new ideas that evidence alone rarely changes minds"
+   }
+  ]
+ },
+ "reflections": [
+  "Have you ever had a good idea that others did not accept at first? What would have helped them listen?",
+  "Why do you think it is hard for experts to accept evidence that they themselves may be part of a problem?"
+ ],
+ "videos": [
+  {
+   "title": "The surprising history of hand-washing",
+   "channel": "YouTube · BBC REEL",
+   "url": "https://www.youtube.com/watch?v=w04gTXu1mHM",
+   "kind": "YouTube",
+   "desc": "A short documentary on Ignaz Semmelweis and how hand-washing became part of medicine.",
+   "zh": "短片：塞麥爾維斯的故事，以及洗手如何成為醫療的一部分。",
+   "question": "Which part of the story surprised you most?"
+  },
+  {
+   "title": "The Dark Side of Science [The Sad Story of Dr Semmelweis]",
+   "channel": "YouTube · Sprouts",
+   "url": "https://www.youtube.com/watch?v=zt6gPKtxMro",
+   "kind": "YouTube",
+   "desc": "An animated retelling of why Semmelweis’s discovery was rejected.",
+   "zh": "動畫重述：為什麼塞麥爾維斯的發現會被拒絕。",
+   "question": "What could Semmelweis have done differently to persuade others?"
+  }
+ ]
+}

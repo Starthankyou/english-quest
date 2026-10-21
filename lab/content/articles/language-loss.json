@@ -1,0 +1,456 @@
+{
+ "id": "language-loss",
+ "category": "語言與文化",
+ "title": "When a Language Disappears",
+ "subtitle": "當一種語言消失",
+ "source": "原創教學文章；內容依 UNESCO《Atlas of the World’s Languages in Danger》（2010）及台灣原住民族語言相關資料，2026-10-21 核對",
+ "sources": [
+  {
+   "title": "UNESCO (2010). Atlas of the World’s Languages in Danger, 3rd edition.",
+   "url": "https://unesdoc.unesco.org/ark:/48223/pf0000187026",
+   "accessed": "2026-10-21"
+  },
+  {
+   "title": "Taiwan.md: Taiwan’s Indigenous Language Revitalization Movement",
+   "url": "https://taiwan.md/en/culture/indigenous-language-revitalization-movement/",
+   "accessed": "2026-10-21"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "The Last Speaker",
+   "paras": [
+    [
+     "Imagine you are the last person in the world who speaks your language. You can still think in it and dream in it. But there is nobody left to talk to. When you are gone, the language will be gone too. For some people in the world, this is not imagination. It is real.",
+     "想像你是世界上最後一個會說你的語言的人。你還能用它思考、用它做夢，卻再也沒有人可以跟你說話。當你離開時，這個語言也會跟著消失。對世界上某些人來說，這不是想像，而是真實的處境。"
+    ],
+    [
+     "UNESCO, an international organization for education and culture, keeps a list of languages in danger. A language is in danger when children no longer learn it at home. If only grandparents speak it, the danger is even greater. Parents may choose a bigger language for their children because they think it will help them find good jobs.",
+     "聯合國教科文組織是一個關注教育與文化的國際組織，它整理了一份瀕危語言的清單。當孩子不再在家裡學習某種語言時，這個語言就陷入了危險；如果只剩祖父母那一輩在說，危險就更大了。父母可能會讓孩子學比較大的語言，因為覺得那能幫助孩子找到好工作。"
+    ],
+    [
+     "Taiwan has many indigenous languages, and some of them are in serious danger. In 2010, UNESCO described six of them as critically endangered. One of them, Pazeh, had only one speaker left at that time. Other languages in Taiwan, such as Thao and Kavalan, also have very few speakers today.",
+     "台灣有許多原住民族語言，其中有些正面臨嚴重的危機。2010 年，聯合國教科文組織把其中六種列為「極度瀕危」。其中的巴宰語，當時只剩下一位使用者。台灣的其他語言，例如邵語和噶瑪蘭語，今天的使用者也非常少。"
+    ],
+    [
+     "Why does this matter? A language is more than a list of words. It holds songs, stories, jokes and special ways of seeing the world. Some languages have words for plants, places or feelings that other languages do not have. When a language disappears, all of this can be lost. Old people often know names for things that young people have never learned.",
+     "為什麼這很重要？一種語言不只是一串單字。它承載著歌謠、故事、笑話，還有看待世界的特別方式。有些語言裡，有其他語言沒有的、描述植物、地方或感受的字。當一種語言消失時，這一切都可能跟著失去。長輩常常知道一些年輕人從沒學過的事物名稱。"
+    ],
+    [
+     "But languages can also come back. People record elders, write dictionaries, and teach children in schools. In 2017, Taiwan passed a law that recognized indigenous languages as national languages. Every time someone learns a few words, a language becomes a little stronger. You do not need to be an expert to help. Asking a grandparent to teach you one word is a good start.",
+     "但語言也可能回來。人們為長輩錄音、編寫字典，在學校裡教孩子。2017 年，台灣通過一部法律，承認原住民族語言是國家語言。每當有人學會幾個字，一種語言就變得更堅強一點。你不需要是專家也能幫忙。請祖父母教你一個字，就是很好的開始。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "When a Language Disappears",
+   "paras": [
+    [
+     "Languages are usually thought of as tools for communication, but they are also records of human history. Each one carries a community’s knowledge, humour, songs and ways of describing the world. When a language stops being spoken, much of that knowledge can vanish with it — often quietly, without anyone noticing until it is too late. A song that is never sung again, or a story that is never retold, cannot easily be recovered.",
+     "語言通常被當成溝通的工具，但它們也是人類歷史的紀錄。每一種語言都承載著一個群體的知識、幽默、歌謠，以及描述世界的方式。當一種語言不再有人說，這些知識有很多可能會隨之消失——往往悄無聲息，直到為時已晚才有人發覺。一首再也沒人唱的歌、一個再也沒人講的故事，都很難再找回來。"
+    ],
+    [
+     "To track this problem, UNESCO publishes the Atlas of the World’s Languages in Danger. It places languages on a scale. A language is “definitely endangered” when children no longer learn it as their mother tongue at home, and “severely endangered” when it is spoken mostly by the grandparents’ generation and older. Beyond that lie “critically endangered” and finally “extinct”.",
+     "為了追蹤這個問題，聯合國教科文組織出版了《世界瀕危語言地圖集》。它把語言放在一個等級上：當孩子不再把某種語言當作母語在家裡學習時，它就是「明確瀕危」；當它主要只由祖父母那一代及更年長的人使用時，就是「嚴重瀕危」。再往後是「極度瀕危」，最後是「滅絕」。"
+    ],
+    [
+     "Taiwan offers a clear example. Many Austronesian languages are spoken on the island, and the 2010 edition of the Atlas described six of them as critically endangered, with speaker numbers ranging from a few dozen down to just one — the last known speaker of Pazeh. Other languages, such as Kavalan and Thao, have survived with only small numbers of speakers. For many families, the shift happened within one or two generations, as children grew up speaking Mandarin at school and at home.",
+     "台灣就是一個清楚的例子。島上使用著許多南島語言，而 2010 年版的地圖集把其中六種列為極度瀕危，使用人數從幾十人到只剩一人不等——後者就是巴宰語已知的最後一位使用者。其他語言，如噶瑪蘭語和邵語，也只靠少數使用者延續下來。對許多家庭來說，這個轉變只發生在一兩代之間：孩子在學校和家裡都說華語長大。"
+    ],
+    [
+     "Language loss is not only a Taiwanese story. In Europe, the last first-language speaker of Manx, on the Isle of Man, died in 1974, and the last first-language speaker of Livonian died in 2009. Yet in both cases the story did not simply end: Livonian, for instance, continues to be learned as a second language by people determined to keep it alive. These examples show that even when the last native speaker is gone, interest in a language can remain.",
+     "語言流失不只是台灣的故事。在歐洲，曼島上最後一位以曼島語為母語的人在 1974 年過世；最後一位以利沃尼亞語為母語的人則在 2009 年過世。然而，在這兩個例子中，故事並沒有就此結束：以利沃尼亞語為例，仍有決心讓它延續的人，把它當作第二語言學習。這些例子顯示，即使最後一位母語者離開了，人們對一種語言的關注仍可能延續。"
+    ],
+    [
+     "Reviving a language requires effort from many directions: recording elders, creating dictionaries and teaching materials, and giving the language a place in schools, media and public life. In 2017, Taiwan passed the Indigenous Languages Development Act, which recognised indigenous languages as national languages. Laws alone cannot save a language — only speakers can — but they can make it easier for the next generation to choose to learn. Young people who learn even a little of their grandparents’ language become part of that effort.",
+     "復振一種語言，需要多方面的努力：為長輩錄音、編寫字典和教材，讓這種語言在學校、媒體和公共生活中占有一席之地。2017 年，台灣通過《原住民族語言發展法》，承認原住民族語言為國家語言。光靠法律救不了一種語言——只有使用者才能——但法律能讓下一代更容易選擇去學習它。即使只學會一點點祖父母語言的年輕人，也成了這份努力的一部分。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "The Silence After the Last Speaker",
+   "paras": [
+    [
+     "We rarely think of languages as fragile. They seem as permanent as the landscapes in which they are spoken. Yet a language survives only as long as people choose to pass it on, and that choice can quietly disappear within a few generations. When parents decide — often for understandable economic or social reasons — that their children will be better off speaking a dominant language, a chain of transmission that may have lasted for thousands of years can break in a single household.",
+     "我們很少把語言想成脆弱的東西，它們看起來就像說著它們的那片土地一樣恆久。然而，一種語言只有在人們選擇傳承它時才能存活，而這個選擇，可能在短短幾代人之內就悄悄消失。當父母決定——往往出於可以理解的經濟或社會原因——孩子說主流語言會比較有前途時，一條可能延續了數千年的傳承鏈，就可能在一個家庭裡斷裂。"
+    ],
+    [
+     "UNESCO’s Atlas of the World’s Languages in Danger captures this process through a scale of vitality. A language becomes “definitely endangered” when children no longer learn it as a mother tongue at home, and “severely endangered” when it is used mostly by the grandparental generation and up. The scale is useful precisely because it focuses not on the number of speakers but on transmission: a language with many elderly speakers and no young ones is already in decline. Numbers alone can therefore be misleading: a language with several thousand speakers may be in greater danger than one with far fewer, if the latter is still spoken by children.",
+     "聯合國教科文組織的《世界瀕危語言地圖集》用一個「活力等級」來描述這個過程。當孩子不再把某種語言當作母語在家裡學習，它就成為「明確瀕危」；當它主要由祖父母那一代及以上的人使用，就是「嚴重瀕危」。這個等級之所以有用，正是因為它關注的不是使用人數，而是傳承：一種有許多年長使用者、卻沒有年輕使用者的語言，其實已經在衰退了。因此，光看人數可能會誤導：一種有數千名使用者的語言，如果孩子已經不說了，可能比一種使用者少得多、但孩子仍在說的語言更危險。"
+    ],
+    [
+     "Taiwan, home to many Austronesian languages, illustrates the stakes. The 2010 edition of the Atlas reported that six of its indigenous languages were critically endangered, with speaker numbers ranging from the low twenties down to a single speaker of Pazeh. Elsewhere, the Atlas records the deaths of the last first-language speakers of Manx in 1974 and of Livonian in 2009. Each such moment marks the end not of a word list but of a living system of thought, humour and memory.",
+     "擁有眾多南島語言的台灣，正說明了其中的利害。2010 年版的地圖集指出，台灣有六種原住民族語言屬於極度瀕危，使用人數從二十出頭一路降到巴宰語的唯一一位使用者。在其他地方，地圖集也記錄了曼島語最後一位母語者於 1974 年過世，以及利沃尼亞語最後一位母語者於 2009 年過世。每一個這樣的時刻，結束的都不只是一份單字表，而是一個由思想、幽默和記憶構成的活系統。"
+    ],
+    [
+     "Extinction, however, is not always the end of the story. Livonian, according to the Atlas, continues to be cultivated as a second language. Revitalisation efforts around the world combine documentation — recording elders, compiling dictionaries — with renewed transmission through schools, broadcasting and digital media. Taiwan’s Indigenous Languages Development Act of 2017, which recognised indigenous languages as national languages, reflects a shift from viewing such languages as relics to treating them as part of the nation’s shared heritage. The emphasis on transmission explains why such efforts so often begin with children, whether in immersion classrooms or in family homes.",
+     "然而，滅絕不一定是故事的終點。根據地圖集，利沃尼亞語仍被當作第二語言持續傳習。世界各地的語言復振工作，結合了紀錄——為長輩錄音、編纂字典——以及透過學校、廣播和數位媒體重新展開的傳承。台灣 2017 年的《原住民族語言發展法》承認原住民族語言為國家語言，反映了一種轉變：不再把這些語言視為遺跡，而是當作國家共同遺產的一部分。正因為重視傳承，這類努力常常從孩子開始，無論是在沉浸式課堂，還是在家裡。"
+    ],
+    [
+     "For learners of English, a global language with hundreds of millions of speakers, this subject offers an unexpected lesson. The same forces that make English useful can also crowd out smaller languages. Learning a dominant language need not mean abandoning one’s own; many of the world’s people live comfortably in two or more. Perhaps the healthiest attitude is to treat every language — the one we study and the ones we inherited — as a way of seeing that the world would be poorer without. In that sense, every learner stands at a crossroads between languages, with the power to strengthen more than one.",
+     "對學英文的人來說——英文是一種擁有數億使用者的全球語言——這個主題帶來一個出人意料的啟示：讓英文變得有用的那些力量，也可能排擠較小的語言。學習主流語言，並不代表必須放棄自己的語言；世界上很多人都能自在地生活在兩種或更多語言之中。也許最健康的態度，是把每一種語言——我們正在學的，以及我們繼承的——都當作一種看世界的方式，而少了它，世界就會變得更貧乏。從這個意義上說，每一位學習者都站在語言之間的十字路口，擁有讓不只一種語言變得更堅強的力量。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "hook",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "endangered-scale",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "taiwan",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "why-it-matters",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "revival",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "indigenous",
+   "pos": "adj.",
+   "meaning": "原住民的、本土的",
+   "example": "Taiwan has sixteen recognised indigenous peoples.",
+   "family": "—"
+  },
+  {
+   "w": "endangered",
+   "pos": "adj.",
+   "meaning": "瀕臨危險的、瀕危的",
+   "example": "The tiger is an endangered animal.",
+   "family": "endanger (v.)"
+  },
+  {
+   "w": "generation",
+   "pos": "n.",
+   "meaning": "世代、一代人",
+   "example": "My grandparents’ generation grew up without phones.",
+   "family": "generate (v.)"
+  },
+  {
+   "w": "recognized",
+   "pos": "v.",
+   "meaning": "承認（recognize 的過去式）",
+   "example": "The country recognized the new law.",
+   "family": "recognition (n.)"
+  },
+  {
+   "w": "vanish",
+   "pos": "v.",
+   "meaning": "消失",
+   "example": "The sun vanished behind the clouds.",
+   "family": "—"
+  },
+  {
+   "w": "extinct",
+   "pos": "adj.",
+   "meaning": "滅絕的",
+   "example": "Dinosaurs are extinct.",
+   "family": "extinction (n.)"
+  },
+  {
+   "w": "revitalisation",
+   "pos": "n.",
+   "meaning": "復振、重振（美式 revitalization）",
+   "example": "Language revitalisation needs young learners.",
+   "family": "revitalise (v.)"
+  },
+  {
+   "w": "transmission",
+   "pos": "n.",
+   "meaning": "傳承、傳遞",
+   "example": "Family transmission keeps a language alive.",
+   "family": "transmit (v.)"
+  },
+  {
+   "w": "dominant",
+   "pos": "adj.",
+   "meaning": "主流的、占優勢的",
+   "example": "English is a dominant language online.",
+   "family": "dominate (v.)"
+  },
+  {
+   "w": "heritage",
+   "pos": "n.",
+   "meaning": "遺產、傳承",
+   "example": "Language is part of our cultural heritage.",
+   "family": "inherit (v.)"
+  },
+  {
+   "w": "fragile",
+   "pos": "adj.",
+   "meaning": "脆弱的",
+   "example": "Be careful — the glass is fragile.",
+   "family": "fragility (n.)"
+  },
+  {
+   "w": "vitality",
+   "pos": "n.",
+   "meaning": "活力、生命力",
+   "example": "The city is full of vitality.",
+   "family": "vital (adj.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "pass it on",
+   "type": "phrase",
+   "meaning": "傳下去",
+   "usage": "pass sth on (to sb)：把某物傳給他人。",
+   "example": "If you finish the book, pass it on to a friend.",
+   "writing": "S + choose(s) to pass it on"
+  },
+  {
+   "phrase": "better off",
+   "type": "phrase",
+   "meaning": "（處境）比較好",
+   "usage": "be better off + V-ing／without sth。",
+   "example": "You are better off taking the train.",
+   "writing": "S + will be better off + V-ing"
+  },
+  {
+   "phrase": "crowd out",
+   "type": "phrase",
+   "meaning": "排擠",
+   "usage": "crowd out sth／sb：使沒有空間。",
+   "example": "Big shops can crowd out small businesses.",
+   "writing": "A can crowd out B."
+  },
+  {
+   "phrase": "too late",
+   "type": "phrase",
+   "meaning": "太晚",
+   "usage": "until it is too late（直到為時已晚）。",
+   "example": "We didn’t notice the problem until it was too late.",
+   "writing": "..., until it is too late."
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "A is more than + N",
+   "meaning": "A 不只是……",
+   "example": "A language is more than a list of words.",
+   "tip": "用來擴大一個概念的意義。"
+  },
+  {
+   "frame": "A ..., and B ... when + 子句",
+   "meaning": "當……時，A 是……；當……時，B 是……",
+   "example": "A language is “definitely endangered” when children no longer learn it, and “severely endangered” when it is spoken mostly by grandparents.",
+   "tip": "用平行結構說明分類標準。"
+  },
+  {
+   "frame": "A alone cannot + V — only B can — but A can + V",
+   "meaning": "光靠 A 做不到……只有 B 能……但 A 能……",
+   "example": "Laws alone cannot save a language — only speakers can — but they can make it easier ...",
+   "tip": "先承認限制，再指出價值的平衡句型。"
+  },
+  {
+   "frame": "need not + V",
+   "meaning": "不一定要……",
+   "example": "Learning a dominant language need not mean abandoning one’s own.",
+   "tip": "正式寫法，= does not have to。"
+  }
+ ],
+ "quote": {
+  "text": "The limits of my language mean the limits of my world.",
+  "author": "Ludwig Wittgenstein",
+  "work": "Tractatus Logico-Philosophicus (1922), 5.6（C. K. Ogden 英譯）",
+  "url": "https://en.wikiquote.org/wiki/Ludwig_Wittgenstein"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "When is a language in danger, according to UNESCO?",
+    "options": [
+     "When it has no dictionary",
+     "When children no longer learn it at home",
+     "When it is difficult",
+     "When it is spoken on TV"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "A language is in danger when children no longer learn it at home."
+   },
+   {
+    "q": "How many speakers did Pazeh have in 2010?",
+    "options": [
+     "One",
+     "Six",
+     "Twenty",
+     "One hundred"
+    ],
+    "a": 0,
+    "why": "第三段。",
+    "evidence": "had only one speaker left at that time"
+   },
+   {
+    "q": "According to the writer, what does a language hold?",
+    "options": [
+     "Only words",
+     "Songs, stories, jokes and ways of seeing the world",
+     "Only grammar rules",
+     "Money"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "It holds songs, stories, jokes and special ways of seeing the world."
+   },
+   {
+    "q": "What did Taiwan do in 2017?",
+    "options": [
+     "Closed indigenous schools",
+     "Passed a law recognizing indigenous languages as national languages",
+     "Banned English",
+     "Created a new language"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "In 2017, Taiwan passed a law that recognized indigenous languages as national languages."
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "Besides communication, what are languages described as?",
+    "options": [
+     "Records of human history",
+     "Mathematical systems",
+     "Government tools",
+     "Computer codes"
+    ],
+    "a": 0,
+    "why": "第一段。",
+    "evidence": "they are also records of human history"
+   },
+   {
+    "q": "When is a language “severely endangered”?",
+    "options": [
+     "When it is spoken mostly by the grandparents’ generation and older",
+     "When it has no written form",
+     "When it is spoken in only one city",
+     "When it has fewer than 1,000 words"
+    ],
+    "a": 0,
+    "why": "第二段。",
+    "evidence": "“severely endangered” when it is spoken mostly by the grandparents’ generation and older"
+   },
+   {
+    "q": "What happened to Livonian after its last first-language speaker died?",
+    "options": [
+     "It was forgotten completely",
+     "It continues to be learned as a second language",
+     "It became the official language of Europe",
+     "It was replaced by Manx"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "Livonian, for instance, continues to be learned as a second language"
+   },
+   {
+    "q": "What does the writer say about laws and language survival?",
+    "options": [
+     "Laws alone can save a language",
+     "Laws alone cannot save a language, but they can help",
+     "Laws make languages disappear",
+     "Laws are unrelated to language"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "Laws alone cannot save a language — only speakers can — but they can make it easier for the next generation to choose to learn."
+   }
+  ],
+  "advanced": [
+   {
+    "q": "According to the first paragraph, how can a chain of transmission break?",
+    "options": [
+     "Through war only",
+     "When parents decide their children should speak a dominant language",
+     "When dictionaries are lost",
+     "When schools close"
+    ],
+    "a": 1,
+    "why": "第一段：父母決定孩子說主流語言較有前途時。",
+    "evidence": "When parents decide — often for understandable economic or social reasons — that their children will be better off speaking a dominant language"
+   },
+   {
+    "q": "Why is UNESCO’s scale useful, according to the writer?",
+    "options": [
+     "It counts every speaker exactly",
+     "It focuses on transmission rather than the number of speakers",
+     "It ranks languages by beauty",
+     "It predicts which languages will become global"
+    ],
+    "a": 1,
+    "why": "第二段最後一句。",
+    "evidence": "it focuses not on the number of speakers but on transmission"
+   },
+   {
+    "q": "What does the writer say ends when a last speaker dies?",
+    "options": [
+     "Only a word list",
+     "A living system of thought, humour and memory",
+     "A government program",
+     "A dictionary project"
+    ],
+    "a": 1,
+    "why": "第三段最後一句。",
+    "evidence": "Each such moment marks the end not of a word list but of a living system of thought, humour and memory."
+   },
+   {
+    "q": "What “unexpected lesson” does the final paragraph offer English learners?",
+    "options": [
+     "English is not useful",
+     "The forces that make English useful can also crowd out smaller languages",
+     "People should only speak one language",
+     "Learning English is impossible"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "The same forces that make English useful can also crowd out smaller languages."
+   }
+  ]
+ },
+ "reflections": [
+  "What languages or dialects are spoken in your family? Which ones are you learning, and which ones might you lose?",
+  "If you could help save one endangered language, what would you do first?"
+ ],
+ "videos": [
+  {
+   "title": "How to save a language from extinction",
+   "channel": "TED · Daniel Bögre Udell (TED Residency)",
+   "url": "https://www.ted.com/talks/daniel_bogre_udell_how_to_save_a_language_from_extinction",
+   "kind": "TED",
+   "desc": "A language activist on how communities and technology can help keep endangered languages alive.",
+   "zh": "一位語言運動者談社群和科技如何幫助瀕危語言延續。",
+   "question": "Which of his ideas could help an indigenous language in Taiwan?"
+  },
+  {
+   "title": "Losing a language means losing part of humanity and history",
+   "channel": "TEDxGreensboro · Anna Luisa Daigneault",
+   "url": "https://www.ted.com/talks/anna_luisa_daigneault_losing_a_language_means_losing_part_of_humanity_and_history",
+   "kind": "TEDx",
+   "desc": "Why the loss of any language is a loss for all of humanity.",
+   "zh": "為什麼任何一種語言的消失，都是全人類的損失。",
+   "question": "Do you agree that losing a language means losing part of history? Why?"
+  }
+ ]
+}

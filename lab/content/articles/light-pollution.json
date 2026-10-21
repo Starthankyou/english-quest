@@ -1,0 +1,456 @@
+{
+ "id": "light-pollution",
+ "category": "環境與天文",
+ "title": "Where Did the Stars Go?",
+ "subtitle": "星星去哪了？光害讓夜空變亮",
+ "source": "原創教學文章；研究內容依 Kyba et al.（2023）Science 原始論文及作者訪談報導，2026-10-21 核對",
+ "sources": [
+  {
+   "title": "Kyba, C. C. M., Altıntaş, Y. Ö., Walker, C. E., & Newhouse, M. (2023). Citizen scientists report global rapid reductions in the visibility of stars from 2011 to 2022. Science, 379(6629).",
+   "url": "https://doi.org/10.1126/science.abq7781",
+   "accessed": "2026-10-21"
+  },
+  {
+   "title": "SpaceNews (2023-01-20). The visibility of stars in the night sky has declined faster than previously thought.",
+   "url": "https://spacenews.com/the-visibility-of-stars-in-the-night-sky-has-declined-faster-than-previously-thought/",
+   "accessed": "2026-10-21"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "Counting Stars",
+   "paras": [
+    [
+     "Go outside on a clear night and look up. How many stars can you see? If you live in a city, maybe only a few. Your grandparents may remember a sky full of stars. Where did they go? The stars are still there. The problem is the light we make at night.",
+     "在晴朗的夜晚走到戶外，抬頭看看，你能看到幾顆星星？如果你住在城市裡，也許只有幾顆。你的祖父母可能還記得滿天星斗的夜空。星星都去哪了？它們其實還在那裡，問題出在我們夜裡製造的光。"
+    ],
+    [
+     "Streetlights, signs, buildings and screens all send light into the sky. This light makes the night sky brighter, so faint stars disappear. Scientists call this light pollution. To measure it, they asked ordinary people around the world for help. This kind of pollution does not make the air dirty, but it hides the sky from us.",
+     "路燈、招牌、建築和螢幕，都把光送進天空。這些光讓夜空變亮，於是比較暗的星星就看不見了。科學家稱之為「光害」。為了測量光害，他們請全世界的一般民眾幫忙。這種污染不會讓空氣變髒，卻把天空藏了起來。"
+    ],
+    [
+     "In a project called Globe at Night, people looked at the sky and compared it with star maps. Then they reported how many stars they could see. Between 2011 and 2022, people sent in more than 51,000 reports. Scientists studied these reports and published the results in 2023. You do not need a telescope to take part. You only need your eyes and a clear night.",
+     "在一個叫做「Globe at Night（全球夜空觀測）」的計畫裡，人們看著天空，對照星圖，再回報自己看得到多少星星。從 2011 年到 2022 年，民眾送出了超過 51,000 筆回報。科學家分析了這些回報，並在 2023 年發表了結果。參加這個計畫不需要望遠鏡，只需要你的眼睛和一個晴朗的夜晚。"
+    ],
+    [
+     "The results were surprising. On average, the night sky got brighter by almost 10 percent every year. If this continues, a child born in a place where 250 stars are visible may see only about 100 stars there on their 18th birthday. This change was much faster than scientists had expected.",
+     "結果令人驚訝：平均來說，夜空每年變亮將近 10%。如果這個趨勢持續下去，一個在看得到 250 顆星星的地方出生的孩子，到了 18 歲生日時，在那裡可能只看得到大約 100 顆。這個變化比科學家預期的快得多。"
+    ],
+    [
+     "The good news is that light pollution is easy to reduce. We can turn off lights we do not need, point lights down instead of up, and use warmer, softer colors. Unlike many other kinds of pollution, light pollution disappears the moment we switch it off. Even small changes at home, like closing the curtains at night, can help.",
+     "好消息是，光害很容易減少。我們可以關掉不需要的燈，讓燈光往下照而不是往上照，並使用比較溫暖、柔和的顏色。和許多其他污染不同，光害在我們關燈的那一刻就消失了。即使是在家裡的小改變，像是晚上拉上窗簾，也能有幫助。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "Where Did the Stars Go?",
+   "paras": [
+    [
+     "For most of human history, people could look up at night and see thousands of stars and the band of the Milky Way. Today, many people live under skies so bright that the Milky Way is invisible. The stars have not gone anywhere. What has changed is the amount of artificial light we send into the sky.",
+     "在人類歷史的大部分時間裡，人們在夜晚抬頭就能看到成千上萬顆星星，以及銀河那條光帶。如今，很多人生活在明亮到看不見銀河的夜空下。星星哪裡都沒去，改變的是我們送上天空的人造光。"
+    ],
+    [
+     "This glow, known as skyglow, is a form of light pollution. It is difficult to measure accurately, partly because the satellites that photograph Earth at night do not detect all types of light equally well. To get a more complete picture, scientists turned to citizen science. Instead of relying only on machines, they asked people to use their own eyes.",
+     "這種光暈叫做「天空輝光」，是光害的一種形式。它很難準確測量，部分原因是在夜間拍攝地球的衛星，並不是對所有種類的光都同樣敏感。為了得到更完整的圖像，科學家求助於公民科學。他們不只依賴機器，而是請人們用自己的眼睛觀察。"
+    ],
+    [
+     "Through a project called Globe at Night, volunteers around the world compared the night sky with a series of star charts and recorded which one matched what they could see. In a study published in Science in 2023, Christopher Kyba and his colleagues analysed 51,351 of these observations, collected between 2011 and 2022. Each report was simple, but together they formed a valuable record covering many countries and many years.",
+     "透過一個叫做「Globe at Night」的計畫，世界各地的志工把夜空和一系列星圖做比較，記下哪一張最符合自己看到的景象。在 2023 年發表於《科學》期刊的研究中，克里斯多福．凱巴與同事分析了 2011 到 2022 年間蒐集的 51,351 筆觀測資料。每一筆回報都很簡單，但加在一起，就形成了一份涵蓋許多國家、許多年份的寶貴紀錄。"
+    ],
+    [
+     "The decline in visible stars suggested that the sky was brightening by 9.6 percent per year on average — fast enough to double the brightness in about eight years. Kyba explained what this means: if the trend continued, a child born where 250 stars were visible would be able to see only about 100 there by their 18th birthday. The rate was much faster than satellite measurements had suggested, possibly because of the switch to white LED lights, which satellites cannot fully detect. For people who love the night sky, it was a worrying result.",
+     "可見星星的減少顯示，夜空平均每年變亮 9.6%——快到大約八年就會亮一倍。凱巴解釋這代表什麼：如果這個趨勢持續，一個在看得到 250 顆星的地方出生的孩子，到 18 歲生日時，在那裡只能看到大約 100 顆。這個速度遠比衛星測量所顯示的快，原因可能是改用白色 LED 燈，而衛星無法完整偵測這類光。對熱愛夜空的人來說，這是一個令人擔憂的結果。"
+    ],
+    [
+     "Light pollution is unusual among environmental problems because the solution is immediate. Shielding lights so they shine downward, using only as much light as needed, choosing warmer colours and turning lights off when they are not in use can all reduce skyglow overnight. The stars, after all, are still there — waiting for us to turn down the lights. Some towns and parks have already been recognised for protecting their dark skies.",
+     "在各種環境問題中，光害很特別，因為解決方法立刻就能見效。給燈加上遮罩讓光往下照、只使用需要的光量、選擇較暖的顏色，以及不用時關燈，都能在一夜之間減少天空輝光。畢竟，星星都還在——等著我們把燈調暗。有些城鎮和公園已經因為保護了它們的暗空而獲得肯定。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "The Vanishing Night Sky",
+   "paras": [
+    [
+     "The starry night sky is one of humanity’s oldest shared experiences. It guided travellers, structured calendars and inspired myths, science and poetry across every culture. Yet for a growing proportion of people, that experience is slipping away, not because anything has happened to the stars, but because of the artificial light we scatter into the atmosphere every night. For many children growing up in cities today, the Milky Way is something they have seen only in photographs.",
+     "滿天星斗的夜空，是人類最古老的共同經驗之一。它為旅人指路、構成曆法，也在每一種文化中激發了神話、科學與詩歌。然而，對越來越多人來說，這種經驗正在流失——不是因為星星出了什麼事，而是因為我們每晚散射到大氣中的人造光。對今天許多在城市長大的孩子來說，銀河是只在照片裡見過的東西。"
+    ],
+    [
+     "Measuring this skyglow at a global scale has proved surprisingly difficult. The satellites that image Earth at night are most sensitive to light directed upward, whereas much of the glow that hides the stars comes from light emitted horizontally. They are also largely insensitive to the blue wavelengths emitted by the white LEDs that have replaced older orange street lamps in many cities. Satellite data alone, in other words, may be telling us only part of the story.",
+     "在全球尺度上測量天空輝光，結果出乎意料地困難。在夜間拍攝地球的衛星，對向上照射的光最敏感，但遮蔽星星的光暈，有很大一部分來自水平方向發出的光。衛星也幾乎無法偵測白色 LED 發出的藍光波段，而許多城市已用這種燈取代了舊式的橘色路燈。換句話說，光靠衛星資料，我們可能只看到了故事的一部分。"
+    ],
+    [
+     "To address this gap, Christopher Kyba and colleagues turned to Globe at Night, a citizen science project in which volunteers compare the sky with a set of charts showing different numbers of stars. Their 2023 study in Science analysed 51,351 observations made between 2011 and 2022. Because the human eye is the instrument that actually experiences the night sky, these simple reports captured something satellites could not. Individual reports are imprecise, but tens of thousands of them, gathered over more than a decade, can reveal trends that no single observer would notice.",
+     "為了彌補這個缺口，凱巴與同事轉向「Globe at Night」——一個公民科學計畫，志工把天空和一組顯示不同星星數量的星圖做比較。他們 2023 年發表於《科學》期刊的研究，分析了 2011 到 2022 年間的 51,351 筆觀測。由於人眼才是真正體驗夜空的那個「儀器」，這些簡單的回報捕捉到了衛星捕捉不到的東西。個別回報並不精確，但十多年來累積的數萬筆回報，卻能揭露任何單一觀察者都察覺不到的趨勢。"
+    ],
+    [
+     "The results were stark. The loss of visible stars corresponded to an average increase in sky brightness of 9.6 percent per year — equivalent to the sky doubling in brightness roughly every eight years, and far faster than the roughly 2 percent annual growth suggested by satellite observations. Over eighteen years, the authors noted, such a rate would reduce a location with 250 visible stars to one with 100. A child, in effect, could watch the sky fade over the course of growing up. The authors were careful to note that the trend varied by region, and that the figure was an average across the locations where participants happened to live.",
+     "結果令人震驚。可見星星的減少，相當於天空亮度平均每年增加 9.6%——大約每八年亮度就加倍，遠比衛星觀測所顯示的每年約 2% 成長快得多。作者指出，十八年下來，這樣的速度會讓一個原本看得到 250 顆星的地方，只剩下 100 顆。實際上，一個孩子可能在長大的過程中，親眼看著天空逐漸黯淡。作者也謹慎地指出，這個趨勢因地區而異，而且這個數字是參與者剛好居住的那些地點的平均值。"
+    ],
+    [
+     "Unlike plastic in the ocean or carbon in the atmosphere, light pollution leaves no residue: it ends the instant a light is switched off or redirected. That makes it one of the most reversible environmental problems we face. Shielded fixtures that direct light downward, warmer colour temperatures, dimmers and timers are all inexpensive and widely available. The obstacle is less technological than cultural — a habit of treating brightness as safety and darkness as waste. Recovering the stars may begin with learning to value the dark. Few environmental victories could be achieved so quickly or so cheaply.",
+     "不像海洋裡的塑膠或大氣中的碳，光害不會留下殘餘物：燈一關掉或改變方向，它就立刻結束。這使它成為我們面對的環境問題中，最能逆轉的一種。讓光往下照的遮罩燈具、較暖的色溫、調光器和定時器，都便宜又容易取得。障礙與其說是技術上的，不如說是文化上的——一種把明亮當作安全、把黑暗當作浪費的習慣。要找回星星，也許得從學會珍惜黑暗開始。很少有環境上的勝利，能這麼快、這麼便宜地達成。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "hook",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "skyglow",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "globe-at-night",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "results",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "solutions",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "faint",
+   "pos": "adj.",
+   "meaning": "微弱的、模糊的",
+   "example": "I heard a faint noise.",
+   "family": "faintly (adv.)"
+  },
+  {
+   "w": "pollution",
+   "pos": "n.",
+   "meaning": "污染",
+   "example": "Air pollution is a serious problem.",
+   "family": "pollute (v.)"
+  },
+  {
+   "w": "visible",
+   "pos": "adj.",
+   "meaning": "看得見的",
+   "example": "The mountain was visible from the window.",
+   "family": "invisible (反義), visibility (n.)"
+  },
+  {
+   "w": "artificial",
+   "pos": "adj.",
+   "meaning": "人造的",
+   "example": "The room had no artificial light.",
+   "family": "artificially (adv.)"
+  },
+  {
+   "w": "volunteers",
+   "pos": "n.",
+   "meaning": "志工（複數）",
+   "example": "Volunteers cleaned the beach.",
+   "family": "volunteer (v./n.)"
+  },
+  {
+   "w": "observations",
+   "pos": "n.",
+   "meaning": "觀測、觀察結果（複數）",
+   "example": "She wrote down her observations.",
+   "family": "observe (v.)"
+  },
+  {
+   "w": "satellites",
+   "pos": "n.",
+   "meaning": "人造衛星（複數）",
+   "example": "Satellites send pictures of the weather.",
+   "family": "satellite (sing.)"
+  },
+  {
+   "w": "decline",
+   "pos": "n.",
+   "meaning": "下降、減少",
+   "example": "There was a decline in sales.",
+   "family": "decline (v.)"
+  },
+  {
+   "w": "atmosphere",
+   "pos": "n.",
+   "meaning": "大氣（層）",
+   "example": "Earth’s atmosphere protects us.",
+   "family": "atmospheric (adj.)"
+  },
+  {
+   "w": "reversible",
+   "pos": "adj.",
+   "meaning": "可逆轉的",
+   "example": "Some damage is not reversible.",
+   "family": "irreversible (反義)"
+  },
+  {
+   "w": "stark",
+   "pos": "adj.",
+   "meaning": "鮮明的、嚴峻的",
+   "example": "The difference was stark.",
+   "family": "starkly (adv.)"
+  },
+  {
+   "w": "residue",
+   "pos": "n.",
+   "meaning": "殘留物",
+   "example": "The cleaner left no residue.",
+   "family": "—"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "sent in",
+   "type": "phrase",
+   "meaning": "提交、寄來（send in 的過去式）",
+   "usage": "send in + 報告／作品。",
+   "example": "Students sent in their stories.",
+   "writing": "People sent in more than + 數字 + N"
+  },
+  {
+   "phrase": "turned to",
+   "type": "phrase",
+   "meaning": "求助於、轉向",
+   "usage": "turn to sb／sth for help。",
+   "example": "When she was lost, she turned to a map.",
+   "writing": "To solve this, scientists turned to + N."
+  },
+  {
+   "phrase": "after all",
+   "type": "discourse_marker",
+   "meaning": "畢竟",
+   "usage": "用來補充一個理由。",
+   "example": "Don’t be angry with him. He is only five, after all.",
+   "writing": "..., after all."
+  },
+  {
+   "phrase": "slipping away",
+   "type": "phrase",
+   "meaning": "（悄悄）流失、消逝",
+   "usage": "be slipping away：慢慢失去。",
+   "example": "Time is slipping away.",
+   "writing": "N + is slipping away."
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "Unlike + N, S + V",
+   "meaning": "不像……，……",
+   "example": "Unlike many other kinds of pollution, light pollution disappears the moment we switch it off.",
+   "tip": "Unlike 後面接名詞，比較對象要對等。"
+  },
+  {
+   "frame": "the moment + 子句",
+   "meaning": "一……就……",
+   "example": "Light pollution disappears the moment we switch it off.",
+   "tip": "= as soon as；the moment 當連接詞用。"
+  },
+  {
+   "frame": "so + adj. + that + 子句",
+   "meaning": "如此……以致於……",
+   "example": "Many people live under skies so bright that the Milky Way is invisible.",
+   "tip": "也可以放在名詞後：skies so bright that ..."
+  },
+  {
+   "frame": "The obstacle is less A than B",
+   "meaning": "障礙與其說是 A，不如說是 B",
+   "example": "The obstacle is less technological than cultural.",
+   "tip": "比較兩種原因的高階句型。"
+  }
+ ],
+ "quote": {
+  "text": "If the stars should appear one night in a thousand years, how would men believe and adore; and preserve for many generations the remembrance of the city of God which had been shown!",
+  "author": "Ralph Waldo Emerson",
+  "work": "Nature (1836)",
+  "url": "https://www.gutenberg.org/ebooks/29433"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "Why can’t many city people see stars?",
+    "options": [
+     "The stars have disappeared",
+     "Artificial light makes the sky brighter",
+     "There are no clear nights",
+     "People don’t look up"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "This light makes the night sky brighter, so faint stars disappear."
+   },
+   {
+    "q": "What did people in Globe at Night do?",
+    "options": [
+     "Took photos from space",
+     "Compared the sky with star maps and reported what they saw",
+     "Turned off all the lights",
+     "Built telescopes"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "people looked at the sky and compared it with star maps"
+   },
+   {
+    "q": "On average, how much brighter did the night sky get each year?",
+    "options": [
+     "About 1 percent",
+     "Almost 10 percent",
+     "About 50 percent",
+     "It got darker"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "the night sky got brighter by almost 10 percent every year"
+   },
+   {
+    "q": "What makes light pollution different from many other kinds of pollution?",
+    "options": [
+     "It is more dangerous",
+     "It disappears the moment we switch it off",
+     "It cannot be measured",
+     "It only happens in the countryside"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "light pollution disappears the moment we switch it off"
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "Why is skyglow difficult to measure accurately?",
+    "options": [
+     "Satellites do not detect all types of light equally well",
+     "Nobody is interested",
+     "It only happens in winter",
+     "Stars move too fast"
+    ],
+    "a": 0,
+    "why": "第二段。",
+    "evidence": "the satellites that photograph Earth at night do not detect all types of light equally well"
+   },
+   {
+    "q": "How many observations did Kyba’s team analyse?",
+    "options": [
+     "5,135",
+     "51,351",
+     "250",
+     "100"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "analysed 51,351 of these observations"
+   },
+   {
+    "q": "Why might the rate be faster than satellites suggested?",
+    "options": [
+     "Because of the switch to white LED lights",
+     "Because there are fewer stars",
+     "Because people counted wrong",
+     "Because of clouds"
+    ],
+    "a": 0,
+    "why": "第四段最後。",
+    "evidence": "possibly because of the switch to white LED lights, which satellites cannot fully detect"
+   },
+   {
+    "q": "Which of these is NOT mentioned as a way to reduce skyglow?",
+    "options": [
+     "Shielding lights so they shine downward",
+     "Choosing warmer colours",
+     "Turning lights off when not in use",
+     "Building taller buildings"
+    ],
+    "a": 3,
+    "why": "最後一段列出的方法不包括蓋更高的建築。",
+    "evidence": "Shielding lights so they shine downward"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "According to paragraph 2, what kind of light are satellites most sensitive to?",
+    "options": [
+     "Light directed upward",
+     "Horizontal light",
+     "Blue light",
+     "Starlight"
+    ],
+    "a": 0,
+    "why": "第二段。",
+    "evidence": "The satellites that image Earth at night are most sensitive to light directed upward"
+   },
+   {
+    "q": "Why does the writer call the human eye “the instrument that actually experiences the night sky”?",
+    "options": [
+     "To explain why citizen reports captured something satellites could not",
+     "To argue that satellites are useless",
+     "To praise volunteers’ eyesight",
+     "To describe a new telescope"
+    ],
+    "a": 0,
+    "why": "第三段最後一句。",
+    "evidence": "these simple reports captured something satellites could not"
+   },
+   {
+    "q": "How does the 9.6 percent rate compare with satellite observations?",
+    "options": [
+     "It is far faster than the roughly 2 percent suggested by satellites",
+     "It is about the same",
+     "It is slower",
+     "Satellites showed no change"
+    ],
+    "a": 0,
+    "why": "第四段。",
+    "evidence": "far faster than the roughly 2 percent annual growth suggested by satellite observations"
+   },
+   {
+    "q": "What does the writer identify as the main obstacle to solving light pollution?",
+    "options": [
+     "Expensive technology",
+     "A cultural habit of treating brightness as safety",
+     "A lack of scientific data",
+     "Government laws"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "The obstacle is less technological than cultural"
+   }
+  ]
+ },
+ "reflections": [
+  "Tonight, count how many stars you can see from your home. What lights near you might be making the sky brighter?",
+  "Some people feel safer with bright lights. How could a city reduce light pollution while still keeping people safe?"
+ ],
+ "videos": [
+  {
+   "title": "The problem of light pollution — and 5 ridiculously easy ways to fix it",
+   "channel": "TED · Kelsey Johnson",
+   "url": "https://www.ted.com/talks/kelsey_johnson_the_problem_of_light_pollution_and_5_ridiculously_easy_ways_to_fix_it",
+   "kind": "TED",
+   "desc": "An astrophysicist explains why the starry sky is disappearing and five easy ways to help.",
+   "zh": "一位天文物理學家解釋星空為何正在消失，以及五個簡單的改善方法。",
+   "question": "Which of the five fixes could you try at home?"
+  },
+  {
+   "title": "The devastating impact of light pollution",
+   "channel": "TEDxAberystwyth · Alyn Wallace",
+   "url": "https://www.ted.com/talks/alyn_wallace_the_devastating_impact_of_light_pollution",
+   "kind": "TEDx",
+   "desc": "An astrophotographer on how light pollution affects the night sky and nature.",
+   "zh": "一位星空攝影師談光害如何影響夜空與自然。",
+   "question": "Why might darkness matter for animals as well as for people?"
+  }
+ ]
+}

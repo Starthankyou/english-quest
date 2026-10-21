@@ -1,0 +1,456 @@
+{
+ "id": "marshmallow",
+ "category": "批判思考",
+ "title": "The Marshmallow Test, Revisited",
+ "subtitle": "棉花糖實驗，重新檢視",
+ "source": "原創教學文章；研究內容依 Watts, Duncan & Quan（2018）原始論文及美國心理科學學會報導，2026-10-21 核對",
+ "sources": [
+  {
+   "title": "Watts, T. W., Duncan, G. J., & Quan, H. (2018). Revisiting the Marshmallow Test: A Conceptual Replication Investigating Links Between Early Delay of Gratification and Later Outcomes. Psychological Science, 29(7).",
+   "url": "https://doi.org/10.1177/0956797618761661",
+   "accessed": "2026-10-21"
+  },
+  {
+   "title": "Association for Psychological Science: A New Approach to the Marshmallow Test Yields Complicated Findings",
+   "url": "https://www.psychologicalscience.org/publications/observer/obsonline/a-new-approach-to-the-marshmallow-test-yields-complex-findings.html",
+   "accessed": "2026-10-21"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "One Marshmallow or Two?",
+   "paras": [
+    [
+     "Imagine you are four years old. A grown-up puts one marshmallow on the table in front of you. “You can eat it now,” she says, “or you can wait until I come back. If you wait, you will get two.” Then she leaves the room. What would you do? Would you eat it right away, or would you sit and wait, looking at the sweet treat for many minutes?",
+     "想像你四歲。一個大人在你面前的桌上放了一顆棉花糖。「你可以現在吃，」她說，「或是等我回來。如果你等，就可以拿到兩顆。」然後她離開了房間。你會怎麼做？你會馬上吃掉，還是坐著等，盯著那顆甜甜的點心好幾分鐘？"
+    ],
+    [
+     "This is the famous “marshmallow test”. In the 1960s and 1970s, psychologist Walter Mischel tested preschool children at Stanford University in the United States. Some children ate the marshmallow quickly. Others waited, sometimes by covering their eyes or singing to themselves.",
+     "這就是著名的「棉花糖實驗」。1960 和 1970 年代，心理學家沃爾特．米歇爾在美國史丹佛大學測試了學齡前的孩子。有些孩子很快就把棉花糖吃掉了；有些則等了下來，有時會遮住眼睛，或自己唱歌。"
+    ],
+    [
+     "Years later, the researchers contacted some of the children again when they were teenagers. They found that children who had waited longer often had higher test scores. Many people came to believe that the marshmallow test could predict a child’s future success. The idea spread quickly. It appeared in books, news stories and talks about how to raise successful children.",
+     "多年後，研究者在這些孩子成為青少年時，再次聯絡了其中一部分人。他們發現，當年等得比較久的孩子，考試成績常常比較高。許多人因此相信，棉花糖實驗可以預測一個孩子未來是否成功。這個想法傳得很快，出現在書裡、新聞報導裡，也出現在談如何教出成功孩子的演講裡。"
+    ],
+    [
+     "But in 2018, another team of scientists tested the idea again with more than 900 children from many different families. The link between waiting and later school results was much smaller. And when the scientists considered the children’s family background, the link almost disappeared. In other words, the children’s homes and early lives explained much of the difference.",
+     "但在 2018 年，另一組科學家用來自許多不同家庭、超過 900 個孩子，重新檢驗了這個想法。結果發現，等待和之後的學業表現之間的關聯小得多。而當科學家把孩子的家庭背景考慮進去之後，這個關聯幾乎就消失了。換句話說，孩子的家庭和早年生活，解釋了大部分的差異。"
+    ],
+    [
+     "So what does this mean? Waiting is still a useful skill. But a child’s future is not decided by one marshmallow. Families, schools and life experiences matter too. Science also teaches us something important here: even famous findings should be tested again.",
+     "那這代表什麼？懂得等待仍然是有用的能力。但一個孩子的未來，不是由一顆棉花糖決定的；家庭、學校和人生經歷也都很重要。科學在這裡也教了我們一件重要的事：即使是著名的研究發現，也應該被再次檢驗。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "The Marshmallow Test, Revisited",
+   "paras": [
+    [
+     "Few psychology experiments are as well known as the marshmallow test. A young child sits alone with a treat and is told that if they can wait for a while, they will receive two treats instead of one. The image is simple and charming, and for decades it carried a powerful message: self-control in early childhood shapes success later in life. Parents and teachers have used the story to encourage children to be patient.",
+     "很少有心理學實驗像棉花糖實驗這樣有名。一個小孩獨自和一份點心坐在一起，被告知如果能等一段時間，就可以拿到兩份而不是一份。這個畫面簡單又可愛，數十年來，它傳達了一個強而有力的訊息：幼年時期的自制力，決定了日後的成功。家長和老師都曾用這個故事來鼓勵孩子要有耐心。"
+    ],
+    [
+     "The original studies were carried out by psychologist Walter Mischel with children at a preschool on the Stanford University campus. Mischel was initially interested simply in how children resisted temptation. Later, he and his colleagues followed up some of the children in adolescence and reported that those who had waited longer tended to have better academic results, including higher SAT scores.",
+     "最初的研究由心理學家沃爾特．米歇爾，在史丹佛大學校園內的一所幼兒園進行。米歇爾一開始只是對孩子如何抵抗誘惑感興趣。後來，他和同事追蹤了部分孩子的青少年時期，並報告說：當年等得越久的孩子，學業表現往往越好，包括 SAT 成績較高。"
+    ],
+    [
+     "These follow-ups, however, were based on a relatively small and similar group of children from a university community. In 2018, Tyler Watts, Greg Duncan and Haonan Quan revisited the question using data from more than 900 children in a large, more diverse American study. Much of their analysis focused on children whose mothers had not completed college. This group was much closer to the general population than the children of a famous university.",
+     "然而，這些追蹤研究依據的是一群人數相對少、背景也相似、來自大學社區的孩子。2018 年，泰勒．華茲、格雷格．鄧肯和全浩南用一項大型、更多元的美國研究資料，重新檢視這個問題，樣本超過 900 個孩子。他們的分析有很大一部分，聚焦在母親沒有讀完大學的孩子身上。這個群體比一所名校教職員的孩子，更接近一般大眾。"
+    ],
+    [
+     "They did find a link between waiting longer and better achievement at age 15, but it was about half the size of the original findings. More importantly, when the researchers took into account the children’s family background and early cognitive abilities, the link became very small and was no longer statistically significant. They also found almost no connection between waiting and later behaviour.",
+     "他們確實發現，等得越久與 15 歲時較好的學業表現有關，但關聯大約只有原始研究的一半。更重要的是，當研究者把孩子的家庭背景和早期認知能力納入考量後，這個關聯變得非常小，在統計上也不再顯著。他們也發現，等待與日後的行為幾乎沒有關係。"
+    ],
+    [
+     "This does not mean that self-control is unimportant, or that the original researchers were careless; Mischel himself had noted that larger studies might find smaller effects. It means that a child’s ability to wait may partly reflect the circumstances they grow up in. For readers, the story offers a broader lesson: a famous result is a starting point for questions, not the final word. Asking who was studied, and what else might explain the results, is one of the most useful habits a reader can develop.",
+     "這並不代表自制力不重要，也不代表原始研究者草率；米歇爾自己就曾指出，更大規模的研究可能會發現較小的效果。它代表的是：一個孩子能否等待，可能部分反映了他成長的環境。對讀者來說，這個故事帶來更廣的啟示：一個著名的研究結果，是提問的起點，而不是最後的定論。問「研究的對象是誰」、「還有什麼可能解釋這個結果」，是讀者能培養的最有用的習慣之一。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "What One Marshmallow Can — and Cannot — Tell Us",
+   "paras": [
+    [
+     "The marshmallow test occupies a rare position: it is both a respected piece of developmental research and a popular parable about willpower. Its central image — a preschooler resisting a treat in exchange for a larger reward — has been used to argue that self-control is a key ingredient of later success, and even that teaching children to wait could change the course of their lives. Such claims deserve careful scrutiny. Few studies have travelled so far beyond the laboratory, into parenting books, classrooms and motivational speeches.",
+     "棉花糖實驗占有一個少見的位置：它既是一項受尊敬的發展心理學研究，也是一則關於意志力的大眾寓言。它的核心畫面——一個學齡前孩子為了更大的獎勵而忍住不吃點心——曾被用來主張自制力是日後成功的關鍵要素，甚至主張教孩子等待，就能改變他們的人生軌跡。這樣的主張值得仔細檢驗。很少有研究能走得這麼遠，從實驗室一路走進育兒書、教室和勵志演講。"
+    ],
+    [
+     "Walter Mischel’s original experiments, conducted with children at a preschool on the Stanford campus, were designed to understand how young children delay gratification. The striking associations came later. In a 1990 follow-up, Mischel’s colleagues reported substantial correlations between preschool delay time and adolescent SAT scores. Yet these estimates relied on a small subset of the original children, drawn from an unusually homogeneous university community. In fact, only about 185 of the more than 600 children originally tested could be reached for that follow-up, and the strongest correlations came from an even smaller group.",
+     "沃爾特．米歇爾最初在史丹佛校園一所幼兒園進行的實驗，目的是了解幼兒如何延遲滿足。那些驚人的關聯是後來才出現的。在 1990 年的追蹤研究中，米歇爾的同事報告說，學齡前的等待時間與青少年時期的 SAT 成績之間有相當大的相關。然而，這些估計依據的只是原始孩子中的一小部分，而且來自一個背景異常單一的大學社區。事實上，原本受測的六百多個孩子中，只有大約 185 人能在那次追蹤中聯絡上，而最強的相關則來自更小的一群人。"
+    ],
+    [
+     "In 2018, Tyler Watts, Greg Duncan and Haonan Quan conducted what they called a conceptual replication, drawing on a large, geographically diverse longitudinal dataset of more than 900 children. Focusing particularly on children whose mothers lacked a college degree — a group far more representative of the wider population — they found a bivariate association between delay time and age-15 achievement roughly half the size of the original correlations. The design allowed them to ask not only whether the association existed, but also whether it survived once other influences were considered.",
+     "2018 年，泰勒．華茲、格雷格．鄧肯和全浩南進行了他們所稱的「概念性重複研究」，使用一份大型、地理分布多元、超過 900 個孩子的長期追蹤資料。他們特別聚焦於母親沒有大學學歷的孩子——這個群體遠比原始樣本更能代表一般人口——結果發現，等待時間與 15 歲學業成就之間的雙變項關聯，大約只有原始相關的一半。這樣的設計讓他們不只能問「關聯是否存在」，還能問：考慮其他影響之後，這個關聯是否還站得住。"
+    ],
+    [
+     "The decisive finding concerned what happened when other factors were taken into account. Once the researchers controlled for family background and early cognitive and behavioural characteristics, the association shrank by roughly two-thirds and lost statistical significance. Delay time showed almost no relationship with later behavioural outcomes at all. The authors concluded that an intervention that changed only a child’s ability to wait, without affecting broader capacities, would likely have limited long-term effects.",
+     "決定性的發現在於：把其他因素納入考量之後會發生什麼事。一旦研究者控制了家庭背景以及早期的認知與行為特質，這個關聯縮小了大約三分之二，也失去了統計顯著性。等待時間與日後的行為表現幾乎完全沒有關係。作者的結論是：如果一項介入只改變孩子等待的能力，卻沒有影響更廣泛的能力，它的長期效果很可能有限。"
+    ],
+    [
+     "None of this proves that self-control is irrelevant, and the original researchers had themselves warned that larger samples might yield smaller effects. What it does show is how easily a correlation, observed in a narrow group, can harden into a cultural belief about destiny. A child who grows up with unreliable promises may reasonably decide that a marshmallow in hand is worth more than two in the future. Seen this way, waiting reflects not only character but circumstance — and good science is the habit of asking which is which. For students, the case is a useful model of how to read a famous claim: ask who was studied, how many, and what else might explain the pattern.",
+     "這些都不能證明自制力無關緊要，原始研究者自己也曾提醒，更大的樣本可能得出較小的效果。它真正顯示的是：一個在狹窄群體中觀察到的相關性，多麼容易凝固成一種關於命運的文化信念。一個在承諾常常落空的環境中長大的孩子，可能很合理地判斷：手上的一顆棉花糖，比未來的兩顆更有價值。從這個角度看，等待反映的不只是品格，也是處境——而好的科學，就是不斷追問兩者各占多少的習慣。對學生來說，這個案例是閱讀著名主張的好範本：問研究對象是誰、有多少人，以及還有什麼可能解釋這個模式。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "hook",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "original",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "follow-up",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "replication",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "meaning",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "predict",
+   "pos": "v.",
+   "meaning": "預測",
+   "example": "Nobody can predict the future.",
+   "family": "prediction (n.), predictable (adj.)"
+  },
+  {
+   "w": "background",
+   "pos": "n.",
+   "meaning": "背景（家庭、教育等）",
+   "example": "Students come from different backgrounds.",
+   "family": "—"
+  },
+  {
+   "w": "temptation",
+   "pos": "n.",
+   "meaning": "誘惑",
+   "example": "It was hard to resist the temptation.",
+   "family": "tempt (v.), tempting (adj.)"
+  },
+  {
+   "w": "self-control",
+   "pos": "n.",
+   "meaning": "自制力",
+   "example": "It takes self-control to study instead of playing.",
+   "family": "—"
+  },
+  {
+   "w": "diverse",
+   "pos": "adj.",
+   "meaning": "多元的",
+   "example": "Our class is very diverse.",
+   "family": "diversity (n.)"
+  },
+  {
+   "w": "significant",
+   "pos": "adj.",
+   "meaning": "顯著的、重要的",
+   "example": "There was a significant change.",
+   "family": "significance (n.)"
+  },
+  {
+   "w": "circumstances",
+   "pos": "n.",
+   "meaning": "環境、處境（複數）",
+   "example": "Under the circumstances, you did well.",
+   "family": "circumstance (sing.)"
+  },
+  {
+   "w": "gratification",
+   "pos": "n.",
+   "meaning": "滿足",
+   "example": "Social media offers instant gratification.",
+   "family": "gratify (v.)"
+  },
+  {
+   "w": "correlations",
+   "pos": "n.",
+   "meaning": "相關性（複數）",
+   "example": "The study found strong correlations.",
+   "family": "correlate (v.)"
+  },
+  {
+   "w": "replication",
+   "pos": "n.",
+   "meaning": "重複研究、複製",
+   "example": "Replication helps check whether a result is reliable.",
+   "family": "replicate (v.)"
+  },
+  {
+   "w": "homogeneous",
+   "pos": "adj.",
+   "meaning": "同質的、背景單一的",
+   "example": "The group was very homogeneous.",
+   "family": "heterogeneous (反義)"
+  },
+  {
+   "w": "scrutiny",
+   "pos": "n.",
+   "meaning": "仔細檢查",
+   "example": "The plan came under close scrutiny.",
+   "family": "scrutinize (v.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "came to believe",
+   "type": "phrase",
+   "meaning": "逐漸相信（come to believe 的過去式）",
+   "usage": "come to + V：漸漸（開始）……。",
+   "example": "Over time, she came to believe in herself.",
+   "writing": "Many people came to believe that ..."
+  },
+  {
+   "phrase": "took into account",
+   "type": "phrase",
+   "meaning": "考慮到",
+   "usage": "take sth into account（考慮到）；這裡是過去式 took。",
+   "example": "We must take the weather into account.",
+   "writing": "When we take + N + into account, ..."
+  },
+  {
+   "phrase": "the final word",
+   "type": "collocation",
+   "meaning": "最後的定論",
+   "usage": "常用否定：not the final word。",
+   "example": "This study is not the final word on the topic.",
+   "writing": "A is a starting point, not the final word."
+  },
+  {
+   "phrase": "in hand",
+   "type": "phrase",
+   "meaning": "在手上的；現有的",
+   "usage": "a bird in hand（手中的一隻鳥）。",
+   "example": "A bird in hand is worth two in the bush.",
+   "writing": "N + in hand is worth more than ..."
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "It is about half the size of + N",
+   "meaning": "大約只有……的一半",
+   "example": "The link was about half the size of the original findings.",
+   "tip": "描述效果大小時很好用。"
+  },
+  {
+   "frame": "When/Once + S + took into account + N, + S + V",
+   "meaning": "當……考慮了……之後，……",
+   "example": "Once the researchers controlled for family background, the association shrank.",
+   "tip": "研究寫作常見：說明「控制變項後」的結果。"
+  },
+  {
+   "frame": "This does not mean ...; it means ...",
+   "meaning": "這不代表……，而是代表……",
+   "example": "This does not mean that self-control is unimportant. It means that ...",
+   "tip": "先排除誤解，再提出正確詮釋。"
+  },
+  {
+   "frame": "not only A but (also) B",
+   "meaning": "不只 A，還有 B",
+   "example": "Waiting reflects not only character but circumstance.",
+   "tip": "A、B 都是名詞，結構對等。"
+  }
+ ],
+ "quote": {
+  "text": "The first principle is that you must not fool yourself — and you are the easiest person to fool.",
+  "author": "Richard Feynman",
+  "work": "“Cargo Cult Science”, Caltech commencement address (1974)",
+  "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "What happens if a child waits in the marshmallow test?",
+    "options": [
+     "They get nothing",
+     "They get two marshmallows",
+     "They can go home",
+     "They get a toy"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "If you wait, you will get two."
+   },
+   {
+    "q": "How did some children manage to wait?",
+    "options": [
+     "By eating something else",
+     "By covering their eyes or singing",
+     "By leaving the room",
+     "By calling their parents"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "sometimes by covering their eyes or singing to themselves"
+   },
+   {
+    "q": "How many children were in the 2018 study?",
+    "options": [
+     "About 50",
+     "About 185",
+     "More than 900",
+     "Exactly 4"
+    ],
+    "a": 2,
+    "why": "第四段。",
+    "evidence": "more than 900 children from many different families"
+   },
+   {
+    "q": "What important lesson about science does the writer give?",
+    "options": [
+     "Famous findings are always right",
+     "Even famous findings should be tested again",
+     "Children should never eat sweets",
+     "Science cannot study children"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "even famous findings should be tested again"
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "What was Mischel “initially interested” in?",
+    "options": [
+     "Predicting SAT scores",
+     "How children resisted temptation",
+     "Children’s favourite sweets",
+     "Family income"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "Mischel was initially interested simply in how children resisted temptation."
+   },
+   {
+    "q": "What was a weakness of the original follow-ups?",
+    "options": [
+     "They used a small and similar group of children",
+     "They used too many children",
+     "They did not use marshmallows",
+     "They were done in Taiwan"
+    ],
+    "a": 0,
+    "why": "第三段第一句。",
+    "evidence": "were based on a relatively small and similar group of children from a university community"
+   },
+   {
+    "q": "How big was the link in the 2018 study compared with the original?",
+    "options": [
+     "Twice as big",
+     "About the same",
+     "About half the size",
+     "Ten times smaller"
+    ],
+    "a": 2,
+    "why": "第四段。",
+    "evidence": "it was about half the size of the original findings"
+   },
+   {
+    "q": "What happened when family background and early abilities were taken into account?",
+    "options": [
+     "The link became stronger",
+     "The link became very small and no longer statistically significant",
+     "Nothing changed",
+     "The study was cancelled"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "the link became very small and was no longer statistically significant"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "Why does the writer call the marshmallow test “a popular parable about willpower”?",
+    "options": [
+     "It is used to tell a simple moral story about self-control and success",
+     "It was written as a fable",
+     "It is only told to children",
+     "It has nothing to do with research"
+    ],
+    "a": 0,
+    "why": "第一段：它被用來主張自制力是成功關鍵。",
+    "evidence": "has been used to argue that self-control is a key ingredient of later success"
+   },
+   {
+    "q": "Why does the writer mention that the 2018 sample was “far more representative”?",
+    "options": [
+     "To show it better reflected the wider population",
+     "To criticize mothers without degrees",
+     "To prove the original study was fake",
+     "To explain why marshmallows were used"
+    ],
+    "a": 0,
+    "why": "第三段：這個群體更能代表一般人口。",
+    "evidence": "a group far more representative of the wider population"
+   },
+   {
+    "q": "By how much did the association shrink after controls were added?",
+    "options": [
+     "Roughly two-thirds",
+     "Roughly ten percent",
+     "It doubled",
+     "It did not change"
+    ],
+    "a": 0,
+    "why": "第四段。",
+    "evidence": "the association shrank by roughly two-thirds and lost statistical significance"
+   },
+   {
+    "q": "What alternative explanation for not waiting does the final paragraph suggest?",
+    "options": [
+     "Children who did not wait were lazy",
+     "A child used to unreliable promises may reasonably value the treat in hand",
+     "The marshmallows were too small",
+     "The adults left too quickly"
+    ],
+    "a": 1,
+    "why": "最後一段：在承諾常落空的環境，手上的一顆更有價值。",
+    "evidence": "A child who grows up with unreliable promises may reasonably decide that a marshmallow in hand is worth more than two in the future."
+   }
+  ]
+ },
+ "reflections": [
+  "Do you think waiting for a reward is a skill, a habit, or a result of your environment? Explain with an example.",
+  "Think of a “fact” you learned that was later challenged. How did you feel when you found out?"
+ ],
+ "videos": [
+  {
+   "title": "Don’t eat the marshmallow!",
+   "channel": "TED · Joachim de Posada (TED U at TED2009)",
+   "url": "https://www.ted.com/talks/joachim_de_posada_don_t_eat_the_marshmallow",
+   "kind": "TED",
+   "desc": "A short 2009 talk presenting the marshmallow test as a predictor of success — compare it with the 2018 findings in this article.",
+   "zh": "2009 年的短講，把棉花糖實驗呈現為成功的預測指標——可以和本文 2018 年的研究結果對照。",
+   "question": "Which claims in this talk would you now question, and why?"
+  },
+  {
+   "title": "Self-control in 2020",
+   "channel": "TEDxUniversityofYork · Kristian Myrseth",
+   "url": "https://www.ted.com/talks/kristian_myrseth_self_control_in_2020",
+   "kind": "TEDx",
+   "desc": "A researcher discusses what self-control means today.",
+   "zh": "一位研究者談自制力在今天的意義。",
+   "question": "In what situations is self-control hardest for you?"
+  }
+ ]
+}
