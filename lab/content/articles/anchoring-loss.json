@@ -1,0 +1,458 @@
+{
+ "id": "anchoring-loss",
+ "category": "行為經濟學",
+ "title": "Why “Was $999, Now $499” Works on You",
+ "subtitle": "為什麼「原價 999、現在 499」對你有效？定錨效應與損失規避",
+ "source": "原創議題文章；依 Wikipedia〈Anchoring effect〉〈Loss aversion〉〈Endowment effect〉所整理之 Tversky & Kahneman（1974, 1979）與 Kahneman, Knetsch & Thaler（1990）研究，2026-10-22 核對",
+ "sources": [
+  {
+   "title": "Wikipedia: Anchoring effect",
+   "url": "https://en.wikipedia.org/wiki/Anchoring_effect",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Wikipedia: Loss aversion",
+   "url": "https://en.wikipedia.org/wiki/Loss_aversion",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Wikipedia: Endowment effect",
+   "url": "https://en.wikipedia.org/wiki/Endowment_effect",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Nobel Prize: Daniel Kahneman — Facts (Economic Sciences 2002)",
+   "url": "https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/facts/",
+   "accessed": "2026-10-22"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "The First Number Wins",
+   "paras": [
+    [
+     "You see a jacket in a shop. The sign says: “Was $999, now $499!” It feels like a great deal. But is $499 really cheap? Maybe the jacket was never worth $999. The first number you saw is changing how you think.",
+     "你在店裡看到一件外套，標示寫著：「原價 999 元，現在 499 元！」感覺很划算。但 499 元真的便宜嗎？也許這件外套從來就不值 999 元。你看到的第一個數字，正在改變你的想法。"
+    ],
+    [
+     "Psychologists call this the “anchoring effect”. An anchor holds a ship in one place. In the same way, the first number we see holds our mind in one place. Our later guesses stay close to it, even when it has nothing to do with the question.",
+     "心理學家把這叫作「定錨效應」。船錨能把船固定在一個地方；同樣地，我們看到的第一個數字，也會把思緒固定在一個地方。之後的猜測都會停留在它附近，即使那個數字和問題毫無關係。"
+    ],
+    [
+     "In a famous experiment, two psychologists, Amos Tversky and Daniel Kahneman, showed people a wheel. It stopped on either 10 or 65. Then people guessed what percentage of countries in the United Nations were in Africa. People who saw 10 guessed about 25%. People who saw 65 guessed about 45%. In another study, students were asked if Gandhi died before or after the age of 9. That is clearly wrong! But later these students guessed he died at about 50, while students asked about the age of 140 guessed about 67.",
+     "在一個有名的實驗中，兩位心理學家阿莫斯．特沃斯基和丹尼爾．康納曼讓人們看一個轉盤，轉盤會停在 10 或 65。接著，人們要猜聯合國會員國中有百分之幾在非洲。看到 10 的人平均猜 25%；看到 65 的人平均猜 45%。在另一項研究中，學生被問到甘地是在 9 歲之前還是之後去世的。這顯然是錯的！但後來這些學生猜他大約 50 歲去世，而被問到 140 歲的學生則猜大約 67 歲。"
+    ],
+    [
+     "The same researchers found something else: losing feels worse than winning feels good. Losing $100 hurts more than finding $100 makes us happy. They called this “loss aversion”. That is why shops say “Don’t miss out!” or “Only today!”",
+     "同樣這兩位研究者還發現了另一件事：失去的痛苦，比得到的快樂更強烈。丟掉 100 元的難過，比撿到 100 元的開心更大。他們稱之為「損失規避」。這就是為什麼商店會說「別錯過！」或「只限今天！」。"
+    ],
+    [
+     "In 2002, Kahneman won the Nobel Prize in economics for this kind of work. His ideas can help you be a smarter shopper. Before you buy, forget the “was” price. Ask yourself: “Would I pay $499 for this if I never saw the first number?”",
+     "2002 年，康納曼因為這類研究獲得諾貝爾經濟學獎。他的觀點能幫助你成為更聰明的消費者。購買之前，先忘掉「原價」。問問自己：「如果我從沒看過第一個數字，我會願意為它付 499 元嗎？」"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "Why “Was $999, Now $499” Works on You",
+   "paras": [
+    [
+     "A price tag that reads “Was $999, now $499” is not just information. It is a carefully designed signal. The higher number makes the lower one feel like a bargain, even if no one ever paid $999. Behavioural scientists have studied this trick for decades, and their findings reveal two powerful habits of the human mind.",
+     "一張寫著「原價 999、現在 499」的價格標籤，不只是資訊，而是精心設計的訊號。較高的數字讓較低的數字感覺像撿到便宜，即使從來沒有人付過 999 元。行為科學家研究這個手法已經幾十年，他們的發現揭露了人類心智的兩個強大習慣。"
+    ],
+    [
+     "The first is the anchoring effect: our estimates are pulled towards the first number we encounter. In one early study by Amos Tversky and Daniel Kahneman, participants had five seconds to estimate the product of the numbers one to eight. When the sequence was written starting with 1 × 2 × 3, the median estimate was 512. When it started with 8 × 7 × 6, the median was 2,250. The correct answer is 40,320.",
+     "第一個是定錨效應：我們的估計會被最先遇到的數字拉過去。在阿莫斯．特沃斯基和丹尼爾．康納曼的一項早期研究中，參與者有五秒鐘估計 1 到 8 的連乘積。當算式從 1 × 2 × 3 開始寫，估計的中位數是 512；從 8 × 7 × 6 開始時，中位數是 2,250。正確答案是 40,320。"
+    ],
+    [
+     "Even obviously irrelevant numbers can act as anchors. In another study, participants watched a wheel that was set to stop on either 10 or 65, and then estimated the percentage of African countries in the United Nations. Those who saw 10 guessed 25% on average; those who saw 65 guessed 45%. A meaningless number had shifted a factual judgement by twenty points. In a study by Dan Ariely, people first wrote down the last two digits of their social security number and then bid for items such as wine and chocolate. Those with higher digits tended to bid more.",
+     "即使是明顯不相關的數字，也能成為錨點。在另一項研究中，參與者先看一個被設定成停在 10 或 65 的轉盤，接著估計聯合國中非洲國家所占的百分比。看到 10 的人平均猜 25%，看到 65 的人平均猜 45%。一個毫無意義的數字，就讓一個事實判斷移動了二十個百分點。在丹．艾瑞利的一項研究中，人們先寫下自己社會安全號碼的最後兩位數，再為葡萄酒和巧克力等商品出價。數字較大的人，出價往往也比較高。"
+    ],
+    [
+     "The second habit is loss aversion, a term Kahneman and Tversky introduced in 1979. Losses tend to feel roughly twice as powerful as equivalent gains. A related finding is the endowment effect: in a classic 1990 experiment, students who were given a mug asked for about $7 to sell it, while others were willing to pay only about $3 to buy one. Simply owning the mug made it feel more valuable.",
+     "第二個習慣是損失規避，這是康納曼和特沃斯基在 1979 年提出的詞。損失的感受，往往大約是同等收穫的兩倍。一個相關的發現是稟賦效應：在 1990 年的一項經典實驗中，拿到馬克杯的學生要價約 7 美元才肯賣，其他人卻只願意花約 3 美元買一個。光是擁有這個杯子，就讓它感覺更有價值。"
+    ],
+    [
+     "Marketers use both habits. A high “original” price sets an anchor, and phrases such as “Only three left!” turn not buying into a kind of loss. Kahneman, who received the Nobel Prize in economics in 2002, showed that these reactions are not signs of stupidity but normal features of human thinking. Knowing about them is the first step towards making choices on purpose rather than by reflex.",
+     "行銷人員兩種習慣都會利用。高高的「原價」設下錨點，而像「只剩三件！」這樣的字眼，讓「不買」變成一種損失。2002 年獲得諾貝爾經濟學獎的康納曼證明，這些反應不是愚蠢的表現，而是人類思考的正常特徵。了解它們，是讓自己有意識地做選擇、而不是憑反射做選擇的第一步。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "Anchors, Losses and the Limits of Rational Choice",
+   "paras": [
+    [
+     "Traditional economics long assumed that people evaluate prices and risks more or less rationally, weighing costs and benefits according to stable preferences. A price tag reading “Was $999, now $499” challenges that assumption. The crossed-out figure supplies no information about the jacket’s quality, yet it reliably makes the second number feel like a bargain. Much of the research explaining why began with the Israeli psychologists Amos Tversky and Daniel Kahneman, whose work helped found the field now known as behavioural economics.",
+     "傳統經濟學長期假設，人們大致上會理性地評估價格與風險，依照穩定的偏好權衡成本與效益。一張寫著「原價 999、現在 499」的價格標籤，挑戰了這個假設。被劃掉的數字對外套的品質毫無說明，卻能穩定地讓第二個數字感覺像撿到便宜。解釋其原因的許多研究，始於以色列心理學家阿莫斯．特沃斯基與丹尼爾．康納曼，他們的研究幫助奠定了今天稱為行為經濟學的領域。"
+    ],
+    [
+     "Their concept of anchoring describes how an initial value biases subsequent estimates, because people adjust away from it insufficiently. In one study, participants were given five seconds to estimate the product of the integers from one to eight. Those who saw the sequence in ascending order produced a median estimate of 512; those who saw it in descending order, beginning with the larger numbers, produced a median of 2,250. Both groups were wildly wrong — the true answer is 40,320 — but each was pulled towards the numbers it had happened to see first.",
+     "他們提出的定錨概念，描述了一個初始數值如何讓後續的估計產生偏差，因為人們從它出發做的調整不夠多。在一項研究中，參與者有五秒鐘估計 1 到 8 的整數連乘積。看到遞增順序的人，估計中位數是 512；看到遞減順序、從大數字開始的人，中位數是 2,250。兩組都錯得離譜——正確答案是 40,320——但兩組都被自己剛好先看到的數字拉了過去。"
+    ],
+    [
+     "More striking is the power of anchors that are plainly irrelevant. Participants who watched a wheel predetermined to stop at 10 or 65 subsequently estimated the percentage of African countries in the United Nations at 25% and 45% respectively. In another study, students asked whether Gandhi died before or after the age of 9, or before or after 140, later gave average estimates of 50 and 67. It is worth adding, however, that a small number of studies using clearly random procedures, such as rolling a die, have failed to reproduce the effect, suggesting that participants may sometimes treat an anchor as a hint.",
+     "更驚人的是那些明顯不相關的錨點所具有的力量。看過預設停在 10 或 65 的轉盤的參與者，之後估計聯合國中非洲國家的比例，分別是 25% 和 45%。在另一項研究中，被問到甘地是在 9 歲之前或之後、或 140 歲之前或之後去世的學生，之後給出的平均估計分別是 50 歲和 67 歲。不過值得補充的是，少數使用明顯隨機程序（例如擲骰子）的研究，未能重現這個效應，這表示參與者有時可能把錨點當成一種提示。"
+    ],
+    [
+     "A second pillar of the research programme is loss aversion, introduced in Kahneman and Tversky’s prospect theory in 1979. Empirically, losses tend to be weighted roughly twice as heavily as equivalent gains. The related endowment effect was demonstrated in a classic 1990 study by Kahneman, Jack Knetsch and Richard Thaler, in which students who owned a mug demanded about $7 to part with it, while buyers offered only about $3. Not every scholar accepts the universality of loss aversion; some argue that many apparent examples are better explained by psychological inertia, while later studies have replicated the pattern in several samples.",
+     "這項研究計畫的第二根支柱，是康納曼與特沃斯基在 1979 年展望理論中提出的損失規避。從實證來看，損失的權重往往大約是同等收穫的兩倍。相關的稟賦效應，則在康納曼、傑克．奈奇與理查．塞勒 1990 年的一項經典研究中得到證明：擁有馬克杯的學生要價約 7 美元才肯割愛，買家卻只出價約 3 美元。並非每位學者都接受損失規避的普遍性；有些人主張許多看似的例子，用心理惰性來解釋更好，而後來的研究也在數個樣本中重現了這個模式。"
+    ],
+    [
+     "For consumers, the practical implications are clear. Retailers set anchors with inflated reference prices and frame inaction as loss through countdown timers and warnings that stock is running out. Kahneman, awarded the Nobel Prize in economics in 2002, did not conclude that people are foolish; rather, he showed that intuitive judgement follows predictable patterns. Recognising those patterns cannot make us perfectly rational, but it allows us to pause, question the first number we see and ask whether a choice reflects our own priorities or someone else’s design.",
+     "對消費者來說，實際意涵很清楚。零售商用灌水的參考價格設下錨點，並透過倒數計時和「庫存快沒了」的警告，把「不行動」包裝成損失。2002 年獲頒諾貝爾經濟學獎的康納曼，並沒有下結論說人很愚蠢；而是證明了直覺判斷遵循可預測的模式。認識這些模式，無法讓我們變得完全理性，卻能讓我們停下來、質疑看到的第一個數字，並問問自己：這個選擇反映的是自己的優先順序，還是別人的設計？"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "price-tag",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "anchoring",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "irrelevant-anchors",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "loss-aversion",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "implications",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "anchor",
+   "pos": "n.",
+   "meaning": "錨；錨點",
+   "example": "The ship dropped its anchor.",
+   "family": "anchoring (n.)"
+  },
+  {
+   "w": "percentage",
+   "pos": "n.",
+   "meaning": "百分比",
+   "example": "What percentage of students walk to school?",
+   "family": "per cent (n.)"
+  },
+  {
+   "w": "bargain",
+   "pos": "n.",
+   "meaning": "便宜貨、划算的交易",
+   "example": "This bag was a real bargain.",
+   "family": "bargain (v.) 討價還價"
+  },
+  {
+   "w": "estimate",
+   "pos": "n./v.",
+   "meaning": "估計",
+   "example": "Can you estimate the cost?",
+   "family": "estimation (n.)"
+  },
+  {
+   "w": "irrelevant",
+   "pos": "adj.",
+   "meaning": "不相關的",
+   "example": "His answer was irrelevant to the question.",
+   "family": "relevant (反義)"
+  },
+  {
+   "w": "equivalent",
+   "pos": "adj.",
+   "meaning": "相等的",
+   "example": "One dollar is roughly equivalent to 30 NT dollars.",
+   "family": "equivalence (n.)"
+  },
+  {
+   "w": "reflex",
+   "pos": "n.",
+   "meaning": "反射動作",
+   "example": "Blinking is a reflex.",
+   "family": "reflexive (adj.)"
+  },
+  {
+   "w": "subsequent",
+   "pos": "adj.",
+   "meaning": "隨後的",
+   "example": "Subsequent events proved him right.",
+   "family": "subsequently (adv.)"
+  },
+  {
+   "w": "insufficiently",
+   "pos": "adv.",
+   "meaning": "不足地",
+   "example": "The room was insufficiently heated.",
+   "family": "sufficient (adj.)"
+  },
+  {
+   "w": "predetermined",
+   "pos": "adj.",
+   "meaning": "預先決定的",
+   "example": "The result was predetermined.",
+   "family": "determine (v.)"
+  },
+  {
+   "w": "universality",
+   "pos": "n.",
+   "meaning": "普遍性",
+   "example": "Scientists debate the universality of the theory.",
+   "family": "universal (adj.)"
+  },
+  {
+   "w": "inertia",
+   "pos": "n.",
+   "meaning": "惰性；慣性",
+   "example": "Inertia keeps us using the same apps.",
+   "family": "inert (adj.)"
+  },
+  {
+   "w": "inflated",
+   "pos": "adj.",
+   "meaning": "灌水的、膨脹的",
+   "example": "The report used inflated numbers.",
+   "family": "inflate (v.), inflation (n.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "has nothing to do with",
+   "type": "phrase",
+   "meaning": "與……無關",
+   "usage": "A has nothing to do with B。",
+   "example": "My mood has nothing to do with you.",
+   "writing": "N + has nothing to do with + N"
+  },
+  {
+   "phrase": "miss out",
+   "type": "phrase",
+   "meaning": "錯過（好事）",
+   "usage": "miss out (on sth)。",
+   "example": "Don’t miss out on the sale!",
+   "writing": "Don’t miss out!"
+  },
+  {
+   "phrase": "on purpose",
+   "type": "phrase",
+   "meaning": "故意地、有意識地",
+   "usage": "常與 by accident 對比。",
+   "example": "She left early on purpose.",
+   "writing": "make choices on purpose rather than by reflex"
+  },
+  {
+   "phrase": "part with",
+   "type": "phrase",
+   "meaning": "割捨、放棄（擁有的東西）",
+   "usage": "part with sth：不情願地交出。",
+   "example": "He refused to part with his old guitar.",
+   "writing": "S + demanded $N to part with + N"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "In the same way, S + V",
+   "meaning": "同樣地，……",
+   "example": "An anchor holds a ship in one place. In the same way, the first number we see holds our mind in one place.",
+   "tip": "用類比解釋抽象概念。"
+  },
+  {
+   "frame": "Those who A + V; those who B + V",
+   "meaning": "做 A 的人……；做 B 的人……",
+   "example": "Those who saw 10 guessed 25% on average; those who saw 65 guessed 45%.",
+   "tip": "描述實驗兩組結果的標準句型。"
+  },
+  {
+   "frame": "S + did not conclude that A; rather, S + showed that B",
+   "meaning": "……並沒有下結論說 A；而是證明了 B",
+   "example": "Kahneman did not conclude that people are foolish; rather, he showed that intuitive judgement follows predictable patterns.",
+   "tip": "修正常見誤解。"
+  }
+ ],
+ "quote": {
+  "text": "The response to losses is stronger than the response to corresponding gains.",
+  "author": "Daniel Kahneman",
+  "work": "Kahneman’s definition of loss aversion, as quoted in the Wikipedia article “Loss aversion”",
+  "url": "https://en.wikipedia.org/wiki/Loss_aversion"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "What is the writer’s question about the $499 jacket?",
+    "options": [
+     "Is it the right colour?",
+     "Is $499 really cheap?",
+     "Is the shop open?",
+     "Is it too big?"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "But is $499 really cheap?"
+   },
+   {
+    "q": "What did people who saw 65 on the wheel guess?",
+    "options": [
+     "About 10%",
+     "About 25%",
+     "About 45%",
+     "About 65%"
+    ],
+    "a": 2,
+    "why": "第三段。",
+    "evidence": "People who saw 65 guessed about 45%."
+   },
+   {
+    "q": "What is loss aversion?",
+    "options": [
+     "Losing feels worse than winning feels good",
+     "Liking to lose",
+     "Never buying anything",
+     "Winning the Nobel Prize"
+    ],
+    "a": 0,
+    "why": "第四段。",
+    "evidence": "losing feels worse than winning feels good"
+   },
+   {
+    "q": "What does the writer suggest you ask before buying?",
+    "options": [
+     "Is this the last one?",
+     "Would I pay $499 if I never saw the first number?",
+     "Can I get it cheaper online?",
+     "Do my friends have one?"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "Would I pay $499 for this if I never saw the first number?"
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "What was the median estimate when the sequence started with 8 × 7 × 6?",
+    "options": [
+     "512",
+     "2,250",
+     "40,320",
+     "8"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "When it started with 8 × 7 × 6, the median was 2,250."
+   },
+   {
+    "q": "What does the wheel study show?",
+    "options": [
+     "Wheels are fun",
+     "Even meaningless numbers can shift judgements",
+     "People know a lot about Africa",
+     "The UN has 65 members"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "A meaningless number had shifted a factual judgement by twenty points."
+   },
+   {
+    "q": "In the 1990 mug experiment, how much did owners ask for?",
+    "options": [
+     "About $3",
+     "About $5",
+     "About $7",
+     "About $10"
+    ],
+    "a": 2,
+    "why": "第四段。",
+    "evidence": "students who were given a mug asked for about $7 to sell it"
+   },
+   {
+    "q": "According to Kahneman, what are these reactions?",
+    "options": [
+     "Signs of stupidity",
+     "Normal features of human thinking",
+     "Rare mistakes",
+     "Tricks invented by shops"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "these reactions are not signs of stupidity but normal features of human thinking"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "What assumption of traditional economics does the price tag challenge?",
+    "options": [
+     "That prices always rise",
+     "That people evaluate prices and risks more or less rationally",
+     "That shops are honest",
+     "That jackets are expensive"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "people evaluate prices and risks more or less rationally"
+   },
+   {
+    "q": "Why do anchors bias estimates, according to the writer?",
+    "options": [
+     "People adjust away from them insufficiently",
+     "People forget them",
+     "People always choose the higher number",
+     "Anchors are always correct"
+    ],
+    "a": 0,
+    "why": "第二段。",
+    "evidence": "because people adjust away from it insufficiently"
+   },
+   {
+    "q": "What do studies that failed to reproduce anchoring suggest?",
+    "options": [
+     "Anchoring never happens",
+     "Participants may sometimes treat an anchor as a hint",
+     "Dice are unreliable",
+     "Gandhi lived to 140"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "suggesting that participants may sometimes treat an anchor as a hint"
+   },
+   {
+    "q": "How do retailers “frame inaction as loss”?",
+    "options": [
+     "By lowering prices permanently",
+     "Through countdown timers and warnings that stock is running out",
+     "By giving free mugs",
+     "By hiding prices"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "through countdown timers and warnings that stock is running out"
+   }
+  ]
+ },
+ "reflections": [
+  "Find one advertisement or online shop that uses an anchor or a “don’t miss out” message. How does it try to influence you?",
+  "Is it fair for shops to use these psychological tricks? Where would you draw the line?"
+ ],
+ "videos": [
+  {
+   "title": "Are we in control of our own decisions?",
+   "channel": "TED · Dan Ariely",
+   "url": "https://www.ted.com/talks/dan_ariely_are_we_in_control_of_our_own_decisions",
+   "kind": "TED",
+   "desc": "A behavioural economist shows how visual and cognitive illusions shape our choices.",
+   "zh": "行為經濟學家展示視覺與認知錯覺如何影響我們的選擇。",
+   "question": "Which example in the talk is similar to an anchor?"
+  }
+ ]
+}

@@ -1,0 +1,453 @@
+{
+ "id": "yellowstone-wolves",
+ "category": "環境",
+ "title": "Did Wolves Really Change Yellowstone’s Rivers?",
+ "subtitle": "狼真的改變了黃石公園的河流嗎？營養級聯與科學爭議",
+ "source": "原創議題文章；依 Wikipedia〈History of wolves in Yellowstone〉、Brice, Larsen & MacNulty（Ecology Letters, 2022）摘要、MacNulty et al.（Yellowstone Science 24-1, NPS）核對，2026-10-22",
+ "sources": [
+  {
+   "title": "Wikipedia: History of wolves in Yellowstone",
+   "url": "https://en.wikipedia.org/wiki/History_of_wolves_in_Yellowstone",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Brice, E. M., Larsen, E. J., & MacNulty, D. R. (2022). Sampling bias exaggerates a textbook example of a trophic cascade. Ecology Letters, 25(1), 177–188.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34748261/",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "MacNulty, D. R. et al. The Challenge of Understanding Northern Yellowstone Elk Dynamics after Wolf Reintroduction. Yellowstone Science 24(1), National Park Service.",
+   "url": "https://www.nps.gov/yell/learn/ys-24-1-the-challenge-of-understanding-northern-yellowstone-elk-dynamics-after-wolf-reintroduction.htm",
+   "accessed": "2026-10-22"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "The Wolves Come Home",
+   "paras": [
+    [
+     "Yellowstone is a famous national park in the United States. Long ago, many wolves lived there. But people killed them, and the last wolves in the park were killed in 1926. For about seventy years, Yellowstone had no wolves. Government programs to control dangerous animals helped kill them.",
+     "黃石是美國一座有名的國家公園。很久以前，那裡住著許多狼。但人們殺了牠們，園區裡最後的狼在 1926 年被殺死。大約七十年間，黃石公園一隻狼也沒有。政府控制危險動物的計畫，幫忙殺光了牠們。"
+    ],
+    [
+     "In 1995, scientists brought 14 wolves from Canada to Yellowstone. In 1996, 17 more arrived. The wolves hunted elk, a kind of large deer. Over the next years, the number of elk in the north of the park went down a lot. But wolves are not perfect hunters. When they chase elk, they usually fail.",
+     "1995 年，科學家從加拿大帶了 14 隻狼到黃石公園；1996 年，又來了 17 隻。這些狼獵捕麋鹿（一種大型的鹿）。接下來幾年，園區北部的麋鹿數量大幅減少。但狼並不是完美的獵人。牠們追麋鹿時，通常都會失敗。"
+    ],
+    [
+     "Then something interesting happened. With fewer elk eating young trees, some willow and aspen trees began to grow again. Beavers need willow, and their numbers grew too: from one beaver colony in 2001 to nine in 2011. This chain of changes is called a “trophic cascade”.",
+     "接著發生了一件有趣的事。吃小樹的麋鹿變少了，一些柳樹和白楊開始重新生長。河狸需要柳樹，牠們的數量也增加了：從 2001 年的一個河狸群落，增加到 2011 年的九個。這一連串的變化，叫作「營養級聯」。"
+    ],
+    [
+     "A popular video says that the wolves even changed the shape of the rivers. Millions of people have watched it. But many scientists say the real story is more complicated. Bears, mountain lions, human hunters and the weather also affected the elk.",
+     "一支很紅的影片說，狼甚至改變了河流的形狀，有幾百萬人看過。但很多科學家說，真實的情況更複雜。熊、美洲獅、人類獵人和天氣，也都影響了麋鹿。"
+    ],
+    [
+     "Also, some early studies measured only the tallest young trees. A 2022 study found that this made the recovery look much bigger than it really was. The wolves did help, but less than people thought. Good science means checking a great story carefully. So scientists must choose trees at random, not just the tallest ones, to get a fair answer.",
+     "此外，一些早期研究只測量最高的小樹。2022 年的一項研究發現，這讓樹林的恢復看起來比實際大得多。狼確實有幫助，但沒有大家以為的那麼多。好的科學，就是仔細檢查一個精彩的故事。所以科學家必須隨機挑選樹木，而不是只挑最高的，才能得到公平的答案。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "Did Wolves Really Change Yellowstone’s Rivers?",
+   "paras": [
+    [
+     "When Yellowstone National Park was created in 1872, nobody protected its wolves. Government programmes to control predators helped eliminate them, and the last wolves in the park were killed in 1926. For nearly seventy years, the park’s largest predator was missing — and many scientists believed the whole ecosystem had changed as a result.",
+     "1872 年黃石國家公園成立時，沒有人保護園裡的狼。政府的掠食者控制計畫幫忙消滅了牠們，園區最後的狼在 1926 年被殺死。將近七十年間，園區最大的掠食者消失了——許多科學家相信，整個生態系也因此改變。"
+    ],
+    [
+     "In January 1995, wildlife officials captured 14 wolves in Alberta, Canada, and released them in Yellowstone. Seventeen more followed in 1996. The wolves hunted elk, and the northern elk herd, which had reached a record 19,045 animals in 1994, fell to 3,915 by 2013. Wolves are not especially efficient hunters, however: their success rate when hunting elk in northern Yellowstone has rarely been higher than 20%. Before the reintroduction, planners had predicted that each wolf would kill about 12 elk a year; the real average turned out to be about 22.",
+     "1995 年 1 月，野生動物官員在加拿大亞伯達省捕捉了 14 隻狼，並在黃石公園野放。1996 年又有 17 隻接著到來。狼獵捕麋鹿，而北部麋鹿群在 1994 年曾達到創紀錄的 19,045 頭，到 2013 年降到了 3,915 頭。不過，狼並不是特別有效率的獵人：牠們在黃石北部獵捕麋鹿的成功率，很少超過 20%。重新引入之前，規劃人員預測每隻狼一年大約會殺 12 頭麋鹿；實際的平均數字卻是大約 22 頭。"
+    ],
+    [
+     "What happened next became famous. With fewer elk — and elk moving around more to avoid wolves — young willows, cottonwoods and aspens recovered in some areas. Beavers, which depend on willow in winter, increased from one colony in 2001 to nine in 2011. Ecologists call this kind of chain reaction, flowing down from a top predator, a trophic cascade.",
+     "接下來發生的事變得很有名。麋鹿變少了，而且麋鹿為了躲狼而更常移動，某些地區的小柳樹、三角葉楊和白楊恢復了生長。冬天依賴柳樹的河狸，從 2001 年的一個群落增加到 2011 年的九個。生態學家把這種從頂級掠食者往下傳遞的連鎖反應，稱為營養級聯。"
+    ],
+    [
+     "A short video called “How Wolves Change Rivers” spread the story around the world, claiming the wolves even reshaped riverbanks. Yet researchers who study the park urge caution. The reintroduction was not a controlled experiment, and many other factors changed at the same time: grizzly bears and cougars were increasing, human hunters killed elk outside the park, and weather varied. Strikingly, in December 1994 — before the first wolves had even left their pens — managers counted 2,254 fewer elk than the previous winter, for reasons that hunting alone did not fully explain.",
+     "一支名為〈狼如何改變河流〉的短片，把這個故事傳遍全世界，聲稱狼甚至重塑了河岸。然而，研究黃石公園的學者呼籲要謹慎。狼的重新引入並不是一場對照實驗，而且很多其他因素同時在改變：灰熊和美洲獅數量增加、人類獵人在園外獵殺麋鹿、天氣也在變化。值得注意的是，1994 年 12 月——第一批狼甚至還沒離開圍欄——管理人員清點到的麋鹿就比前一個冬天少了 2,254 頭，而且光靠狩獵無法完全解釋原因。"
+    ],
+    [
+     "Measurement mattered too. A 2022 study found that a tradition of sampling only the tallest young aspens had overestimated the trees’ recovery by four to seven times compared with random sampling. A trophic cascade was still there, but it was weaker. The lesson is not that the wolves did nothing, but that even a beautiful scientific story must survive careful measurement.",
+     "測量方式也很重要。2022 年的一項研究發現，只取樣最高小白楊的傳統做法，和隨機取樣相比，把樹木的恢復高估了四到七倍。營養級聯仍然存在，只是比較弱。這個教訓不是狼毫無作用，而是：即使是一個美麗的科學故事，也必須禁得起仔細的測量。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "A Textbook Cascade, Re-examined",
+   "paras": [
+    [
+     "Few ecological stories are told as often, or as movingly, as the return of the wolf to Yellowstone. Government predator control in the early twentieth century helped eliminate the species from the park, and the last wolves there were killed in 1926. Their absence, many ecologists argued, left elk free to browse streamside vegetation without fear, gradually degrading the landscape. The reintroduction of 1995 therefore became more than a conservation project: it was treated as a natural experiment in how top predators shape ecosystems.",
+     "很少有生態故事像狼重返黃石公園這樣，被如此頻繁、如此動人地講述。二十世紀初政府的掠食者控制，幫忙把狼從園區消滅，最後的狼在 1926 年被殺死。許多生態學家主張，狼的缺席讓麋鹿可以毫無顧忌地啃食溪邊植物，逐漸讓地景退化。因此，1995 年的重新引入不只是一項保育計畫：它被視為一場自然實驗，用來觀察頂級掠食者如何塑造生態系。"
+    ],
+    [
+     "The facts of the reintroduction are well documented. Fourteen wolves captured near Hinton, Alberta, arrived in January 1995, and seventeen more followed in 1996. Their main prey was elk. The northern elk herd, which had reached a record count of 19,045 in January 1994, declined to 3,915 by 2013. Over the same period, willows, cottonwoods and aspens regenerated in parts of the park, and beaver colonies rose from one in 2001 to nine in 2011.",
+     "重新引入的事實有詳細的紀錄。在亞伯達省辛頓附近捕捉的十四隻狼於 1995 年 1 月抵達，1996 年又有十七隻跟進。牠們的主要獵物是麋鹿。北部麋鹿群在 1994 年 1 月曾創下 19,045 頭的紀錄，到 2013 年降至 3,915 頭。同一時期，園區部分地區的柳樹、三角葉楊和白楊重新生長，河狸群落也從 2001 年的一個增加到 2011 年的九個。"
+    ],
+    [
+     "These parallel trends gave rise to a compelling narrative of a trophic cascade: wolves reduce and frighten elk, elk browse less, plants recover, and beavers and other species follow. Popularised by the widely shared video “How Wolves Change Rivers”, the story even claimed that wolves had altered the physical shape of rivers. Its elegance is precisely what makes it worth examining. As one group of Yellowstone researchers has pointed out, the reintroduction was neither a controlled nor a replicated experiment, and factors such as precipitation, winter severity and other predators, including humans, varied enormously at the same time.",
+     "這些同步出現的趨勢，催生了一個引人入勝的營養級聯敘事：狼減少並驚嚇麋鹿，麋鹿啃食變少，植物恢復，河狸和其他物種隨之而來。這個故事因廣為流傳的影片〈狼如何改變河流〉而普及，甚至宣稱狼改變了河流的實體形狀。正是它的優雅，讓它值得被檢驗。一群黃石研究者指出，狼的重新引入既不是對照實驗，也無法重複，而且降水、冬季嚴寒程度，以及包括人類在內的其他掠食者，都在同一時期劇烈變化。"
+    ],
+    [
+     "The elk decline itself had several causes. Grizzly bears and cougars were increasing, and bears in particular were killing a growing share of elk calves. Human hunters outside the park removed large numbers of adult females during the late-season hunt. Wolves undoubtedly contributed, but the size of their contribution remains disputed. Under such conditions, attributing plant recovery to wolves alone is far harder than the popular story suggests. Tellingly, the latest decline had begun before the wolves were even released: in December 1994, managers counted 2,254 fewer elk than in the previous winter.",
+     "麋鹿減少本身就有多重原因。灰熊和美洲獅數量增加，尤其是熊，殺死的麋鹿幼崽比例越來越高。園區外的人類獵人在晚季狩獵中獵殺了大量成年母鹿。狼無疑有所貢獻，但貢獻有多大仍有爭議。在這種情況下，要把植物的恢復完全歸功於狼，遠比通俗故事暗示的困難得多。耐人尋味的是，這波減少在狼被野放之前就已經開始了：1994 年 12 月，管理人員清點到的麋鹿比前一個冬天少了 2,254 頭。"
+    ],
+    [
+     "A further problem concerned how recovery was measured. In a 2022 study in Ecology Letters, Elaine Brice and colleagues showed that a long-standing practice of sampling only the tallest young aspens had overestimated regeneration by a factor of four to seven compared with random sampling, because it favoured plants already above the height elk prefer to browse and overlooked stands that were not regenerating at all. Random sampling still revealed a trophic cascade — but a weaker one. The episode is a reminder that a story can be partly true and still be exaggerated, and that basic principles such as randomisation are what separate an appealing narrative from reliable knowledge.",
+     "另一個問題在於恢復是如何測量的。在 2022 年發表於《生態學通訊》的研究中，伊蓮．布萊斯和同事證明：長期以來只取樣最高小白楊的做法，與隨機取樣相比，把再生程度高估了四到七倍，因為它偏向已經長得比麋鹿偏好啃食高度還高的植株，並忽略了完全沒有再生的林分。隨機取樣仍然顯示出營養級聯——只是比較弱。這件事提醒我們：一個故事可以部分為真，卻仍然被誇大；而像隨機化這樣的基本原則，正是區分動人敘事與可靠知識的關鍵。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "absence",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "reintroduction",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "cascade",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "other-factors",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "sampling",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "national park",
+   "pos": "n.",
+   "meaning": "國家公園",
+   "example": "We camped in a national park.",
+   "family": "nation (n.), national (adj.)"
+  },
+  {
+   "w": "colony",
+   "pos": "n.",
+   "meaning": "（動物）群落；殖民地",
+   "example": "A colony of ants lives under the tree.",
+   "family": "colonies (pl.)"
+  },
+  {
+   "w": "complicated",
+   "pos": "adj.",
+   "meaning": "複雜的",
+   "example": "The rules are complicated.",
+   "family": "complicate (v.)"
+  },
+  {
+   "w": "predator",
+   "pos": "n.",
+   "meaning": "掠食者",
+   "example": "The lion is a top predator.",
+   "family": "predatory (adj.), prey (n.) 獵物"
+  },
+  {
+   "w": "eliminate",
+   "pos": "v.",
+   "meaning": "消滅、排除",
+   "example": "We must eliminate the mistakes.",
+   "family": "elimination (n.)"
+  },
+  {
+   "w": "ecosystem",
+   "pos": "n.",
+   "meaning": "生態系",
+   "example": "Plastic harms the ocean ecosystem.",
+   "family": "ecology (n.)"
+  },
+  {
+   "w": "recovered",
+   "pos": "v.",
+   "meaning": "恢復（過去式）",
+   "example": "The town recovered after the storm.",
+   "family": "recovery (n.)"
+  },
+  {
+   "w": "caution",
+   "pos": "n.",
+   "meaning": "謹慎",
+   "example": "Use caution on icy roads.",
+   "family": "cautious (adj.)"
+  },
+  {
+   "w": "overestimated",
+   "pos": "v.",
+   "meaning": "高估（過去式）",
+   "example": "We overestimated the cost.",
+   "family": "estimate (v./n.), underestimate (反義)"
+  },
+  {
+   "w": "compelling",
+   "pos": "adj.",
+   "meaning": "引人入勝的；有說服力的",
+   "example": "She made a compelling argument.",
+   "family": "compel (v.)"
+  },
+  {
+   "w": "attributing",
+   "pos": "v.",
+   "meaning": "歸因於（V-ing）",
+   "example": "He is attributing his success to luck.",
+   "family": "attribute (v.), attribution (n.)"
+  },
+  {
+   "w": "regeneration",
+   "pos": "n.",
+   "meaning": "再生",
+   "example": "Forest regeneration takes decades.",
+   "family": "regenerate (v.)"
+  },
+  {
+   "w": "randomisation",
+   "pos": "n.",
+   "meaning": "隨機化",
+   "example": "Randomisation reduces bias.",
+   "family": "random (adj.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "went down",
+   "type": "phrase",
+   "meaning": "下降（go down 的過去式）",
+   "usage": "數量、價格下降。",
+   "example": "Prices went down last month.",
+   "writing": "The number of N + went down"
+  },
+  {
+   "phrase": "as a result",
+   "type": "phrase",
+   "meaning": "因此、結果",
+   "usage": "連接原因與結果，常放句首或句尾。",
+   "example": "It rained all day. As a result, the game was cancelled.",
+   "writing": "S + V + as a result."
+  },
+  {
+   "phrase": "depend on",
+   "type": "phrase",
+   "meaning": "依賴",
+   "usage": "depend on sb/sth。",
+   "example": "Many animals depend on the river.",
+   "writing": "N, which depend on + N"
+  },
+  {
+   "phrase": "gave rise to",
+   "type": "phrase",
+   "meaning": "引起、催生（give rise to 的過去式）",
+   "usage": "正式寫作常用。",
+   "example": "The discovery gave rise to new questions.",
+   "writing": "These trends gave rise to + N"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "The lesson is not that A, but that B",
+   "meaning": "教訓不是 A，而是 B",
+   "example": "The lesson is not that the wolves did nothing, but that even a beautiful scientific story must survive careful measurement.",
+   "tip": "先排除過度解讀，再說明真正的重點。"
+  },
+  {
+   "frame": "Its + N is precisely what makes it worth + V-ing",
+   "meaning": "正是它的……讓它值得……",
+   "example": "Its elegance is precisely what makes it worth examining.",
+   "tip": "製造轉折：優點反而是需要檢驗的理由。"
+  },
+  {
+   "frame": "A can be partly true and still be + adj.",
+   "meaning": "A 可以部分為真，卻仍然……",
+   "example": "A story can be partly true and still be exaggerated.",
+   "tip": "批判思考寫作的關鍵句型。"
+  }
+ ],
+ "quote": {
+  "text": "The first principle is that you must not fool yourself—and you are the easiest person to fool.",
+  "author": "Richard P. Feynman",
+  "work": "“Cargo Cult Science”, Caltech commencement address, 1974",
+  "url": "https://calteches.library.caltech.edu/51/2/CargoCult.htm"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "When were the last wolves in Yellowstone killed?",
+    "options": [
+     "1872",
+     "1926",
+     "1995",
+     "2013"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "the last wolves in the park were killed in 1926"
+   },
+   {
+    "q": "Where did the wolves come from in 1995?",
+    "options": [
+     "Mexico",
+     "Canada",
+     "Alaska",
+     "Europe"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "In 1995, scientists brought 14 wolves from Canada to Yellowstone."
+   },
+   {
+    "q": "Why did the number of beavers grow?",
+    "options": [
+     "People fed them",
+     "More willow trees grew",
+     "Wolves protected them",
+     "The rivers got bigger"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "Beavers need willow, and their numbers grew too"
+   },
+   {
+    "q": "What did the 2022 study find?",
+    "options": [
+     "Wolves did nothing",
+     "Measuring only the tallest trees made the recovery look bigger",
+     "There were no trees",
+     "The video was correct"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "this made the recovery look much bigger than it really was"
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "How did the northern elk herd change between 1994 and 2013?",
+    "options": [
+     "It grew to 19,045",
+     "It fell from 19,045 to 3,915",
+     "It stayed the same",
+     "It disappeared"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "had reached a record 19,045 animals in 1994, fell to 3,915 by 2013"
+   },
+   {
+    "q": "What is a trophic cascade?",
+    "options": [
+     "A waterfall in the park",
+     "A chain reaction flowing down from a top predator",
+     "A kind of tree",
+     "A beaver dam"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "this kind of chain reaction, flowing down from a top predator, a trophic cascade"
+   },
+   {
+    "q": "Why do researchers urge caution?",
+    "options": [
+     "The video was too short",
+     "It was not a controlled experiment and many factors changed at once",
+     "Wolves are dangerous",
+     "There was no data"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "The reintroduction was not a controlled experiment, and many other factors changed at the same time"
+   },
+   {
+    "q": "By how much had sampling the tallest aspens overestimated recovery?",
+    "options": [
+     "Two times",
+     "Four to seven times",
+     "Ten times",
+     "It had not"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "had overestimated the trees’ recovery by four to seven times"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "Why was the 1995 reintroduction “more than a conservation project”?",
+    "options": [
+     "It cost a lot of money",
+     "It was treated as a natural experiment on how top predators shape ecosystems",
+     "It made the park famous",
+     "It was illegal"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "it was treated as a natural experiment in how top predators shape ecosystems"
+   },
+   {
+    "q": "According to the writer, why is the cascade story “worth examining”?",
+    "options": [
+     "Because it is boring",
+     "Because its elegance makes it attractive",
+     "Because it is false",
+     "Because the video was banned"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "Its elegance is precisely what makes it worth examining."
+   },
+   {
+    "q": "Which factor in the elk decline is NOT mentioned in the passage?",
+    "options": [
+     "Grizzly bears",
+     "Human hunters",
+     "A disease outbreak",
+     "Cougars"
+    ],
+    "a": 2,
+    "why": "第四段提到灰熊、美洲獅與獵人，沒提到疾病。",
+    "evidence": "Grizzly bears and cougars were increasing"
+   },
+   {
+    "q": "Why did sampling the tallest young aspens produce misleading results?",
+    "options": [
+     "It favoured plants already above the height elk prefer to browse",
+     "It counted beavers instead",
+     "It was done in winter",
+     "It used random sampling"
+    ],
+    "a": 0,
+    "why": "最後一段。",
+    "evidence": "because it favoured plants already above the height elk prefer to browse"
+   }
+  ]
+ },
+ "reflections": [
+  "Have you ever shared a story online because it sounded amazing? How could you have checked it first?",
+  "The writer says a story can be “partly true and still be exaggerated”. Give another example from science, history or the news."
+ ],
+ "videos": [
+  {
+   "title": "How Wolves Change Rivers",
+   "channel": "YouTube · Sustainable Human",
+   "url": "https://www.youtube.com/watch?v=ysa5OBhXz-Q",
+   "kind": "YouTube",
+   "desc": "The famous viral video that made the Yellowstone trophic cascade story popular.",
+   "zh": "讓黃石營養級聯故事爆紅的知名影片。",
+   "question": "After reading this article, which claims in the video would you want to check?"
+  }
+ ]
+}

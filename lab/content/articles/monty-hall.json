@@ -1,0 +1,443 @@
+{
+ "id": "monty-hall",
+ "category": "數學與機率",
+ "title": "Should You Switch Doors?",
+ "subtitle": "該不該換門？蒙提霍爾問題與機率直覺的陷阱",
+ "source": "原創議題文章；依 Wikipedia〈Monty Hall problem〉所整理之 Selvin（1975）、vos Savant（1990–91）、Tierney（1991）、Herbranson & Schroeder（2010）等資料核對，2026-10-22",
+ "sources": [
+  {
+   "title": "Wikipedia: Monty Hall problem",
+   "url": "https://en.wikipedia.org/wiki/Monty_Hall_problem",
+   "accessed": "2026-10-22"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "Three Doors, One Car",
+   "paras": [
+    [
+     "Imagine you are on a TV game show. There are three doors. Behind one door is a new car. Behind the other two are goats. You choose a door — say, door 1. You hope the car is behind it. This puzzle is named after Monty Hall, the host of an American game show called Let’s Make a Deal.",
+     "想像你參加一個電視益智節目。台上有三扇門，其中一扇門後面是一輛新車，另外兩扇門後面是山羊。你選了一扇門——假設是 1 號門。你希望車子就在它後面。這道謎題以蒙提．霍爾命名，他是美國益智節目《來做筆交易吧》的主持人。"
+    ],
+    [
+     "Then the host, who knows where the car is, opens door 3. There is a goat behind it. Now he asks you: “Do you want to change to door 2?” What should you do? Most people say it does not matter. They think each door now has a 50% chance.",
+     "接著，知道車子在哪裡的主持人打開了 3 號門，門後是一隻山羊。這時他問你：「你要不要換成 2 號門？」你該怎麼做？大多數人說沒差，他們認為現在每扇門都有 50% 的機會。"
+    ],
+    [
+     "Surprisingly, you should switch. If you switch, you win the car two times out of three. If you stay, you win only one time out of three. Why? When you first chose, you had only a 1 in 3 chance. The host’s choice did not change that. So the other door now has a 2 in 3 chance.",
+     "出人意料的是，你應該換。如果你換門，三次裡有兩次會贏得車子；如果你不換，三次裡只有一次會贏。為什麼？你一開始選的時候，只有三分之一的機會。主持人的選擇並沒有改變這一點，所以另一扇門現在有三分之二的機會。"
+    ],
+    [
+     "In 1990, a writer called Marilyn vos Savant explained this answer in a magazine. About 10,000 readers wrote to say she was wrong. Nearly 1,000 of them had PhDs! Even a famous mathematician did not believe it until he saw a computer test.",
+     "1990 年，一位名叫瑪莉蓮．沃斯．莎凡特的作家在雜誌上解釋了這個答案。大約一萬名讀者寫信說她錯了，其中將近一千人擁有博士學位！甚至有一位知名數學家，直到看了電腦模擬才相信。"
+    ],
+    [
+     "Here is the funny part: pigeons learn to switch faster than people do. Our feelings about chance are often wrong. When a puzzle seems easy, it is a good idea to test it. You can try it yourself with three cups and a coin.",
+     "最好笑的是：鴿子學會換門的速度比人類還快。我們對機率的直覺常常是錯的。當一個謎題看起來很簡單時，最好親自測試看看。你可以用三個杯子和一枚硬幣自己試試。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "Should You Switch Doors?",
+   "paras": [
+    [
+     "In 1990, a reader sent a puzzle to Marilyn vos Savant’s “Ask Marilyn” column in Parade magazine. You are on a game show with three doors. Behind one is a car; behind the others, goats. You pick door 1. The host, who knows what is behind every door, opens door 3 to reveal a goat. He then asks whether you want to switch to door 2. Is it to your advantage to switch?",
+     "1990 年，一位讀者寄了一道謎題給《Parade》雜誌瑪莉蓮．沃斯．莎凡特的「問瑪莉蓮」專欄。你參加一個有三扇門的益智節目，一扇門後是車，另外兩扇後是山羊。你選了 1 號門。知道每扇門後面是什麼的主持人打開 3 號門，露出一隻山羊，然後問你要不要換成 2 號門。換門對你有利嗎？"
+    ],
+    [
+     "Most people feel sure the answer is no: with two doors left, the chances must be fifty-fifty. Vos Savant said you should switch. Under the standard assumptions — that the host always opens a door, always reveals a goat and always offers a switch — switching wins two-thirds of the time, while staying wins only one-third.",
+     "大多數人很確定答案是否定的：只剩兩扇門，機會一定是一半一半。沃斯．莎凡特卻說你應該換。在標準假設下——主持人一定會開門、一定會露出山羊、一定會讓你換——換門贏的機率是三分之二，不換只有三分之一。"
+    ],
+    [
+     "The key is that the host’s action is not random. When you first choose, there is a two-thirds chance that the car is behind one of the other doors. The host, who must avoid the car, removes one wrong option from that group, so the whole two-thirds chance moves to the one door he leaves closed. Vos Savant offered a vivid version: imagine a million doors, and the host opens every one except your choice and door 777,777. You would switch pretty quickly.",
+     "關鍵在於，主持人的行動不是隨機的。你一開始選的時候，車子有三分之二的機率在另外兩扇門之一後面。必須避開車子的主持人，從那一組裡拿掉一個錯誤選項，所以整整三分之二的機率，就轉移到他留著沒開的那扇門上。沃斯．莎凡特提出一個生動的版本：想像有一百萬扇門，主持人把除了你選的那扇和 777,777 號門以外的門全部打開。你會很快就換門。"
+    ],
+    [
+     "Her answer caused an uproar. About 10,000 readers, including nearly 1,000 with PhDs, wrote to the magazine, most of them insisting she was wrong. Paul Erdős, one of the most productive mathematicians in history, remained unconvinced until he was shown a computer simulation. The puzzle had actually been posed earlier, by the statistician Steve Selvin in 1975. Even when given explanations and formal proofs, many readers still refused to accept the answer, and the argument reached the front page of The New York Times.",
+     "她的答案引發一片譁然。大約一萬名讀者寫信給雜誌，其中將近一千人有博士學位，大多數人堅稱她錯了。史上最多產的數學家之一保羅．艾狄胥，一直到看了電腦模擬才被說服。其實這道謎題更早就有人提出過，是統計學家史蒂夫．塞爾文在 1975 年提出的。即使看了解釋和正式證明，許多讀者仍拒絕接受這個答案，這場爭論甚至登上了《紐約時報》頭版。"
+    ],
+    [
+     "Strangely, pigeons that face the problem repeatedly quickly learn to always switch, while humans often keep resisting. The lesson is not that people are bad at maths, but that our intuitions about probability can be confidently wrong. When a problem seems obvious, testing it — with cups, cards or a simple computer program — is often the fastest way to the truth.",
+     "奇怪的是，反覆面對這個問題的鴿子很快就學會一律換門，人類卻常常一直抗拒。這個教訓不是人類數學不好，而是我們對機率的直覺，可能錯得理直氣壯。當一個問題看起來理所當然時，動手測試——用杯子、撲克牌或一個簡單的電腦程式——往往是通往真相最快的路。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "Confidently Wrong: Probability and Intuition",
+   "paras": [
+    [
+     "Few puzzles have humbled as many clever people as the Monty Hall problem. Named after the original host of the American game show Let’s Make a Deal, it was first posed by the statistician Steve Selvin in a 1975 letter to The American Statistician. It became famous in 1990, when a reader’s version appeared in Marilyn vos Savant’s “Ask Marilyn” column in Parade magazine: a contestant chooses one of three doors, behind one of which is a car; the host, who knows where the car is, opens another door to reveal a goat and offers the contestant the chance to switch.",
+     "很少有謎題像蒙提霍爾問題一樣，讓這麼多聰明人吃了苦頭。它以美國益智節目《來做筆交易吧》的首任主持人命名，最早由統計學家史蒂夫．塞爾文在 1975 年寫給《美國統計學家》期刊的信中提出。1990 年，一位讀者的版本出現在《Parade》雜誌瑪莉蓮．沃斯．莎凡特的「問瑪莉蓮」專欄，從此聲名大噪：參賽者從三扇門中選一扇，其中一扇後面有車；知道車在哪的主持人打開另一扇門露出山羊，並讓參賽者有機會換門。"
+    ],
+    [
+     "Vos Savant’s answer — that the contestant should switch — provoked an extraordinary reaction. Approximately 10,000 readers, including nearly 1,000 with PhDs, wrote to the magazine, most of them claiming she was wrong. Even when given explanations, simulations and formal proofs, many still refused to accept the result. The mathematician Paul Erdős reportedly remained unconvinced until he saw a computer simulation, and the controversy reached the front page of The New York Times.",
+     "沃斯．莎凡特的答案——參賽者應該換門——引發了非比尋常的反應。大約一萬名讀者寫信給雜誌，其中將近一千人擁有博士學位，大多數人宣稱她錯了。即使看了解釋、模擬和正式證明，許多人仍拒絕接受這個結果。據說數學家保羅．艾狄胥一直到看了電腦模擬才被說服，這場爭議還登上了《紐約時報》頭版。"
+    ],
+    [
+     "Under the standard assumptions, the mathematics is not difficult. The contestant’s first choice has a one-third chance of being correct, which means there is a two-thirds chance that the car lies behind one of the other two doors. Crucially, the host’s action is constrained: he knows where the car is and will never reveal it. By opening a losing door from the unchosen pair, he concentrates that entire two-thirds probability on the remaining closed door. Switching therefore wins with probability two-thirds; staying, one-third. Vos Savant’s million-door version makes the logic almost visible: if the host opens every door except yours and one other, the other door is plainly the one he was avoiding.",
+     "在標準假設下，數學並不難。參賽者第一次選擇正確的機率是三分之一，也就是說，車子有三分之二的機率在另外兩扇門之一後面。關鍵在於主持人的行動受到限制：他知道車在哪，而且絕不會打開那扇門。他從沒被選的兩扇門中打開一扇輸的門，就把那整整三分之二的機率集中到剩下那扇關著的門上。因此，換門獲勝的機率是三分之二；不換是三分之一。沃斯．莎凡特的百萬扇門版本，幾乎讓這個邏輯一目了然：如果主持人打開除了你和另一扇以外的所有門，那另一扇顯然就是他刻意避開的那扇。"
+    ],
+    [
+     "Why, then, is the error so persistent? Part of the answer is that people treat the two remaining doors as equivalent, ignoring the information carried by the host’s constrained choice. Another part is that the popular wording leaves important conditions unstated. As critics noted at the time, the Parade version did not explicitly say that the host always opens a door and always offers a switch; if he could choose whether to do so, the probabilities might differ. Careful reasoning, in other words, depends not only on calculation but on stating assumptions precisely.",
+     "那麼，為什麼這個錯誤如此頑固？部分原因是，人們把剩下的兩扇門當成等價的，忽略了主持人受限的選擇所帶來的資訊。另一部分原因是，流行的說法沒有講清楚重要的條件。正如當時的批評者指出，《Parade》的版本並沒有明確說主持人一定會開門、一定會讓人換門；如果他可以自行決定要不要這麼做，機率就可能不同。換句話說，嚴謹的推理不只取決於計算，也取決於精確地陳述假設。"
+    ],
+    [
+     "Perhaps the most humbling detail comes from animal research. Pigeons repeatedly exposed to the problem rapidly learn to always switch, whereas humans tend not to. Learning from experience, the birds are untroubled by the conviction that “it must be fifty-fifty”. The cognitive scientist Massimo Piattelli-Palmarini observed that no other statistical puzzle comes so close to fooling everyone. The lasting lesson is that confidence is not evidence: when intuition and calculation disagree, the sensible response is to test the claim rather than defend the feeling.",
+     "也許最令人汗顏的細節來自動物研究。反覆面對這個問題的鴿子，很快就學會一律換門，人類卻往往不會。鳥兒從經驗中學習，不受「一定是一半一半」這種信念的干擾。認知科學家馬西莫．皮亞泰利－帕爾馬里尼指出，沒有其他統計謎題能如此接近騙倒所有人。這個問題留下的教訓是：自信不等於證據。當直覺與計算衝突時，明智的做法是去測試這個說法，而不是為自己的感覺辯護。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "puzzle",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "intuition",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "solution",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "reaction",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "pigeons",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "host",
+   "pos": "n.",
+   "meaning": "主持人",
+   "example": "The host welcomed the guests.",
+   "family": "host (v.)"
+  },
+  {
+   "w": "switch",
+   "pos": "v.",
+   "meaning": "換、切換",
+   "example": "Can we switch seats?",
+   "family": "switch (n.) 開關"
+  },
+  {
+   "w": "chance",
+   "pos": "n.",
+   "meaning": "機會、機率",
+   "example": "There is a good chance of rain.",
+   "family": "chances (pl.)"
+  },
+  {
+   "w": "advantage",
+   "pos": "n.",
+   "meaning": "優勢、好處",
+   "example": "Being tall is an advantage in basketball.",
+   "family": "advantageous (adj.)"
+  },
+  {
+   "w": "assumptions",
+   "pos": "n.",
+   "meaning": "假設（複數）",
+   "example": "Check your assumptions first.",
+   "family": "assume (v.)"
+  },
+  {
+   "w": "uproar",
+   "pos": "n.",
+   "meaning": "騷動、譁然",
+   "example": "The decision caused an uproar.",
+   "family": "—"
+  },
+  {
+   "w": "simulation",
+   "pos": "n.",
+   "meaning": "模擬",
+   "example": "Pilots train with flight simulations.",
+   "family": "simulate (v.)"
+  },
+  {
+   "w": "intuitions",
+   "pos": "n.",
+   "meaning": "直覺（複數）",
+   "example": "Trust your intuitions, but check them.",
+   "family": "intuitive (adj.)"
+  },
+  {
+   "w": "humbled",
+   "pos": "v.",
+   "meaning": "使謙卑、挫敗（p.p.）",
+   "example": "The team was humbled by the loss.",
+   "family": "humble (adj.)"
+  },
+  {
+   "w": "provoked",
+   "pos": "v.",
+   "meaning": "激起、引發（過去式）",
+   "example": "His joke provoked anger.",
+   "family": "provocative (adj.)"
+  },
+  {
+   "w": "constrained",
+   "pos": "adj.",
+   "meaning": "受限制的",
+   "example": "We are constrained by time.",
+   "family": "constraint (n.)"
+  },
+  {
+   "w": "persistent",
+   "pos": "adj.",
+   "meaning": "持續的、頑固的",
+   "example": "She has a persistent cough.",
+   "family": "persist (v.)"
+  },
+  {
+   "w": "conviction",
+   "pos": "n.",
+   "meaning": "堅定的信念",
+   "example": "She spoke with conviction.",
+   "family": "convince (v.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "does not matter",
+   "type": "phrase",
+   "meaning": "沒關係、沒差",
+   "usage": "It does not matter + (wh-子句)。",
+   "example": "It does not matter which one you choose.",
+   "writing": "S + say it does not matter."
+  },
+  {
+   "phrase": "two times out of three",
+   "type": "phrase",
+   "meaning": "三次中有兩次",
+   "usage": "N times out of M：表示頻率。",
+   "example": "He wins nine times out of ten.",
+   "writing": "S + win(s) + two times out of three"
+  },
+  {
+   "phrase": "fifty-fifty",
+   "type": "phrase",
+   "meaning": "一半一半",
+   "usage": "口語，表示機率相等。",
+   "example": "It’s fifty-fifty whether it will rain.",
+   "writing": "the chances must be fifty-fifty"
+  },
+  {
+   "phrase": "in other words",
+   "type": "phrase",
+   "meaning": "換句話說",
+   "usage": "用來改寫或總結前面的內容。",
+   "example": "He’s always late — in other words, unreliable.",
+   "writing": "S + V, in other words, …"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "Few + N + have + p.p. + as many + N + as + S",
+   "meaning": "很少有……像……一樣讓那麼多……",
+   "example": "Few puzzles have humbled as many clever people as the Monty Hall problem.",
+   "tip": "開頭強調獨特性。"
+  },
+  {
+   "frame": "Why, then, is + S + so + adj.?",
+   "meaning": "那麼，為什麼……如此……？",
+   "example": "Why, then, is the error so persistent?",
+   "tip": "用設問帶出下一段的解釋。"
+  },
+  {
+   "frame": "A is not B: when C, the sensible response is to D rather than E",
+   "meaning": "A 不等於 B：當……時，明智的做法是 D 而不是 E",
+   "example": "Confidence is not evidence: when intuition and calculation disagree, the sensible response is to test the claim rather than defend the feeling.",
+   "tip": "結論段的警句。"
+  }
+ ],
+ "quote": {
+  "text": "No other statistical puzzle comes so close to fooling all the people all the time.",
+  "author": "Massimo Piattelli-Palmarini",
+  "work": "As quoted in the Wikipedia article “Monty Hall problem”",
+  "url": "https://en.wikipedia.org/wiki/Monty_Hall_problem"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "What is behind the other two doors?",
+    "options": [
+     "Cars",
+     "Goats",
+     "Money",
+     "Nothing"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "Behind the other two are goats."
+   },
+   {
+    "q": "If you switch, how often do you win?",
+    "options": [
+     "One time out of three",
+     "Two times out of three",
+     "Half the time",
+     "Always"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "If you switch, you win the car two times out of three."
+   },
+   {
+    "q": "How many readers wrote to say vos Savant was wrong?",
+    "options": [
+     "About 100",
+     "About 1,000",
+     "About 10,000",
+     "About 1,000,000"
+    ],
+    "a": 2,
+    "why": "第四段。",
+    "evidence": "About 10,000 readers wrote to say she was wrong."
+   },
+   {
+    "q": "What does the writer suggest you do?",
+    "options": [
+     "Always trust your feelings",
+     "Test the puzzle yourself with three cups and a coin",
+     "Ask a pigeon",
+     "Never play game shows"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "You can try it yourself with three cups and a coin."
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "Where did the puzzle appear in 1990?",
+    "options": [
+     "In a science journal",
+     "In the “Ask Marilyn” column in Parade magazine",
+     "On a TV news show",
+     "In a maths textbook"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "a reader sent a puzzle to Marilyn vos Savant’s “Ask Marilyn” column in Parade magazine"
+   },
+   {
+    "q": "Why does switching work?",
+    "options": [
+     "Because the host’s action is not random",
+     "Because doors are lucky",
+     "Because the car moves",
+     "Because goats are noisy"
+    ],
+    "a": 0,
+    "why": "第三段。",
+    "evidence": "The key is that the host’s action is not random."
+   },
+   {
+    "q": "What finally convinced Paul Erdős?",
+    "options": [
+     "A letter",
+     "A computer simulation",
+     "A game show",
+     "A pigeon"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "remained unconvinced until he was shown a computer simulation"
+   },
+   {
+    "q": "What is the main lesson, according to the writer?",
+    "options": [
+     "People are bad at maths",
+     "Our intuitions about probability can be confidently wrong",
+     "Pigeons are smarter than people",
+     "Game shows are unfair"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "our intuitions about probability can be confidently wrong"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "Who first posed the problem?",
+    "options": [
+     "Monty Hall",
+     "Steve Selvin",
+     "Marilyn vos Savant",
+     "Paul Erdős"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "it was first posed by the statistician Steve Selvin in a 1975 letter"
+   },
+   {
+    "q": "Why does the host’s constrained choice matter?",
+    "options": [
+     "It concentrates the two-thirds probability on the remaining closed door",
+     "It makes the game shorter",
+     "It gives the contestant a free car",
+     "It has no effect"
+    ],
+    "a": 0,
+    "why": "第三段。",
+    "evidence": "he concentrates that entire two-thirds probability on the remaining closed door"
+   },
+   {
+    "q": "What problem with the Parade wording did critics point out?",
+    "options": [
+     "It used too many doors",
+     "It did not explicitly say the host always opens a door and offers a switch",
+     "It was written in French",
+     "It gave the answer away"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "the Parade version did not explicitly say that the host always opens a door and always offers a switch"
+   },
+   {
+    "q": "What is “the lasting lesson” of the problem?",
+    "options": [
+     "Confidence is not evidence",
+     "Always stay with your first choice",
+     "Probability is impossible",
+     "Experts are always wrong"
+    ],
+    "a": 0,
+    "why": "最後一段。",
+    "evidence": "The lasting lesson is that confidence is not evidence"
+   }
+  ]
+ },
+ "reflections": [
+  "Play the game 20 times with a partner using three cups and a coin: switch 10 times and stay 10 times. What happened?",
+  "Have you ever been completely sure about something that turned out to be wrong? What helped you change your mind?"
+ ],
+ "videos": [
+  {
+   "title": "Monty Hall Problem",
+   "channel": "YouTube · Numberphile",
+   "url": "https://www.youtube.com/watch?v=4Lb-6rxZxx0",
+   "kind": "YouTube",
+   "desc": "A clear explanation of the puzzle with cards and diagrams.",
+   "zh": "用卡片和圖解清楚說明這道謎題。",
+   "question": "Which explanation in the video helped you most — and is it the same as the one in this article?"
+  }
+ ]
+}

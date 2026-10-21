@@ -1,0 +1,458 @@
+{
+ "id": "longitude-harrison",
+ "category": "歷史與科學",
+ "title": "The Carpenter Who Solved the Longitude Problem",
+ "subtitle": "解開經度難題的木匠：約翰．哈里森的航海鐘",
+ "source": "原創議題文章；依 Wikipedia〈John Harrison〉〈Longitude Act 1714〉〈Scilly naval disaster of 1707〉與 Royal Museums Greenwich 核對，2026-10-22",
+ "sources": [
+  {
+   "title": "Wikipedia: John Harrison",
+   "url": "https://en.wikipedia.org/wiki/John_Harrison",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Wikipedia: Longitude Act 1714",
+   "url": "https://en.wikipedia.org/wiki/Longitude_Act",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Wikipedia: Scilly naval disaster of 1707",
+   "url": "https://en.wikipedia.org/wiki/Scilly_naval_disaster_of_1707",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Royal Museums Greenwich: Longitude found — the story of Harrison's timekeepers",
+   "url": "https://www.rmg.co.uk/stories/time/harrisons-clocks-longitude-problem",
+   "accessed": "2026-10-22"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "A Clock That Saved Ships",
+   "paras": [
+    [
+     "On 22 October 1707, four British warships hit rocks near the Isles of Scilly, off the coast of England. Between 1,400 and 2,000 sailors died. One reason was simple: the sailors did not know exactly where they were.",
+     "1707 年 10 月 22 日，四艘英國戰艦在英格蘭外海的錫利群島附近觸礁，造成 1,400 到 2,000 名水手死亡。原因之一很簡單：水手們不知道自己確切的位置。"
+    ],
+    [
+     "At sea, finding latitude (how far north or south you are) was quite easy. But finding longitude (how far east or west you are) was very hard. In 1714, the British government offered a huge prize — up to £20,000 — to anyone who could solve this problem.",
+     "在海上，要找出緯度（你在多北或多南）相當容易，但要找出經度（你在多東或多西）卻非常困難。1714 年，英國政府提供一筆巨額獎金——最高兩萬英鎊——給任何能解決這個問題的人。"
+    ],
+    [
+     "Why was time the key? The Earth turns 15 degrees every hour. If sailors knew the exact time at home and the time where their ship was, they could work out their longitude. But no clock could keep good time on a moving, wet ship.",
+     "為什麼時間是關鍵？地球每小時轉 15 度。如果水手知道家鄉的準確時間，也知道船所在地的時間，就能算出經度。但當時沒有任何時鐘能在搖晃又潮濕的船上準確計時。"
+    ],
+    [
+     "John Harrison was a carpenter from a small village in England. He built clocks in his free time and taught himself. Over many years, he made four special clocks. The fourth one, called H4, looked like a large pocket watch. There is a story that when he was six and sick in bed, someone gave him a watch, and he spent hours listening to it and studying how it worked.",
+     "約翰．哈里森是英格蘭一個小村莊的木匠。他利用空閒時間做時鐘，靠自學起家。許多年來，他做了四座特別的時鐘。第四座叫 H4，看起來像一隻大型懷錶。有個傳說是這樣的：他六歲生病躺在床上時，有人給了他一隻錶，他花了好幾個小時聽它的聲音，研究它怎麼運作。"
+    ],
+    [
+     "In 1761, H4 went on a ship to Jamaica. After 81 days, it was only 5 seconds slow. But the officials did not give Harrison the full prize. Finally, in 1773, when he was 80 years old, Parliament gave him £8,750. His idea changed the way ships found their way across the oceans.",
+     "1761 年，H4 搭船前往牙買加。81 天後，它只慢了 5 秒。但官員們並沒有把全額獎金頒給哈里森。最後在 1773 年，他 80 歲時，國會頒給他 8,750 英鎊。他的發明改變了船隻橫渡大洋時找路的方式。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "The Carpenter Who Solved the Longitude Problem",
+   "paras": [
+    [
+     "On the night of 22 October 1707, a British fleet returning from the Mediterranean struck rocks off the Isles of Scilly. Four warships were lost, and between 1,400 and 2,000 sailors died — one of the worst disasters in British naval history. Among the causes was a problem that had troubled sailors for centuries: they could not accurately calculate their position.",
+     "1707 年 10 月 22 日夜裡，一支從地中海返航的英國艦隊在錫利群島外海觸礁。四艘戰艦沉沒，1,400 到 2,000 名水手喪生——這是英國海軍史上最慘重的災難之一。原因之一，是困擾水手好幾個世紀的問題：他們無法準確算出自己的位置。"
+    ],
+    [
+     "Latitude could be found from the height of the sun or the stars, but longitude was another matter. In principle, the solution was clear. Because the Earth turns 15 degrees every hour, the difference between local time and the time at a home port reveals how far east or west a ship has travelled. In practice, no clock could stay accurate at sea, where ships rolled, temperatures changed and the air was wet and salty.",
+     "緯度可以從太陽或星星的高度求得，經度卻是另一回事。原則上，解法很清楚：因為地球每小時轉 15 度，當地時間和母港時間的差距，就能顯示船往東或往西走了多遠。但實際上，沒有任何時鐘能在海上保持準確——船身搖晃、溫度變化，空氣又潮又鹹。"
+    ],
+    [
+     "In 1714 Parliament passed the Longitude Act, which created the Board of Longitude and offered rewards for a practical method. The top prize, £20,000, would go to a method accurate to within half a degree. Many experts expected the answer to come from astronomy. Instead, a serious challenge came from John Harrison, a self-taught clockmaker who had trained in his father’s trade as a carpenter.",
+     "1714 年，國會通過《經度法》，成立經度委員會，並為實用的方法提供獎金。最高獎金兩萬英鎊，要頒給誤差在半度以內的方法。許多專家預期答案會來自天文學。結果，一個強力的挑戰者卻是約翰．哈里森——一位自學的鐘錶匠，原本跟著父親學木匠手藝。"
+    ],
+    [
+     "Harrison spent decades building a series of sea clocks, known today as H1, H2 and H3. His breakthrough came with H4, a large watch that was far smaller than his earlier sea clocks. In November 1761 it was sent on a voyage from Portsmouth to Jamaica. After 81 days at sea, it was just 5 seconds slow, an error in longitude of only about one nautical mile. Harrison, by then 68 years old, did not travel himself; the watch went in the care of his son, William.",
+     "哈里森花了幾十年打造一系列航海鐘，今天稱為 H1、H2 和 H3。他的突破是 H4——一隻比他先前的航海鐘小得多的大型懷錶。1761 年 11 月，它被送上一艘從樸茨茅斯開往牙買加的船。在海上 81 天後，它只慢了 5 秒，換算成經度誤差只有大約一海里。當時已經 68 歲的哈里森沒有親自上船；這隻錶交由他的兒子威廉照看。"
+    ],
+    [
+     "Yet the Board was not satisfied. Its members suggested the result might be luck and demanded more trials. Harrison, deeply frustrated, eventually asked King George III for help. In 1773, at the age of 80, he received £8,750 from Parliament, though never the official prize. His story shows that a brilliant solution does not always win immediate recognition — and that persistence can matter as much as genius.",
+     "然而委員會並不滿意。委員們認為結果可能只是運氣，要求進行更多試驗。深感挫折的哈里森，最後向英王喬治三世求助。1773 年，80 歲的他從國會獲得 8,750 英鎊，卻始終沒有拿到正式的獎項。他的故事顯示：一個傑出的解答，不一定能立刻獲得認可——而堅持，可能和天才一樣重要。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "Time, Distance and the Board of Longitude",
+   "paras": [
+    [
+     "On 22 October 1707, four warships of a Royal Navy fleet struck rocks off the Isles of Scilly, near the British mainland. Between 1,400 and 2,000 sailors were lost, making it one of the worst maritime disasters in British naval history. Historians attribute the tragedy to several factors, including errors in charts and inadequate compasses, but one stands out: the navigators’ inability to calculate their position accurately. The disaster made vivid a problem that had limited ocean travel for centuries.",
+     "1707 年 10 月 22 日，皇家海軍一支艦隊的四艘戰艦，在靠近英國本土的錫利群島外海觸礁。1,400 到 2,000 名水手罹難，使它成為英國海軍史上最慘重的海難之一。歷史學家把這場悲劇歸因於多項因素，包括海圖錯誤和羅盤不良，但其中一項格外突出：領航員無法準確計算自己的位置。這場災難把一個限制遠洋航行好幾個世紀的問題，鮮明地攤在眾人眼前。"
+    ],
+    [
+     "Determining latitude was relatively straightforward, since it could be read from the angle of the sun or the stars. Longitude, by contrast, depends on time. The Earth rotates through 15 degrees every hour, so a navigator who knows both the local time and the time at a reference point can convert the difference into distance east or west. Without such knowledge, sailors relied on dead reckoning — estimating position from speed, heading and elapsed time — which became increasingly unreliable on long voyages out of sight of land.",
+     "決定緯度相對簡單，因為可以從太陽或星星的角度讀出來。相較之下，經度取決於時間。地球每小時自轉 15 度，所以一位同時知道當地時間和參考點時間的領航員，就能把時差換算成往東或往西的距離。少了這項資訊，水手只能依賴航位推算法——從速度、航向和經過的時間估計位置——而在看不見陸地的長途航行中，這種方法越來越不可靠。"
+    ],
+    [
+     "Parliament responded with the Longitude Act of 1714, which established the Board of Longitude and offered a graduated series of rewards: £10,000 for a practical method accurate to one degree, rising to £20,000 for accuracy within half a degree. Many in the scientific establishment assumed the solution would be astronomical. John Harrison, a joiner and self-taught clockmaker who grew up in Lincolnshire, pursued a mechanical answer instead: a clock robust enough to keep accurate time at sea.",
+     "國會的回應是 1714 年的《經度法》，它成立了經度委員會，並提供分級獎金：準確度在一度以內的實用方法可得一萬英鎊，在半度以內則提高到兩萬英鎊。科學界許多人認為解答會來自天文學。在林肯郡長大的細木匠、自學成材的鐘錶匠約翰．哈里森，卻追求一個機械式的答案：一座堅固到能在海上準確計時的時鐘。"
+    ],
+    [
+     "His progress was slow but remarkable. It took five years to build his first sea clock, H1, which earned the Board’s support for further development. Two more large clocks followed before Harrison concluded, after some thirty years of experimentation, that the solution lay in a smaller watch. The result, H4, was tested on a voyage from Portsmouth to Kingston, Jamaica, which set sail on 18 November 1761. After 81 days and 5 hours, once its known daily rate had been allowed for, it was only 5 seconds slow — an error in longitude of about one nautical mile, far inside the Act’s requirement.",
+     "他的進展緩慢，卻非常驚人。他花了五年打造第一座航海鐘 H1，因此獲得委員會支持繼續研發。之後又做了兩座大型時鐘，經過約三十年的實驗，哈里森才認定答案在於更小的懷錶。成果 H4 在一趟從樸茨茅斯開往牙買加金斯敦的航程中接受測試，船於 1761 年 11 月 18 日啟航。81 天又 5 小時後，扣除已知的每日誤差率，它只慢了 5 秒——換算成經度誤差約一海里，遠優於法案的要求。"
+    ],
+    [
+     "Success did not bring immediate reward. The Board suggested the accuracy might have been luck, questioned whether a timekeeper that had taken six years to build was truly practical, and demanded further trials. Harrison complained that he had been “extremely ill used” and eventually sought the help of King George III, who tested a later watch himself. In 1773, aged 80, Harrison received £8,750 from Parliament, although the official prize was never awarded to anyone. The episode reveals a recurring tension in the history of science: institutions must guard against lucky results, yet the same caution can delay recognition of genuine breakthroughs, especially when they come from outsiders.",
+     "成功並沒有帶來立即的報酬。委員會認為準確度可能只是運氣，質疑一個花了六年才做好的計時器是否真的實用，並要求更多試驗。哈里森抱怨自己受到「極不公平的對待」，最後向英王喬治三世求助，國王還親自測試了他後來的一隻懷錶。1773 年，80 歲的哈里森從國會獲得 8,750 英鎊，不過正式獎項始終沒有頒給任何人。這段插曲揭示了科學史上反覆出現的張力：機構必須提防僥倖的結果，然而同樣的謹慎，也可能延誤對真正突破的認可——尤其當突破來自圈外人時。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "disaster",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "time-and-longitude",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "prize",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "h4",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "recognition",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "sailors",
+   "pos": "n.",
+   "meaning": "水手（複數）",
+   "example": "The sailors worked day and night.",
+   "family": "sail (v.)"
+  },
+  {
+   "w": "latitude",
+   "pos": "n.",
+   "meaning": "緯度",
+   "example": "Taipei is at a latitude of about 25 degrees north.",
+   "family": "longitude (n.) 經度"
+  },
+  {
+   "w": "prize",
+   "pos": "n.",
+   "meaning": "獎金、獎品",
+   "example": "She won first prize.",
+   "family": "prize (v.) 珍視"
+  },
+  {
+   "w": "accurately",
+   "pos": "adv.",
+   "meaning": "準確地",
+   "example": "Measure the line accurately.",
+   "family": "accurate (adj.), accuracy (n.)"
+  },
+  {
+   "w": "reveals",
+   "pos": "v.",
+   "meaning": "顯示、揭露（第三人稱）",
+   "example": "The test reveals your weak points.",
+   "family": "revelation (n.)"
+  },
+  {
+   "w": "self-taught",
+   "pos": "adj.",
+   "meaning": "自學的",
+   "example": "He is a self-taught guitarist.",
+   "family": "teach (v.)"
+  },
+  {
+   "w": "breakthrough",
+   "pos": "n.",
+   "meaning": "突破",
+   "example": "The vaccine was a major breakthrough.",
+   "family": "break through (v.)"
+  },
+  {
+   "w": "persistence",
+   "pos": "n.",
+   "meaning": "堅持",
+   "example": "Success takes persistence.",
+   "family": "persist (v.), persistent (adj.)"
+  },
+  {
+   "w": "recognition",
+   "pos": "n.",
+   "meaning": "認可、肯定",
+   "example": "She gained recognition for her work.",
+   "family": "recognise (v.)"
+  },
+  {
+   "w": "inadequate",
+   "pos": "adj.",
+   "meaning": "不足的、不良的",
+   "example": "The tools were inadequate.",
+   "family": "adequate (反義)"
+  },
+  {
+   "w": "graduated",
+   "pos": "adj.",
+   "meaning": "分級的",
+   "example": "The school uses a graduated reading list.",
+   "family": "grade (n.)"
+  },
+  {
+   "w": "robust",
+   "pos": "adj.",
+   "meaning": "堅固的；穩健的",
+   "example": "We need a robust plan.",
+   "family": "robustness (n.)"
+  },
+  {
+   "w": "institutions",
+   "pos": "n.",
+   "meaning": "機構（複數）",
+   "example": "Universities are important institutions.",
+   "family": "institutional (adj.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "work out",
+   "type": "phrase",
+   "meaning": "算出、想出",
+   "usage": "work out + 答案／問題。",
+   "example": "Can you work out the answer?",
+   "writing": "S + could work out + N"
+  },
+  {
+   "phrase": "another matter",
+   "type": "phrase",
+   "meaning": "另一回事",
+   "usage": "A was easy, but B was another matter.",
+   "example": "Speaking is easy, but writing is another matter.",
+   "writing": "A …, but B was another matter."
+  },
+  {
+   "phrase": "in principle",
+   "type": "phrase",
+   "meaning": "原則上、理論上",
+   "usage": "常與 in practice（實際上）對比。",
+   "example": "In principle, the plan works.",
+   "writing": "In principle, …; in practice, …"
+  },
+  {
+   "phrase": "stands out",
+   "type": "phrase",
+   "meaning": "突出、引人注目",
+   "usage": "stand out (from others)。",
+   "example": "Her red coat stands out in the crowd.",
+   "writing": "but one stands out: + N"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "In principle, …. In practice, ….",
+   "meaning": "原則上……；實際上……",
+   "example": "In principle, the solution was clear. In practice, no clock could stay accurate at sea.",
+   "tip": "對比理論與現實，議論文常用。"
+  },
+  {
+   "frame": "Among the causes was + N",
+   "meaning": "原因之一是……（倒裝）",
+   "example": "Among the causes was a problem that had troubled sailors for centuries.",
+   "tip": "倒裝讓主詞放在句尾，強調重點。"
+  },
+  {
+   "frame": "S + does not always + V — and A can matter as much as B",
+   "meaning": "……不一定……而 A 可能和 B 一樣重要",
+   "example": "A brilliant solution does not always win immediate recognition — and persistence can matter as much as genius.",
+   "tip": "結論段的有力收尾。"
+  }
+ ],
+ "quote": {
+  "text": "…extremely ill used by the gentlemen who I might have expected better treatment from.",
+  "author": "John Harrison",
+  "work": "On his treatment by the Board of Longitude, as quoted in the Wikipedia article “John Harrison”",
+  "url": "https://en.wikipedia.org/wiki/John_Harrison"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "Why did the ships hit rocks in 1707?",
+    "options": [
+     "The sailors were asleep",
+     "The sailors did not know exactly where they were",
+     "There was a war",
+     "The ships were too old"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "the sailors did not know exactly where they were"
+   },
+   {
+    "q": "How many degrees does the Earth turn every hour?",
+    "options": [
+     "5",
+     "15",
+     "24",
+     "360"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "The Earth turns 15 degrees every hour."
+   },
+   {
+    "q": "What was John Harrison’s job?",
+    "options": [
+     "A sailor",
+     "A carpenter",
+     "A king",
+     "An astronomer"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "John Harrison was a carpenter"
+   },
+   {
+    "q": "How slow was H4 after 81 days?",
+    "options": [
+     "5 seconds",
+     "5 minutes",
+     "5 hours",
+     "It stopped"
+    ],
+    "a": 0,
+    "why": "最後一段。",
+    "evidence": "After 81 days, it was only 5 seconds slow."
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "Why was keeping time at sea so difficult?",
+    "options": [
+     "Ships rolled, temperatures changed and the air was wet and salty",
+     "Sailors could not read clocks",
+     "There was no sun",
+     "Clocks were banned"
+    ],
+    "a": 0,
+    "why": "第二段。",
+    "evidence": "where ships rolled, temperatures changed and the air was wet and salty"
+   },
+   {
+    "q": "Where did many experts expect the answer to come from?",
+    "options": [
+     "Carpentry",
+     "Astronomy",
+     "The navy",
+     "Jamaica"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "Many experts expected the answer to come from astronomy."
+   },
+   {
+    "q": "How was H4 different from Harrison’s earlier sea clocks?",
+    "options": [
+     "It was far smaller",
+     "It was made of wood",
+     "It used the stars",
+     "It was bigger"
+    ],
+    "a": 0,
+    "why": "第四段。",
+    "evidence": "a large watch that was far smaller than his earlier sea clocks"
+   },
+   {
+    "q": "Why was the Board not satisfied?",
+    "options": [
+     "H4 broke",
+     "It thought the result might be luck",
+     "Harrison was too young",
+     "The voyage was too short"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "Its members suggested the result might be luck"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "Which factor does the writer say “stands out” among the causes of the 1707 disaster?",
+    "options": [
+     "Bad weather",
+     "The navigators’ inability to calculate their position accurately",
+     "Enemy attack",
+     "Old ships"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "the navigators’ inability to calculate their position accurately"
+   },
+   {
+    "q": "What is dead reckoning?",
+    "options": [
+     "Using stars to find latitude",
+     "Estimating position from speed, heading and elapsed time",
+     "A type of clock",
+     "A naval disaster"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "estimating position from speed, heading and elapsed time"
+   },
+   {
+    "q": "What accuracy was required for the £20,000 prize?",
+    "options": [
+     "Within one degree",
+     "Within half a degree",
+     "Within ten degrees",
+     "Within one nautical mile"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "rising to £20,000 for accuracy within half a degree"
+   },
+   {
+    "q": "What “recurring tension” does the final paragraph describe?",
+    "options": [
+     "Between kings and Parliament",
+     "Between guarding against lucky results and recognising genuine breakthroughs",
+     "Between sailors and carpenters",
+     "Between Britain and Jamaica"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "institutions must guard against lucky results, yet the same caution can delay recognition of genuine breakthroughs"
+   }
+  ]
+ },
+ "reflections": [
+  "Harrison was an outsider — a carpenter, not a famous scientist. Why might experts sometimes doubt good ideas from outsiders?",
+  "Was the Board of Longitude right to demand more trials? Argue for one side."
+ ],
+ "videos": [
+  {
+   "title": "The clocks that helped define time from London's Royal Observatory collection",
+   "channel": "YouTube · New Scientist",
+   "url": "https://www.youtube.com/watch?v=cKdaFBIBnf0",
+   "kind": "YouTube",
+   "desc": "A look at historic timekeepers, including Harrison’s marine chronometers, at the Royal Observatory Greenwich.",
+   "zh": "走進格林威治皇家天文台，看包括哈里森航海鐘在內的歷史計時器。",
+   "question": "What features of Harrison’s clocks can you see in the video?"
+  }
+ ]
+}

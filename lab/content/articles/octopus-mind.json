@@ -1,0 +1,458 @@
+{
+ "id": "octopus-mind",
+ "category": "動物行為",
+ "title": "An Alien Intelligence on Earth?",
+ "subtitle": "地球上的外星智慧？章魚的心智",
+ "source": "原創議題文章；依 Wikipedia〈Octopus〉、The Guardian（2016）、LSE 研究報導（Birch et al., 2021）、亞里斯多德《動物史》（D'Arcy Thompson 譯，MIT Internet Classics Archive）核對，2026-10-22",
+ "sources": [
+  {
+   "title": "Wikipedia: Octopus (nervous system, intelligence, circulatory system, lifespan)",
+   "url": "https://en.wikipedia.org/wiki/Octopus",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "The Guardian (2016): The great escape: Inky the octopus legs it to freedom from aquarium",
+   "url": "https://www.theguardian.com/world/2016/apr/13/the-great-escape-inky-the-octopus-legs-it-to-freedom-from-new-zealand-aquarium",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "LSE: The science of feeling — why octopuses, lobsters and crabs require animal welfare protection",
+   "url": "https://www.lse.ac.uk/research/research-for-the-world/politics/the-science-of-feeling-why-octopuses-lobsters-and-crabs-require-legislative-protection",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Aristotle, The History of Animals, Book IX (trans. D'Arcy Wentworth Thompson)",
+   "url": "https://classics.mit.edu/Aristotle/history_anim.9.ix.html",
+   "accessed": "2026-10-22"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "The Clever Animal with Eight Arms",
+   "paras": [
+    [
+     "One night in 2016, an octopus called Inky escaped from his tank at the National Aquarium of New Zealand. Someone had left the lid a little open. Inky climbed out, crossed the floor and slid down a 50-metre pipe into the sea. He was never seen again. A fisherman had found Inky in a trap years before and brought him to the aquarium.",
+     "2016 年的某個晚上，一隻叫 Inky 的章魚從紐西蘭國家水族館的水缸逃走了。有人不小心沒把蓋子蓋好。Inky 爬出來，穿過地板，滑進一條 50 公尺長的管子，一路進了大海，從此再也沒人見過牠。多年前，一位漁夫在陷阱裡發現了 Inky，把牠帶到了水族館。"
+    ],
+    [
+     "Octopuses are famous escape artists, and they are very clever. In experiments, they can learn to find their way through mazes. They can tell different shapes apart. Some can even open a jar by turning the lid. At another sea centre in New Zealand, an octopus used to visit a different tank at night, steal crabs and then go back home.",
+     "章魚是有名的逃脫大師，而且非常聰明。在實驗中，牠們能學會走出迷宮，能分辨不同的形狀，有些甚至能轉開蓋子，打開罐子。在紐西蘭另一間海洋教育中心，有一隻章魚常常在夜裡溜到別的水缸偷螃蟹，然後再回到自己的家。"
+    ],
+    [
+     "An octopus brain is very different from ours. It has over 500 million nerve cells, about the same as a dog. But two-thirds of them are in its arms, not in its head. This means each arm can do some things by itself.",
+     "章魚的大腦和我們的非常不一樣。牠有超過五億個神經細胞，大約和一隻狗一樣多。但其中三分之二在牠的手臂裡，而不是在頭部。這代表每一條手臂都能自己做一些事。"
+    ],
+    [
+     "Octopuses have other strange features too. They have three hearts and blue blood. They can change the colour of their skin to hide. One kind of octopus even collects coconut shells and uses them as a shelter. When it is in danger, it can also shoot out dark ink and swim away.",
+     "章魚還有其他奇特的地方。牠們有三顆心臟和藍色的血。牠們能改變皮膚的顏色來躲藏。有一種章魚甚至會收集椰子殼，把它們當作藏身處。遇到危險時，牠還能噴出深色的墨汁然後游走。"
+    ],
+    [
+     "More than 2,000 years ago, the Greek thinker Aristotle called the octopus “a stupid creature”. Today, scientists think he was wrong. In 2021, a review of over 300 studies said octopuses can feel, and the UK changed its law to protect them.",
+     "兩千多年前，希臘思想家亞里斯多德說章魚是「愚蠢的生物」。今天，科學家認為他錯了。2021 年，一份整理了三百多項研究的報告指出章魚有感受能力，英國也因此修法保護牠們。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "An Alien Intelligence on Earth?",
+   "paras": [
+    [
+     "In April 2016, staff at the National Aquarium of New Zealand arrived one morning to find a tank empty. Inky, a common New Zealand octopus, had apparently climbed out through a lid left slightly open, crossed the floor and squeezed into a drainpipe that ran 50 metres to the sea. “Octopuses are famous escape artists,” the aquarium’s manager told reporters. Stories like this raise a serious question: just how intelligent are octopuses?",
+     "2016 年 4 月的一個早上，紐西蘭國家水族館的員工發現一個水缸空了。一隻普通的紐西蘭章魚 Inky，顯然從沒蓋緊的蓋子爬了出來，穿過地板，鑽進一條通往大海、長達 50 公尺的排水管。「章魚是有名的逃脫大師，」水族館經理告訴記者。這類故事引出一個嚴肅的問題：章魚到底有多聰明？"
+    ],
+    [
+     "Laboratory evidence suggests the answer is “very”. In maze and problem-solving experiments, octopuses show both short-term and long-term memory, and they can readily be trained to distinguish between shapes and patterns. They have been observed unscrewing the caps of containers. The veined octopus even collects discarded coconut shells and uses them to build a shelter — a clear example of tool use. Octopuses have even been seen doing something that looks like play, such as pushing a bottle around by shooting jets of water at it.",
+     "實驗室證據顯示，答案是「非常聰明」。在迷宮和解題實驗中，章魚展現出短期與長期記憶，也能輕易被訓練去分辨形狀和圖案。人們曾觀察到牠們轉開容器的蓋子。條紋章魚甚至會收集被丟棄的椰子殼，用來搭建藏身處——這是使用工具的明確例子。人們甚至看過章魚做出像是在玩耍的行為，例如噴水柱推著瓶子到處跑。"
+    ],
+    [
+     "What makes this remarkable is that the octopus brain is organised in a completely different way from ours. An octopus has over 500 million neurons, roughly as many as a dog, but about two-thirds of them are located in the nerve cords of its arms. As a result, each arm can perform actions with a degree of independence, almost as if it had a mind of its own.",
+     "這之所以驚人，是因為章魚大腦的組織方式和我們完全不同。一隻章魚有超過五億個神經元，大約和一隻狗一樣多，但其中約三分之二位於手臂的神經索中。因此，每一條手臂都能有一定程度的獨立行動，幾乎就像擁有自己的心智一樣。"
+    ],
+    [
+     "The rest of its body is just as unusual. An octopus has three hearts, and its blood is bluish because it uses a copper-rich protein to carry oxygen. Special skin cells let it change colour in a moment to hide or to communicate. Yet most octopuses live only a short time — up to about four years. Changing colour is not cheap, though: fully activating these cells uses almost as much energy as the octopus uses at rest.",
+     "牠身體的其他部分同樣不尋常。章魚有三顆心臟，牠的血呈藍色，因為牠用一種富含銅的蛋白質來運送氧氣。特殊的皮膚細胞讓牠能瞬間改變顏色，用來躲藏或溝通。然而大多數章魚的壽命都很短——最多大約四年。不過變色的代價不小：完全啟動這些細胞所耗的能量，幾乎和章魚休息時用掉的一樣多。"
+    ],
+    [
+     "Opinions about octopuses have changed dramatically. Aristotle described the octopus as “a stupid creature” because it would approach a human hand lowered into the water. In 2021, however, a review of more than 300 scientific studies, led by Jonathan Birch at the London School of Economics, concluded that octopuses are sentient. As a result, the UK extended its animal welfare law to include them.",
+     "人們對章魚的看法有了巨大轉變。亞里斯多德把章魚形容為「愚蠢的生物」，因為牠會靠近伸進水裡的人手。然而在 2021 年，由倫敦政經學院的喬納森．伯奇主持、整理了三百多項科學研究的審查報告，結論是章魚具有感知能力。英國因此把動物福利法的保護範圍擴大到牠們。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "Minds Built Twice",
+   "paras": [
+    [
+     "When an octopus named Inky vanished from the National Aquarium of New Zealand in 2016, the story spread around the world. Staff believed he had slipped through a lid left ajar, crossed several metres of floor and disappeared down a 50-metre drainpipe into Hawke’s Bay. Anecdotes like this are entertaining, but they also point to a genuinely puzzling scientific fact: some of the most flexible behaviour in the animal kingdom belongs to a creature whose body and brain have almost nothing in common with ours.",
+     "2016 年，一隻名叫 Inky 的章魚從紐西蘭國家水族館消失，這個故事傳遍全世界。員工認為牠從半開的蓋子溜出來，穿過幾公尺的地板，再沿著一條 50 公尺長的排水管消失在霍克斯灣。這類軼事很有趣，但它們也指向一個真正令人困惑的科學事實：動物界中最靈活的一些行為，屬於一種身體與大腦和我們幾乎毫無共同點的生物。"
+    ],
+    [
+     "Laboratory research supports the impression of intelligence. Maze and problem-solving experiments have shown evidence of a memory system that stores both short- and long-term information, and octopuses can readily be trained to distinguish between shapes and patterns. Some reports suggest they learn by watching others, although the validity of those findings is contested. More firmly established is tool use: the veined octopus gathers discarded coconut shells and carries them, stacked beneath its body, to use later as a shelter. Octopuses have also been observed in what looks like play, repeatedly pushing a bottle around with jets of water.",
+     "實驗室研究支持了章魚聰明的印象。迷宮與解題實驗顯示，章魚有一套能儲存短期與長期資訊的記憶系統，也能輕易被訓練去分辨形狀和圖案。有些報告指出牠們會透過觀察同類來學習，不過這些發現的可信度仍有爭議。比較確立的是使用工具：條紋章魚會收集被丟棄的椰子殼，把殼疊在身體下方帶著走，之後當作藏身處。人們也觀察到章魚有看似玩耍的行為，反覆用水柱推動瓶子。"
+    ],
+    [
+     "What makes these abilities so striking is the architecture behind them. An octopus has more than 500 million neurons, roughly the number found in a dog, yet only a portion of them are housed in the brain proper. About two-thirds lie in the nerve cords of the arms, allowing each arm to perform actions with a degree of independence. Intelligence, in this design, is not concentrated in a single control centre but distributed throughout the body.",
+     "這些能力之所以驚人，在於背後的結構。章魚有超過五億個神經元，大約和一隻狗相當，但只有一部分位於大腦本身。約三分之二分布在手臂的神經索中，讓每條手臂都能有一定程度的獨立行動。在這種設計中，智慧不是集中在單一控制中心，而是分散在全身。"
+    ],
+    [
+     "This matters because the octopus represents an independent evolutionary path. Octopuses have evolved separately from the vertebrate lineage for more than 600 million years; our last common ancestor was probably a simple, worm-like animal. If complex minds arose in both lineages, then intelligence may not be a one-time accident but something evolution can build more than once. The octopus’s other peculiarities — three hearts, blue blood carrying oxygen with copper-rich haemocyanin, skin that changes colour in an instant, and a lifespan of at most about four years — only reinforce how differently that intelligence was assembled.",
+     "這之所以重要，是因為章魚代表了一條獨立的演化路徑。章魚與脊椎動物譜系分開演化已超過六億年；我們最後的共同祖先，很可能是一種簡單、像蟲一樣的動物。如果複雜的心智在兩條譜系中都出現了，那麼智慧或許不是一次性的意外，而是演化可以不只一次打造出來的東西。章魚的其他特點——三顆心臟、以富含銅的血藍蛋白運氧的藍色血液、瞬間變色的皮膚，以及最長約四年的壽命——更凸顯出這種智慧是以多麼不同的方式組裝起來的。"
+    ],
+    [
+     "Our judgement of such animals has shifted accordingly. Aristotle dismissed the octopus as “a stupid creature” for approaching a human hand. In 2021, by contrast, an independent review led by Jonathan Birch of the London School of Economics drew on over 300 scientific studies and concluded that cephalopods, including octopuses, should be regarded as sentient; the UK government responded by extending its animal welfare legislation to cover them. The change illustrates a broader lesson: recognising intelligence may depend less on how similar an animal is to us than on whether we are willing to look for minds that work differently.",
+     "我們對這類動物的判斷也隨之改變。亞里斯多德因為章魚會靠近人手，就斥之為「愚蠢的生物」。相較之下，2021 年由倫敦政經學院喬納森．伯奇主持的獨立審查，整理了三百多項科學研究，結論是包括章魚在內的頭足類應被視為具有感知能力；英國政府隨即擴大動物福利立法，把牠們納入保護。這個轉變說明了一個更廣泛的教訓：能否辨識出智慧，與其說取決於動物和我們有多像，不如說取決於我們是否願意去尋找運作方式不同的心智。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "inky",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "evidence",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "brain",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "body",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "sentience",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "escaped",
+   "pos": "v.",
+   "meaning": "逃脫（過去式）",
+   "example": "The bird escaped from its cage.",
+   "family": "escape (n.)"
+  },
+  {
+   "w": "experiments",
+   "pos": "n.",
+   "meaning": "實驗（複數）",
+   "example": "We did experiments with plants.",
+   "family": "experimental (adj.)"
+  },
+  {
+   "w": "shelter",
+   "pos": "n.",
+   "meaning": "藏身處、庇護所",
+   "example": "They found shelter from the rain.",
+   "family": "shelter (v.)"
+  },
+  {
+   "w": "distinguish",
+   "pos": "v.",
+   "meaning": "分辨",
+   "example": "Can you distinguish the twins?",
+   "family": "distinction (n.), distinct (adj.)"
+  },
+  {
+   "w": "discarded",
+   "pos": "adj.",
+   "meaning": "被丟棄的",
+   "example": "Discarded bottles lay on the beach.",
+   "family": "discard (v.)"
+  },
+  {
+   "w": "remarkable",
+   "pos": "adj.",
+   "meaning": "非凡的、驚人的",
+   "example": "She made remarkable progress.",
+   "family": "remark (v./n.)"
+  },
+  {
+   "w": "independence",
+   "pos": "n.",
+   "meaning": "獨立",
+   "example": "Teenagers want more independence.",
+   "family": "independent (adj.)"
+  },
+  {
+   "w": "sentient",
+   "pos": "adj.",
+   "meaning": "有感知能力的",
+   "example": "Dogs are sentient animals.",
+   "family": "sentience (n.)"
+  },
+  {
+   "w": "anecdotes",
+   "pos": "n.",
+   "meaning": "軼事（複數）",
+   "example": "He told funny anecdotes about school.",
+   "family": "anecdotal (adj.)"
+  },
+  {
+   "w": "architecture",
+   "pos": "n.",
+   "meaning": "結構；建築",
+   "example": "The architecture of the brain is complex.",
+   "family": "architect (n.)"
+  },
+  {
+   "w": "distributed",
+   "pos": "v.",
+   "meaning": "分布、分配（p.p.）",
+   "example": "Food was distributed to the families.",
+   "family": "distribution (n.)"
+  },
+  {
+   "w": "lineage",
+   "pos": "n.",
+   "meaning": "譜系、血統",
+   "example": "The family can trace its lineage back 300 years.",
+   "family": "line (n.)"
+  },
+  {
+   "w": "legislation",
+   "pos": "n.",
+   "meaning": "立法；法律",
+   "example": "New legislation protects the forest.",
+   "family": "legislate (v.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "tell different shapes apart",
+   "type": "phrase",
+   "meaning": "分辨不同形狀",
+   "usage": "tell A and B apart / tell things apart：分辨。",
+   "example": "I can’t tell the twins apart.",
+   "writing": "S + can tell + N + apart"
+  },
+  {
+   "phrase": "by itself",
+   "type": "phrase",
+   "meaning": "自己、獨自",
+   "usage": "強調不靠外力。",
+   "example": "The door closed by itself.",
+   "writing": "N + can do things by itself"
+  },
+  {
+   "phrase": "as a result",
+   "type": "phrase",
+   "meaning": "因此",
+   "usage": "連接原因與結果。",
+   "example": "He trained hard. As a result, he won.",
+   "writing": "As a result, S + V"
+  },
+  {
+   "phrase": "drew on",
+   "type": "phrase",
+   "meaning": "利用、援引（draw on 的過去式）",
+   "usage": "draw on + 資料／經驗。",
+   "example": "The report drew on many interviews.",
+   "writing": "The review drew on + N"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "What makes A so + adj. is B",
+   "meaning": "讓 A 如此……的是 B",
+   "example": "What makes these abilities so striking is the architecture behind them.",
+   "tip": "強調句，把重點放在句尾。"
+  },
+  {
+   "frame": "If A, then B may not be C but D",
+   "meaning": "如果 A，那麼 B 或許不是 C，而是 D",
+   "example": "If complex minds arose in both lineages, then intelligence may not be a one-time accident but something evolution can build more than once.",
+   "tip": "從證據推出審慎的結論。"
+  },
+  {
+   "frame": "A may depend less on B than on C",
+   "meaning": "A 與其說取決於 B，不如說取決於 C",
+   "example": "Recognising intelligence may depend less on how similar an animal is to us than on whether we are willing to look.",
+   "tip": "less…than… 的進階比較。"
+  }
+ ],
+ "quote": {
+  "text": "The octopus is a stupid creature, for it will approach a man's hand if it be lowered in the water.",
+  "author": "Aristotle",
+  "work": "The History of Animals, Book IX (trans. D'Arcy Wentworth Thompson) — a famous judgement that modern science has overturned",
+  "url": "https://classics.mit.edu/Aristotle/history_anim.9.ix.html"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "How did Inky get to the sea?",
+    "options": [
+     "Someone carried him",
+     "He slid down a 50-metre pipe",
+     "He jumped out of a window",
+     "He swam through a river"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "slid down a 50-metre pipe into the sea"
+   },
+   {
+    "q": "Which is NOT something octopuses can do, according to the article?",
+    "options": [
+     "Find their way through mazes",
+     "Tell shapes apart",
+     "Open a jar",
+     "Speak words"
+    ],
+    "a": 3,
+    "why": "第二段沒有提到說話。",
+    "evidence": "Some can even open a jar by turning the lid."
+   },
+   {
+    "q": "Where are two-thirds of an octopus’s nerve cells?",
+    "options": [
+     "In its head",
+     "In its arms",
+     "In its hearts",
+     "In its skin"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "two-thirds of them are in its arms, not in its head"
+   },
+   {
+    "q": "What did the UK do in 2021?",
+    "options": [
+     "Banned aquariums",
+     "Changed its law to protect octopuses",
+     "Agreed with Aristotle",
+     "Sent octopuses to the sea"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "the UK changed its law to protect them"
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "What question do stories like Inky’s raise?",
+    "options": [
+     "How fast octopuses swim",
+     "How intelligent octopuses are",
+     "Why aquariums are dangerous",
+     "Where New Zealand is"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "just how intelligent are octopuses?"
+   },
+   {
+    "q": "Why is the veined octopus’s use of coconut shells important?",
+    "options": [
+     "It is a clear example of tool use",
+     "It shows they eat coconuts",
+     "It proves they can swim",
+     "It is a kind of game"
+    ],
+    "a": 0,
+    "why": "第二段。",
+    "evidence": "a clear example of tool use"
+   },
+   {
+    "q": "Why is an octopus’s blood bluish?",
+    "options": [
+     "It eats blue food",
+     "It uses a copper-rich protein to carry oxygen",
+     "It lives in cold water",
+     "It has three hearts"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "its blood is bluish because it uses a copper-rich protein to carry oxygen"
+   },
+   {
+    "q": "Why did Aristotle call the octopus “a stupid creature”?",
+    "options": [
+     "It could not open jars",
+     "It would approach a human hand lowered into the water",
+     "It had no brain",
+     "It changed colour"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "because it would approach a human hand lowered into the water"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "Which claim about octopus learning does the writer treat as uncertain?",
+    "options": [
+     "Tool use",
+     "That they learn by watching others",
+     "That they have memory",
+     "That they distinguish shapes"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "although the validity of those findings is contested"
+   },
+   {
+    "q": "What does the writer mean by intelligence being “distributed throughout the body”?",
+    "options": [
+     "Neurons are spread across the arms, not only in the brain",
+     "The octopus has many brains in its head",
+     "Octopuses share intelligence with each other",
+     "Its blood carries information"
+    ],
+    "a": 0,
+    "why": "第三段。",
+    "evidence": "About two-thirds lie in the nerve cords of the arms"
+   },
+   {
+    "q": "Why does the octopus’s evolutionary history matter?",
+    "options": [
+     "It shows intelligence may evolve more than once",
+     "It proves octopuses came from humans",
+     "It shows octopuses are related to dogs",
+     "It explains why they die young"
+    ],
+    "a": 0,
+    "why": "第四段。",
+    "evidence": "intelligence may not be a one-time accident but something evolution can build more than once"
+   },
+   {
+    "q": "What broader lesson does the final paragraph draw?",
+    "options": [
+     "Aristotle was always right",
+     "Recognising intelligence depends on willingness to look for minds that work differently",
+     "Laws should not protect animals",
+     "Octopuses are smarter than humans"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "whether we are willing to look for minds that work differently"
+   }
+  ]
+ },
+ "reflections": [
+  "If you could ask one question to an octopus, what would it be — and how could a scientist design an experiment to answer it?",
+  "Should an animal’s intelligence affect how we treat it? Give reasons for your view."
+ ],
+ "videos": [
+  {
+   "title": "Why the octopus brain is so extraordinary",
+   "channel": "TED-Ed · Cláudio L. Guerra",
+   "url": "https://ed.ted.com/lessons/why-the-octopus-brain-is-so-extraordinary-claudio-l-guerra",
+   "kind": "TED-Ed",
+   "desc": "An animated lesson on how the octopus nervous system works.",
+   "zh": "動畫課程：章魚的神經系統如何運作。",
+   "question": "Which fact in the video was not mentioned in this article?"
+  }
+ ]
+}
