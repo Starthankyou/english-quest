@@ -1,0 +1,458 @@
+{
+ "id": "aesop-fables",
+ "category": "文學",
+ "title": "Why Do Tiny Stories Last 2,500 Years?",
+ "subtitle": "為什麼小故事能流傳兩千五百年？伊索寓言的道理",
+ "source": "原創導讀；寓言原文依 Project Gutenberg《Three Hundred Aesop’s Fables》（George Fyler Townsend 譯，1867，公版），背景依 Wikipedia〈Aesop〉〈Aesop's Fables〉〈The Fox and the Grapes〉，2026-10-22 核對",
+ "sources": [
+  {
+   "title": "Three Hundred Aesop’s Fables, trans. George Fyler Townsend, Project Gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/21",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Wikipedia: Aesop",
+   "url": "https://en.wikipedia.org/wiki/Aesop",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Wikipedia: Aesop's Fables",
+   "url": "https://en.wikipedia.org/wiki/Aesop%27s_Fables",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Wikipedia: The Fox and the Grapes",
+   "url": "https://en.wikipedia.org/wiki/The_Fox_and_the_Grapes",
+   "accessed": "2026-10-22"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "Small Stories, Big Lessons",
+   "paras": [
+    [
+     "A hungry fox sees some grapes on a vine. He jumps and jumps, but he cannot reach them. At last he walks away and says, “The grapes are sour anyway.” This tiny story is one of Aesop’s fables. It is more than 2,000 years old, but people still tell it today.",
+     "一隻飢餓的狐狸看到藤上掛著一串葡萄。牠跳了又跳，卻怎麼也搆不著。最後牠轉身離開，說：「反正那些葡萄是酸的。」這個小故事是伊索寓言之一。它已經有兩千多年的歷史，但人們至今仍在講它。"
+    ],
+    [
+     "Who was Aesop? People say he was a storyteller in ancient Greece, and some old stories say he was a slave who became free because he was so clever. But we are not even sure he was a real person. No writings by him survive. His fables were passed on by people telling them out loud.",
+     "伊索是誰？人們說他是古希臘的說故事人，有些古老的故事說他原本是奴隸，因為非常聰明而獲得自由。但我們甚至不確定他是否真有其人。他沒有任何作品留存下來。他的寓言是靠人們口耳相傳流傳下來的。"
+    ],
+    [
+     "Many of Aesop’s fables have animals that act like people. In “The Hare and the Tortoise”, a fast hare laughs at a slow tortoise. They have a race. The hare is so sure he will win that he falls asleep. The tortoise never stops, and she wins. The lesson is: “Slow but steady wins the race.”",
+     "許多伊索寓言裡的動物都像人一樣行動。在〈龜兔賽跑〉中，一隻跑得快的兔子嘲笑一隻慢吞吞的烏龜。牠們比賽賽跑。兔子自信一定會贏，結果睡著了。烏龜從不停下來，最後贏了。寓意是：「慢而穩定，就能贏得比賽。」"
+    ],
+    [
+     "In another fable, a shepherd boy shouts “Wolf! Wolf!” as a joke, and the villagers run to help. He does this three or four times. Then a real wolf comes. The boy shouts again, but nobody believes him. The lesson: people do not believe a liar, even when he tells the truth.",
+     "在另一則寓言裡，一個牧羊男孩開玩笑地大喊「狼來了！狼來了！」，村民們都跑來幫忙。他這樣做了三、四次。後來，真的有狼來了。男孩又大喊，卻沒有人相信他。寓意是：說謊的人即使說真話，也沒有人會相信。"
+    ],
+    [
+     "Why do these stories last so long? They are short, so they are easy to remember. They use animals, so we can laugh at ourselves without feeling hurt. And their lessons are still true. Next time you say something is “sour grapes”, remember the fox!",
+     "這些故事為什麼能流傳這麼久？它們很短，所以容易記住。它們用動物來說故事，讓我們能嘲笑自己而不覺得受傷。而且它們的道理至今依然成立。下次你說某件事是「吃不到葡萄說葡萄酸」時，記得那隻狐狸！"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "Why Do Tiny Stories Last 2,500 Years?",
+   "paras": [
+    [
+     "A famished fox tries every trick to reach a bunch of ripe grapes hanging from a vine, but they are too high. At last she turns away, hiding her disappointment, and says the grapes are sour. The story takes less than a minute to read, yet it has lasted for more than two thousand years and even given English an expression: “sour grapes”.",
+     "一隻飢腸轆轆的狐狸用盡各種方法，想搆到藤上一串熟透的葡萄，但葡萄掛得太高了。最後牠轉身離開，掩飾自己的失望，說那些葡萄是酸的。這個故事不到一分鐘就能讀完，卻流傳了兩千多年，甚至為英文貢獻了一個說法：sour grapes（吃不到葡萄說葡萄酸）。"
+    ],
+    [
+     "The fable is attributed to Aesop, a storyteller traditionally placed in ancient Greece in the sixth century BCE. Yet his existence remains unclear, and no writings by him survive. An ancient work called The Aesop Romance describes him as a slave who won his freedom through cleverness, but this account is probably highly fictional. What we call Aesop’s fables were part of an oral tradition and were not collected until about three centuries after his supposed death.",
+     "這則寓言被歸於伊索名下——傳統上認為他是西元前六世紀古希臘的說故事人。然而他是否存在仍不清楚，也沒有任何作品留存。一部名為《伊索傳奇》的古代作品，把他描述成一個靠聰明才智贏得自由的奴隸，但這個說法很可能大多是虛構的。我們所謂的伊索寓言，原本屬於口述傳統，直到他據說去世後約三個世紀才被收集成書。"
+    ],
+    [
+     "The fables work through simple, memorable situations. In “The Hare and the Tortoise”, the hare is so confident of victory that he lies down and falls fast asleep, while the tortoise keeps going “with a slow but steady pace”. In “The North Wind and the Sun”, the two compete to make a traveller remove his cloak. The harder the wind blows, the tighter the man holds it; the sun simply shines, and he takes it off. The moral: “Persuasion is better than Force.”",
+     "這些寓言透過簡單、好記的情境發揮作用。在〈龜兔賽跑〉中，兔子對勝利太有把握，躺下來就睡著了，烏龜卻「以緩慢而穩定的步伐」一直前進。在〈北風與太陽〉中，兩者比賽誰能讓一位旅人脫下斗篷。風吹得越猛，那人就把斗篷抓得越緊；太陽只是照耀著，他就脫下了斗篷。寓意是：「說服勝於強迫。」"
+    ],
+    [
+     "Some fables describe psychology with surprising accuracy. The fox who decides the grapes are sour is doing what modern researchers might call reducing cognitive dissonance: rather than admit failure, she changes her opinion of what she wanted. The shepherd boy who cries “Wolf!” as a joke teaches a lesson about trust that any modern reader understands: “There is no believing a liar, even when he speaks the truth.”",
+     "有些寓言對心理的描述準確得驚人。認定葡萄是酸的那隻狐狸，正在做現代研究者可能稱為「降低認知失調」的事：牠不承認失敗，而是改變自己對想要之物的看法。開玩笑大喊「狼來了！」的牧羊男孩，則教了一個任何現代讀者都懂的關於信任的教訓：「說謊的人，即使說真話也沒人相信。」"
+    ],
+    [
+     "So why do these tiny stories survive? They are short enough to remember and retell. Their animal characters let us recognise our own faults without feeling attacked. And they compress a piece of practical wisdom into a single image — a sleeping hare, a sour grape, a cloak in the sun — that is hard to forget.",
+     "那麼，這些小故事為什麼能留存下來？它們短到足以記住並轉述。動物角色讓我們能認出自己的缺點，而不覺得被攻擊。而且它們把一則實用的智慧，壓縮成一個難以忘懷的畫面——一隻睡著的兔子、一串酸葡萄、陽光下的一件斗篷。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "Fictions That Point to the Truth",
+   "paras": [
+    [
+     "Few literary forms are as economical as the fable. In the version translated by George Fyler Townsend, “The Fox and the Grapes” runs to barely sixty words: a famished fox fails to reach some ripe grapes, turns away “hiding her disappointment” and declares them sour. Yet this miniature narrative has survived for more than two millennia, been adapted by writers such as La Fontaine and given English the idiom “sour grapes”. Its endurance raises an interesting question about what makes a story memorable.",
+     "很少有文學形式像寓言這樣精簡。在喬治．費勒．湯森的譯本中，〈狐狸與葡萄〉只有短短約六十個字：一隻飢餓的狐狸搆不到熟透的葡萄，「掩飾著失望」轉身離開，並宣稱葡萄是酸的。然而這個微型敘事流傳了兩千多年，被拉封丹等作家改編，還為英文留下了 sour grapes 這個慣用語。它的長壽引出一個有趣的問題：是什麼讓一個故事令人難忘？"
+    ],
+    [
+     "The figure behind these tales is elusive. Aesop is traditionally dated to the sixth century BCE, and scattered details of his life appear in Herodotus, Aristotle and Plutarch. An ancient text known as The Aesop Romance portrays him as a strikingly ugly slave who gains his freedom through cleverness and becomes an adviser to kings, but it is probably largely fictional. His existence remains uncertain and no writings by him survive. The fables circulated orally and were not collected until roughly three centuries after his supposed death, by which time many other stories, jokes and proverbs had attached themselves to his name.",
+     "這些故事背後的人物難以捉摸。伊索傳統上被定在西元前六世紀，關於他生平的零星細節散見於希羅多德、亞里斯多德和普魯塔克的著作。一部名為《伊索傳奇》的古代文本，把他描繪成一個奇醜無比的奴隸，靠聰明才智獲得自由並成為國王的顧問，但這很可能大多是虛構的。他是否存在仍不確定，也沒有任何作品留存。這些寓言以口述流傳，直到他據說去世後約三個世紀才被收集，而那時已有許多其他故事、笑話和諺語依附在他的名下。"
+    ],
+    [
+     "Part of the fables’ power lies in their structure. Each presents a compact situation, an action and a consequence, often followed by an explicit moral. “The North Wind and the Sun” stages a contest to make a traveller remove his cloak: the fiercer the wind’s blasts, the more tightly the man wraps himself, until the sun’s warmth achieves what force could not. The appended lesson — “Persuasion is better than Force” — is almost redundant, because the image has already made the argument.",
+     "寓言的力量，部分來自它們的結構。每則寓言都呈現一個緊湊的情境、一個行動和一個後果，後面常接著一句明說的寓意。〈北風與太陽〉安排了一場讓旅人脫下斗篷的比賽：風吹得越猛烈，那人把自己裹得越緊，直到太陽的溫暖做到了強迫做不到的事。附加的教訓——「說服勝於強迫」——幾乎是多餘的，因為畫面本身已經完成了論證。"
+    ],
+    [
+     "Several fables also anticipate insights of modern psychology. The fox who disparages what she cannot obtain has been read as an illustration of cognitive dissonance: unable to hold both desire and frustration comfortably, she resolves the tension by deciding the grapes were never worth having. The philosopher Jon Elster calls this pattern “adaptive preference formation”. Similarly, “The Shepherd’s Boy and the Wolf” captures the economics of credibility: having raised false alarms three or four times, the boy finds that “no one paid any heed to his cries” when the danger is real.",
+     "好幾則寓言也預示了現代心理學的洞見。貶低自己得不到之物的狐狸，被解讀為認知失調的例證：牠無法安然同時懷抱渴望與挫折，於是決定葡萄根本不值得擁有，以化解這股張力。哲學家喬恩．埃爾斯特把這種模式稱為「適應性偏好形成」。同樣地，〈牧羊男孩與狼〉捕捉了信用的經濟學：男孩發出三、四次假警報後，等到危險真的來臨，「沒有人理會他的呼喊」。"
+    ],
+    [
+     "The first-century philosopher Apollonius of Tyana praised Aesop for using humble stories to teach great truths, and the description remains apt. By placing human weaknesses in animal bodies, the fables create enough distance for listeners to recognise themselves without becoming defensive. By compressing a lesson into a single vivid image, they make it portable across languages and centuries. Their survival suggests that the most durable ideas are not always the most elaborate ones, but those that can be carried in a story a child can retell. He added a subtler point: by telling a story that everyone knows is untrue, Aesop told the truth precisely because he never claimed to be describing real events.",
+     "一世紀的哲學家提亞納的阿波羅尼烏斯，稱讚伊索用平凡的故事教導偉大的真理，這個描述至今仍很貼切。寓言把人類的弱點放進動物的身體裡，製造出足夠的距離，讓聽眾能認出自己而不產生防衛。寓言把一個教訓壓縮成單一鮮明的畫面，使它能跨越語言與世紀攜帶。它們的流傳顯示：最持久的觀念不一定是最精巧的，而是那些能裝進一個孩子也能轉述的故事裡的觀念。他還補充了一個更細膩的觀點：伊索講一個人人都知道不是真的的故事，正因為他從不聲稱自己在描述真實事件，反而說出了真理。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "fox-grapes",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "who-was-aesop",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "structure",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "psychology",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "why-they-last",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "fables",
+   "pos": "n.",
+   "meaning": "寓言（複數）",
+   "example": "Many fables have animal characters.",
+   "family": "fable (sing.)"
+  },
+  {
+   "w": "storyteller",
+   "pos": "n.",
+   "meaning": "說故事的人",
+   "example": "My grandfather is a great storyteller.",
+   "family": "story (n.), tell (v.)"
+  },
+  {
+   "w": "steady",
+   "pos": "adj.",
+   "meaning": "穩定的",
+   "example": "She walked at a steady pace.",
+   "family": "steadily (adv.)"
+  },
+  {
+   "w": "famished",
+   "pos": "adj.",
+   "meaning": "非常飢餓的",
+   "example": "After the hike, we were famished.",
+   "family": "famine (n.)"
+  },
+  {
+   "w": "disappointment",
+   "pos": "n.",
+   "meaning": "失望",
+   "example": "She hid her disappointment.",
+   "family": "disappoint (v.)"
+  },
+  {
+   "w": "attributed",
+   "pos": "v.",
+   "meaning": "歸於（p.p.）",
+   "example": "The quote is attributed to Einstein.",
+   "family": "attribute (v.)"
+  },
+  {
+   "w": "oral",
+   "pos": "adj.",
+   "meaning": "口頭的",
+   "example": "We have an oral test tomorrow.",
+   "family": "orally (adv.)"
+  },
+  {
+   "w": "persuasion",
+   "pos": "n.",
+   "meaning": "說服",
+   "example": "Persuasion works better than threats.",
+   "family": "persuade (v.), persuasive (adj.)"
+  },
+  {
+   "w": "compress",
+   "pos": "v.",
+   "meaning": "壓縮",
+   "example": "Compress the file before sending it.",
+   "family": "compression (n.)"
+  },
+  {
+   "w": "economical",
+   "pos": "adj.",
+   "meaning": "精簡的；節約的",
+   "example": "Her writing style is economical.",
+   "family": "economy (n.)"
+  },
+  {
+   "w": "elusive",
+   "pos": "adj.",
+   "meaning": "難以捉摸的",
+   "example": "Success remained elusive.",
+   "family": "elude (v.)"
+  },
+  {
+   "w": "redundant",
+   "pos": "adj.",
+   "meaning": "多餘的",
+   "example": "This sentence is redundant.",
+   "family": "redundancy (n.)"
+  },
+  {
+   "w": "credibility",
+   "pos": "n.",
+   "meaning": "可信度、信用",
+   "example": "Lying damaged his credibility.",
+   "family": "credible (adj.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "passed on",
+   "type": "phrase",
+   "meaning": "傳下去（pass on 的過去式／p.p.）",
+   "usage": "pass on sth (to sb)。",
+   "example": "The story was passed on from parents to children.",
+   "writing": "N + were passed on by + N"
+  },
+  {
+   "phrase": "falls asleep",
+   "type": "phrase",
+   "meaning": "睡著",
+   "usage": "fall asleep（過去式 fell asleep）。",
+   "example": "He falls asleep in every movie.",
+   "writing": "S + is so sure … that he falls asleep"
+  },
+  {
+   "phrase": "turns away",
+   "type": "phrase",
+   "meaning": "轉身離開",
+   "usage": "turn away (from sb/sth)。",
+   "example": "She turned away and cried.",
+   "writing": "At last S + turns away"
+  },
+  {
+   "phrase": "rather than",
+   "type": "phrase",
+   "meaning": "而不是",
+   "usage": "rather than + V／N。",
+   "example": "Rather than complain, she found a solution.",
+   "writing": "rather than admit failure, S + V"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "The harder A, the tighter B",
+   "meaning": "A 越……，B 就越……",
+   "example": "The harder the wind blows, the tighter the man holds it.",
+   "tip": "the + 比較級, the + 比較級：學測常考句型。"
+  },
+  {
+   "frame": "S + is so + adj. + that + S + V",
+   "meaning": "如此……以至於……",
+   "example": "The hare is so sure he will win that he falls asleep.",
+   "tip": "so…that… 表結果。"
+  },
+  {
+   "frame": "The most + adj. + N are not always A, but B",
+   "meaning": "最……的不一定是 A，而是 B",
+   "example": "The most durable ideas are not always the most elaborate ones, but those that can be carried in a story.",
+   "tip": "結論段的有力句型。"
+  }
+ ],
+ "quote": {
+  "text": "Persuasion is better than Force.",
+  "author": "Aesop",
+  "work": "“The North Wind and the Sun”, Three Hundred Aesop’s Fables (trans. George Fyler Townsend, 1867)",
+  "url": "https://www.gutenberg.org/ebooks/21"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "What does the fox say when he cannot reach the grapes?",
+    "options": [
+     "The grapes are sweet",
+     "The grapes are sour anyway",
+     "I will come back tomorrow",
+     "Help me!"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "“The grapes are sour anyway.”"
+   },
+   {
+    "q": "How were Aesop’s fables passed on?",
+    "options": [
+     "In books he wrote",
+     "By people telling them out loud",
+     "On the internet",
+     "In letters"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "His fables were passed on by people telling them out loud."
+   },
+   {
+    "q": "Why does the hare lose the race?",
+    "options": [
+     "He is too slow",
+     "He falls asleep",
+     "He gets lost",
+     "The fox stops him"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "The hare is so sure he will win that he falls asleep."
+   },
+   {
+    "q": "What is one reason the fables last so long?",
+    "options": [
+     "They are very long",
+     "They are short, so they are easy to remember",
+     "They are expensive",
+     "They have no lessons"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "They are short, so they are easy to remember."
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "What English expression comes from the fox fable?",
+    "options": [
+     "Slow and steady",
+     "Sour grapes",
+     "Cry wolf",
+     "Cold shoulder"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "even given English an expression: “sour grapes”"
+   },
+   {
+    "q": "When were the fables collected?",
+    "options": [
+     "While Aesop was alive",
+     "About three centuries after his supposed death",
+     "In the 20th century",
+     "They were never collected"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "were not collected until about three centuries after his supposed death"
+   },
+   {
+    "q": "In “The North Wind and the Sun”, what happens when the wind blows harder?",
+    "options": [
+     "The man takes off his cloak",
+     "The man holds his cloak tighter",
+     "The sun disappears",
+     "The man runs away"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "The harder the wind blows, the tighter the man holds it"
+   },
+   {
+    "q": "How does the fox reduce cognitive dissonance?",
+    "options": [
+     "By trying again",
+     "By changing her opinion of what she wanted",
+     "By asking for help",
+     "By eating other food"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "she changes her opinion of what she wanted"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "What question does the endurance of “The Fox and the Grapes” raise?",
+    "options": [
+     "Whether foxes eat grapes",
+     "What makes a story memorable",
+     "Who translated it",
+     "Whether La Fontaine copied it"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "Its endurance raises an interesting question about what makes a story memorable."
+   },
+   {
+    "q": "Why is little known for certain about Aesop?",
+    "options": [
+     "His existence is uncertain and no writings by him survive",
+     "He wrote in a lost language",
+     "His books were burned",
+     "He lived in the 20th century"
+    ],
+    "a": 0,
+    "why": "第二段。",
+    "evidence": "His existence remains uncertain and no writings by him survive."
+   },
+   {
+    "q": "Why does the writer call the moral of “The North Wind and the Sun” “almost redundant”?",
+    "options": [
+     "The image has already made the argument",
+     "It is wrong",
+     "It is too long",
+     "It was added by Townsend"
+    ],
+    "a": 0,
+    "why": "第三段。",
+    "evidence": "because the image has already made the argument"
+   },
+   {
+    "q": "How do animal characters help listeners, according to the final paragraph?",
+    "options": [
+     "They create distance so listeners can recognise themselves without becoming defensive",
+     "They make the stories longer",
+     "They are more realistic",
+     "They hide the moral"
+    ],
+    "a": 0,
+    "why": "最後一段。",
+    "evidence": "create enough distance for listeners to recognise themselves without becoming defensive"
+   }
+  ]
+ },
+ "reflections": [
+  "Have you ever said “sour grapes” — or seen someone else do it? Describe the situation.",
+  "Write your own short fable (about 60 words) with an animal character and a one-sentence moral about school life."
+ ],
+ "videos": [
+  {
+   "title": "The danger of a single story",
+   "channel": "TEDGlobal 2009 · Chimamanda Ngozi Adichie",
+   "url": "https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story",
+   "kind": "TED",
+   "desc": "A novelist explains how the stories we hear shape the way we see people and places.",
+   "zh": "一位小說家說明我們聽到的故事，如何塑造我們看待人和地方的方式。",
+   "question": "Fables teach through simple stories. According to Adichie, what can go wrong when a story is too simple?"
+  }
+ ]
+}

@@ -78,8 +78,8 @@ transform(document.body);obs.observe(document.body,{childList:true,subtree:true,
 <script>
 // 2026-10-21：文章改由 content/articles/*.json 提供（正本）；讀不到時沿用上方內嵌的 BUILTIN 當離線備援
 (async()=>{try{
-  const idx=await (await fetch('content/index.json')).json();
-  const arts=await Promise.all(idx.articles.map(id=>fetch(`content/articles/${id}.json`).then(r=>{if(!r.ok)throw Error(id);return r.json()})));
+  const idx=await (await fetch('content/index.json',{cache:'no-cache'})).json();
+  const arts=await Promise.all(idx.articles.map(id=>fetch(`content/articles/${id}.json`,{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error(id);return r.json()})));
   if(!arts.length)return;
   BUILTIN.splice(0,BUILTIN.length,...arts);
   items=[...BUILTIN,...custom.filter(c=>!BUILTIN.some(b=>b.id===c.id))];

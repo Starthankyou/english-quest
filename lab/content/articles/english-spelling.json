@@ -1,0 +1,458 @@
+{
+ "id": "english-spelling",
+ "category": "語言與文化",
+ "title": "Why Is English Spelling So Weird?",
+ "subtitle": "英文拼字為什麼這麼怪？knight 的 k、debt 的 b 從哪裡來",
+ "source": "原創議題文章；依 Wikipedia〈English orthography〉〈Great Vowel Shift〉〈William Caxton〉〈Phonological history of English consonant clusters〉核對，2026-10-22",
+ "sources": [
+  {
+   "title": "Wikipedia: English orthography",
+   "url": "https://en.wikipedia.org/wiki/English_orthography",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Wikipedia: Great Vowel Shift",
+   "url": "https://en.wikipedia.org/wiki/Great_Vowel_Shift",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Wikipedia: William Caxton",
+   "url": "https://en.wikipedia.org/wiki/William_Caxton",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Wikipedia: Phonological history of English consonant clusters",
+   "url": "https://en.wikipedia.org/wiki/Phonological_history_of_English_consonant_clusters",
+   "accessed": "2026-10-22"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "Silent Letters and Lost Sounds",
+   "paras": [
+    [
+     "Why does “knight” have a “k”? Why is there a “b” in “debt”? Why don’t “tough” and “dough” rhyme? If English spelling makes you angry, you are not alone. Even native speakers find it hard. But there are reasons for these strange spellings, and they come from history. Some people have tried to make English spelling simpler, but most of their plans failed.",
+     "為什麼 knight 有個 k？為什麼 debt 裡有個 b？為什麼 tough 和 dough 不押韻？如果英文拼字讓你很生氣，你並不孤單，連母語人士都覺得很難。不過，這些奇怪的拼法都有原因，而且來自歷史。有些人試過讓英文拼字更簡單，但大多數的計畫都失敗了。"
+    ],
+    [
+     "First, many spellings show old sounds. Long ago, people really said the “k” in “knight” and “knee”. Later, the “k” sound disappeared, but the spelling stayed. Between about 1400 and 1700, the long vowels of English also changed a lot. This is called the Great Vowel Shift.",
+     "首先，很多拼法保留的是古老的發音。很久以前，人們真的會把 knight 和 knee 裡的 k 唸出來。後來 k 的音消失了，拼法卻留了下來。大約在 1400 到 1700 年間，英文的長母音也有很大的改變，這叫作「母音大推移」。"
+    ],
+    [
+     "Second, printing played a part. In 1476, William Caxton brought the first printing press to England. Some printers knew other languages well. The word “ghost” was once spelled “gost”, but a Flemish spelling with “gh” was used by mistake, and people accepted it.",
+     "第二，印刷也有影響。1476 年，威廉．卡克斯頓把第一台印刷機帶進英格蘭。有些印刷工人很熟悉其他語言。ghost 這個字以前拼作 gost，但一種帶有 gh 的法蘭德斯拼法被誤用，後來大家也就接受了。"
+    ],
+    [
+     "Third, some scholars added letters on purpose. They wanted English words to look like Latin. “Debt” was once spelled “dette”, but they added a “b” because of the Latin word “debitum”. Nobody ever said the “b”.",
+     "第三，有些學者故意加了字母。他們希望英文字看起來像拉丁文。debt 以前拼作 dette，但因為拉丁文的 debitum，他們加了一個 b。從來沒有人唸過這個 b。"
+    ],
+    [
+     "So English spelling is like a museum. It keeps old sounds, old mistakes and old ideas. This can help you, too. When you see a strange spelling, ask: “What story is this word telling me?” It may help you remember it. In the United States, Noah Webster pushed for simpler spellings, so Americans write “flavor” instead of the British “flavour”.",
+     "所以，英文拼字就像一座博物館，保存了古老的發音、過去的錯誤和舊時的觀念。這對你也有幫助。看到奇怪的拼法時，問問自己：「這個字在告訴我什麼故事？」這可能會幫你記住它。在美國，諾亞．韋伯斯特推動比較簡單的拼法，所以美國人寫 flavor，而不是英式的 flavour。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "Why Is English Spelling So Weird?",
+   "paras": [
+    [
+     "Tough, dough, through, cough: four words, one spelling pattern, four different pronunciations. English spelling is famously unpredictable, even for educated native speakers. Attempts to reform it have mostly failed. But its strangeness is not random. Almost every odd spelling is a clue to something that happened in the history of the language. One partial exception is Noah Webster, who promoted simpler spellings in the United States, such as “flavor” for British “flavour” and “fiber” for “fibre”.",
+     "tough、dough、through、cough：四個字，同一種拼字模式，四種不同的發音。英文拼字出了名地難以預測，連受過教育的母語人士也一樣。改革拼字的嘗試大多失敗了。但它的怪異並不是隨機的。幾乎每個奇怪的拼法，都是語言史上發生過某件事的線索。一個部分的例外是諾亞．韋伯斯特，他在美國推廣比較簡化的拼法，例如用 flavor 取代英式的 flavour，用 fiber 取代 fibre。"
+    ],
+    [
+     "One major reason is that pronunciation kept changing after spelling began to settle down. Between roughly 1400 and 1700, English went through the Great Vowel Shift, a series of changes in which every long vowel altered. A word like “bite” once had a vowel closer to the one in modern “beat”. Some consonants also fell silent: in Middle English, the “k” in “knight” and “knot” was pronounced, which is why German still says the “k” in its word for knee, Knie.",
+     "一個主要原因是，拼法開始固定下來之後，發音卻還在持續改變。大約在 1400 到 1700 年間，英文經歷了「母音大推移」——一連串改變，所有長母音都變了。像 bite 這樣的字，母音曾經比較接近現代 beat 的母音。有些子音也變得不發音了：在中古英文裡，knight 和 knot 裡的 k 是要唸出來的，這也是為什麼德文表示膝蓋的字 Knie，至今仍然唸出 k。"
+    ],
+    [
+     "Printing also left its mark. William Caxton is thought to have introduced the printing press to England in 1476. Many early compositors who set the type were multilingual and occasionally used spelling patterns from other languages. The word “ghost”, spelled “gost” in Middle English, gained its silent “h” from a Flemish pattern that happened to be accepted.",
+     "印刷也留下了痕跡。一般認為，威廉．卡克斯頓在 1476 年把印刷機引進英格蘭。許多早期負責排字的工人會說多種語言，偶爾會用上其他語言的拼字模式。中古英文拼作 gost 的 ghost，就是因為一個剛好被接受的法蘭德斯拼法，才多了不發音的 h。"
+    ],
+    [
+     "Some silent letters were added deliberately. Scholars who admired Latin altered the spelling of certain words to show their supposed origins. “Debt”, originally “dette”, gained a “b” to link it to Latin debitum, and “doubt” received a similar treatment. The “s” in “island” was added to connect it with Latin insula, even though the word actually comes from Old English. Sometimes there was no good reason at all: the “p” in “ptarmigan”, the name of a bird, was added to make a Gaelic word look Greek.",
+     "有些不發音的字母是故意加上去的。崇拜拉丁文的學者，修改了某些字的拼法，好顯示它們被認為的來源。debt 原本拼作 dette，為了連結拉丁文 debitum 而多了個 b，doubt 也受到類似的處理。island 裡的 s，是為了和拉丁文 insula 扯上關係而加上的，儘管這個字其實來自古英文。有時甚至毫無道理可言：鳥名 ptarmigan（雷鳥）裡的 p，是為了讓一個蓋爾語的字看起來像希臘文而加上的。"
+    ],
+    [
+     "Seen this way, English spelling is less a set of rules than a historical record. That record can actually help learners. Noticing that “knee” and “knight” share a lost sound, or that “debt” is related to “debit”, turns random memorisation into a story. Spelling, in other words, is a map of where the language has been.",
+     "從這個角度來看，英文拼字與其說是一套規則，不如說是一份歷史紀錄。這份紀錄其實能幫助學習者。注意到 knee 和 knight 共有一個消失的音，或 debt 和 debit 有關，就能把死記硬背變成一個故事。換句話說，拼字是一張地圖，記錄著這個語言走過的路。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "A Map of Where the Language Has Been",
+   "paras": [
+    [
+     "English spelling has a reputation for chaos. The letter sequence “ough” alone is pronounced differently in tough, though, through and cough, and its unpredictability defeats even educated native speakers. Reformers have tried for centuries to regularise it, mostly without success. Yet the system is less arbitrary than it first appears. Its irregularities are largely the residue of identifiable historical processes: sound changes that spelling never caught up with, the habits of early printers, and the ambitions of scholars who wanted English to look more classical.",
+     "英文拼字素有混亂之名。光是 ough 這串字母，在 tough、though、through 和 cough 裡的發音就各不相同，它的不可預測性連受過教育的母語人士都招架不住。改革者幾個世紀以來一直試圖讓它規律化，大多徒勞無功。然而，這套系統並不像乍看那麼任意。它的不規則，大多是可辨識的歷史過程留下的殘跡：拼字始終沒追上的語音變化、早期印刷工人的習慣，以及想讓英文看起來更古典的學者們的雄心。"
+    ],
+    [
+     "The most important of these processes is the Great Vowel Shift, a series of pronunciation changes that took place primarily between 1400 and 1700. During this period, every long vowel of Middle English altered; the vowel of “bite”, for instance, moved from a sound close to that of modern “beat” to the diphthong heard today. Because the standardisation of spelling had begun in the fifteenth and sixteenth centuries, written forms were increasingly fixed just as spoken forms were shifting. Consonants were affected too. The initial cluster in “knight” and “knot” was once fully pronounced; most dialects reduced it to a simple /n/ relatively recently, while German cognates such as Knie still retain the /k/.",
+     "這些過程中最重要的，是母音大推移——主要發生在 1400 到 1700 年間的一連串發音變化。在這段期間，中古英文的每一個長母音都改變了；例如 bite 的母音，就從接近現代 beat 的音，移到今天聽到的雙母音。由於拼字的標準化在十五、十六世紀就已開始，書面形式逐漸固定的同時，口語形式卻正在移動。子音也受到影響。knight 和 knot 開頭的子音群，過去是完整唸出來的；多數方言是在相對晚近才把它簡化成單純的 /n/，而德文的同源字如 Knie 至今仍保留 /k/。"
+    ],
+    [
+     "Technology added another layer. William Caxton is thought to have introduced the printing press to England in 1476, and printing accelerated the fixing of spellings. Early compositors were often multilingual and occasionally imported conventions from other languages; the Middle English “gost”, for example, acquired its silent “h” from a Flemish spelling pattern that happened to stick. Caxton himself was acutely aware of the instability of the language he was printing. In the prologue to his Eneydos, he recalled a northern merchant who asked a Kentish woman for “egges” and was told she spoke no French, because in her dialect the word was “eyren”.",
+     "技術又加上了另一層。一般認為，威廉．卡克斯頓在 1476 年把印刷機引進英格蘭，而印刷加速了拼法的固定。早期的排字工人往往會說多種語言，偶爾會引進其他語言的慣例；例如中古英文的 gost，就是從一個碰巧留存下來的法蘭德斯拼字模式，多了一個不發音的 h。卡克斯頓本人非常清楚他所印刷的語言有多不穩定。在《伊尼依多斯》的序言中，他回憶一位北方商人向一位肯特郡婦人要買 egges，卻被告知她不會說法語，因為在她的方言裡，這個字是 eyren。"
+    ],
+    [
+     "A final layer was deliberate. Scholars in the Renaissance and after sometimes inserted silent letters to display a word’s classical ancestry. The “b” in “debt” (earlier “dette”) and “doubt” and the “p” in “receipt” were added to evoke Latin, though never pronounced. Some insertions rested on mistaken etymologies: the “s” in “island” was meant to link the word to Latin insula, whereas its true origin is the Old English īġland. Ironically, these efforts to make spelling more learned made it less phonetic.",
+     "最後一層是刻意造成的。文藝復興時期及之後的學者，有時會插入不發音的字母，以展示一個字的古典血統。debt（早期拼作 dette）和 doubt 裡的 b，以及 receipt 裡的 p，都是為了喚起拉丁文的聯想而加上的，卻從來不發音。有些插入是建立在錯誤的詞源上：island 裡的 s 本來是要把這個字和拉丁文 insula 連在一起，但它真正的來源是古英文 īġland。諷刺的是，這些讓拼字更有學問的努力，反而讓它更不符合發音。"
+    ],
+    [
+     "For learners, this history offers more than trivia. Treating English spelling as a historical record rather than a list of exceptions can make it easier to master. Recognising that “knee” and “knight” preserve a vanished sound, or that “debt” is related to “debit”, transforms arbitrary memorisation into meaningful pattern. Caxton’s own lament remains apt: it is hard to please every man “by cause of dyversite and chaunge of langage”. Spelling is, in the end, a map of where the language has been.",
+     "對學習者來說，這段歷史不只是冷知識。把英文拼字當成一份歷史紀錄，而不是一張例外清單，能讓它更容易掌握。認出 knee 和 knight 保存了一個消失的音，或 debt 和 debit 有關，就能把任意的死記轉化成有意義的規律。卡克斯頓自己的感嘆至今依然貼切：因為語言的多樣與變化，要讓每個人滿意實在很難。說到底，拼字就是一張地圖，記錄著語言走過的路。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "puzzle",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "sound-change",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "printing",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "latin",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "learning",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "spelling",
+   "pos": "n.",
+   "meaning": "拼字",
+   "example": "Check your spelling before you hand it in.",
+   "family": "spell (v.)"
+  },
+  {
+   "w": "rhyme",
+   "pos": "v.",
+   "meaning": "押韻",
+   "example": "“Cat” rhymes with “hat”.",
+   "family": "rhyme (n.)"
+  },
+  {
+   "w": "disappeared",
+   "pos": "v.",
+   "meaning": "消失（過去式）",
+   "example": "The sun disappeared behind the clouds.",
+   "family": "appear (v.), disappearance (n.)"
+  },
+  {
+   "w": "scholars",
+   "pos": "n.",
+   "meaning": "學者（複數）",
+   "example": "Scholars study old books.",
+   "family": "scholarship (n.)"
+  },
+  {
+   "w": "unpredictable",
+   "pos": "adj.",
+   "meaning": "難以預測的",
+   "example": "The weather is unpredictable.",
+   "family": "predict (v.)"
+  },
+  {
+   "w": "pronunciation",
+   "pos": "n.",
+   "meaning": "發音",
+   "example": "Her pronunciation is very clear.",
+   "family": "pronounce (v.)"
+  },
+  {
+   "w": "deliberately",
+   "pos": "adv.",
+   "meaning": "故意地",
+   "example": "He deliberately ignored me.",
+   "family": "deliberate (adj.)"
+  },
+  {
+   "w": "origins",
+   "pos": "n.",
+   "meaning": "起源（複數）",
+   "example": "We studied the origins of the festival.",
+   "family": "original (adj.)"
+  },
+  {
+   "w": "arbitrary",
+   "pos": "adj.",
+   "meaning": "任意的、隨意的",
+   "example": "The rules seemed arbitrary.",
+   "family": "arbitrarily (adv.)"
+  },
+  {
+   "w": "residue",
+   "pos": "n.",
+   "meaning": "殘留物、殘跡",
+   "example": "The cup had a sugar residue.",
+   "family": "residual (adj.)"
+  },
+  {
+   "w": "standardisation",
+   "pos": "n.",
+   "meaning": "標準化",
+   "example": "Standardisation makes products easier to compare.",
+   "family": "standard (n.)"
+  },
+  {
+   "w": "etymologies",
+   "pos": "n.",
+   "meaning": "詞源（複數）",
+   "example": "Dictionaries often give etymologies.",
+   "family": "etymology (sing.)"
+  },
+  {
+   "w": "phonetic",
+   "pos": "adj.",
+   "meaning": "符合發音的；語音的",
+   "example": "Spanish spelling is quite phonetic.",
+   "family": "phonetics (n.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "played a part",
+   "type": "phrase",
+   "meaning": "起了作用（play a part 的過去式）",
+   "usage": "play a part in sth。",
+   "example": "Luck played a part in our win.",
+   "writing": "N + played a part (in + N)"
+  },
+  {
+   "phrase": "on purpose",
+   "type": "phrase",
+   "meaning": "故意地",
+   "usage": "= deliberately。",
+   "example": "Did you do that on purpose?",
+   "writing": "S + added + N + on purpose"
+  },
+  {
+   "phrase": "settle down",
+   "type": "phrase",
+   "meaning": "穩定下來",
+   "usage": "settle down：事情或人安定、固定。",
+   "example": "Things will settle down after the exam.",
+   "writing": "after + N + began to settle down"
+  },
+  {
+   "phrase": "caught up with",
+   "type": "phrase",
+   "meaning": "趕上（catch up with 的過去式）",
+   "usage": "catch up with sb/sth。",
+   "example": "She ran and caught up with her friends.",
+   "writing": "N + that spelling never caught up with"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "S + is less A than B",
+   "meaning": "……與其說是 A，不如說是 B",
+   "example": "English spelling is less a set of rules than a historical record.",
+   "tip": "重新定義一個概念。"
+  },
+  {
+   "frame": "Seen this way, S + V",
+   "meaning": "從這個角度來看，……",
+   "example": "Seen this way, English spelling is less a set of rules than a historical record.",
+   "tip": "分詞構句，轉換觀點。"
+  },
+  {
+   "frame": "Ironically, A made it less B",
+   "meaning": "諷刺的是，A 反而讓它更不 B",
+   "example": "Ironically, these efforts to make spelling more learned made it less phonetic.",
+   "tip": "指出出乎意料的反效果。"
+  }
+ ],
+ "quote": {
+  "text": "Loo what sholde a man in thyse dayes now wryte, egges or eyren? Certaynly it is harde to playse every man by cause of dyversite and chaunge of langage.",
+  "author": "William Caxton",
+  "work": "Prologue to Eneydos (1490), spelling lightly normalised; as quoted in the Wikipedia article “William Caxton”",
+  "url": "https://en.wikipedia.org/wiki/William_Caxton"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "Where do the strange spellings come from, according to the article?",
+    "options": [
+     "From history",
+     "From computers",
+     "From one teacher",
+     "From mistakes by students"
+    ],
+    "a": 0,
+    "why": "第一段。",
+    "evidence": "they come from history"
+   },
+   {
+    "q": "When did the Great Vowel Shift happen?",
+    "options": [
+     "About 1000 to 1100",
+     "About 1400 to 1700",
+     "About 1800 to 1900",
+     "Last century"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "Between about 1400 and 1700"
+   },
+   {
+    "q": "How was “ghost” spelled before?",
+    "options": [
+     "Goast",
+     "Gost",
+     "Ghoost",
+     "Gaust"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "The word “ghost” was once spelled “gost”"
+   },
+   {
+    "q": "Why was a “b” added to “debt”?",
+    "options": [
+     "To make it easier to say",
+     "Because of the Latin word “debitum”",
+     "By a printer’s mistake",
+     "To make it longer"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "they added a “b” because of the Latin word “debitum”"
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "What does the writer say about the strangeness of English spelling?",
+    "options": [
+     "It is completely random",
+     "Almost every odd spelling is a clue to history",
+     "It was designed to be hard",
+     "It is the same as German"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "Almost every odd spelling is a clue to something that happened in the history of the language."
+   },
+   {
+    "q": "Why does German still say the “k” in Knie?",
+    "options": [
+     "German kept the sound that English lost",
+     "German borrowed it from Latin",
+     "It is a spelling mistake",
+     "German has no silent letters"
+    ],
+    "a": 0,
+    "why": "第二段。",
+    "evidence": "which is why German still says the “k” in its word for knee, Knie"
+   },
+   {
+    "q": "Where does the word “island” actually come from?",
+    "options": [
+     "Latin",
+     "French",
+     "Old English",
+     "Greek"
+    ],
+    "a": 2,
+    "why": "第四段。",
+    "evidence": "even though the word actually comes from Old English"
+   },
+   {
+    "q": "How can spelling history help learners?",
+    "options": [
+     "It turns random memorisation into a story",
+     "It removes all exceptions",
+     "It makes grammar easier",
+     "It replaces dictionaries"
+    ],
+    "a": 0,
+    "why": "最後一段。",
+    "evidence": "turns random memorisation into a story"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "What are English spelling irregularities largely the residue of?",
+    "options": [
+     "Identifiable historical processes",
+     "Random accidents",
+     "Modern technology",
+     "Government rules"
+    ],
+    "a": 0,
+    "why": "第一段。",
+    "evidence": "Its irregularities are largely the residue of identifiable historical processes"
+   },
+   {
+    "q": "Why did spelling and pronunciation drift apart during the Great Vowel Shift?",
+    "options": [
+     "Written forms were becoming fixed just as spoken forms were shifting",
+     "People stopped writing",
+     "Printers changed every word",
+     "Latin replaced English"
+    ],
+    "a": 0,
+    "why": "第二段。",
+    "evidence": "written forms were increasingly fixed just as spoken forms were shifting"
+   },
+   {
+    "q": "What does Caxton’s “egges” story show?",
+    "options": [
+     "How unstable and varied English was",
+     "That eggs were expensive",
+     "That French was common in Kent",
+     "That printing was easy"
+    ],
+    "a": 0,
+    "why": "第三段。",
+    "evidence": "Caxton himself was acutely aware of the instability of the language he was printing."
+   },
+   {
+    "q": "What was ironic about scholars’ added letters?",
+    "options": [
+     "They made spelling less phonetic",
+     "They made English more popular",
+     "They were always correct",
+     "They were later removed"
+    ],
+    "a": 0,
+    "why": "第四段。",
+    "evidence": "Ironically, these efforts to make spelling more learned made it less phonetic."
+   }
+  ]
+ },
+ "reflections": [
+  "Choose one English word whose spelling you find strange. Look up its history in a dictionary. What story does it tell?",
+  "Should English spelling be reformed to match pronunciation? What would we gain, and what would we lose?"
+ ],
+ "videos": [
+  {
+   "title": "Why is English so confusing?",
+   "channel": "TED-Ed · Arika Okrent",
+   "url": "https://ed.ted.com/lessons/why-don-t-tough-and-dough-rhyme-arika-okrent",
+   "kind": "TED-Ed",
+   "desc": "An animated history of English spelling and why tough and dough don’t rhyme.",
+   "zh": "動畫說明英文拼字的歷史，以及 tough 和 dough 為什麼不押韻。",
+   "question": "Which cause of weird spelling in the video is also in this article?"
+  }
+ ]
+}

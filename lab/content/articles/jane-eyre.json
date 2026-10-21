@@ -1,0 +1,448 @@
+{
+ "id": "jane-eyre",
+ "category": "文學",
+ "title": "“I Am No Bird”",
+ "subtitle": "「我不是鳥」：夏綠蒂．勃朗特《簡愛》與獨立的聲音",
+ "source": "原創導讀；小說原文依 Project Gutenberg《Jane Eyre: An Autobiography》（1847，公版），背景依 Wikipedia〈Jane Eyre〉，2026-10-22 核對",
+ "sources": [
+  {
+   "title": "Charlotte Brontë, Jane Eyre: An Autobiography (1847), Project Gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/1260",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Wikipedia: Jane Eyre",
+   "url": "https://en.wikipedia.org/wiki/Jane_Eyre",
+   "accessed": "2026-10-22"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "A Girl Who Would Not Be Quiet",
+   "paras": [
+    [
+     "Jane Eyre is ten years old. Her parents are dead, and she lives with her aunt, Mrs Reed. Her aunt and cousins are cruel to her. They tell her she is bad and that she should be thankful. But Jane does not stay quiet. She says what she feels, even when it gets her into trouble.",
+     "簡．愛十歲。她的父母都過世了，她跟舅媽里德太太住在一起。舅媽和表兄妹對她很殘忍，說她很壞、應該心懷感激。但簡沒有保持沉默。她說出自己的感受，即使因此惹上麻煩。"
+    ],
+    [
+     "Jane Eyre is a novel by the English writer Charlotte Brontë. It was published in 1847. At that time, Brontë used a man’s name, “Currer Bell”, on the book. Many women writers did this because people often did not take women’s writing seriously.",
+     "《簡愛》是英國作家夏綠蒂．勃朗特的小說，在 1847 年出版。當時勃朗特在書上用了一個男性的名字「柯勒．貝爾」。許多女作家都這麼做，因為人們常常不認真看待女性的作品。"
+    ],
+    [
+     "Jane is sent to Lowood, a hard school for poor girls. Life there is cold and hungry, and her best friend, Helen, dies of an illness. Brontë knew this world: two of her own sisters died after living in a school like this. Later, Jane becomes a teacher for a little girl at a big house called Thornfield.",
+     "簡被送到羅伍德，一所專收貧窮女孩的嚴苛學校。那裡的生活又冷又餓，她最好的朋友海倫也病死了。勃朗特很了解這樣的世界：她自己有兩個姊姊，就是在類似的學校生活後過世的。後來，簡在一棟叫桑菲爾德的大宅裡，當一個小女孩的家庭教師。"
+    ],
+    [
+     "At Thornfield, Jane falls in love with the owner, Mr Rochester. He is rich, and she is poor and plain. But Jane tells him she has as much soul and heart as he does. When he says she is like a wild bird, she answers: “I am no bird; and no net ensnares me.”",
+     "在桑菲爾德，簡愛上了宅邸的主人羅徹斯特先生。他很有錢，而她貧窮又相貌平凡。但簡告訴他，她和他一樣有靈魂、有感情。當他說她像一隻野鳥時，她回答：「我不是鳥；沒有網能困住我。」"
+    ],
+    [
+     "Later, Jane finds out a terrible secret: Mr Rochester is already married. She loves him, but she leaves Thornfield anyway because she respects herself. The book is famous because Jane is strong and honest. She shows that a person can be poor and still be free.",
+     "後來，簡發現了一個可怕的祕密：羅徹斯特先生早已結婚。她愛他，但仍然離開了桑菲爾德，因為她尊重自己。這本書之所以有名，是因為簡堅強又誠實。她證明了一個人可以貧窮，卻依然自由。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "“I Am No Bird”",
+   "paras": [
+    [
+     "When Jane Eyre first appeared in October 1847, readers did not know who had written it. The title page named the author as “Currer Bell”. Only later did the public learn that the novel was the work of Charlotte Brontë, a clergyman’s daughter from Yorkshire. Writing under a name that sounded male gave her a better chance of being judged on her work alone.",
+     "《簡愛》在 1847 年 10 月首次問世時，讀者並不知道是誰寫的。扉頁上的作者名字是「柯勒．貝爾」。直到後來，大眾才知道這部小說出自夏綠蒂．勃朗特之手——一位來自約克郡的牧師之女。用一個聽起來像男性的名字寫作，讓她更有機會單憑作品本身被評價。"
+    ],
+    [
+     "The novel follows Jane from childhood to adulthood. An orphan, she is mistreated by her aunt and cousins at Gateshead Hall, then sent to Lowood, a harsh school for poor and orphaned girls, where her friend Helen Burns dies of tuberculosis. Brontë drew on painful experience: two of her own elder sisters, Maria and Elizabeth, died of the same disease after attending a school with similar conditions.",
+     "這部小說跟隨簡從童年走到成年。身為孤兒的她，在蓋茲黑德府受到舅媽和表兄妹的虐待，接著被送到羅伍德——一所專收貧窮與孤兒女孩的嚴苛學校，她的朋友海倫．伯恩斯在那裡死於肺結核。勃朗特取材自痛苦的親身經歷：她的兩個姊姊瑪麗亞和伊莉莎白，在一所條件類似的學校就讀後，也死於同樣的疾病。"
+    ],
+    [
+     "As an adult, Jane becomes a governess at Thornfield Hall and falls in love with her employer, Edward Rochester. In one of the most famous scenes in English fiction, she refuses to accept that her lower position makes her less of a person: “Do you think, because I am poor, obscure, plain, and little, I am soulless and heartless? You think wrong!” When Rochester compares her to a struggling bird, she replies: “I am no bird; and no net ensnares me; I am a free human being with an independent will.” Brontë knew this role well, having worked as a governess herself.",
+     "成年後，簡在桑菲爾德府擔任家庭教師，並愛上了她的雇主愛德華．羅徹斯特。在英國小說最著名的場景之一中，她拒絕接受較低的地位就讓她低人一等：「你以為，因為我貧窮、卑微、不美、矮小，我就沒有靈魂、沒有心嗎？你想錯了！」當羅徹斯特把她比作一隻掙扎的鳥時，她回答：「我不是鳥；沒有網能困住我；我是一個有獨立意志的自由人。」勃朗特很熟悉這個角色，因為她自己就當過家庭教師。"
+    ],
+    [
+     "Brontë also gives Jane a striking reflection on the lives of women. Women are supposed to be calm, Jane observes, “but women feel just as men feel”; they need exercise for their abilities and a field for their efforts, just as their brothers do. For a novel published in 1847, it was a bold statement about the limits placed on women’s lives.",
+     "勃朗特也讓簡對女性的人生有一段發人深省的反思。簡說，人們以為女人應該平靜，「但女人的感受和男人一樣」；她們和兄弟們一樣，需要施展才能，也需要一片努力的天地。對一部 1847 年出版的小說而言，這是關於女性人生所受限制的一番大膽宣言。"
+    ],
+    [
+     "Jane’s independence is tested when she discovers that Rochester is already married. Although she loves him, she leaves, explaining that rules matter most at the moments when we are most tempted to break them. Her choice is painful, but it is hers. That is why, nearly two centuries later, readers still find in Jane a model of self-respect.",
+     "當簡發現羅徹斯特早已結婚時，她的獨立受到了考驗。儘管她愛他，她還是離開了，並解釋說：規則最重要的時候，正是我們最想打破它們的時刻。她的選擇很痛苦，卻是她自己做的。這就是為什麼將近兩個世紀後，讀者仍然在簡身上看見自尊的典範。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "A Free Human Being with an Independent Will",
+   "paras": [
+    [
+     "When Smith, Elder & Co. published Jane Eyre in October 1847, the title page attributed it to “Currer Bell”. The pseudonym concealed Charlotte Brontë, a clergyman’s daughter who, like her sisters, chose a name of ambiguous gender at a time when women’s writing was frequently dismissed or judged by different standards. The concealment is fitting, for the novel itself is preoccupied with being seen and judged accurately — with the gap between how others classify a person and who that person actually is.",
+     "1847 年 10 月，史密斯－埃爾德出版社出版《簡愛》時，扉頁上把作者署名為「柯勒．貝爾」。這個筆名掩蓋了夏綠蒂．勃朗特——一位牧師之女，她和姊妹們一樣，在女性作品常遭輕視或以不同標準評判的年代，選了一個性別模糊的名字。這種隱藏恰如其分，因為小說本身關注的，正是如何被準確地看見與評判——關注別人如何為一個人分類，與那個人實際上是誰之間的落差。"
+    ],
+    [
+     "Structured as a fictional autobiography, the novel traces Jane through five distinct stages: an abused childhood at Gateshead Hall; a harsh education at Lowood, where she gains friends and role models but suffers privation; employment as a governess at Thornfield Hall; a period at Moor House with her cold clergyman cousin, St John Rivers; and finally her reunion with Rochester. The Lowood chapters carry autobiographical weight. Helen Burns’s death from tuberculosis recalls the deaths of Brontë’s elder sisters, Maria and Elizabeth, after their time at the Clergy Daughters’ School at Cowan Bridge.",
+     "這部小說以虛構自傳的形式寫成，追溯簡經歷的五個階段：在蓋茲黑德府受虐的童年；在羅伍德嚴苛的教育，她在那裡得到朋友與榜樣，卻也飽受匱乏；在桑菲爾德府擔任家庭教師；與冷漠的牧師表哥聖約翰．里弗斯在沼澤居的一段時光；最後與羅徹斯特重聚。羅伍德的章節帶有自傳的分量。海倫．伯恩斯死於肺結核，令人想起勃朗特的兩個姊姊瑪麗亞和伊莉莎白，她們在柯文橋的牧師女兒學校就讀後相繼過世。"
+    ],
+    [
+     "The novel’s most celebrated passages turn on Jane’s insistence on her own inner worth. Confronting Rochester, she rejects the assumption that social insignificance implies emotional emptiness: “Do you think, because I am poor, obscure, plain, and little, I am soulless and heartless? You think wrong!” When he urges her to be still, comparing her to “a wild frantic bird”, she transforms his metaphor into a declaration: “I am no bird; and no net ensnares me; I am a free human being with an independent will.” The sentence asserts equality not of status, which Jane lacks, but of selfhood.",
+     "小說最受推崇的段落，都圍繞著簡對自身內在價值的堅持。面對羅徹斯特，她拒絕接受「社會地位卑微就意味著情感空洞」的假設：「你以為，因為我貧窮、卑微、不美、矮小，我就沒有靈魂、沒有心嗎？你想錯了！」當他要她安靜下來，把她比作「一隻狂亂的野鳥」時，她把他的比喻轉化為一份宣言：「我不是鳥；沒有網能困住我；我是一個有獨立意志的自由人。」這句話主張的平等，不是簡所欠缺的地位上的平等，而是自我的平等。"
+    ],
+    [
+     "Earlier, Brontë had already extended this claim beyond one individual. Pacing the third-storey corridor at Thornfield, Jane reflects that “women are supposed to be very calm generally: but women feel just as men feel; they need exercise for their faculties, and a field for their efforts, as much as their brothers do”. It is narrow-minded, she continues, to insist that women confine themselves to making puddings and knitting stockings. Such passages help explain why the novel has been read as an early statement about the constraints imposed on women’s lives.",
+     "更早之前，勃朗特就已經把這個主張延伸到個人之外。在桑菲爾德三樓的走廊上來回踱步時，簡思索著：「一般認為女人應該非常平靜；但女人的感受和男人一樣；她們和兄弟們一樣，需要施展才能，需要一片努力的天地。」她接著說，堅持女人只該做布丁、織襪子，是心胸狹隘的。這些段落有助於解釋，為什麼這部小說被讀作一份關於女性人生所受束縛的早期宣言。"
+    ],
+    [
+     "Jane’s autonomy is most severely tested when she learns that Rochester is already married. Alone and without resources, she nonetheless refuses to stay, reasoning that “laws and principles are not for the times when there is no temptation”. Her departure is not a rejection of love but an assertion that love must not require the surrender of self-respect. Modern readers have also questioned the novel, notably through Jean Rhys’s 1966 reimagining Wide Sargasso Sea, which gives a voice to Rochester’s first wife. That a book can still provoke such responses suggests how powerfully it raised the question of who is entitled to speak, and to be heard.",
+     "當簡得知羅徹斯特早已結婚時，她的自主受到最嚴峻的考驗。孤立無援的她仍然拒絕留下，理由是「法律與原則不是為沒有誘惑的時候而存在的」。她的離開不是拒絕愛，而是主張：愛不應該要求人放棄自尊。現代讀者也對這部小說提出質疑，最著名的是珍．瑞絲 1966 年的重寫之作《夢迴藻海》，它讓羅徹斯特的第一任妻子發出了聲音。一本書至今仍能激起這樣的回應，顯示它多麼有力地提出了「誰有資格說話、誰有資格被聽見」這個問題。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "currer-bell",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "childhood-lowood",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "no-bird",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "women-feel",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "leaving",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "cruel",
+   "pos": "adj.",
+   "meaning": "殘忍的",
+   "example": "It is cruel to laugh at him.",
+   "family": "cruelty (n.)"
+  },
+  {
+   "w": "novel",
+   "pos": "n.",
+   "meaning": "長篇小說",
+   "example": "She is reading a long novel.",
+   "family": "novelist (n.)"
+  },
+  {
+   "w": "plain",
+   "pos": "adj.",
+   "meaning": "相貌平凡的；樸素的",
+   "example": "She wore a plain dress.",
+   "family": "plainly (adv.)"
+  },
+  {
+   "w": "respects",
+   "pos": "v.",
+   "meaning": "尊重（第三人稱）",
+   "example": "He respects his teachers.",
+   "family": "respect (n.), self-respect (n.)"
+  },
+  {
+   "w": "orphan",
+   "pos": "n.",
+   "meaning": "孤兒",
+   "example": "The orphan lived with her grandmother.",
+   "family": "orphanage (n.)"
+  },
+  {
+   "w": "governess",
+   "pos": "n.",
+   "meaning": "（住在雇主家的）家庭女教師",
+   "example": "The governess taught the children French.",
+   "family": "govern (v.)"
+  },
+  {
+   "w": "independent",
+   "pos": "adj.",
+   "meaning": "獨立的",
+   "example": "She wants to be independent.",
+   "family": "independence (n.)"
+  },
+  {
+   "w": "bold",
+   "pos": "adj.",
+   "meaning": "大膽的",
+   "example": "It was a bold decision.",
+   "family": "boldly (adv.)"
+  },
+  {
+   "w": "pseudonym",
+   "pos": "n.",
+   "meaning": "筆名、化名",
+   "example": "Mark Twain is a pseudonym.",
+   "family": "pen name (同義)"
+  },
+  {
+   "w": "ambiguous",
+   "pos": "adj.",
+   "meaning": "模糊的、模稜兩可的",
+   "example": "His answer was ambiguous.",
+   "family": "ambiguity (n.)"
+  },
+  {
+   "w": "privation",
+   "pos": "n.",
+   "meaning": "匱乏、困苦",
+   "example": "They lived in privation during the war.",
+   "family": "deprive (v.)"
+  },
+  {
+   "w": "metaphor",
+   "pos": "n.",
+   "meaning": "隱喻",
+   "example": "“Time is money” is a metaphor.",
+   "family": "metaphorical (adj.)"
+  },
+  {
+   "w": "autonomy",
+   "pos": "n.",
+   "meaning": "自主",
+   "example": "Teenagers want more autonomy.",
+   "family": "autonomous (adj.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "gets her into trouble",
+   "type": "phrase",
+   "meaning": "讓她惹上麻煩",
+   "usage": "get sb into trouble。",
+   "example": "His jokes often get him into trouble.",
+   "writing": "N + gets + sb + into trouble"
+  },
+  {
+   "phrase": "falls in love with",
+   "type": "phrase",
+   "meaning": "愛上",
+   "usage": "fall in love with sb。",
+   "example": "He fell in love with her at first sight.",
+   "writing": "S + falls in love with + sb"
+  },
+  {
+   "phrase": "drew on",
+   "type": "phrase",
+   "meaning": "取材自（draw on 的過去式）",
+   "usage": "draw on + 經驗／資料。",
+   "example": "The writer drew on her childhood.",
+   "writing": "S + drew on + painful experience"
+  },
+  {
+   "phrase": "turn on",
+   "type": "phrase",
+   "meaning": "取決於、圍繞著",
+   "usage": "正式用法：A turns on B（A 以 B 為關鍵）。",
+   "example": "The case turns on one piece of evidence.",
+   "writing": "The passages turn on + N"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "Only later did + S + V",
+   "meaning": "直到後來，……才……（倒裝）",
+   "example": "Only later did the public learn that the novel was the work of Charlotte Brontë.",
+   "tip": "Only + 時間副詞放句首，主詞與助動詞倒裝。"
+  },
+  {
+   "frame": "Do you think, because A, B? You think wrong!",
+   "meaning": "你以為因為 A，所以 B 嗎？你想錯了！",
+   "example": "Do you think, because I am poor, obscure, plain, and little, I am soulless and heartless? You think wrong!",
+   "tip": "反問句加強語氣，適合演講或議論。"
+  },
+  {
+   "frame": "S + asserts equality not of A, but of B",
+   "meaning": "主張的不是 A 的平等，而是 B 的平等",
+   "example": "The sentence asserts equality not of status, which Jane lacks, but of selfhood.",
+   "tip": "not…but… 精確區分概念。"
+  }
+ ],
+ "quote": {
+  "text": "I am no bird; and no net ensnares me; I am a free human being with an independent will.",
+  "author": "Charlotte Brontë",
+  "work": "Jane Eyre (1847), Chapter 23",
+  "url": "https://www.gutenberg.org/ebooks/1260"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "Who does Jane live with when she is ten?",
+    "options": [
+     "Her parents",
+     "Her aunt, Mrs Reed",
+     "Mr Rochester",
+     "Helen"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "she lives with her aunt, Mrs Reed"
+   },
+   {
+    "q": "Why did Brontë use the name “Currer Bell”?",
+    "options": [
+     "It was her real name",
+     "People often did not take women’s writing seriously",
+     "Her publisher liked it",
+     "She wanted to be a man"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "people often did not take women’s writing seriously"
+   },
+   {
+    "q": "What does Jane answer when Rochester says she is like a wild bird?",
+    "options": [
+     "I am a bird",
+     "I am no bird; and no net ensnares me",
+     "I want to fly",
+     "I am tired"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "“I am no bird; and no net ensnares me.”"
+   },
+   {
+    "q": "Why does Jane leave Thornfield?",
+    "options": [
+     "She does not love Rochester",
+     "She respects herself",
+     "She is fired",
+     "She wants money"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "she leaves Thornfield anyway because she respects herself"
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "What did writing under a male-sounding name give Brontë?",
+    "options": [
+     "More money",
+     "A better chance of being judged on her work alone",
+     "A job",
+     "A famous family"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "gave her a better chance of being judged on her work alone"
+   },
+   {
+    "q": "How did Brontë’s own life connect to Lowood?",
+    "options": [
+     "She was a teacher there",
+     "Two of her elder sisters died after attending a school with similar conditions",
+     "She was born there",
+     "Her father ran it"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "two of her own elder sisters, Maria and Elizabeth, died of the same disease after attending a school with similar conditions"
+   },
+   {
+    "q": "According to Jane, what do women need “just as their brothers do”?",
+    "options": [
+     "Money and houses",
+     "Exercise for their abilities and a field for their efforts",
+     "Fine clothes",
+     "Quiet and rest"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "they need exercise for their abilities and a field for their efforts, just as their brothers do"
+   },
+   {
+    "q": "When do rules matter most, according to Jane’s explanation?",
+    "options": [
+     "When life is easy",
+     "At the moments when we are most tempted to break them",
+     "Only at school",
+     "Never"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "rules matter most at the moments when we are most tempted to break them"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "Why does the writer call the pseudonym’s concealment “fitting”?",
+    "options": [
+     "The novel is about being seen and judged accurately",
+     "Brontë was shy",
+     "The book was a secret",
+     "Currer Bell was a real person"
+    ],
+    "a": 0,
+    "why": "第一段。",
+    "evidence": "the novel itself is preoccupied with being seen and judged accurately"
+   },
+   {
+    "q": "What kind of equality does “I am no bird” assert?",
+    "options": [
+     "Equality of status",
+     "Equality of selfhood",
+     "Equality of wealth",
+     "Equality of education"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "The sentence asserts equality not of status, which Jane lacks, but of selfhood."
+   },
+   {
+    "q": "Where does Jane reflect that “women feel just as men feel”?",
+    "options": [
+     "In church",
+     "Pacing the third-storey corridor at Thornfield",
+     "At Lowood",
+     "At Moor House"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "Pacing the third-storey corridor at Thornfield"
+   },
+   {
+    "q": "What does Wide Sargasso Sea do, according to the writer?",
+    "options": [
+     "It continues Jane’s story",
+     "It gives a voice to Rochester’s first wife",
+     "It is Brontë’s second novel",
+     "It criticises Rhys"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "which gives a voice to Rochester’s first wife"
+   }
+  ]
+ },
+ "reflections": [
+  "Jane says she has “as much soul” as Rochester even though she is poor. Have you ever been judged by your position rather than by who you are?",
+  "Was Jane right to leave Thornfield? What would you have done, and why?"
+ ],
+ "videos": [
+  {
+   "title": "Reader, it's Jane Eyre — Crash Course Literature 207",
+   "channel": "YouTube · CrashCourse",
+   "url": "https://www.youtube.com/watch?v=Z8tqY8fX0Ec",
+   "kind": "YouTube",
+   "desc": "John Green introduces Charlotte Brontë’s coming-of-age novel.",
+   "zh": "約翰．葛林介紹夏綠蒂．勃朗特的成長小說。",
+   "question": "Which idea in the video connects to Jane’s line “I am no bird”?"
+  }
+ ]
+}

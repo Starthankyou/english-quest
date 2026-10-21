@@ -1,0 +1,453 @@
+{
+ "id": "dickinson",
+ "category": "文學",
+ "title": "“I’m Nobody! Who Are You?”",
+ "subtitle": "「我是無名小卒！你是誰？」艾蜜莉．狄金生的詩",
+ "source": "原創導讀；詩作依 Project Gutenberg《Poems by Emily Dickinson, Three Series》（1890–96 編輯版，公版），手稿版與生平依 Wikipedia〈Emily Dickinson〉〈I'm Nobody! Who are you?〉，2026-10-22 核對",
+ "sources": [
+  {
+   "title": "Poems by Emily Dickinson, Three Series, Complete, Project Gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/12242",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Wikipedia: Emily Dickinson",
+   "url": "https://en.wikipedia.org/wiki/Emily_Dickinson",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Wikipedia: I'm Nobody! Who are you?",
+   "url": "https://en.wikipedia.org/wiki/I%27m_Nobody!_Who_are_you%3F",
+   "accessed": "2026-10-22"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "A Poet Nobody Knew",
+   "paras": [
+    [
+     "“I’m nobody! Who are you? Are you nobody, too?” These are the first lines of a short poem by Emily Dickinson. The speaker is happy to be “nobody”. She thinks being famous — being “somebody” — sounds boring and tiring.",
+     "「我是無名小卒！你是誰？你也是無名小卒嗎？」這是艾蜜莉．狄金生一首短詩的開頭。詩中的說話者很高興自己是「無名小卒」。她覺得出名——當個「大人物」——聽起來又無聊又累人。"
+    ],
+    [
+     "In the poem, being “somebody” is like being a frog. A frog says its name all day long to an admiring bog (a wet, muddy place). It is a funny picture. Dickinson is laughing at people who always want attention.",
+     "在這首詩裡，當「大人物」就像當一隻青蛙。青蛙整天對著一片仰慕牠的沼澤（又濕又泥濘的地方）叫自己的名字。這是個好笑的畫面。狄金生在嘲笑那些總是想要被關注的人。"
+    ],
+    [
+     "Emily Dickinson lived from 1830 to 1886 in Amherst, a small town in the United States. She wrote nearly 1,800 poems, but only 10 were published while she was alive. Few people knew she was a poet. After she died, her younger sister Lavinia found the poems in her desk.",
+     "艾蜜莉．狄金生生於 1830 年，卒於 1886 年，住在美國的小鎮安默斯特。她寫了將近 1,800 首詩，但在世時只發表了 10 首。很少人知道她是詩人。她過世後，妹妹拉維妮亞在她的書桌裡發現了這些詩。"
+    ],
+    [
+     "Her poems were first printed as a book in 1890. But the editors changed many of them to make them look “normal”. Dickinson used many dashes ( — ) and capital letters in strange places. In 1955, a new book showed her poems much closer to the way she wrote them.",
+     "她的詩在 1890 年首次集結成書出版。但編輯們修改了其中很多首，讓它們看起來比較「正常」。狄金生在詩裡用了很多破折號（—），也會在奇怪的地方使用大寫字母。到了 1955 年，一本新書才讓她的詩更接近她原本寫下的樣子。"
+    ],
+    [
+     "Another famous poem begins: “Hope is the thing with feathers / That perches in the soul.” Hope is like a little bird inside us. It keeps singing, even in a storm, and it never asks for anything. Dickinson was “nobody” in her lifetime, but today she is one of America’s greatest poets. She also wrote that no ship can take us as far as a book: “There is no frigate like a book.”",
+     "另一首著名的詩開頭是：「希望是長著羽毛的東西／棲息在靈魂裡。」希望就像我們心裡的一隻小鳥，即使在暴風雨中也不停歌唱，而且從不索求任何東西。狄金生在世時是個「無名小卒」，如今卻是美國最偉大的詩人之一。她也寫過，沒有一艘船能像一本書那樣帶我們走那麼遠：「沒有一艘戰艦比得上一本書。」"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "“I’m Nobody! Who Are You?”",
+   "paras": [
+    [
+     "Most poems about fame celebrate it or mourn its absence. Emily Dickinson’s “I’m Nobody! Who are you?” does neither. Its speaker greets the reader as a fellow “nobody” and suggests they keep their secret, because being “somebody” sounds dreary. In just eight lines, the poem turns a common fear — being unimportant — into a kind of private freedom. The critic Harold Bloom suggested that the poem is popular because it speaks to a universal feeling of being on the outside.",
+     "大多數關於名聲的詩，若不是歌頌它，就是哀嘆得不到它。艾蜜莉．狄金生的〈我是無名小卒！你是誰？〉兩者都不是。詩中的說話者把讀者當成一個同為「無名小卒」的夥伴來問候，並提議兩人保守祕密，因為當「大人物」聽起來很沉悶。短短八行，這首詩就把一種常見的恐懼——不被重視——轉化成一種私密的自由。評論家哈洛．卜倫認為，這首詩之所以受歡迎，是因為它觸及一種普遍的感受：被排除在外。"
+    ],
+    [
+     "The second stanza delivers the poem’s sharpest image. Being somebody, the speaker says, is “public, like a frog” that tells its name all day long “to an admiring bog”. The comparison is comic but pointed: the frog’s audience is only a swamp, and its message is simply its own name. Readers today often notice how well the image fits the endless self-promotion of social media.",
+     "第二節帶出了這首詩最犀利的意象。說話者說，當個大人物就像「青蛙一樣公開」，整天對著「一片仰慕牠的沼澤」報上自己的名字。這個比喻很滑稽，卻一針見血：青蛙的觀眾只是一片沼澤，牠傳達的訊息也不過是自己的名字。今天的讀者常會注意到，這個意象和社群媒體上無止盡的自我宣傳多麼契合。"
+    ],
+    [
+     "Dickinson herself was, in a sense, a nobody. Born in Amherst, Massachusetts, in 1830, she wrote nearly 1,800 poems, but only 10 were published during her lifetime. Few people around her knew about her writing. After her death in 1886, her younger sister Lavinia discovered the poems in her desk. She studied at Amherst Academy for seven years and briefly attended Mount Holyoke Female Seminary before returning home.",
+     "從某種意義上說，狄金生本人就是一個無名小卒。她 1830 年生於麻薩諸塞州的安默斯特，寫了將近 1,800 首詩，但在世時只發表了 10 首。她身邊很少人知道她在寫作。1886 年她過世後，妹妹拉維妮亞在她的書桌裡發現了這些詩。她在安默斯特學院讀了七年，又在曼荷蓮女子學院短暫就讀，之後才回到家中。"
+    ],
+    [
+     "When the poems were first published in 1890, the editors significantly altered them to fit the poetic conventions of the time. They smoothed out her dashes, unusual capital letters and irregular rhymes. In “I’m Nobody!”, her handwritten line “they’d advertise — you know!” became “They’d banish us, you know.” Only in 1955, when Thomas H. Johnson published a complete edition, were the poems restored closer to her original intention.",
+     "這些詩在 1890 年首次出版時，編輯們為了符合當時的詩歌慣例，對它們做了大幅修改。他們抹平了她的破折號、不尋常的大寫字母和不規則的押韻。在〈我是無名小卒！〉中，她手稿上的「他們會到處宣揚——你知道的！」被改成「他們會把我們放逐，你知道的。」直到 1955 年湯瑪斯．H．強森出版全集，這些詩才恢復到更接近她原意的樣子。"
+    ],
+    [
+     "That editorial change matters. “Banish” makes the world sound cruel; “advertise” makes it sound noisy and nosy, which is exactly the poem’s point. Dickinson’s other famous lines, such as “Hope is the thing with feathers / That perches in the soul”, show the same gift for turning a large idea into a small, exact image. The poet who called herself nobody now speaks to millions of readers. Her poem about books makes a similar move: “There is no frigate like a book.”",
+     "這個編輯上的改動很重要。「放逐」讓世界聽起來很殘酷；「宣揚」則讓它聽起來吵鬧又愛管閒事——這正是這首詩的重點。狄金生的其他名句，例如「希望是長著羽毛的東西／棲息在靈魂裡」，也展現了同樣的天賦：把一個龐大的概念，轉化成一個小而精確的意象。自稱無名小卒的詩人，如今對著數百萬讀者說話。她寫書的那首詩也用了類似的手法：「沒有一艘戰艦比得上一本書。」"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "The Poetry of Being Nobody",
+   "paras": [
+    [
+     "“I’m Nobody! Who are you?” opens with a question that reverses the usual logic of ambition. Rather than lamenting obscurity, the speaker treats it as a bond: finding a fellow nobody, she proposes that they keep their status secret. In the second stanza, the alternative is mocked with a single comic image. To be “Somebody” is to be “public — like a Frog”, announcing one’s name through the long summer to “an admiring Bog”. Fame, in this view, is not glory but tedious self-advertisement before an audience that cannot judge.",
+     "〈我是無名小卒！你是誰？〉以一個顛覆野心慣常邏輯的問題開場。說話者不哀嘆默默無聞，反而把它當成一種連結：找到另一個無名小卒後，她提議兩人保守自己的身分祕密。在第二節，另一種選擇被一個滑稽的意象嘲弄。當「大人物」就是「像青蛙一樣公開」，整個漫長的夏天都在對著「一片仰慕牠的沼澤」報上自己的名字。在這種觀點下，名聲不是榮耀，而是在一群無法評判的觀眾面前，乏味地自我宣傳。"
+    ],
+    [
+     "The poem acquires additional irony from the circumstances of its author. Emily Dickinson, born in Amherst, Massachusetts, in 1830, was a prolific writer who produced nearly 1,800 poems, yet only 10 were published during her lifetime. Few in her circle were aware of the scale of her work. After her death in 1886, her younger sister Lavinia discovered the poems in her desk, and what had been a private practice became, posthumously, one of the most significant bodies of poetry in American literature.",
+     "這首詩因作者的處境而多了一層反諷。1830 年生於麻薩諸塞州安默斯特的艾蜜莉．狄金生，是一位多產的作家，寫了將近 1,800 首詩，但在世時只發表了 10 首。她身邊的人很少知道她作品的規模。1886 年她過世後，妹妹拉維妮亞在她的書桌裡發現了這些詩，原本私密的寫作，在她身後成為美國文學中最重要的詩歌作品之一。"
+    ],
+    [
+     "Her path to readers, however, involved considerable distortion. When a selection appeared in 1890, edited by Thomas Wentworth Higginson and Mabel Loomis Todd, the poems were significantly altered to fit prevailing conventions. Her distinctive dashes and capitals were regularised, and some words were replaced. The second line of “I’m Nobody!” lost its dashes, and the manuscript’s “they’d advertise — you know!” became “They’d banish us, you know.” The substitution changes the poem’s meaning: banishment implies punishment by an authority, whereas advertisement implies exposure by gossip — precisely the publicity the speaker wishes to avoid.",
+     "然而，她走向讀者的路上，經歷了相當大的扭曲。1890 年由湯瑪斯．溫特沃斯．希金森和梅布爾．盧米斯．托德編選出版時，這些詩為了符合當時盛行的慣例而被大幅修改。她獨特的破折號和大寫字母被規範化，有些字詞也被替換。〈我是無名小卒！〉的第二行失去了破折號，而手稿上的「他們會到處宣揚——你知道的！」變成了「他們會把我們放逐，你知道的。」這個替換改變了詩的意義：放逐意味著權威的懲罰，宣揚則意味著被閒話曝光——而這正是說話者想避開的公眾目光。"
+    ],
+    [
+     "Only in 1955, when Thomas H. Johnson published a complete edition, were the poems presented nearly as Dickinson had left them: untitled, numbered, strewn with dashes and irregularly capitalised, often elliptical in their language. The restored texts revealed a poet of great formal daring. Dickinson frequently worked within the familiar ballad stanza, yet she unsettled it with slant rhyme and abrupt compression, as if testing how much meaning a short line could hold.",
+     "直到 1955 年湯瑪斯．H．強森出版全集，這些詩才幾乎以狄金生留下的樣子呈現：沒有標題、只有編號、遍布破折號、大寫不規則，語言往往省略跳躍。恢復後的文本，揭示了一位在形式上極為大膽的詩人。狄金生常在熟悉的民謠詩節中寫作，卻以斜韻和突然的壓縮打亂它，彷彿在測試一行短詩能承載多少意義。"
+    ],
+    [
+     "That capacity for compression is visible in her best-known lines. “Hope is the thing with feathers / That perches in the soul” turns an abstraction into a small bird that sings “the tune without the words” and, the speaker notes, has never asked “a crumb” in return. The poems endure partly because they are brief enough to memorise and strange enough to reward rereading. They also offer a reminder relevant to an age of constant visibility: a life lived largely out of public view can still produce work of lasting public value. Elsewhere she made the same move with reading itself: “There is no frigate like a book / To take us lands away.”",
+     "這種壓縮的能力，在她最知名的詩句中清晰可見。「希望是長著羽毛的東西／棲息在靈魂裡」把一個抽象概念變成一隻小鳥，牠唱著「沒有歌詞的曲調」，而說話者指出，牠從未索求過「一粒麵包屑」作為回報。這些詩能流傳下來，部分是因為它們短到可以背誦，又奇特到值得一讀再讀。它們也提供了一個與這個時時刻刻都在曝光的時代息息相關的提醒：一段大多遠離公眾目光的人生，仍能創造出具有長久公共價值的作品。在別處，她也對閱讀本身用了同樣的手法：「沒有一艘戰艦比得上一本書／能帶我們遠赴他鄉。」"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "nobody",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "frog",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "life",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "editors",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "hope",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "speaker",
+   "pos": "n.",
+   "meaning": "（詩中的）說話者",
+   "example": "The speaker of the poem is lonely.",
+   "family": "speak (v.)"
+  },
+  {
+   "w": "admiring",
+   "pos": "adj.",
+   "meaning": "仰慕的",
+   "example": "She gave him an admiring look.",
+   "family": "admire (v.), admiration (n.)"
+  },
+  {
+   "w": "attention",
+   "pos": "n.",
+   "meaning": "注意、關注",
+   "example": "The baby wants attention.",
+   "family": "attend (v.)"
+  },
+  {
+   "w": "published",
+   "pos": "v.",
+   "meaning": "出版、發表（p.p.）",
+   "example": "Her first book was published in 2020.",
+   "family": "publish (v.), publisher (n.)"
+  },
+  {
+   "w": "editors",
+   "pos": "n.",
+   "meaning": "編輯（複數）",
+   "example": "The editors checked every page.",
+   "family": "edit (v.), edition (n.)"
+  },
+  {
+   "w": "dreary",
+   "pos": "adj.",
+   "meaning": "沉悶的",
+   "example": "It was a dreary, rainy day.",
+   "family": "—"
+  },
+  {
+   "w": "stanza",
+   "pos": "n.",
+   "meaning": "（詩的）節",
+   "example": "Read the second stanza aloud.",
+   "family": "stanzas (pl.)"
+  },
+  {
+   "w": "conventions",
+   "pos": "n.",
+   "meaning": "慣例（複數）",
+   "example": "The artist broke many conventions.",
+   "family": "conventional (adj.)"
+  },
+  {
+   "w": "obscurity",
+   "pos": "n.",
+   "meaning": "默默無聞",
+   "example": "He died in obscurity.",
+   "family": "obscure (adj.)"
+  },
+  {
+   "w": "prolific",
+   "pos": "adj.",
+   "meaning": "多產的",
+   "example": "She is a prolific writer.",
+   "family": "—"
+  },
+  {
+   "w": "posthumously",
+   "pos": "adv.",
+   "meaning": "死後地",
+   "example": "The book was published posthumously.",
+   "family": "posthumous (adj.)"
+  },
+  {
+   "w": "distortion",
+   "pos": "n.",
+   "meaning": "扭曲",
+   "example": "The report was a distortion of the facts.",
+   "family": "distort (v.)"
+  },
+  {
+   "w": "compression",
+   "pos": "n.",
+   "meaning": "壓縮；精簡",
+   "example": "Poetry relies on compression.",
+   "family": "compress (v.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "all day long",
+   "type": "phrase",
+   "meaning": "一整天",
+   "usage": "強調持續時間。",
+   "example": "It rained all day long.",
+   "writing": "S + V + all day long"
+  },
+  {
+   "phrase": "in a sense",
+   "type": "phrase",
+   "meaning": "從某種意義上說",
+   "usage": "放句首或句中，表示部分同意。",
+   "example": "In a sense, we are all learners.",
+   "writing": "S + was, in a sense, + N"
+  },
+  {
+   "phrase": "smoothed out",
+   "type": "phrase",
+   "meaning": "抹平、修整（smooth out 的過去式）",
+   "usage": "smooth out + 問題／不平之處。",
+   "example": "We smoothed out the problems in the plan.",
+   "writing": "S + smoothed out + N"
+  },
+  {
+   "phrase": "in return",
+   "type": "phrase",
+   "meaning": "作為回報",
+   "usage": "do/ask sth in return。",
+   "example": "He helped me and asked for nothing in return.",
+   "writing": "has never asked + N + in return"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "Most A do X or Y. B does neither.",
+   "meaning": "大多數 A 會 X 或 Y，B 兩者皆非",
+   "example": "Most poems about fame celebrate it or mourn its absence. Emily Dickinson’s poem does neither.",
+   "tip": "開場對比，凸顯獨特性。"
+  },
+  {
+   "frame": "Only in + 年份, when …, were + S + p.p.",
+   "meaning": "直到……年……，……才被……（倒裝）",
+   "example": "Only in 1955, when Thomas H. Johnson published a complete edition, were the poems restored.",
+   "tip": "Only + 時間放句首要倒裝。"
+  },
+  {
+   "frame": "A implies X, whereas B implies Y",
+   "meaning": "A 意味著 X，而 B 意味著 Y",
+   "example": "Banishment implies punishment by an authority, whereas advertisement implies exposure by gossip.",
+   "tip": "比較兩個字詞的言外之意。"
+  }
+ ],
+ "quote": {
+  "text": "Hope is the thing with feathers / That perches in the soul, / And sings the tune without the words, / And never stops at all.",
+  "author": "Emily Dickinson",
+  "work": "“Hope”, Poems, Second Series (1891)",
+  "url": "https://www.gutenberg.org/ebooks/12242"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "How does the speaker feel about being “nobody”?",
+    "options": [
+     "Sad",
+     "Happy",
+     "Angry",
+     "Afraid"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "The speaker is happy to be “nobody”."
+   },
+   {
+    "q": "What is being “somebody” compared to?",
+    "options": [
+     "A bird",
+     "A frog",
+     "A book",
+     "A storm"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "being “somebody” is like being a frog"
+   },
+   {
+    "q": "How many of Dickinson’s poems were published while she was alive?",
+    "options": [
+     "About 10",
+     "About 100",
+     "About 1,000",
+     "About 1,800"
+    ],
+    "a": 0,
+    "why": "第三段。",
+    "evidence": "only 10 were published while she was alive"
+   },
+   {
+    "q": "What did the editors do in 1890?",
+    "options": [
+     "They threw the poems away",
+     "They changed many poems to make them look “normal”",
+     "They added pictures",
+     "They translated them"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "the editors changed many of them to make them look “normal”"
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "What does the poem turn a common fear into?",
+    "options": [
+     "A kind of private freedom",
+     "A reason to become famous",
+     "A sad memory",
+     "A joke about frogs only"
+    ],
+    "a": 0,
+    "why": "第一段。",
+    "evidence": "the poem turns a common fear — being unimportant — into a kind of private freedom"
+   },
+   {
+    "q": "Why is the frog image “comic but pointed”?",
+    "options": [
+     "Its audience is only a swamp and its message is only its own name",
+     "Frogs are funny animals",
+     "Dickinson loved frogs",
+     "It is about nature"
+    ],
+    "a": 0,
+    "why": "第二段。",
+    "evidence": "the frog’s audience is only a swamp, and its message is simply its own name"
+   },
+   {
+    "q": "What did “they’d advertise — you know!” become in 1890?",
+    "options": [
+     "They’d banish us, you know.",
+     "They’d tell everyone.",
+     "They’d find us.",
+     "It stayed the same."
+    ],
+    "a": 0,
+    "why": "第四段。",
+    "evidence": "became “They’d banish us, you know.”"
+   },
+   {
+    "q": "Why does the editorial change matter, according to the writer?",
+    "options": [
+     "“Advertise” makes the world sound noisy and nosy, which is the poem’s point",
+     "“Banish” is easier to spell",
+     "It made the poem longer",
+     "It does not matter"
+    ],
+    "a": 0,
+    "why": "最後一段。",
+    "evidence": "“advertise” makes it sound noisy and nosy, which is exactly the poem’s point"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "How is fame presented in the poem?",
+    "options": [
+     "As glory",
+     "As tedious self-advertisement before an audience that cannot judge",
+     "As a reward for hard work",
+     "As something dangerous"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "Fame, in this view, is not glory but tedious self-advertisement before an audience that cannot judge."
+   },
+   {
+    "q": "What additional irony does the writer point out?",
+    "options": [
+     "Dickinson was famous in her lifetime",
+     "Dickinson published few poems while alive yet became hugely significant",
+     "Dickinson hated poetry",
+     "Lavinia wrote the poems"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "only 10 were published during her lifetime"
+   },
+   {
+    "q": "What is the difference between “banish” and “advertise”, according to the writer?",
+    "options": [
+     "Banishment implies punishment by an authority; advertisement implies exposure by gossip",
+     "They mean the same thing",
+     "Advertise is older",
+     "Banish is more modern"
+    ],
+    "a": 0,
+    "why": "第三段。",
+    "evidence": "banishment implies punishment by an authority, whereas advertisement implies exposure by gossip"
+   },
+   {
+    "q": "What reminder do the poems offer “an age of constant visibility”?",
+    "options": [
+     "Everyone should be famous",
+     "A life lived largely out of public view can still produce work of lasting public value",
+     "Poetry is dead",
+     "Social media is useful"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "a life lived largely out of public view can still produce work of lasting public value"
+   }
+  ]
+ },
+ "reflections": [
+  "Would you rather be a “somebody” or a “nobody”? Use the frog image in your answer.",
+  "Write your own two-line poem in Dickinson’s style that turns a big idea (such as fear, love or time) into a small image."
+ ],
+ "videos": [
+  {
+   "title": "What happens when you die? A poetic inquiry",
+   "channel": "TED-Ed",
+   "url": "https://www.ted.com/talks/emily_dickinson_what_happens_when_you_die_a_poetic_inquiry",
+   "kind": "TED-Ed",
+   "desc": "An animated reading of Dickinson’s “Because I could not stop for Death”.",
+   "zh": "動畫朗讀狄金生的〈因為我無法為死亡停留〉。",
+   "question": "How does this poem turn a big idea (death) into a small image, as “Hope” does?"
+  }
+ ]
+}

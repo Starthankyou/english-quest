@@ -1,0 +1,462 @@
+{
+ "id": "sherlock-holmes",
+ "category": "文學",
+ "title": "You See, But You Do Not Observe",
+ "subtitle": "你看見了，卻沒有觀察：福爾摩斯與推理思考",
+ "source": "原創導讀；小說原文依 Project Gutenberg《A Study in Scarlet》（1887）與《The Adventures of Sherlock Holmes》（1892，皆公版），背景依 Wikipedia〈Sherlock Holmes〉，2026-10-22 核對",
+ "sources": [
+  {
+   "title": "Arthur Conan Doyle, A Study in Scarlet (1887), Project Gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/244",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Arthur Conan Doyle, The Adventures of Sherlock Holmes (1892), Project Gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/1661",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Wikipedia: Sherlock Holmes",
+   "url": "https://en.wikipedia.org/wiki/Sherlock_Holmes",
+   "accessed": "2026-10-22"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "How Did He Know?",
+   "paras": [
+    [
+     "Dr Watson has just come back to London. A friend introduces him to a strange young man in a laboratory. The man shakes his hand and says: “You have been in Afghanistan, I perceive.” Watson is amazed. “How on earth did you know that?” he asks. The young man is Sherlock Holmes.",
+     "華生醫生剛回到倫敦。一位朋友在實驗室裡把他介紹給一個奇怪的年輕人。那人跟他握手，說：「我看得出來，你去過阿富汗。」華生大吃一驚：「你到底是怎麼知道的？」這個年輕人就是夏洛克．福爾摩斯。"
+    ],
+    [
+     "This scene comes from A Study in Scarlet, the first Sherlock Holmes story, published in 1887. The writer, Arthur Conan Doyle, was a doctor. He said Holmes was inspired by Joseph Bell, a surgeon in Edinburgh. Bell could guess many things about a person just by looking carefully.",
+     "這一幕出自《血字的研究》，也就是第一個福爾摩斯故事，在 1887 年出版。作者亞瑟．柯南．道爾是一位醫生。他說福爾摩斯的靈感來自愛丁堡的外科醫生約瑟夫．貝爾。貝爾只要仔細觀察，就能猜出一個人的許多事。"
+    ],
+    [
+     "Later, Holmes explains his thinking. Watson looks like a doctor, but he stands like a soldier. So he is an army doctor. His face is dark, but his wrists are pale, so he has been somewhere hot. He holds his left arm stiffly, so he was hurt. Where could an English army doctor get hurt in a hot place? Afghanistan.",
+     "後來，福爾摩斯解釋了他的思路。華生看起來像醫生，站姿卻像軍人，所以他是軍醫。他的臉曬黑了，手腕卻很白，所以他去過炎熱的地方。他的左手臂姿勢僵硬，所以他受過傷。一位英國軍醫會在哪個炎熱的地方受傷？阿富汗。"
+    ],
+    [
+     "In another story, Holmes asks Watson: “How many steps lead up to our room?” Watson has walked up them hundreds of times, but he does not know. Holmes says there are seventeen. “You see, but you do not observe,” he tells Watson.",
+     "在另一個故事裡，福爾摩斯問華生：「通往我們房間的樓梯有幾階？」華生已經走過幾百次了，卻答不出來。福爾摩斯說有十七階。「你看見了，卻沒有觀察，」他對華生說。"
+    ],
+    [
+     "Holmes also warns that it is a big mistake to make a theory before you have facts. That is good advice for us, too. Before you decide what is true, look carefully, collect facts and then think. Who knows? You may be a better detective than you think.",
+     "福爾摩斯也警告說，在掌握事實之前就提出理論，是個大錯誤。這對我們也是很好的建議。在你判斷什麼是真的之前，先仔細觀察、收集事實，然後再思考。誰知道呢？你可能是個比自己想像中更好的偵探。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "You See, But You Do Not Observe",
+   "paras": [
+    [
+     "“You have been in Afghanistan, I perceive.” With these words, spoken while shaking hands with a stranger in a London laboratory, Sherlock Holmes entered literature. The stranger, Dr John Watson, can only reply in astonishment: “How on earth did you know that?” More than a century later, that question still explains why readers love Holmes. We want to know how he knows.",
+     "「我看得出來，你去過阿富汗。」福爾摩斯在倫敦一間實驗室裡和陌生人握手時說出這句話，就此走進了文學世界。那位陌生人約翰．華生醫生，只能驚訝地回答：「你到底是怎麼知道的？」一個多世紀後，這個問題仍然解釋了讀者為什麼喜愛福爾摩斯：我們想知道他是怎麼知道的。"
+    ],
+    [
+     "The scene opens A Study in Scarlet, which appeared in Beeton’s Christmas Annual in 1887. Its author, Arthur Conan Doyle, was a doctor, and he repeatedly said that Holmes was inspired by Joseph Bell, a surgeon at the Royal Infirmary of Edinburgh for whom he had worked. Like Holmes, Bell was famous for drawing broad conclusions from small observations. Holmes went on to appear in four novels and 56 short stories. Many of the stories begin at his famous address, 221B Baker Street.",
+     "這一幕是《血字的研究》的開場，它在 1887 年刊登於《比頓聖誕年刊》。作者亞瑟．柯南．道爾是一位醫生，他一再表示福爾摩斯的靈感來自約瑟夫．貝爾——愛丁堡皇家醫院的外科醫生，道爾曾為他工作。和福爾摩斯一樣，貝爾以從細微觀察中得出廣泛結論而聞名。福爾摩斯後來一共出現在四部長篇和五十六篇短篇小說中。許多故事都從他那個有名的地址——貝克街 221B 號——開始。"
+    ],
+    [
+     "Later, Holmes reveals the chain of reasoning behind his remark. Watson had the look of a medical man but the air of a military one, so he was probably an army doctor. His face was dark but his wrists were fair, so he had recently been in the tropics. His haggard face suggested hardship and sickness, and he held his left arm stiffly, suggesting a wound. The only likely place combining all of these was Afghanistan. The whole process, Holmes claims, took less than a second.",
+     "後來，福爾摩斯揭露了那句話背後的推理鏈。華生有醫生的模樣，卻有軍人的氣質，所以他很可能是軍醫。他的臉黝黑，手腕卻白皙，所以他最近去過熱帶。憔悴的面容顯示他經歷過苦難與疾病，而他的左臂姿勢僵硬，暗示曾經受傷。能同時符合這一切的地方，最可能是阿富汗。福爾摩斯聲稱，整個過程花不到一秒鐘。"
+    ],
+    [
+     "In “A Scandal in Bohemia”, Holmes makes the method explicit. He asks Watson how many steps lead up from the hall to their rooms. Watson has climbed them hundreds of times but has no idea. “You see, but you do not observe,” Holmes says. There are seventeen. Seeing is passive; observing means paying deliberate attention to details that most people ignore.",
+     "在〈波希米亞醜聞〉中，福爾摩斯把方法講得很明白。他問華生，從門廳通往他們房間的樓梯有幾階。華生爬過幾百次，卻完全不知道。「你看見了，卻沒有觀察，」福爾摩斯說。答案是十七階。「看見」是被動的；「觀察」則是刻意留意大多數人忽略的細節。"
+    ],
+    [
+     "Holmes adds a second rule in the same story: “It is a capital mistake to theorise before one has data.” If we form a theory too early, he warns, we start to twist facts to suit theories instead of theories to suit facts. That warning applies far beyond detective work — to science, to news and to our own judgements about other people.",
+     "福爾摩斯在同一個故事裡補上第二條規則：「在掌握資料之前就提出理論，是極大的錯誤。」他警告說，如果我們太早形成理論，就會開始扭曲事實去迎合理論，而不是調整理論去符合事實。這個警告的適用範圍遠遠超出偵探工作——適用於科學、新聞，以及我們對他人的判斷。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "Observation, Inference and the Danger of Early Theories",
+   "paras": [
+    [
+     "Few fictional characters have proved as durable as Sherlock Holmes. First appearing in A Study in Scarlet in Beeton’s Christmas Annual for 1887, he became widely popular through the short stories in The Strand Magazine that began with “A Scandal in Bohemia” in 1891, and eventually featured in four novels and 56 short stories. Guinness World Records lists him as the most portrayed human literary character in film and television history. Much of his appeal lies in a promise: that careful attention and disciplined reasoning can make the world intelligible.",
+     "很少有虛構角色像夏洛克．福爾摩斯一樣歷久不衰。他首次出現在 1887 年《比頓聖誕年刊》的《血字的研究》中，之後因 1891 年以〈波希米亞醜聞〉開頭、刊登於《河濱雜誌》的短篇系列而廣受歡迎，最終出現在四部長篇和五十六篇短篇小說中。金氏世界紀錄將他列為影視史上被演繹次數最多的文學人物。他的魅力很大一部分來自一個承諾：仔細的注意力與嚴謹的推理，能讓世界變得可以理解。"
+    ],
+    [
+     "Conan Doyle, himself a physician, repeatedly said that the character was inspired by Joseph Bell, a surgeon at the Royal Infirmary of Edinburgh for whom he had worked as a clerk. Bell was noted for drawing broad conclusions from minute observations, a habit Doyle gave to his detective in the very first scene. Shaking Watson’s hand, Holmes remarks, “You have been in Afghanistan, I perceive,” leaving Watson astonished. Bell himself later wrote an introduction for an edition of A Study in Scarlet, giving the connection an unusual public seal.",
+     "本身就是醫生的柯南．道爾一再表示，這個角色的靈感來自約瑟夫．貝爾——愛丁堡皇家醫院的外科醫生，道爾曾擔任他的助理。貝爾以從極細微的觀察中得出廣泛結論而著稱，道爾在第一個場景就把這個習慣賦予了他的偵探。福爾摩斯握著華生的手說：「我看得出來，你去過阿富汗。」讓華生大吃一驚。貝爾本人後來還為《血字的研究》的某個版本寫了序，讓這層關係得到了不尋常的公開認證。"
+    ],
+    [
+     "When Holmes later reconstructs his reasoning, it turns out to be a chain of small inferences. Watson has the bearing of a medical man and the air of a soldier; his face is tanned while his wrists are pale; his features are haggard; he holds his left arm stiffly. Each observation narrows the possibilities until only one explanation remains plausible. Although the stories call this method “deduction”, it is better described as abduction — inferring the most likely explanation for a set of observed details. The distinction matters, because abductive conclusions can be wrong even when every step seems persuasive.",
+     "當福爾摩斯後來重建他的推理時，結果是一連串小小的推論。華生有醫生的舉止和軍人的氣質；他的臉曬黑了，手腕卻很白；他面容憔悴；他的左臂姿勢僵硬。每一項觀察都縮小了可能性，直到只剩一個解釋說得通。雖然故事把這種方法稱為「演繹」，但它更適合被描述為「溯因推理」——為一組觀察到的細節推斷最可能的解釋。這個區別很重要，因為即使每一步看起來都很有說服力，溯因得出的結論仍可能是錯的。"
+    ],
+    [
+     "In “A Scandal in Bohemia”, Holmes distinguishes between two mental activities that are easily confused. Watson, asked how many steps lead up from the hall, cannot say, though he has climbed them hundreds of times. “You see, but you do not observe,” Holmes tells him; there are seventeen. Seeing is the passive reception of information. Observation is selective and intentional, directed by questions. The insight anticipates a theme of modern psychology: attention is limited, and we notice far less of our surroundings than we assume.",
+     "在〈波希米亞醜聞〉中，福爾摩斯區分了兩種容易混淆的心智活動。被問到從門廳上樓有幾階時，華生答不出來，儘管他已經爬過幾百次。「你看見了，卻沒有觀察，」福爾摩斯對他說；答案是十七階。「看見」是被動地接收資訊；「觀察」則是有選擇、有意圖的，由問題所引導。這個洞見預示了現代心理學的一個主題：注意力是有限的，我們注意到的周遭事物，遠比我們以為的少。"
+    ],
+    [
+     "The same story contains Holmes’s most enduring methodological warning: “It is a capital mistake to theorise before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.” This is a precise description of what psychologists now call confirmation bias. Holmes is a fictional genius, and his conclusions are guaranteed by his author. Real reasoners enjoy no such guarantee, which is precisely why his advice matters: observe deliberately, gather evidence before committing to an explanation, and remain willing to revise it.",
+     "同一個故事裡，有福爾摩斯最經久不衰的方法論警告：「在掌握資料之前就提出理論，是極大的錯誤。人會不知不覺地扭曲事實去迎合理論，而不是調整理論去符合事實。」這正精確地描述了心理學家今天所說的確認偏誤。福爾摩斯是虛構的天才，他的結論有作者擔保；真實世界的推理者沒有這樣的保證，而這正是他的建議之所以重要的原因：刻意觀察，在認定一個解釋之前先收集證據，並且保持願意修正的態度。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "afghanistan",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "doyle-bell",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "reasoning",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "observe",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "theorise",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "perceive",
+   "pos": "v.",
+   "meaning": "察覺、看出",
+   "example": "I perceive that you are tired.",
+   "family": "perception (n.)"
+  },
+  {
+   "w": "amazed",
+   "pos": "adj.",
+   "meaning": "驚訝的",
+   "example": "We were amazed by the view.",
+   "family": "amaze (v.), amazing (adj.)"
+  },
+  {
+   "w": "detective",
+   "pos": "n.",
+   "meaning": "偵探",
+   "example": "The detective found the thief.",
+   "family": "detect (v.)"
+  },
+  {
+   "w": "astonishment",
+   "pos": "n.",
+   "meaning": "驚訝",
+   "example": "She stared in astonishment.",
+   "family": "astonish (v.)"
+  },
+  {
+   "w": "inspired",
+   "pos": "v.",
+   "meaning": "啟發（p.p.）",
+   "example": "The song was inspired by her grandmother.",
+   "family": "inspiration (n.)"
+  },
+  {
+   "w": "observations",
+   "pos": "n.",
+   "meaning": "觀察（複數）",
+   "example": "Write down your observations.",
+   "family": "observe (v.)"
+  },
+  {
+   "w": "explicit",
+   "pos": "adj.",
+   "meaning": "明確的",
+   "example": "The rules are explicit.",
+   "family": "implicit (反義)"
+  },
+  {
+   "w": "deliberate",
+   "pos": "adj.",
+   "meaning": "刻意的",
+   "example": "It was a deliberate choice.",
+   "family": "deliberately (adv.)"
+  },
+  {
+   "w": "durable",
+   "pos": "adj.",
+   "meaning": "持久的",
+   "example": "These shoes are very durable.",
+   "family": "durability (n.)"
+  },
+  {
+   "w": "intelligible",
+   "pos": "adj.",
+   "meaning": "可理解的",
+   "example": "His accent made his speech barely intelligible.",
+   "family": "intelligence (n.)"
+  },
+  {
+   "w": "inferences",
+   "pos": "n.",
+   "meaning": "推論（複數）",
+   "example": "Make inferences from the text.",
+   "family": "infer (v.)"
+  },
+  {
+   "w": "plausible",
+   "pos": "adj.",
+   "meaning": "合理的、說得通的",
+   "example": "That is a plausible explanation.",
+   "family": "implausible (反義)"
+  },
+  {
+   "w": "methodological",
+   "pos": "adj.",
+   "meaning": "方法論的",
+   "example": "The study had methodological problems.",
+   "family": "method (n.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "How on earth",
+   "type": "phrase",
+   "meaning": "到底、究竟（加強語氣）",
+   "usage": "How/What/Why on earth + 問句：表示非常驚訝。",
+   "example": "What on earth are you doing?",
+   "writing": "How on earth did you know that?"
+  },
+  {
+   "phrase": "paying deliberate attention to",
+   "type": "phrase",
+   "meaning": "刻意留意",
+   "usage": "pay attention to + N／V-ing。",
+   "example": "Pay attention to the teacher.",
+   "writing": "observing means paying deliberate attention to + N"
+  },
+  {
+   "phrase": "went on to",
+   "type": "phrase",
+   "meaning": "接著、後來（做了某事）",
+   "usage": "go on to + V：說明之後的發展。",
+   "example": "She went on to become a doctor.",
+   "writing": "S + went on to + V"
+  },
+  {
+   "phrase": "turns out to be",
+   "type": "phrase",
+   "meaning": "結果是",
+   "usage": "turn out to be + N／adj.。",
+   "example": "The test turned out to be easy.",
+   "writing": "it turns out to be + N"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "With these words, S + V",
+   "meaning": "隨著這句話，……",
+   "example": "With these words, Sherlock Holmes entered literature.",
+   "tip": "以引言開場後的承接句。"
+  },
+  {
+   "frame": "A is passive; B means V-ing",
+   "meaning": "A 是被動的；B 則是……",
+   "example": "Seeing is passive; observing means paying deliberate attention to details.",
+   "tip": "用分號對比兩個概念。"
+  },
+  {
+   "frame": "Although S + V, it is better described as N",
+   "meaning": "雖然……，但它更適合被描述為……",
+   "example": "Although the stories call this method “deduction”, it is better described as abduction.",
+   "tip": "修正一個常見說法。"
+  }
+ ],
+ "quote": {
+  "text": "It is a capital mistake to theorise before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.",
+  "author": "Arthur Conan Doyle (Sherlock Holmes)",
+  "work": "“A Scandal in Bohemia”, The Adventures of Sherlock Holmes (1892)",
+  "url": "https://www.gutenberg.org/ebooks/1661"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "What does Holmes say when he first meets Watson?",
+    "options": [
+     "Welcome to London",
+     "You have been in Afghanistan, I perceive",
+     "Are you a doctor?",
+     "How many steps are there?"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "“You have been in Afghanistan, I perceive.”"
+   },
+   {
+    "q": "Who inspired the character of Holmes?",
+    "options": [
+     "Dr Watson",
+     "Joseph Bell, a surgeon in Edinburgh",
+     "A police officer",
+     "A soldier"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "He said Holmes was inspired by Joseph Bell, a surgeon in Edinburgh."
+   },
+   {
+    "q": "How did Holmes know Watson had been somewhere hot?",
+    "options": [
+     "Watson told him",
+     "Watson’s face was dark but his wrists were pale",
+     "Watson was wearing a hat",
+     "Watson had a map"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "His face is dark, but his wrists are pale"
+   },
+   {
+    "q": "How many steps lead up to their room?",
+    "options": [
+     "Seven",
+     "Ten",
+     "Seventeen",
+     "Seventy"
+    ],
+    "a": 2,
+    "why": "第四段。",
+    "evidence": "Holmes says there are seventeen."
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "Where did A Study in Scarlet first appear?",
+    "options": [
+     "The Strand Magazine",
+     "Beeton’s Christmas Annual",
+     "A newspaper",
+     "A medical journal"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "which appeared in Beeton’s Christmas Annual in 1887"
+   },
+   {
+    "q": "How long did Holmes’s reasoning about Watson take, according to Holmes?",
+    "options": [
+     "Less than a second",
+     "A few minutes",
+     "An hour",
+     "A whole day"
+    ],
+    "a": 0,
+    "why": "第三段。",
+    "evidence": "The whole process, Holmes claims, took less than a second."
+   },
+   {
+    "q": "What is the difference between seeing and observing?",
+    "options": [
+     "Seeing is passive; observing means paying deliberate attention",
+     "There is no difference",
+     "Observing uses only the eyes",
+     "Seeing is more careful"
+    ],
+    "a": 0,
+    "why": "第四段。",
+    "evidence": "Seeing is passive; observing means paying deliberate attention to details that most people ignore."
+   },
+   {
+    "q": "What happens if we form a theory too early, according to Holmes?",
+    "options": [
+     "We solve cases faster",
+     "We start to twist facts to suit theories",
+     "We become detectives",
+     "Nothing"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "we start to twist facts to suit theories instead of theories to suit facts"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "What “promise” lies behind much of Holmes’s appeal?",
+    "options": [
+     "That crime always pays",
+     "That careful attention and disciplined reasoning can make the world intelligible",
+     "That London is safe",
+     "That doctors make good detectives"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "careful attention and disciplined reasoning can make the world intelligible"
+   },
+   {
+    "q": "Why does the writer prefer the term “abduction”?",
+    "options": [
+     "Holmes infers the most likely explanation for observed details",
+     "Holmes kidnaps people",
+     "Holmes uses mathematical proofs",
+     "Doyle used that word"
+    ],
+    "a": 0,
+    "why": "第三段。",
+    "evidence": "inferring the most likely explanation for a set of observed details"
+   },
+   {
+    "q": "What theme of modern psychology does the “steps” scene anticipate?",
+    "options": [
+     "That attention is limited",
+     "That memory is perfect",
+     "That people like stairs",
+     "That observation is passive"
+    ],
+    "a": 0,
+    "why": "第四段。",
+    "evidence": "attention is limited, and we notice far less of our surroundings than we assume"
+   },
+   {
+    "q": "Why does Holmes’s advice matter more for real reasoners?",
+    "options": [
+     "Their conclusions are not guaranteed by an author",
+     "They are smarter than Holmes",
+     "They have more data",
+     "They never make mistakes"
+    ],
+    "a": 0,
+    "why": "最後一段。",
+    "evidence": "Real reasoners enjoy no such guarantee"
+   }
+  ]
+ },
+ "reflections": [
+  "Try Holmes’s test: without looking, how many steps are there to your classroom or home? Go and count. What else have you “seen but not observed”?",
+  "Describe a time when you (or someone else) formed an opinion too early and twisted the facts to fit it."
+ ],
+ "videos": [
+  {
+   "title": "Who IS Sherlock Holmes?",
+   "channel": "TED-Ed · Neil McCaw",
+   "url": "https://ed.ted.com/lessons/who-is-sherlock-holmes-neil-mccaw",
+   "kind": "TED-Ed",
+   "desc": "How the character of Sherlock Holmes has changed over more than a century.",
+   "zh": "福爾摩斯這個角色一百多年來如何演變。",
+   "question": "Why do you think Holmes keeps being reinvented?"
+  },
+  {
+   "title": "Sherlock Holmes and the crime of the century",
+   "channel": "TED-Ed · Alex Rosenthal",
+   "url": "https://ed.ted.com/lessons/sherlock-holmes-and-the-case-of-the-red-headed-league-alex-rosenthal",
+   "kind": "TED-Ed",
+   "desc": "An animated adaptation of “The Red-Headed League” that lets you try to solve the case.",
+   "zh": "〈紅髮會〉的動畫改編，讓你試著自己破案。",
+   "question": "Which clue did you notice — or miss — before Holmes explained it?"
+  }
+ ]
+}
