@@ -1,0 +1,462 @@
+{
+ "id": "shakespeare-words",
+ "category": "文學",
+ "title": "Did Shakespeare Really Invent 1,700 Words?",
+ "subtitle": "莎士比亞真的發明了 1,700 個英文字嗎？",
+ "source": "原創導讀；資料依 Dead Language Society〈No, Shakespeare didn’t invent those words〉、The Guardian（2016）與 OUP Blog（2016），2026-10-21 核對",
+ "sources": [
+  {
+   "title": "Dead Language Society: No, Shakespeare didn’t invent those words",
+   "url": "https://www.deadlanguagesociety.com/p/how-many-words-did-shakespeare-invent",
+   "accessed": "2026-10-21"
+  },
+  {
+   "title": "The Guardian (2016): Shakespeare’s language not as original as dictionaries think",
+   "url": "https://www.theguardian.com/books/2016/sep/06/shakespeare-language-not-original-david-mcinnis-claim-oed-bias",
+   "accessed": "2026-10-21"
+  },
+  {
+   "title": "OUP Blog (2016): Shakespeare’s linguistic legacy",
+   "url": "http://blog.oup.com/2016/04/shakespeare-linguistic-legacy/",
+   "accessed": "2026-10-21"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "Who Made These Words?",
+   "paras": [
+    [
+     "You may have heard this fact: William Shakespeare invented about 1,700 English words. Some books even say 2,000. Shakespeare lived from 1564 to 1616 and wrote famous plays like Romeo and Juliet and Macbeth. So is the fact true? The answer is: probably not.",
+     "你可能聽過這個說法：威廉．莎士比亞發明了大約 1,700 個英文單字，有些書甚至說是 2,000 個。莎士比亞生於 1564 年、卒於 1616 年，寫過《羅密歐與茱麗葉》和《馬克白》等名劇。那麼這個說法是真的嗎？答案是：大概不是。"
+    ],
+    [
+     "The big number comes from a famous dictionary, the Oxford English Dictionary, or OED. For each word, the OED shows the oldest example it can find. For many words, the oldest example was from Shakespeare. But “the oldest example we found” is not the same as “the first time anyone used it”.",
+     "這個大數字來自一本有名的字典——《牛津英語詞典》（OED）。每個字，OED 都會列出它能找到的最早例句。很多字的最早例句都來自莎士比亞。但「我們找到的最早例子」，不等於「第一次有人用這個字」。"
+    ],
+    [
+     "Here is an example. The word “assassination” appears in Macbeth. People said Shakespeare made it up. But a man called Sir Thomas Smith used the word in a letter in 1572, thirty-four years earlier. The word “eyeball” is another example. Someone else used it before Shakespeare too. A scholar called Edward Grant wrote it in 1571.",
+     "舉個例子。「assassination（暗殺）」這個字出現在《馬克白》裡，大家說是莎士比亞發明的。但一位叫湯瑪斯．史密斯爵士的人，在 1572 年的一封信裡就用過這個字，早了三十四年。「eyeball（眼球）」也是一樣，在莎士比亞之前就有人用過了。一位叫愛德華．格蘭特的學者在 1571 年就寫過這個字。"
+    ],
+    [
+     "Why did the dictionary make this mistake? Shakespeare was very famous, so the people who made the dictionary read his works very carefully. They did not read other writers of his time so carefully. Also, many books and papers from that time are now lost.",
+     "字典為什麼會犯這種錯？因為莎士比亞太有名了，編字典的人非常仔細地讀了他的作品，卻沒有那麼仔細地讀同時代其他作家的作品。而且，那個年代很多書和文件現在都已經失傳了。"
+    ],
+    [
+     "So Shakespeare did not invent all those words. But he was still a great writer. He knew about 20,000 words and used them with amazing skill. His genius was not in making new words, but in using words in new and beautiful ways. He also wrote over 800,000 words in his published works, so it is likely that he did make up a few new words.",
+     "所以，那些字並不全是莎士比亞發明的。但他仍然是一位偉大的作家。他大約掌握了兩萬個字，並以驚人的技巧運用它們。他的天才不在於創造新字，而在於用全新而美麗的方式使用文字。他出版的作品超過八十萬字，所以他很可能確實創造過一些新字。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "Did Shakespeare Really Invent 1,700 Words?",
+   "paras": [
+    [
+     "It is one of the most repeated facts about the English language: William Shakespeare invented around 1,700 words. Some popular books go even further. Bill Bryson’s The Mother Tongue claims he “coined some 2,000 words”. The idea is attractive because it tells a simple story — that a language can be shaped by one great genius. Unfortunately, the evidence tells a more complicated story.",
+     "這是關於英語最常被重複的「事實」之一：威廉．莎士比亞發明了大約 1,700 個字。有些暢銷書說得更誇張，比爾．布萊森的《母語》就聲稱他「創造了約 2,000 個字」。這個說法很吸引人，因為它講了一個簡單的故事——一種語言可以由一位偉大的天才塑造。可惜，證據講的是一個更複雜的故事。"
+    ],
+    [
+     "The number comes from the Oxford English Dictionary (OED), which records the earliest written example of each word that its editors could find. This is called the “first attested use”. For a large number of words, that earliest example came from Shakespeare. But a first attested use is not proof of invention. It only means no earlier example had been found — yet. According to the Australian scholar David McInnis, around 1,500 Shakespeare quotations in the OED are listed as the first evidence of a word’s existence in English.",
+     "這個數字來自《牛津英語詞典》（OED）。OED 會記錄編者能找到的每個字最早的書面例子，這叫作「最早記錄用例」。很多字的最早例子都出自莎士比亞。但最早記錄用例並不能證明是他發明的，它只代表「目前」還沒找到更早的例子。根據澳洲學者大衛．麥金尼斯的說法，OED 中約有 1,500 條莎士比亞引文，被列為某個字在英語中存在的最早證據。"
+    ],
+    [
+     "And earlier examples keep turning up. Shakespeare used “assassination” in Macbeth, yet the diplomat Sir Thomas Smith had already written it in a letter in 1572, thirty-four years before. “Eyeball”, once credited to The Tempest, appeared in a translation by Edward Grant in 1571. In 1980, the German scholar Jürgen Schäfer studied just one writer of the same period, Thomas Nashe, and found that Nashe beat Shakespeare’s “first uses” more than fifty times.",
+     "而更早的例子不斷出現。莎士比亞在《馬克白》裡用了「assassination」，但外交官湯瑪斯．史密斯爵士早在 1572 年的一封信裡就寫過了，早了三十四年。曾被歸功於《暴風雨》的「eyeball」，在 1571 年愛德華．格蘭特的一本譯作裡就出現了。1980 年，德國學者約根．謝佛只研究了一位同時代的作家湯瑪斯．納許，就發現納許比莎士比亞的「最早用例」更早的情況超過五十次。"
+    ],
+    [
+     "Why was Shakespeare credited so often? The early OED editors read his works far more thoroughly than those of his less famous contemporaries; the first edition included roughly 33,000 Shakespeare quotations, many more than for any other author. Meanwhile, most of the cheap printed material of the time — pamphlets, primers and the like — has been lost.",
+     "為什麼莎士比亞那麼常被記上一筆？早期的 OED 編者讀他的作品，遠比讀那些名氣較小的同時代作家仔細得多；初版收錄了大約三萬三千條莎士比亞引文，遠超過其他任何作者。與此同時，那個年代大部分廉價印刷品——小冊子、識字課本之類——都已經失傳了。"
+    ],
+    [
+     "None of this makes Shakespeare less impressive. He produced over 800,000 words of published text and used a vocabulary of about 20,000 words with extraordinary skill. It would be strange if he had coined nothing at all. But his genius lay less in inventing words than in what he did with the words everyone was already using. A few, such as “laughable”, are still credited to him today.",
+     "這些都不會讓莎士比亞變得不了不起。他留下了超過八十萬字的出版文字，並以非凡的技巧運用約兩萬字的詞彙。如果他完全沒有創造過任何字，那才奇怪。但他的天才，與其說在於發明字，不如說在於他如何運用每個人早已在用的字。少數字，例如「laughable（可笑的）」，至今仍記在他名下。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "Genius, Evidence and the Dictionary",
+   "paras": [
+    [
+     "Few claims about English are repeated as confidently as the idea that Shakespeare invented somewhere between 1,700 and 2,000 words. It appears in classrooms, quiz shows and popular histories; Bill Bryson’s The Mother Tongue states without qualification that he “coined some 2,000 words”. The claim is appealing because it fits what might be called the Great Man Theory of language: the belief that a language is shaped by solitary geniuses. The evidence, however, points to a messier and more collective process.",
+     "很少有關於英語的說法，像「莎士比亞發明了一千七百到兩千個字」這樣被如此自信地重複。它出現在課堂、益智節目和通俗歷史書中；比爾．布萊森的《母語》毫無保留地說他「創造了約兩千個字」。這個說法之所以動人，是因為它符合一種可稱為「語言的偉人史觀」的想法：相信語言是由孤獨的天才塑造的。然而，證據指向一個更雜亂、也更集體的過程。"
+    ],
+    [
+     "The figure derives from the Oxford English Dictionary, which records the earliest written example its editors could locate for each word — its “first attested use”. The distinction matters. A first attested use reflects the limits of a search, not the moment of creation. When the OED was first compiled, between 1884 and 1928, Shakespeare’s works were among the most convenient to examine thoroughly, and the first edition included roughly 33,000 quotations from him, far more than from any other individual author.",
+     "這個數字來自《牛津英語詞典》。OED 會為每個字記錄編者能找到的最早書面例子——也就是它的「最早記錄用例」。這個區別很重要：最早記錄用例反映的是搜尋的極限，而不是字誕生的那一刻。OED 在 1884 到 1928 年間首次編纂時，莎士比亞的作品是最方便徹底檢視的文本之一，初版收錄了大約三萬三千條他的引文，遠多於其他任何個別作者。"
+    ],
+    [
+     "The results of this imbalance became clear once other writers were examined with equal care. In 1980, the German scholar Jürgen Schäfer worked through the writings of a single contemporary, the pamphleteer Thomas Nashe, and found more than fifty cases in which Nashe predated Shakespeare’s supposed first uses. Digital archives have since accelerated the process. “Assassination”, long associated with Macbeth, appears in a 1572 letter by the diplomat Sir Thomas Smith. In one sample of 117 words once credited to Shakespeare, nearly half have now been antedated. As the linguist Edwin Battistella has suggested, something like half of the items once believed to be Shakespeare’s coinages are now shown in the OED as having been used earlier.",
+     "一旦其他作家也被同樣仔細地檢視，這種失衡的後果就清楚了。1980 年，德國學者約根．謝佛逐一研讀了一位同時代人——小冊子作家湯瑪斯．納許——的作品，發現有超過五十個例子，納許比莎士比亞所謂的最早用例還要早。此後，數位資料庫加快了這個過程。長期與《馬克白》連在一起的「assassination」，出現在外交官湯瑪斯．史密斯爵士 1572 年的一封信中。在一份 117 個曾被歸功於莎士比亞的字的樣本裡，已有將近一半被找到了更早的用例。正如語言學家艾德溫．巴蒂斯特拉所指出的，過去被認為是莎士比亞新創的詞，如今大約有一半在 OED 中顯示更早就有人用過。"
+    ],
+    [
+     "Two further factors distort the picture. The OED’s early editors were, as the scholar David McInnis has argued, inclined to raid the canonical works of literature for examples, even when ordinary speakers had probably used the same words earlier. And much of what Elizabethans actually printed has not survived: cheap pamphlets, primers and chapbooks were produced in vast quantities and have almost entirely vanished. Shakespeare’s apparent originality is, in part, an effect of what happened to be preserved and searched.",
+     "還有兩個因素扭曲了這幅圖像。正如學者大衛．麥金尼斯所主張的，OED 早期的編者傾向從經典文學作品中「掠取」例句，即使一般人可能更早就用過這些字。而且，伊莉莎白時代實際印刷的東西，很多都沒能留存下來：廉價小冊子、識字課本和通俗讀物曾大量印製，如今幾乎完全消失。莎士比亞看似驚人的原創性，有一部分其實是「剛好被保存下來、又剛好被搜尋過」的結果。"
+    ],
+    [
+     "None of this diminishes him. A writer who produced over 800,000 words of published text would almost certainly have coined some terms, and a few, such as “laughable”, remain credited to him for now. But the real measure of his achievement lies elsewhere: in a vocabulary of roughly 20,000 words deployed with unmatched precision and daring. The myth of the solitary inventor obscures a more interesting truth — that Shakespeare drew on the shared, restless creativity of Elizabethan London and transformed it into lasting art. Another, “lonely”, may yet survive the search.",
+     "這一切都無損於他的偉大。一位留下超過八十萬字出版文字的作家，幾乎必然創造過一些詞，其中少數如「laughable（可笑的）」，目前仍記在他名下。但衡量他成就的真正尺度在別處：在於他以無與倫比的精準與大膽，運用了約兩萬字的詞彙。「孤獨發明家」的神話，遮蔽了一個更有意思的真相——莎士比亞汲取了伊莉莎白時代倫敦共同而躁動的創造力，並把它轉化為不朽的藝術。另一個字「lonely（孤單的）」或許也能在搜尋中保住。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "claim",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "oed",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "earlier",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "why",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "genius",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "invented",
+   "pos": "v.",
+   "meaning": "發明（過去式）",
+   "example": "Who invented the telephone?",
+   "family": "invention (n.), inventor (n.)"
+  },
+  {
+   "w": "dictionary",
+   "pos": "n.",
+   "meaning": "字典",
+   "example": "Look up the word in a dictionary.",
+   "family": "dictionaries (pl.)"
+  },
+  {
+   "w": "genius",
+   "pos": "n.",
+   "meaning": "天才；天賦",
+   "example": "Mozart was a musical genius.",
+   "family": "ingenious (adj.)"
+  },
+  {
+   "w": "attractive",
+   "pos": "adj.",
+   "meaning": "吸引人的",
+   "example": "The offer sounds attractive.",
+   "family": "attract (v.), attraction (n.)"
+  },
+  {
+   "w": "evidence",
+   "pos": "n.",
+   "meaning": "證據",
+   "example": "There is no evidence for the claim.",
+   "family": "evident (adj.)"
+  },
+  {
+   "w": "proof",
+   "pos": "n.",
+   "meaning": "證明",
+   "example": "Do you have proof?",
+   "family": "prove (v.)"
+  },
+  {
+   "w": "credited",
+   "pos": "v.",
+   "meaning": "歸功於（p.p.）",
+   "example": "She is credited with the idea.",
+   "family": "credit (n.)"
+  },
+  {
+   "w": "contemporaries",
+   "pos": "n.",
+   "meaning": "同時代的人",
+   "example": "He was admired by his contemporaries.",
+   "family": "contemporary (adj.)"
+  },
+  {
+   "w": "extraordinary",
+   "pos": "adj.",
+   "meaning": "非凡的",
+   "example": "She has an extraordinary memory.",
+   "family": "ordinary (反義)"
+  },
+  {
+   "w": "solitary",
+   "pos": "adj.",
+   "meaning": "孤獨的、單獨的",
+   "example": "He lived a solitary life.",
+   "family": "solitude (n.)"
+  },
+  {
+   "w": "distort",
+   "pos": "v.",
+   "meaning": "扭曲",
+   "example": "Social media can distort the truth.",
+   "family": "distortion (n.)"
+  },
+  {
+   "w": "diminishes",
+   "pos": "v.",
+   "meaning": "減損（第三人稱）",
+   "example": "Age never diminishes her energy.",
+   "family": "diminish (v.)"
+  },
+  {
+   "w": "obscures",
+   "pos": "v.",
+   "meaning": "遮蔽、使模糊（第三人稱）",
+   "example": "The fog obscures the mountain.",
+   "family": "obscure (adj.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "made it up",
+   "type": "phrase",
+   "meaning": "編造、創造出來",
+   "usage": "make sth up：發明或捏造。",
+   "example": "I don’t believe his story — he made it up.",
+   "writing": "People said S + made it up."
+  },
+  {
+   "phrase": "turning up",
+   "type": "phrase",
+   "meaning": "出現、被找到",
+   "usage": "turn up：（東西）意外出現。",
+   "example": "My lost keys turned up in the car.",
+   "writing": "N + keep turning up"
+  },
+  {
+   "phrase": "drew on",
+   "type": "phrase",
+   "meaning": "汲取、利用",
+   "usage": "draw on sth：利用資源、經驗。",
+   "example": "She drew on her own life for the novel.",
+   "writing": "S + drew on + N"
+  },
+  {
+   "phrase": "in part",
+   "type": "phrase",
+   "meaning": "部分地",
+   "usage": "= partly。",
+   "example": "His success is, in part, due to luck.",
+   "writing": "S + is, in part, + N"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "A is not the same as B",
+   "meaning": "A 不等於 B",
+   "example": "“The oldest example we found” is not the same as “the first time anyone used it”.",
+   "tip": "區分兩個容易混淆的概念。"
+  },
+  {
+   "frame": "S + lay less in A than in B",
+   "meaning": "……與其說在於 A，不如說在於 B",
+   "example": "His genius lay less in inventing words than in what he did with the words everyone was already using.",
+   "tip": "less…than… 比較兩種原因。"
+  },
+  {
+   "frame": "It would be strange if + S + had + p.p.",
+   "meaning": "如果……那才奇怪",
+   "example": "It would be strange if he had coined nothing at all.",
+   "tip": "與過去事實相反的假設。"
+  }
+ ],
+ "quote": {
+  "text": "All the world’s a stage, / And all the men and women merely players.",
+  "author": "William Shakespeare",
+  "work": "As You Like It, Act 2, Scene 7",
+  "url": "https://www.gutenberg.org/ebooks/1523"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "How many words did Shakespeare invent, according to the popular fact?",
+    "options": [
+     "About 170",
+     "About 1,700",
+     "About 17,000",
+     "About 170,000"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "William Shakespeare invented about 1,700 English words"
+   },
+   {
+    "q": "What does the OED show for each word?",
+    "options": [
+     "The oldest example it can find",
+     "Who invented it",
+     "How popular it is",
+     "Its price"
+    ],
+    "a": 0,
+    "why": "第二段。",
+    "evidence": "the OED shows the oldest example it can find"
+   },
+   {
+    "q": "Who used “assassination” before Shakespeare?",
+    "options": [
+     "Macbeth",
+     "Sir Thomas Smith",
+     "Romeo",
+     "The OED"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "a man called Sir Thomas Smith used the word in a letter in 1572"
+   },
+   {
+    "q": "Where was Shakespeare’s genius, according to the article?",
+    "options": [
+     "In making new words",
+     "In using words in new and beautiful ways",
+     "In writing dictionaries",
+     "In acting"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "His genius was not in making new words, but in using words in new and beautiful ways."
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "What is a “first attested use”?",
+    "options": [
+     "The day a word was invented",
+     "The earliest written example editors could find",
+     "A word used by Shakespeare",
+     "A spelling rule"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "records the earliest written example of each word that its editors could find"
+   },
+   {
+    "q": "What did Jürgen Schäfer find in Thomas Nashe’s works?",
+    "options": [
+     "No new words",
+     "More than fifty earlier uses than Shakespeare’s",
+     "Shakespeare’s letters",
+     "The word “eyeball” only"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "Nashe beat Shakespeare’s “first uses” more than fifty times"
+   },
+   {
+    "q": "Why was Shakespeare credited so often?",
+    "options": [
+     "He asked the editors",
+     "The editors read his works far more thoroughly than others’",
+     "He wrote the OED",
+     "Other writers used no words"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "The early OED editors read his works far more thoroughly than those of his less famous contemporaries"
+   },
+   {
+    "q": "About how large was Shakespeare’s vocabulary?",
+    "options": [
+     "1,700 words",
+     "2,000 words",
+     "20,000 words",
+     "800,000 words"
+    ],
+    "a": 2,
+    "why": "最後一段。",
+    "evidence": "used a vocabulary of about 20,000 words"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "What is the “Great Man Theory of language”?",
+    "options": [
+     "The belief that a language is shaped by solitary geniuses",
+     "A theory about tall writers",
+     "A dictionary rule",
+     "A theory about grammar"
+    ],
+    "a": 0,
+    "why": "第一段。",
+    "evidence": "the belief that a language is shaped by solitary geniuses"
+   },
+   {
+    "q": "What does a first attested use reflect, according to the writer?",
+    "options": [
+     "The moment of creation",
+     "The limits of a search",
+     "The author’s fame",
+     "The price of a book"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "A first attested use reflects the limits of a search, not the moment of creation."
+   },
+   {
+    "q": "In the sample of 117 words, what has happened to nearly half?",
+    "options": [
+     "They have disappeared from English",
+     "They have been antedated",
+     "They were proven to be Shakespeare’s",
+     "They were misspelled"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "nearly half have now been antedated"
+   },
+   {
+    "q": "What “more interesting truth” does the myth obscure?",
+    "options": [
+     "Shakespeare never wrote plays",
+     "Shakespeare drew on the shared creativity of Elizabethan London",
+     "The OED is always right",
+     "Bill Bryson invented words"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "Shakespeare drew on the shared, restless creativity of Elizabethan London"
+   }
+  ]
+ },
+ "reflections": [
+  "Why do you think people like stories about one genius changing the world? Can you think of another example?",
+  "New words appear online all the time. Who invents them — and how could a future dictionary know?"
+ ],
+ "videos": [
+  {
+   "title": "“All the world’s a stage” by William Shakespeare",
+   "channel": "TED-Ed",
+   "url": "https://ed.ted.com/lessons/all-the-world-s-a-stage-by-william-shakespeare",
+   "kind": "TED-Ed",
+   "desc": "An animated reading of Shakespeare’s famous speech about the seven ages of life.",
+   "zh": "動畫朗讀莎士比亞談人生七個階段的名段。",
+   "question": "Which of the seven ages are you in now, according to the speech?"
+  },
+  {
+   "title": "Why Shakespeare loved iambic pentameter",
+   "channel": "TED-Ed · David T. Freeman & Gregory Taylor",
+   "url": "https://ed.ted.com/lessons/why-shakespeare-loved-iambic-pentameter-david-t-freeman-and-gregory-taylor",
+   "kind": "TED-Ed",
+   "desc": "How the rhythm of Shakespeare’s lines helps carry their meaning.",
+   "zh": "莎士比亞詩句的節奏，如何幫助傳達意義。",
+   "question": "How does this video support the idea that Shakespeare’s genius was in how he used words?"
+  }
+ ]
+}

@@ -1,0 +1,455 @@
+{
+ "id": "road-not-taken",
+ "category": "文學",
+ "title": "The Most Misread Poem in America",
+ "subtitle": "最常被誤讀的一首詩：佛洛斯特〈未走之路〉",
+ "source": "原創導讀；詩作原文依 Project Gutenberg《Mountain Interval》（1916，公版），背景依 Poetry Foundation 與 Wikipedia，2026-10-21 核對",
+ "sources": [
+  {
+   "title": "Robert Frost, Mountain Interval (1916), Project Gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/29345",
+   "accessed": "2026-10-21"
+  },
+  {
+   "title": "Poetry Foundation: Robert Frost, “The Road Not Taken” (Katherine Robinson)",
+   "url": "https://www.poetryfoundation.org/articles/89511/robert-frost-the-road-not-taken",
+   "accessed": "2026-10-21"
+  },
+  {
+   "title": "Wikipedia: The Road Not Taken",
+   "url": "https://en.wikipedia.org/wiki/The_Road_Not_Taken",
+   "accessed": "2026-10-21"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "Two Roads in a Yellow Wood",
+   "paras": [
+    [
+     "Many people know the last lines of a famous poem by the American poet Robert Frost: “I took the one less traveled by, / And that has made all the difference.” These words appear on posters, in graduation speeches and in advertisements. Most people think the poem says: be brave and choose your own path. But is that really what it says?",
+     "很多人都知道美國詩人羅伯特．佛洛斯特一首名詩的最後兩行：「我選了人跡較少的那一條，／而那造成了一切的不同。」這兩行字出現在海報上、畢業演講裡，也出現在廣告裡。大多數人認為這首詩在說：勇敢選擇自己的路。但它真的在說這個嗎？"
+    ],
+    [
+     "The poem is called “The Road Not Taken”, and it was published in 1916. In it, a traveller stands in a yellow wood where two roads go in different directions. He cannot travel both, so he must choose. He looks down one road for a long time. Then he takes the other.",
+     "這首詩叫〈未走之路〉，在 1916 年出版。詩中，一位旅人站在一片金黃的樹林裡，兩條路往不同方向延伸。他不能兩條都走，所以必須選擇。他朝其中一條路望了很久，然後走了另一條。"
+    ],
+    [
+     "Here is the surprise. If you read carefully, the poem says the two roads were “really about the same”. That morning, both were covered with leaves that no one had walked on. So one road was not really “less traveled” than the other at all.",
+     "驚喜就在這裡。如果你仔細讀，詩裡其實說兩條路「磨損得差不多」。那天早上，兩條路都鋪著還沒有人踩過的落葉。所以，其中一條路根本沒有比另一條「人跡更少」。"
+    ],
+    [
+     "Frost wrote the poem partly as a joke for his friend, the poet Edward Thomas. When the two men went walking in England, Thomas could never decide which path to take, and later he often wished he had chosen the other one. Frost once warned an audience that it was “a tricky poem — very tricky”.",
+     "佛洛斯特寫這首詩，有一部分是為了開他朋友——詩人愛德華．湯瑪斯——的玩笑。兩人在英國散步時，湯瑪斯總是決定不了要走哪條路，之後又常常後悔沒選另一條。佛洛斯特曾經提醒聽眾，這是「一首很狡猾的詩——非常狡猾」。"
+    ],
+    [
+     "The traveller says that in the future he will tell this story “with a sigh”. Maybe he will make his choice sound more important than it was. Maybe we all do this with our own choices. Reading carefully helps us see what a poem really says, not only what we want it to say.",
+     "旅人說，將來他會「嘆一口氣」講起這個故事。也許，他會把自己的選擇說得比實際上更重要。也許我們每個人對自己的選擇都會這樣做。仔細閱讀，能幫助我們看見一首詩真正在說什麼，而不只是我們希望它說什麼。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "The Most Misread Poem in America",
+   "paras": [
+    [
+     "Few lines of poetry are quoted as often as the ending of Robert Frost’s “The Road Not Taken”: “Two roads diverged in a wood, and I— / I took the one less traveled by, / And that has made all the difference.” They are printed on posters and quoted in graduation speeches as a celebration of independence and courage. Yet a careful reading suggests that the poem may be saying something quite different.",
+     "很少有詩句像羅伯特．佛洛斯特〈未走之路〉的結尾那樣，被這麼頻繁地引用：「林中有兩條路分岔，而我——／我選了人跡較少的那一條，／而那造成了一切的不同。」這幾行字被印在海報上、被引用在畢業演講裡，當作對獨立與勇氣的讚頌。然而，仔細閱讀會發現，這首詩說的可能是很不一樣的事。"
+    ],
+    [
+     "The poem was first published in 1915 and then appeared as the opening poem of Frost’s 1916 collection, Mountain Interval. Its speaker stands in a “yellow wood” where a road splits in two. Sorry that he cannot travel both, he looks down one as far as he can, then takes the other, which seems at first to have “perhaps the better claim” because it is “grassy and wanted wear”.",
+     "這首詩在 1915 年首次發表，之後成為佛洛斯特 1916 年詩集《山間》的開篇之作。詩中的說話者站在一片「金黃的樹林」裡，眼前的路一分為二。他遺憾自己不能兩條都走，於是朝其中一條盡量望遠，然後選了另一條——那條路起初似乎「也許更有理由」被選，因為它「長滿青草、少有人走」。"
+    ],
+    [
+     "But Frost immediately undercuts this difference. In the very next lines, the speaker admits that “the passing there / Had worn them really about the same”, and that both roads that morning lay “In leaves no step had trodden black.” In other words, neither road was truly less traveled. The famous claim in the final stanza is something the speaker says he will say in the future — not something the poem has shown to be true.",
+     "但佛洛斯特緊接著就削弱了這個差別。就在下一行，說話者承認「走過那裡的人，／其實把兩條路磨損得差不多」，而且那天早上，兩條路都躺在「沒有腳步踩黑的落葉」裡。換句話說，兩條路都沒有真的比較少人走。最後一節那句著名的話，是說話者說他「將來會這樣說」——而不是這首詩已經證明為真的事。"
+    ],
+    [
+     "The poem’s background supports this reading. Frost lived in England from 1912 to 1915, where he became close friends with the writer Edward Thomas. On their walks, Thomas would agonise over which path to choose and later regret his decision. According to the Poetry Foundation, Frost wrote the poem partly as a joke about his friend, and he complained that audiences took it “pretty seriously … despite doing my best to make it obvious by my manner that I was fooling.”",
+     "這首詩的背景支持這樣的解讀。佛洛斯特在 1912 到 1915 年間住在英國，和作家愛德華．湯瑪斯成為好友。兩人散步時，湯瑪斯常為選哪條路而苦惱，事後又後悔自己的決定。根據美國詩歌基金會，佛洛斯特寫這首詩，有一部分是在開這位朋友的玩笑；他還抱怨聽眾把它看得「太認真了……儘管我已經盡力用我的態度表現出我是在開玩笑」。"
+    ],
+    [
+     "None of this means the poem is merely a joke. The speaker imagines telling his story “with a sigh / Somewhere ages and ages hence”, and that sigh is open to interpretation: is it regret, pride, or simply the knowledge that every choice closes another door? Perhaps the poem’s deepest point is about how we tell stories about our own lives — turning ordinary decisions into turning points after the fact.",
+     "這並不代表這首詩只是一個玩笑。說話者想像自己「在很久很久以後」「嘆一口氣」說起這段往事，而這聲嘆息可以有不同的解讀：是後悔、是驕傲，還是單純明白每一個選擇都會關上另一扇門？也許這首詩最深的一層，是關於我們如何講述自己的人生——事後把平凡的決定，說成人生的轉捩點。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "The Road Everyone Takes",
+   "paras": [
+    [
+     "Robert Frost’s “The Road Not Taken” may be the most quoted American poem of the twentieth century, and also one of the most misunderstood. Its closing lines — “I took the one less traveled by, / And that has made all the difference” — have become a secular creed of individualism, invoked to celebrate anyone who chooses an unconventional path. The irony is that the poem itself goes out of its way to unsettle precisely that reading.",
+     "羅伯特．佛洛斯特的〈未走之路〉，可能是二十世紀被引用最多的美國詩作，也是最常被誤解的之一。它的結尾——「我選了人跡較少的那一條，／而那造成了一切的不同」——已經成為一種世俗化的個人主義信條，被用來讚頌任何選擇非主流道路的人。諷刺的是，這首詩本身卻刻意動搖了這種讀法。"
+    ],
+    [
+     "First published in 1915 and placed at the head of Mountain Interval in 1916, the poem stages a moment of choice in a “yellow wood”. The speaker inspects one road, then takes “the other, as just as fair, / And having perhaps the better claim, / Because it was grassy and wanted wear”. The hedging is already audible: “just as fair”, “perhaps”. Frost is describing not a bold decision but a nearly arbitrary one dressed in the language of reasons. A careful reader should already begin to suspect that the choice matters less than the speaker hopes.",
+     "這首詩於 1915 年首次發表，1916 年被放在《山間》的卷首，它演出了一個發生在「金黃樹林」裡的抉擇時刻。說話者查看了一條路，然後選了「另一條，同樣美好，／也許更有理由，／因為它長滿青草、少有人走」。猶疑的語氣已經聽得出來：「同樣美好」、「也許」。佛洛斯特描寫的不是一個大膽的決定，而是一個幾乎隨意、卻披上「理由」外衣的決定。細心的讀者這時應該已經開始懷疑：這個選擇，並沒有說話者希望的那麼重要。"
+    ],
+    [
+     "The next lines dismantle even that modest distinction: “the passing there / Had worn them really about the same, / And both that morning equally lay / In leaves no step had trodden black.” By the time we reach the final stanza, the reader knows something the future speaker apparently will not admit — that the roads were equivalent. The celebrated claim is framed explicitly as a story told later, “with a sigh / Somewhere ages and ages hence”. The poem is less about choosing well than about how we narrate our choices.",
+     "接下來的詩句，連那一點點的差別也拆解了：「走過那裡的人，／其實把兩條路磨損得差不多，／而那天早上，兩條路同樣／躺在沒有腳步踩黑的落葉裡。」讀到最後一節時，讀者已經知道一件未來的說話者顯然不會承認的事——兩條路其實等價。那句備受讚頌的話，被明確框定為一個日後才講的故事，「在很久很久以後，嘆一口氣」。這首詩關心的，與其說是如何做好選擇，不如說是我們如何敘述自己的選擇。"
+    ],
+    [
+     "Biography sharpens the irony. During his years in England, Frost walked often with his friend Edward Thomas, who tended to agonise over which path to follow and then regret the one he had chosen. Frost sent him the poem partly as a gentle joke and later complained that audiences took it seriously despite his efforts to signal that he was “fooling”. Before a reading, he once warned: “You have to be careful of that one; it’s a tricky poem — very tricky.” Thomas, who enlisted in the First World War, was killed at the Battle of Arras in 1917, lending the poem’s meditation on irreversible choices a poignancy Frost could not have foreseen.",
+     "傳記讓這份諷刺更加鮮明。佛洛斯特在英國那幾年，常和好友愛德華．湯瑪斯一起散步；湯瑪斯總為該走哪條路而苦惱，事後又後悔自己的選擇。佛洛斯特把這首詩寄給他，有一部分是溫和的玩笑；後來他還抱怨，儘管他努力表現出自己是在「開玩笑」，聽眾還是把它看得很認真。有一次朗讀前，他提醒聽眾：「這首要小心；它是一首狡猾的詩——非常狡猾。」湯瑪斯後來投身第一次世界大戰，1917 年在阿拉斯戰役中陣亡，讓這首詩對「無法回頭之選擇」的沉思，多了一份佛洛斯特無法預見的悲傷。"
+    ],
+    [
+     "Read this way, the poem becomes more interesting, not less. It is a study of self-mythology: the human habit of looking back on chance decisions and arranging them into a meaningful story in which we were brave and different. That habit is not simply foolish; it may be how we make sense of lives built from countless small, uncertain choices. But the poem asks us to notice when we are doing it — and, perhaps, to hear the faint sound of the sigh beneath the triumph.",
+     "這樣讀，這首詩不是變得比較無趣，而是更有意思。它是一份關於「自我神話」的研究：人類習慣回顧那些出於偶然的決定，再把它們編排成一個有意義的故事，故事裡的我們勇敢又與眾不同。這個習慣不全然愚蠢；也許我們正是靠它，才能理解由無數微小、不確定的選擇所構成的人生。但這首詩要我們察覺自己什麼時候正在這麼做——也許，還要聽見那聲勝利底下，隱約的嘆息。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "famous-lines",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "the-choice",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "about-the-same",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "edward-thomas",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "meaning",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "traveller",
+   "pos": "n.",
+   "meaning": "旅人（美式 traveler）",
+   "example": "The traveller stopped to rest.",
+   "family": "travel (v.)"
+  },
+  {
+   "w": "carefully",
+   "pos": "adv.",
+   "meaning": "仔細地",
+   "example": "Read the question carefully.",
+   "family": "careful (adj.)"
+  },
+  {
+   "w": "diverged",
+   "pos": "v.",
+   "meaning": "分岔、分歧（diverge 的過去式）",
+   "example": "Their opinions diverged on this issue.",
+   "family": "divergence (n.)"
+  },
+  {
+   "w": "stanza",
+   "pos": "n.",
+   "meaning": "（詩的）一節",
+   "example": "The poem has four stanzas.",
+   "family": "—"
+  },
+  {
+   "w": "regret",
+   "pos": "n.",
+   "meaning": "後悔",
+   "example": "She has no regrets about leaving.",
+   "family": "regret (v.), regretful (adj.)"
+  },
+  {
+   "w": "interpretation",
+   "pos": "n.",
+   "meaning": "詮釋、解讀",
+   "example": "There are many interpretations of the poem.",
+   "family": "interpret (v.)"
+  },
+  {
+   "w": "independence",
+   "pos": "n.",
+   "meaning": "獨立",
+   "example": "Teenagers want more independence.",
+   "family": "independent (adj.)"
+  },
+  {
+   "w": "irony",
+   "pos": "n.",
+   "meaning": "諷刺、反諷",
+   "example": "The irony is that he hates the song he wrote.",
+   "family": "ironic (adj.)"
+  },
+  {
+   "w": "arbitrary",
+   "pos": "adj.",
+   "meaning": "隨意的、任意的",
+   "example": "The choice seemed arbitrary.",
+   "family": "arbitrarily (adv.)"
+  },
+  {
+   "w": "individualism",
+   "pos": "n.",
+   "meaning": "個人主義",
+   "example": "American culture values individualism.",
+   "family": "individual (n./adj.)"
+  },
+  {
+   "w": "agonise",
+   "pos": "v.",
+   "meaning": "苦惱、煩惱（美式 agonize）",
+   "example": "Don’t agonise over small decisions.",
+   "family": "agony (n.)"
+  },
+  {
+   "w": "poignancy",
+   "pos": "n.",
+   "meaning": "辛酸、令人心酸的感受",
+   "example": "The ending has great poignancy.",
+   "family": "poignant (adj.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "all the difference",
+   "type": "collocation",
+   "meaning": "（造成）巨大的不同",
+   "usage": "make all the difference：關鍵差別。",
+   "example": "A good teacher makes all the difference.",
+   "writing": "A + make(s) all the difference."
+  },
+  {
+   "phrase": "goes out of its way",
+   "type": "idiom",
+   "meaning": "特意、刻意（go out of one’s way 的第三人稱）",
+   "usage": "go out of one’s way to + V：特地費心去做。",
+   "example": "She went out of her way to help me.",
+   "writing": "S + goes out of its way to + V"
+  },
+  {
+   "phrase": "after the fact",
+   "type": "phrase",
+   "meaning": "事後",
+   "usage": "強調是在事情發生之後才……。",
+   "example": "It is easy to be wise after the fact.",
+   "writing": "..., after the fact."
+  },
+  {
+   "phrase": "in other words",
+   "type": "discourse_marker",
+   "meaning": "換句話說",
+   "usage": "換個方式重述。",
+   "example": "Neither road was less traveled. In other words, the choice was random.",
+   "writing": "S + V. In other words, S + V."
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "S + cannot + V + both, so + S + must + V",
+   "meaning": "不能兩者都……，所以必須……",
+   "example": "He cannot travel both, so he must choose.",
+   "tip": "描述兩難時的簡單句型。"
+  },
+  {
+   "frame": "A is something S says S will say — not something S has shown to be true",
+   "meaning": "A 是某人說他將來會說的話，而不是已被證明為真的事",
+   "example": "The famous claim is something the speaker says he will say in the future — not something the poem has shown to be true.",
+   "tip": "區分「說法」與「事實」的分析句型。"
+  },
+  {
+   "frame": "Read this way, S + becomes + more adj., not less",
+   "meaning": "這樣讀，……變得更……而不是更不……",
+   "example": "Read this way, the poem becomes more interesting, not less.",
+   "tip": "過去分詞片語開頭，表示「以這種方式來讀」。"
+  }
+ ],
+ "quote": {
+  "text": "I shall be telling this with a sigh / Somewhere ages and ages hence: / Two roads diverged in a wood, and I— / I took the one less traveled by, / And that has made all the difference.",
+  "author": "Robert Frost",
+  "work": "“The Road Not Taken”, Mountain Interval (1916)",
+  "url": "https://www.gutenberg.org/ebooks/29345"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "When was “The Road Not Taken” published in the book mentioned?",
+    "options": [
+     "1816",
+     "1916",
+     "1966",
+     "2016"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "it was published in 1916"
+   },
+   {
+    "q": "What does the poem say about the two roads?",
+    "options": [
+     "One was much busier",
+     "They were really about the same",
+     "One was dangerous",
+     "One had no leaves"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "the two roads were “really about the same”"
+   },
+   {
+    "q": "Why did Frost write the poem, at least partly?",
+    "options": [
+     "As a joke for his friend Edward Thomas",
+     "For a school exam",
+     "To sell posters",
+     "For a graduation speech"
+    ],
+    "a": 0,
+    "why": "第四段。",
+    "evidence": "Frost wrote the poem partly as a joke for his friend, the poet Edward Thomas."
+   },
+   {
+    "q": "How will the traveller tell the story in the future?",
+    "options": [
+     "With a laugh",
+     "With a sigh",
+     "With a song",
+     "With anger"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "he will tell this story “with a sigh”"
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "How are the final lines often used?",
+    "options": [
+     "As a celebration of independence and courage",
+     "As a warning against travel",
+     "As a joke about roads",
+     "As instructions for walking"
+    ],
+    "a": 0,
+    "why": "第一段。",
+    "evidence": "as a celebration of independence and courage"
+   },
+   {
+    "q": "What does the speaker admit right after choosing the “grassy” road?",
+    "options": [
+     "That he was lost",
+     "That the roads had been worn really about the same",
+     "That he would go back the next day",
+     "That the road was dangerous"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "“the passing there / Had worn them really about the same”"
+   },
+   {
+    "q": "What did Frost complain about, according to the Poetry Foundation?",
+    "options": [
+     "That the poem was too short",
+     "That audiences took it seriously even though he was fooling",
+     "That Thomas did not like it",
+     "That it was not published"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "he complained that audiences took it “pretty seriously"
+   },
+   {
+    "q": "What might be “the poem’s deepest point”, according to the last paragraph?",
+    "options": [
+     "Roads in England are confusing",
+     "How we tell stories about our own lives",
+     "Never make decisions",
+     "Always choose the grassy road"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "Perhaps the poem’s deepest point is about how we tell stories about our own lives"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "What is “the irony” described in the first paragraph?",
+    "options": [
+     "The poem unsettles the individualist reading it is famous for",
+     "Frost disliked poetry",
+     "The poem was never published",
+     "The lines are rarely quoted"
+    ],
+    "a": 0,
+    "why": "第一段。",
+    "evidence": "the poem itself goes out of its way to unsettle precisely that reading"
+   },
+   {
+    "q": "What does the writer mean by “The hedging is already audible”?",
+    "options": [
+     "Words like “just as fair” and “perhaps” show uncertainty",
+     "The speaker is shouting",
+     "There are hedges along the road",
+     "The poem rhymes"
+    ],
+    "a": 0,
+    "why": "第二段：猶疑的字眼已經聽得出來。",
+    "evidence": "The hedging is already audible: “just as fair”, “perhaps”."
+   },
+   {
+    "q": "According to paragraph 3, how is the celebrated claim framed?",
+    "options": [
+     "As a proven fact",
+     "As a story told later, with a sigh",
+     "As advice from Thomas",
+     "As a quotation from another poet"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "The celebrated claim is framed explicitly as a story told later"
+   },
+   {
+    "q": "What does the writer call the poem in the final paragraph?",
+    "options": [
+     "A study of self-mythology",
+     "A guide to hiking",
+     "A war poem",
+     "A failed joke"
+    ],
+    "a": 0,
+    "why": "最後一段。",
+    "evidence": "It is a study of self-mythology"
+   }
+  ]
+ },
+ "reflections": [
+  "Think of a choice you made that now feels important. Was it really so important at the moment you made it?",
+  "Why do you think people prefer the “be brave and different” reading of this poem?"
+ ],
+ "videos": [
+  {
+   "title": "“The Road Not Taken” by Robert Frost",
+   "channel": "YouTube · TED-Ed",
+   "url": "https://www.youtube.com/watch?v=yGB_K_xlHdI",
+   "kind": "TED-Ed",
+   "desc": "An animated reading of the poem from TED-Ed’s “There’s a Poem for That” series.",
+   "zh": "TED-Ed「有一首詩說的就是這個」系列的動畫朗讀。",
+   "question": "After reading this guide, do you hear the last lines differently?"
+  },
+  {
+   "title": "The Almost Universally Misinterpreted Poem “The Road Not Taken”",
+   "channel": "YouTube · Today I Found Out",
+   "url": "https://www.youtube.com/watch?v=sH3Y_-Hxh_Q",
+   "kind": "YouTube",
+   "desc": "The story behind the poem and why it is so often misread.",
+   "zh": "這首詩背後的故事，以及它為什麼常被誤讀。",
+   "question": "Which detail of the story surprised you most?"
+  }
+ ]
+}

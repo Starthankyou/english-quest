@@ -1,0 +1,441 @@
+{
+ "id": "christmas-carol",
+ "category": "文學",
+ "title": "Can a Person Really Change?",
+ "subtitle": "一個人真的能改變嗎？狄更斯《小氣財神》",
+ "source": "原創導讀；小說原文依 Project Gutenberg《A Christmas Carol》（1843，公版），寫作背景依 Wikipedia，2026-10-21 核對",
+ "sources": [
+  {
+   "title": "Charles Dickens, A Christmas Carol (1843), Project Gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/46",
+   "accessed": "2026-10-21"
+  },
+  {
+   "title": "Wikipedia: A Christmas Carol",
+   "url": "https://en.wikipedia.org/wiki/A_Christmas_Carol",
+   "accessed": "2026-10-21"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "Scrooge’s Long Night",
+   "paras": [
+    [
+     "Ebenezer Scrooge is a rich old man in London. He has lots of money, but he never shares it. He makes his worker, Bob Cratchit, work in a cold office. When people say “Merry Christmas!”, Scrooge answers: “Bah! Humbug!” He thinks Christmas is a waste of time and money.",
+     "艾比尼澤．史古基是倫敦一個有錢的老人。他有很多錢，卻從不分給別人。他讓員工鮑伯．克拉奇在冰冷的辦公室裡工作。有人對他說「聖誕快樂！」，史古基就回答：「呸！胡扯！」他覺得聖誕節是浪費時間和金錢。"
+    ],
+    [
+     "This is the beginning of A Christmas Carol, a short novel by the English writer Charles Dickens. It was published on 19 December 1843. Dickens wrote it very quickly, in about six weeks. The first copies sold out before Christmas Eve.",
+     "這是《小氣財神》的開頭，英國作家查爾斯．狄更斯寫的一部短篇小說，在 1843 年 12 月 19 日出版。狄更斯寫得非常快，大約只花了六個星期。第一批書在聖誕夜之前就賣光了。"
+    ],
+    [
+     "On Christmas Eve, three spirits visit Scrooge. The Ghost of Christmas Past shows him his lonely childhood. The Ghost of Christmas Present shows him Bob Cratchit’s poor but happy family, including a sick little boy called Tiny Tim. The last ghost shows him a future in which nobody is sad that he has died.",
+     "聖誕夜，三位幽靈來拜訪史古基。過去的聖誕幽靈讓他看見自己孤單的童年；現在的聖誕幽靈讓他看見鮑伯．克拉奇雖然貧窮卻快樂的家庭，包括一個生病的小男孩小提姆；最後一位幽靈讓他看見一個未來：他死了，卻沒有人為他難過。"
+    ],
+    [
+     "When Scrooge wakes up on Christmas morning, he is a different man. He laughs, gives money to the poor and buys a huge turkey for the Cratchit family. He promises: “I will honour Christmas in my heart, and try to keep it all the year.” He also gives Bob more money for his work.",
+     "聖誕節早上，史古基醒來時，已經變了一個人。他開懷大笑、捐錢給窮人，還幫克拉奇一家買了一隻巨大的火雞。他承諾：「我會在心中敬重聖誕節，並努力一整年都守著它。」他也幫鮑伯加了薪水。"
+    ],
+    [
+     "Dickens wrote this story after visiting a school for poor street children in London. He wanted readers to care about people living in poverty. The story asks a big question: can a person really change? Dickens believed the answer was yes — if we are willing to look honestly at our past, our present and our future.",
+     "狄更斯是在參觀倫敦一所收容貧窮街童的學校之後，寫下這個故事的。他希望讀者關心生活在貧困中的人。這個故事提出一個大問題：一個人真的能改變嗎？狄更斯相信答案是肯定的——只要我們願意誠實面對自己的過去、現在和未來。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "Can a Person Really Change?",
+   "paras": [
+    [
+     "Few characters have given their name to a type of person as completely as Ebenezer Scrooge. Today, calling someone “a Scrooge” means they are mean with money and cold towards others. In Charles Dickens’s A Christmas Carol, Scrooge is exactly that: a wealthy businessman who keeps his clerk, Bob Cratchit, working in a freezing office and dismisses every Christmas greeting with “Bah! Humbug!”",
+     "很少有角色像艾比尼澤．史古基這樣，把自己的名字完全變成了一種人的代名詞。今天說某人是「史古基」，就是說他吝嗇又冷漠。在查爾斯．狄更斯的《小氣財神》裡，史古基正是這樣的人：一個富有的商人，讓他的職員鮑伯．克拉奇在冰冷的辦公室裡工作，對每一句聖誕祝福都回一句「呸！胡扯！」"
+    ],
+    [
+     "The book itself was produced at remarkable speed. Dickens completed it in about six weeks, and it was published on 19 December 1843. It was an immediate success: the first edition sold out by Christmas Eve, and by the end of 1844 thirteen editions had been released. Dickens had been inspired, in part, by a visit to the Field Lane Ragged School, one of several schools for London’s street children.",
+     "這本書的完成速度驚人。狄更斯大約六週就寫完了，並在 1843 年 12 月 19 日出版。它立刻大受歡迎：初版在聖誕夜前賣光，到 1844 年底已經推出了十三個版本。狄更斯的靈感，有一部分來自他參觀菲爾德巷的「貧民學校」——當時倫敦好幾所專收街童的學校之一。"
+    ],
+    [
+     "The story follows one long night. Visited first by the ghost of his dead partner, Jacob Marley, Scrooge is then shown scenes by three spirits. The Ghost of Christmas Past reveals the lonely boy he once was and the love he gave up for money. The Ghost of Christmas Present shows him the Cratchits’ modest but joyful celebration, and their fragile son, Tiny Tim. The final spirit shows him a future in which his death is met with indifference.",
+     "故事發生在一個漫長的夜晚。史古基先是被他已故合夥人雅各．馬里的鬼魂拜訪，接著三位幽靈帶他看了一幕幕景象。過去的聖誕幽靈，揭露了他曾經是個孤單的男孩，以及他為了金錢而放棄的愛；現在的聖誕幽靈讓他看見克拉奇一家簡樸卻歡樂的慶祝，還有他們體弱的兒子小提姆；最後一位幽靈讓他看見一個未來：他的死，只換來旁人的冷漠。"
+    ],
+    [
+     "Dickens does not let readers look away from poverty. Beneath the robe of the Ghost of Christmas Present hide two miserable children. “This boy is Ignorance. This girl is Want,” the spirit says, warning Scrooge to beware them both. The image turns a personal story into a social one: Scrooge’s coldness is not only his own failing, but a mirror of a society that ignores its poorest members.",
+     "狄更斯不讓讀者把目光從貧窮上移開。在現在的聖誕幽靈的長袍底下，躲著兩個悲慘的孩子。「這個男孩是無知，這個女孩是匱乏，」幽靈說，警告史古基要提防他們兩個。這個畫面把個人的故事變成了社會的故事：史古基的冷漠不只是他個人的缺點，也映照出一個忽視最貧窮成員的社會。"
+    ],
+    [
+     "When Scrooge wakes on Christmas morning, he is transformed. He sends a prize turkey to the Cratchits, gives generously to charity and vows: “I will honour Christmas in my heart, and try to keep it all the year.” Some readers find the change too sudden to believe. But perhaps that is the point. Dickens is less interested in how long change takes than in whether we are willing to see our lives clearly enough to begin.",
+     "聖誕節早上醒來時，史古基已經脫胎換骨。他送了一隻得獎的大火雞給克拉奇一家，慷慨捐款給慈善機構，並發誓：「我會在心中敬重聖誕節，並努力一整年都守著它。」有些讀者覺得這個轉變太突然，難以置信。但也許那正是重點。狄更斯在乎的，與其說是改變要花多久，不如說是我們是否願意把自己的人生看得夠清楚，好讓改變開始。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "Ignorance, Want and the Possibility of Change",
+   "paras": [
+    [
+     "A Christmas Carol is so familiar — through countless films, plays and parodies — that it is easy to forget how sharp a book it is. Beneath its ghosts and festive warmth lies an argument about money, responsibility and the capacity of a hardened person to change. Its protagonist, Ebenezer Scrooge, has become shorthand for miserliness; the novella’s real interest, however, lies not in his meanness but in his redemption. Read closely, it is less a cosy holiday tale than a sharp warning to a society that has grown comfortable with suffering.",
+     "《小氣財神》透過無數電影、戲劇和改編惡搞而變得如此熟悉，以至於我們很容易忘記它是一本多麼犀利的書。在鬼魂與節慶的溫暖底下，藏著一場關於金錢、責任，以及一個冷硬的人能否改變的論辯。主角艾比尼澤．史古基已成為吝嗇的代名詞；然而這部中篇小說真正關心的，不是他的刻薄，而是他的救贖。細讀之下，它與其說是溫馨的節日故事，不如說是給一個對苦難習以為常的社會的尖銳警告。"
+    ],
+    [
+     "The circumstances of its writing explain some of its urgency. Dickens produced the book in about six weeks in late 1843, and it was published on 19 December. He had been moved, in part, by a visit to the Field Lane Ragged School, one of several institutions for London’s street children, and he intended the story to awaken sympathy for the poor. Readers responded immediately: the first edition sold out by Christmas Eve, and thirteen editions had appeared by the end of 1844.",
+     "它的寫作背景，說明了這本書為何如此急切。狄更斯在 1843 年底用大約六週完成了這本書，並於 12 月 19 日出版。他有一部分是受到參觀菲爾德巷貧民學校的觸動——那是倫敦好幾所收容街童的機構之一——他希望這個故事能喚起人們對窮人的同情。讀者立刻有了回應：初版在聖誕夜前售罄，到 1844 年底已推出十三個版本。"
+    ],
+    [
+     "Structurally, the book is an exercise in moral vision. Scrooge is not lectured into goodness; he is made to see. The Ghost of Christmas Past confronts him with the loneliness of his childhood and the love he sacrificed to ambition. The Ghost of Christmas Present shows the Cratchit household, poor yet affectionate, and the frail Tiny Tim. The silent Ghost of Christmas Yet to Come reveals a death mourned by no one. Each vision strips away one of Scrooge’s defences, until self-justification is no longer possible.",
+     "從結構來看，這本書是一場關於道德視野的練習。史古基不是被說教成好人的；他是被迫「看見」。過去的聖誕幽靈讓他面對童年的孤單，以及他為了野心而犧牲的愛；現在的聖誕幽靈讓他看見克拉奇一家，貧窮卻充滿親情，還有體弱的小提姆；沉默的未來聖誕幽靈則揭示了一場無人哀悼的死亡。每一個景象都拆掉史古基的一道防線，直到他再也無法為自己辯解。"
+    ],
+    [
+     "The book’s most striking image widens the lens from one man to a whole society. From beneath the robe of the Ghost of Christmas Present emerge two wretched children: “This boy is Ignorance. This girl is Want. Beware them both.” Earlier, Scrooge had dismissed the poor by asking whether there were no prisons or workhouses for them. Now his own indifference is shown to be part of a larger system that abandons children to deprivation. The personal and the political become inseparable. The spirit then turns Scrooge’s own cruel words back on him: “Are there no prisons? Are there no workhouses?” Hearing his own phrases repeated, Scrooge can no longer pretend that they were harmless.",
+     "書中最震撼的畫面，把鏡頭從一個人拉到整個社會。從現在的聖誕幽靈的長袍底下，冒出兩個可憐的孩子：「這個男孩是無知，這個女孩是匱乏。要提防他們兩個。」稍早，史古基還用「難道沒有監獄或濟貧院嗎？」來打發窮人。現在，他自己的冷漠被揭示為一個更大體系的一部分——那個體系把孩子遺棄在貧困之中。個人與政治，從此密不可分。接著，幽靈把史古基自己說過的冷酷話語原封不動丟回給他：「難道沒有監獄嗎？難道沒有濟貧院嗎？」聽見自己的話被重複，史古基再也無法假裝那些話無傷大雅。"
+    ],
+    [
+     "Critics sometimes object that Scrooge’s overnight conversion is psychologically implausible. Yet the speed of the change may be precisely Dickens’s claim. His resolution — “I will honour Christmas in my heart, and try to keep it all the year” — places the emphasis on continued effort rather than a single dramatic moment. The book suggests that transformation begins not when we become better, but when we finally allow ourselves to see clearly: our past, our present and the future our choices are building.",
+     "評論者有時會反對說，史古基一夜之間的轉變，在心理上不太可信。然而，轉變的速度或許正是狄更斯的主張。他的決心——「我會在心中敬重聖誕節，並努力一整年都守著它」——把重點放在持續的努力，而不是單一的戲劇性時刻。這本書暗示：轉變不是從我們變好的那一刻開始，而是從我們終於允許自己看清楚的那一刻開始——看清我們的過去、現在，以及我們的選擇正在建造的未來。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "scrooge",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "writing",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "three-spirits",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "ignorance-want",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "change",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "spirits",
+   "pos": "n.",
+   "meaning": "幽靈、精靈（複數）",
+   "example": "The story is full of spirits.",
+   "family": "spirit (sing.)"
+  },
+  {
+   "w": "poverty",
+   "pos": "n.",
+   "meaning": "貧窮",
+   "example": "Many children grow up in poverty.",
+   "family": "poor (adj.)"
+  },
+  {
+   "w": "promises",
+   "pos": "v.",
+   "meaning": "承諾（promise 的第三人稱）",
+   "example": "He always promises to help.",
+   "family": "promise (n.)"
+  },
+  {
+   "w": "generously",
+   "pos": "adv.",
+   "meaning": "慷慨地",
+   "example": "She gave generously to the school.",
+   "family": "generous (adj.), generosity (n.)"
+  },
+  {
+   "w": "charity",
+   "pos": "n.",
+   "meaning": "慈善機構；慈善",
+   "example": "They raised money for charity.",
+   "family": "charitable (adj.)"
+  },
+  {
+   "w": "transformed",
+   "pos": "adj.",
+   "meaning": "徹底改變的",
+   "example": "After the trip, she felt transformed.",
+   "family": "transform (v.), transformation (n.)"
+  },
+  {
+   "w": "modest",
+   "pos": "adj.",
+   "meaning": "簡樸的、不大的",
+   "example": "They live in a modest house.",
+   "family": "modesty (n.)"
+  },
+  {
+   "w": "indifference",
+   "pos": "n.",
+   "meaning": "冷漠",
+   "example": "His indifference hurt his family.",
+   "family": "indifferent (adj.)"
+  },
+  {
+   "w": "redemption",
+   "pos": "n.",
+   "meaning": "救贖",
+   "example": "The story is about loss and redemption.",
+   "family": "redeem (v.)"
+  },
+  {
+   "w": "implausible",
+   "pos": "adj.",
+   "meaning": "難以置信的",
+   "example": "His excuse sounded implausible.",
+   "family": "plausible (反義)"
+  },
+  {
+   "w": "deprivation",
+   "pos": "n.",
+   "meaning": "匱乏、貧困",
+   "example": "Sleep deprivation affects memory.",
+   "family": "deprive (v.)"
+  },
+  {
+   "w": "inseparable",
+   "pos": "adj.",
+   "meaning": "密不可分的",
+   "example": "The two friends were inseparable.",
+   "family": "separate (v.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "sold out",
+   "type": "phrase",
+   "meaning": "賣光",
+   "usage": "be sold out／sell out。",
+   "example": "The concert tickets sold out in an hour.",
+   "writing": "N + sold out + 時間"
+  },
+  {
+   "phrase": "gave up",
+   "type": "phrase",
+   "meaning": "放棄（give up 的過去式）",
+   "usage": "give up sth／V-ing。",
+   "example": "He gave up smoking last year.",
+   "writing": "S + gave up + N + for + N"
+  },
+  {
+   "phrase": "look away",
+   "type": "phrase",
+   "meaning": "把目光移開、逃避",
+   "usage": "look away from sth：比喻不願面對。",
+   "example": "We cannot look away from the problem.",
+   "writing": "S + does not let readers look away from + N"
+  },
+  {
+   "phrase": "in part",
+   "type": "phrase",
+   "meaning": "部分地",
+   "usage": "= partly。",
+   "example": "The success was due in part to luck.",
+   "writing": "S + was inspired, in part, by + N"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "Few + N + have + p.p. + as + adv. + as + N",
+   "meaning": "很少有……像……一樣……",
+   "example": "Few characters have given their name to a type of person as completely as Ebenezer Scrooge.",
+   "tip": "用來強調某事物的獨特性。"
+  },
+  {
+   "frame": "S + is not + p.p. into + N; S + is made to + V",
+   "meaning": "……不是被……成……，而是被迫……",
+   "example": "Scrooge is not lectured into goodness; he is made to see.",
+   "tip": "對比兩種改變的方式。"
+  },
+  {
+   "frame": "S + is less interested in A than in B",
+   "meaning": "與其說在乎 A，不如說在乎 B",
+   "example": "Dickens is less interested in how long change takes than in whether we are willing to see.",
+   "tip": "比較兩種關注點。"
+  }
+ ],
+ "quote": {
+  "text": "I will honour Christmas in my heart, and try to keep it all the year. I will live in the Past, the Present, and the Future.",
+  "author": "Charles Dickens",
+  "work": "A Christmas Carol (1843), Stave Four — Scrooge speaking",
+  "url": "https://www.gutenberg.org/ebooks/46"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "What does Scrooge say when people wish him “Merry Christmas”?",
+    "options": [
+     "Thank you!",
+     "Bah! Humbug!",
+     "Happy New Year!",
+     "Let’s celebrate!"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "Scrooge answers: “Bah! Humbug!”"
+   },
+   {
+    "q": "How long did Dickens take to write the book?",
+    "options": [
+     "About six days",
+     "About six weeks",
+     "About six months",
+     "About six years"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "Dickens wrote it very quickly, in about six weeks."
+   },
+   {
+    "q": "What does the Ghost of Christmas Present show Scrooge?",
+    "options": [
+     "His lonely childhood",
+     "Bob Cratchit’s poor but happy family",
+     "His own funeral",
+     "A rich party"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "The Ghost of Christmas Present shows him Bob Cratchit’s poor but happy family"
+   },
+   {
+    "q": "What inspired Dickens to write the story?",
+    "options": [
+     "A trip to France",
+     "A visit to a school for poor street children",
+     "A ghost he saw",
+     "A letter from Scrooge"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "Dickens wrote this story after visiting a school for poor street children in London."
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "What does calling someone “a Scrooge” mean today?",
+    "options": [
+     "They love Christmas",
+     "They are mean with money and cold towards others",
+     "They are a ghost",
+     "They are a writer"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "calling someone “a Scrooge” means they are mean with money and cold towards others"
+   },
+   {
+    "q": "How many editions had been released by the end of 1844?",
+    "options": [
+     "Three",
+     "Six",
+     "Thirteen",
+     "Thirty"
+    ],
+    "a": 2,
+    "why": "第二段。",
+    "evidence": "by the end of 1844 thirteen editions had been released"
+   },
+   {
+    "q": "What do the two children under the spirit’s robe represent?",
+    "options": [
+     "Joy and Hope",
+     "Ignorance and Want",
+     "Past and Future",
+     "Scrooge’s children"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "“This boy is Ignorance. This girl is Want,”"
+   },
+   {
+    "q": "According to the last paragraph, what is Dickens most interested in?",
+    "options": [
+     "How long change takes",
+     "Whether we are willing to see our lives clearly enough to begin",
+     "How to cook a turkey",
+     "Ghost stories"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "whether we are willing to see our lives clearly enough to begin"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "Where does the novella’s “real interest” lie, according to the writer?",
+    "options": [
+     "Scrooge’s meanness",
+     "Scrooge’s redemption",
+     "The ghosts’ history",
+     "London’s weather"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "the novella’s real interest, however, lies not in his meanness but in his redemption"
+   },
+   {
+    "q": "What does the writer mean by “Scrooge is not lectured into goodness; he is made to see”?",
+    "options": [
+     "He changes through seeing visions, not through being told what to do",
+     "He reads many books",
+     "He goes to school",
+     "He becomes blind"
+    ],
+    "a": 0,
+    "why": "第三段。",
+    "evidence": "Scrooge is not lectured into goodness; he is made to see."
+   },
+   {
+    "q": "How does the image of Ignorance and Want change the story?",
+    "options": [
+     "It turns a personal story into a social one",
+     "It makes the story funnier",
+     "It ends the story",
+     "It introduces a new villain"
+    ],
+    "a": 0,
+    "why": "第四段。",
+    "evidence": "The personal and the political become inseparable."
+   },
+   {
+    "q": "How does the writer respond to critics who find the change implausible?",
+    "options": [
+     "By agreeing completely",
+     "By suggesting the resolution emphasises continued effort",
+     "By ignoring them",
+     "By saying ghosts are real"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "places the emphasis on continued effort rather than a single dramatic moment"
+   }
+  ]
+ },
+ "reflections": [
+  "If three spirits showed you your past, present and future, which scene would you most want — or least want — to see?",
+  "Do you believe a person can change overnight? Give an example from your own life or from the news."
+ ],
+ "videos": [
+  {
+   "title": "Why should you read Charles Dickens?",
+   "channel": "TED-Ed · Iseult Gillespie",
+   "url": "https://ed.ted.com/lessons/why-should-you-read-charles-dickens-iseult-gillespie",
+   "kind": "TED-Ed",
+   "desc": "An animated lesson on what makes Dickens’s writing so special.",
+   "zh": "動畫課程：狄更斯的寫作為什麼如此特別。",
+   "question": "Which feature of Dickens’s writing can you find in A Christmas Carol?"
+  }
+ ]
+}

@@ -1,0 +1,456 @@
+{
+ "id": "frankenstein",
+ "category": "文學",
+ "title": "The Monster Without a Name",
+ "subtitle": "沒有名字的怪物：瑪麗．雪萊《科學怪人》",
+ "source": "原創導讀；小說原文依 Project Gutenberg《Frankenstein》（1818，公版），寫作背景依 Wikipedia，2026-10-21 核對",
+ "sources": [
+  {
+   "title": "Mary Shelley, Frankenstein; or, The Modern Prometheus, Project Gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/84",
+   "accessed": "2026-10-21"
+  },
+  {
+   "title": "Wikipedia: Frankenstein",
+   "url": "https://en.wikipedia.org/wiki/Frankenstein",
+   "accessed": "2026-10-21"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "Who Is Frankenstein?",
+   "paras": [
+    [
+     "Ask your friends, “Who is Frankenstein?” Many will describe a big green monster with bolts in its neck. But in the original novel, Frankenstein is not the monster at all. Victor Frankenstein is the young scientist who makes the creature. The creature himself never gets a name.",
+     "問問你的朋友：「誰是科學怪人法蘭肯斯坦？」很多人會描述一個脖子上有螺栓的綠色大怪物。但在原著小說裡，法蘭肯斯坦根本不是怪物。維克多．法蘭肯斯坦是製造出那個生物的年輕科學家，而那個生物從頭到尾都沒有名字。"
+    ],
+    [
+     "The novel was written by Mary Shelley. In the summer of 1816, she stayed near Lake Geneva in Switzerland with a group of friends, including the poet Lord Byron. The weather was cold and rainy, so they stayed inside. Byron suggested that each of them write a ghost story. Mary was only 18 years old.",
+     "這本小說的作者是瑪麗．雪萊。1816 年夏天，她和一群朋友——包括詩人拜倫——住在瑞士日內瓦湖畔。那年天氣又冷又多雨，他們只好待在屋裡。拜倫提議每個人都寫一個鬼故事。當時瑪麗只有 18 歲。"
+    ],
+    [
+     "Her story became the novel Frankenstein, which was published in 1818. In the book, Victor builds a living being from dead body parts. But when the creature opens its eyes, Victor is horrified by how ugly it looks. He runs away and leaves the creature alone.",
+     "她的故事後來成為小說《科學怪人》，在 1818 年出版。書中，維克多用屍體的各個部位拼成一個活生生的生物。但當那個生物睜開眼睛時，維克多被它醜陋的樣子嚇壞了。他逃走了，把那個生物獨自留下。"
+    ],
+    [
+     "The creature is not evil at first. He wants friends and wants to be loved. But everyone who sees him screams or attacks him. Slowly, he becomes angry and lonely. He tells Victor: “I was benevolent and good; misery made me a fiend.” In other words, he was kind, but sadness made him cruel. Nobody ever gives him a chance.",
+     "那個生物一開始並不邪惡。他想要朋友，想要被愛。但每個看到他的人，不是尖叫就是攻擊他。漸漸地，他變得憤怒又孤單。他對維克多說：「我曾經仁慈而善良；是苦難讓我成了惡魔。」換句話說，他本來是善良的，是悲傷讓他變得殘忍。從來沒有人給過他機會。"
+    ],
+    [
+     "So who is the real monster in this story — the creature, or the man who made him and then ran away? More than two hundred years later, readers still ask this question. It reminds us that how we treat others can change who they become.",
+     "那麼，這個故事裡真正的怪物是誰——是那個生物，還是那個創造了他、又拋下他逃走的人？兩百多年後，讀者仍在問這個問題。它提醒我們：我們如何對待別人，可能會改變他們成為什麼樣的人。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "The Monster Without a Name",
+   "paras": [
+    [
+     "Few literary creations are as famous — or as misunderstood — as Frankenstein’s monster. Popular culture has turned him into a slow, grunting figure with a flat head and bolts in his neck, and has even given him his creator’s name. In Mary Shelley’s novel, however, “Frankenstein” is the scientist, Victor, and the being he creates is never named. He is called “the creature”, “the wretch”, “the fiend” — anything but a person.",
+     "很少有文學角色像科學怪人這樣有名——又這樣被誤解。大眾文化把他變成一個行動遲緩、只會低吼、頭頂扁平、脖子上有螺栓的形象，甚至把創造者的名字也給了他。然而在瑪麗．雪萊的小說裡，「法蘭肯斯坦」是那位科學家維克多，而他創造的生物從來沒有名字。他被稱為「那個生物」「那個可憐蟲」「那個惡魔」——什麼都叫，就是不被當成一個人。"
+    ],
+    [
+     "The novel began as a challenge. In the summer of 1816, an unusually cold and rainy season, eighteen-year-old Mary and the poet Percy Shelley visited Lord Byron at the Villa Diodati near Lake Geneva. Trapped indoors by the weather, the group read ghost stories, and Byron suggested that each of them write one. Mary’s contribution grew into Frankenstein; or, The Modern Prometheus, published anonymously on 1 January 1818, when she was twenty. Few first novels have had such a long life.",
+     "這部小說源自一場挑戰。1816 年夏天，一個異常寒冷多雨的季節，十八歲的瑪麗和詩人珀西．雪萊，到日內瓦湖畔的迪奧達蒂別墅拜訪拜倫。因為天氣而被困在屋裡的一群人讀起鬼故事，拜倫提議每個人都寫一篇。瑪麗的作品後來發展成《科學怪人，或現代普羅米修斯》，在 1818 年 1 月 1 日匿名出版，當時她二十歲。很少有處女作能有這麼長的生命。"
+    ],
+    [
+     "In the story, Victor Frankenstein, a gifted young student, discovers how to give life to dead matter and builds a creature from body parts. But at the moment of success he is filled with disgust at its appearance and abandons it. The creature, alone and confused, must learn about the world on his own. Secretly watching a family through a gap in a wall, he even teaches himself to speak and read.",
+     "故事中，天資聰穎的年輕學生維克多．法蘭肯斯坦，發現了讓死物獲得生命的方法，並用人體各部位造出一個生物。但就在成功的那一刻，他對那個生物的外貌充滿厭惡，於是拋棄了它。孤單又困惑的生物只能自己認識這個世界。他從牆縫偷偷觀察一戶人家，甚至靠自己學會了說話和閱讀。"
+    ],
+    [
+     "Yet every human he approaches reacts with fear and violence. Rejected again and again, the creature turns to revenge. When he finally confronts Victor, he explains his transformation in one of the novel’s most powerful lines: “I was benevolent and good; misery made me a fiend. Make me happy, and I shall again be virtuous.” His words make it hard to see him simply as a villain.",
+     "然而，他接近的每一個人，都以恐懼和暴力回應。一次又一次被拒絕之後，那個生物轉向了報復。當他終於與維克多對質時，他用小說中最有力的一句話解釋了自己的轉變：「我曾經仁慈而善良；是苦難讓我成了惡魔。讓我幸福，我就會再度變得善良。」他的話，讓人很難只把他當成一個反派。"
+    ],
+    [
+     "More than two centuries later, Frankenstein is often read as a warning about science that moves faster than responsibility. But it is also a story about what happens when someone is denied love and belonging. The question it leaves behind is uncomfortable: if the creature became a monster, how much of that was his own doing — and how much was ours?",
+     "兩個多世紀後，《科學怪人》常被讀成一則警告：科學跑得比責任還快。但它同時也是一個故事，講的是一個人被剝奪了愛與歸屬時，會發生什麼事。它留下的問題令人不安：如果那個生物變成了怪物，其中有多少是他自己造成的——又有多少是我們造成的？"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "Who Made the Monster?",
+   "paras": [
+    [
+     "Popular memory has been unkind to Mary Shelley’s creature. Film and costume have reduced him to a lumbering, inarticulate brute, and casual usage has transferred his creator’s surname onto him, as if the two were the same. In the novel, Victor Frankenstein is the scientist; the being he makes is never granted a name at all. He is “creature”, “daemon”, “wretch”, “fiend” — labels that define him entirely by how others react to his appearance. That namelessness is not an accident but one of the book’s central concerns. Even the word “monster”, which the novel uses, tells us more about the observers than about the one observed.",
+     "大眾記憶對瑪麗．雪萊筆下的生物並不友善。電影和戲服把他簡化成一個笨重、口齒不清的野獸，隨口的用法又把創造者的姓氏轉嫁到他身上，彷彿兩者是同一個人。在小說裡，維克多．法蘭肯斯坦是科學家；他造出的那個存在，從來沒有被賦予名字。他是「生物」「惡靈」「可憐蟲」「惡魔」——這些標籤完全由別人對他外表的反應來定義他。這種無名狀態並非偶然，而是這本書核心關懷之一。就連小說中使用的「怪物」一詞，透露的也更多是觀看者，而不是被觀看的那一方。"
+    ],
+    [
+     "The circumstances of its composition have become literary legend. In the summer of 1816 — later known as the “Year Without a Summer” because of its unusually cold weather — eighteen-year-old Mary, together with Percy Shelley, visited Lord Byron at the Villa Diodati on Lake Geneva. Confined indoors, the company read ghost stories, and Byron proposed that each write one. Mary’s tale became a novel, published anonymously on 1 January 1818; her name would not appear on the work until a French translation in 1821.",
+     "它的寫作背景已成為文學傳奇。1816 年夏天——後來因異常寒冷而被稱為「無夏之年」——十八歲的瑪麗與珀西．雪萊一同到日內瓦湖畔的迪奧達蒂別墅拜訪拜倫。被困在屋內的眾人讀起鬼故事，拜倫提議每人各寫一篇。瑪麗的故事發展成一部小說，於 1818 年 1 月 1 日匿名出版；直到 1821 年的法文譯本，她的名字才出現在這部作品上。"
+    ],
+    [
+     "The novel’s moral weight rests on an act of abandonment. Victor labours obsessively to animate dead matter, yet the instant he succeeds he recoils from his creation’s appearance and flees, leaving a newborn mind with no guidance, no language and no protection. What follows is, in effect, an education undertaken alone: hidden in a shed beside a cottage, the creature observes a family and teaches himself speech, reading and the vocabulary of human feeling, only to discover that this knowledge brings no acceptance. Victor, meanwhile, falls ill and tries to forget what he has done, as if responsibility could be escaped by looking away.",
+     "這部小說的道德重量，建立在一個「拋棄」的行為上。維克多執著地努力讓死物活過來，卻在成功的那一刻，因為造物的外貌而退縮、逃走，留下一個沒有引導、沒有語言、也沒有保護的新生心智。接下來發生的，實際上是一場獨自完成的教育：藏身在小屋旁的棚子裡，那個生物觀察一戶人家，自學了說話、閱讀，以及人類情感的詞彙——卻發現這些知識換不來任何接納。與此同時，維克多病倒了，試圖忘記自己做過的事，彷彿只要把頭轉開，就能逃避責任。"
+    ],
+    [
+     "Repeated rejection completes the transformation that Victor’s neglect began. When the creature finally confronts his maker, he frames his case in language of startling eloquence: “I ought to be thy Adam, but I am rather the fallen angel … I was benevolent and good; misery made me a fiend. Make me happy, and I shall again be virtuous.” The speech reverses the reader’s sympathies. The articulate “monster” sounds more humane than the brilliant scientist who refuses to take responsibility for him.",
+     "一次又一次的拒絕，完成了維克多的忽視所開啟的轉變。當那個生物終於與創造者對質時，他用令人震驚的雄辯為自己申辯：「我本應是你的亞當，卻反倒成了墮落的天使……我曾經仁慈而善良；是苦難讓我成了惡魔。讓我幸福，我就會再度變得善良。」這段話翻轉了讀者的同情。能言善道的「怪物」，聽起來比那位拒絕為他負責的天才科學家更有人性。"
+    ],
+    [
+     "Frankenstein is frequently invoked today as a parable about technology — a warning against creating what we cannot control. That reading is valid, but it may miss the novel’s more intimate warning: that monstrosity is often manufactured socially, through neglect and exclusion, rather than born. Shelley’s subtitle, The Modern Prometheus, points to the ambition of the creator; the story itself asks us to look just as hard at the obligations that ambition brings. Its questions have only grown more pressing in an age of rapid scientific change, when we too must decide what we owe to the things we create.",
+     "如今，《科學怪人》常被當作一則關於科技的寓言——警告我們不要創造自己無法控制的東西。這種讀法沒有錯，但可能錯過了小說更貼近人心的警告：怪物往往是經由社會——透過忽視與排斥——製造出來的，而不是天生的。雪萊的副標題「現代普羅米修斯」指向創造者的野心；故事本身則要我們同樣認真地審視，那份野心所帶來的責任。在科學快速變遷的時代，這些問題只變得更加迫切——因為我們同樣必須決定，對自己創造的東西負有什麼責任。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "name",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "origin",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "abandonment",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "misery",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "meaning",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "creature",
+   "pos": "n.",
+   "meaning": "生物",
+   "example": "The forest is full of strange creatures.",
+   "family": "create (v.)"
+  },
+  {
+   "w": "horrified",
+   "pos": "adj.",
+   "meaning": "感到驚恐的",
+   "example": "She was horrified by the news.",
+   "family": "horror (n.)"
+  },
+  {
+   "w": "lonely",
+   "pos": "adj.",
+   "meaning": "孤單的",
+   "example": "He felt lonely in the new city.",
+   "family": "loneliness (n.)"
+  },
+  {
+   "w": "misery",
+   "pos": "n.",
+   "meaning": "痛苦、苦難",
+   "example": "The war brought misery to millions.",
+   "family": "miserable (adj.)"
+  },
+  {
+   "w": "benevolent",
+   "pos": "adj.",
+   "meaning": "仁慈的",
+   "example": "She was a benevolent teacher.",
+   "family": "benevolence (n.)"
+  },
+  {
+   "w": "abandons",
+   "pos": "v.",
+   "meaning": "拋棄（abandon 的第三人稱）",
+   "example": "He never abandons his friends.",
+   "family": "abandonment (n.)"
+  },
+  {
+   "w": "rejected",
+   "pos": "adj.",
+   "meaning": "被拒絕的",
+   "example": "She felt rejected by her classmates.",
+   "family": "reject (v.), rejection (n.)"
+  },
+  {
+   "w": "revenge",
+   "pos": "n.",
+   "meaning": "報復",
+   "example": "He wanted revenge for the insult.",
+   "family": "—"
+  },
+  {
+   "w": "anonymously",
+   "pos": "adv.",
+   "meaning": "匿名地",
+   "example": "The poem was published anonymously.",
+   "family": "anonymous (adj.)"
+  },
+  {
+   "w": "eloquence",
+   "pos": "n.",
+   "meaning": "雄辯、口才",
+   "example": "Her eloquence moved the audience.",
+   "family": "eloquent (adj.)"
+  },
+  {
+   "w": "neglect",
+   "pos": "n.",
+   "meaning": "忽視、疏忽",
+   "example": "The garden suffered from neglect.",
+   "family": "neglect (v.)"
+  },
+  {
+   "w": "obligations",
+   "pos": "n.",
+   "meaning": "責任、義務（複數）",
+   "example": "Parents have obligations to their children.",
+   "family": "oblige (v.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "at first",
+   "type": "phrase",
+   "meaning": "起初",
+   "usage": "暗示後來情況改變。",
+   "example": "At first, I didn’t like the city.",
+   "writing": "At first, S + V. But later, ..."
+  },
+  {
+   "phrase": "runs away",
+   "type": "phrase",
+   "meaning": "逃跑（run away 的第三人稱）",
+   "usage": "run away (from sb／sth)。",
+   "example": "The cat runs away when it sees a dog.",
+   "writing": "S + runs away from + N"
+  },
+  {
+   "phrase": "again and again",
+   "type": "phrase",
+   "meaning": "一再地",
+   "usage": "強調重複。",
+   "example": "She read the letter again and again.",
+   "writing": "..., again and again."
+  },
+  {
+   "phrase": "take responsibility for",
+   "type": "collocation",
+   "meaning": "為……負責",
+   "usage": "take responsibility for + N／V-ing。",
+   "example": "You must take responsibility for your actions.",
+   "writing": "S + refuse(s) to take responsibility for + N"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "A is not B at all",
+   "meaning": "A 根本不是 B",
+   "example": "Frankenstein is not the monster at all.",
+   "tip": "at all 放句尾加強否定。"
+  },
+  {
+   "frame": "anything but + N／adj.",
+   "meaning": "絕不是……；除了……什麼都是",
+   "example": "He is called “the creature”, “the wretch” — anything but a person.",
+   "tip": "anything but = 完全不是。"
+  },
+  {
+   "frame": "how much of that was A — and how much was B?",
+   "meaning": "其中有多少是 A，又有多少是 B？",
+   "example": "How much of that was his own doing — and how much was ours?",
+   "tip": "引導讀者思考責任分配的修辭問句。"
+  },
+  {
+   "frame": "S + is often + p.p., rather than + p.p.",
+   "meaning": "……往往是被……而不是被……",
+   "example": "Monstrosity is often manufactured socially, rather than born.",
+   "tip": "對比兩種成因。"
+  }
+ ],
+ "quote": {
+  "text": "I was benevolent and good; misery made me a fiend. Make me happy, and I shall again be virtuous.",
+  "author": "Mary Shelley",
+  "work": "Frankenstein (1818), Chapter 10 — the creature speaking to Victor",
+  "url": "https://www.gutenberg.org/ebooks/84"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "In the original novel, who is Frankenstein?",
+    "options": [
+     "The monster",
+     "The young scientist who makes the creature",
+     "A poet",
+     "Mary Shelley’s friend"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "Victor Frankenstein is the young scientist who makes the creature."
+   },
+   {
+    "q": "How old was Mary when the ghost-story idea began?",
+    "options": [
+     "12",
+     "18",
+     "25",
+     "40"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "Mary was only 18 years old."
+   },
+   {
+    "q": "What does Victor do when the creature opens its eyes?",
+    "options": [
+     "He hugs it",
+     "He runs away and leaves it alone",
+     "He gives it a name",
+     "He teaches it to read"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "He runs away and leaves the creature alone."
+   },
+   {
+    "q": "What does the creature want at first?",
+    "options": [
+     "Revenge",
+     "Friends and to be loved",
+     "Money",
+     "To go to school"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "He wants friends and wants to be loved."
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "Why does the writer say the creature is called “anything but a person”?",
+    "options": [
+     "He is given only labels like “the wretch” and “the fiend”",
+     "He is a robot",
+     "He is an animal",
+     "He has many names"
+    ],
+    "a": 0,
+    "why": "第一段。",
+    "evidence": "He is called “the creature”, “the wretch”, “the fiend” — anything but a person."
+   },
+   {
+    "q": "When and how was the novel first published?",
+    "options": [
+     "In 1816 with Mary’s name",
+     "Anonymously on 1 January 1818",
+     "In 1821 in English",
+     "In 1900 as a film"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "published anonymously on 1 January 1818"
+   },
+   {
+    "q": "How does the creature learn to speak and read?",
+    "options": [
+     "Victor teaches him",
+     "He goes to school",
+     "By secretly watching a family",
+     "From a book Byron gave him"
+    ],
+    "a": 2,
+    "why": "第三段。",
+    "evidence": "Secretly watching a family through a gap in a wall, he even teaches himself to speak and read."
+   },
+   {
+    "q": "What uncomfortable question does the last paragraph leave?",
+    "options": [
+     "Whether science is useful",
+     "How much of the creature’s monstrosity was caused by others",
+     "Why the weather was cold",
+     "Who invented electricity"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "how much of that was his own doing — and how much was ours?"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "Why does the writer say the creature’s namelessness is “not an accident”?",
+    "options": [
+     "It reflects the novel’s concern with how others define him",
+     "Mary forgot to name him",
+     "Names were illegal then",
+     "The printer made a mistake"
+    ],
+    "a": 0,
+    "why": "第一段：標籤完全由別人的反應定義他，這是核心關懷之一。",
+    "evidence": "That namelessness is not an accident but one of the book’s central concerns."
+   },
+   {
+    "q": "When did Mary Shelley’s name first appear on the work?",
+    "options": [
+     "1816",
+     "1818",
+     "In a French translation in 1821",
+     "Never"
+    ],
+    "a": 2,
+    "why": "第二段。",
+    "evidence": "her name would not appear on the work until a French translation in 1821"
+   },
+   {
+    "q": "What does the writer call the creature’s learning experience?",
+    "options": [
+     "An education undertaken alone",
+     "A school program",
+     "Victor’s experiment",
+     "A ghost story"
+    ],
+    "a": 0,
+    "why": "第三段。",
+    "evidence": "an education undertaken alone"
+   },
+   {
+    "q": "What “more intimate warning” does the writer find in the novel?",
+    "options": [
+     "Technology is always dangerous",
+     "Monstrosity is often produced through neglect and exclusion",
+     "Scientists should not study",
+     "Ghost stories are harmful"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "monstrosity is often manufactured socially, through neglect and exclusion, rather than born"
+   }
+  ]
+ },
+ "reflections": [
+  "Do you think Victor or the creature is more responsible for what happens? Give reasons.",
+  "Think of someone who is often left out at school. How might being included change them?"
+ ],
+ "videos": [
+  {
+   "title": "Everything you need to know to read “Frankenstein”",
+   "channel": "TED-Ed · Iseult Gillespie",
+   "url": "https://ed.ted.com/lessons/everything-you-need-to-know-to-read-mary-shelley-s-frankenstein-iseult-gillespie",
+   "kind": "TED-Ed",
+   "desc": "An animated introduction to Mary Shelley’s novel and the eighteen-year-old who began it.",
+   "zh": "動畫介紹：瑪麗．雪萊的小說，以及開始寫它的那位十八歲作者。",
+   "question": "What did you learn about Mary Shelley that surprised you?"
+  },
+  {
+   "title": "Don’t Reanimate Corpses! Frankenstein Part 1: Crash Course Literature 205",
+   "channel": "YouTube · CrashCourse",
+   "url": "https://www.youtube.com/watch?v=SyyrwoCec1k",
+   "kind": "YouTube",
+   "desc": "John Green discusses Frankenstein beyond its pop-culture image.",
+   "zh": "約翰．葛林談《科學怪人》在大眾印象之外的面貌。",
+   "question": "How is the novel different from the monster you knew from films?"
+  }
+ ]
+}
