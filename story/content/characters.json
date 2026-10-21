@@ -269,6 +269,196 @@
    "usage": "I’m sorry.；sorry for／about sth",
    "zh": "抱歉的；難過的",
    "kk": "ˋsɑrɪ"
+  },
+  "search": {
+   "badge": "verb",
+   "first": "w02-d1",
+   "look": "S 家族長老：黑框眼鏡、白鬍子、探險家打扮（白長袖、卡其工作褲、吊帶、紳士背心）",
+   "trait": "一伸手就變千手，讓任何防護罩失效；找不到的、跑得快的、鬼鬼祟祟的，他都找得到",
+   "usage": "search for sth；search a place（搜查某地）——注意 search 後直接接地點，找的東西要加 for"
+  },
+  "say": {
+   "badge": "verb",
+   "first": "w02-d1",
+   "look": "看不出性別的青少年，衣服上自帶跑馬燈",
+   "trait": "重視別人「看到、聽到」他說的內容；被 sarcastic 影響時說話會酸酸的",
+   "usage": "say + 內容：say hello、say that...；不直接接人（✗ say me）"
+  },
+  "speak": {
+   "badge": "verb",
+   "first": "w02-d1",
+   "look": "眼睛超級大、非常迷人",
+   "trait": "一開口大家就不自覺看著他：重在「說話」這個動作，偏正式",
+   "usage": "speak English、speak to sb、speak at a meeting"
+  },
+  "talk": {
+   "badge": "verb",
+   "first": "w02-d3",
+   "look": "總是轉頭找人聊天的人",
+   "trait": "重在你來我往的互動",
+   "usage": "talk to／with sb、talk about sth"
+  },
+  "tell": {
+   "badge": "verb",
+   "first": "w02-d3",
+   "look": "說話一定要先看著對方的人",
+   "trait": "一定要有對象：告訴「誰」",
+   "usage": "tell sb sth、tell a story、tell the truth"
+  },
+  "speech": {
+   "badge": "noun",
+   "first": "w02-d1",
+   "look": "戴眼鏡、穿西裝、歷經滄桑的專業人士",
+   "trait": "說出來的話很有份量、很有水準",
+   "usage": "give／make a speech；名詞，不能當動詞用"
+  },
+  "stealth": {
+   "badge": "noun",
+   "first": "w02-d2",
+   "look": "平凡到走在路上沒人會注意的人",
+   "trait": "用防護罩擋住自己的所有行動，不認真看根本看不到",
+   "usage": "by stealth（悄悄地）；形容詞 stealthy",
+   "zh": "祕密行動；鬼祟",
+   "kk": "stɛlθ"
+  },
+  "sarcastic": {
+   "badge": "adjective",
+   "first": "w02-d3",
+   "look": "一臉欠揍、看不起人；外形一直變：小孩、女人、老先生、中年男子",
+   "trait": "非嘲諷人幾句不可，被他靠近的字說話都會變酸",
+   "usage": "a sarcastic remark；名詞 sarcasm",
+   "zh": "諷刺的；挖苦的",
+   "kk": "sɑrˋkæstɪk"
+  },
+  "scamp": {
+   "badge": "noun",
+   "first": "w02-d3",
+   "look": "眼睛大大、個子不高、聰明機靈的淘氣孩子",
+   "trait": "有他在就會有小小的驚嚇；吃到壞東西就會變成大人樣的流氓",
+   "usage": "a little scamp（多半帶寵愛地說淘氣鬼）",
+   "zh": "淘氣鬼；小搗蛋",
+   "kk": "skæmp"
+  },
+  "sensitive": {
+   "badge": "adjective",
+   "first": "w02-d1",
+   "look": "皮膚薄薄的、一碰就有感覺的少女",
+   "trait": "對別人的情緒和小變化都很敏感；常被誤認成 sensible",
+   "usage": "sensitive to sth（敏感的）——別和 sensible（明智的）搞混"
+  },
+  "sooth": {
+   "badge": "noun",
+   "first": "w02-d2",
+   "look": "字母正在一點一點變淡的小老字",
+   "trait": "古英文裡的「真相」；只剩一本字典記得他，快要消失了",
+   "usage": "現在多半只出現在 soothsayer（預言者）、in sooth（說實話，古語）",
+   "zh": "（古）真相；事實",
+   "kk": "suθ"
+  },
+  "scholar": {
+   "badge": "noun",
+   "first": "w02-d1",
+   "look": "手指沾著墨水、同時讀三本書的女士",
+   "trait": "在空氣的頁邊寫筆記；長老說「要先找學者」",
+   "usage": "a scholar of history；形容詞 scholarly；scholarship 獎學金"
+  },
+  "superior": {
+   "badge": "adjective",
+   "first": "w02-d1",
+   "look": "永遠站在小箱子上、比別人高一點的男人",
+   "trait": "總覺得自己比別人好，看人都是往下看",
+   "usage": "superior TO sb（✗ superior than）；反義 inferior"
+  },
+  "sympathy": {
+   "badge": "noun",
+   "first": "w02-d1",
+   "look": "眼睛溫柔、別人痛她也會跟著皺眉的女士",
+   "trait": "能感受別人的難過；手稿說：先找她結盟",
+   "usage": "have／feel sympathy for sb；動詞 sympathize"
+  },
+  "sensible": {
+   "badge": "adjective",
+   "first": "w02-d1",
+   "look": "穿耐走的鞋、永遠帶傘的實際男人",
+   "trait": "做事明智、合理；不像 sensitive 那麼容易被觸動",
+   "usage": "a sensible decision；sensible ≠ sensitive"
+  },
+  "stubborn": {
+   "badge": "adjective",
+   "first": "w02-d1",
+   "look": "站在橋中間、像石頭一樣不肯動的男孩",
+   "trait": "決定的事誰也改不了",
+   "usage": "as stubborn as a mule；a stubborn problem（難解決的問題）"
+  },
+  "shelter": {
+   "badge": "noun",
+   "first": "w02-d2",
+   "look": "一間用落葉摺成的小屋，會長在需要保護的人身邊",
+   "trait": "讓躲雨、躲風、躲難過的人有地方待",
+   "usage": "take shelter from the rain；也可當動詞：shelter sb"
+  },
+  "suspicious": {
+   "badge": "adjective",
+   "first": "w02-d2",
+   "look": "瞇著眼、一直檢查別人口袋的松鼠",
+   "trait": "對什麼都起疑；長得很像上週的 Suspect",
+   "usage": "be suspicious of sb；suspicious（形容詞）≠ suspect（動詞／名詞）"
+  },
+  "sorrow": {
+   "badge": "noun",
+   "first": "w02-d2",
+   "look": "穿深藍衣服的安靜女士",
+   "trait": "會坐在哭泣的人身邊，不急著叫他別哭",
+   "usage": "deep sorrow；比 sadness 更深、更正式"
+  },
+  "sigh": {
+   "badge": "verb",
+   "first": "w02-d2",
+   "look": "每吐一口氣都好長的風之少年",
+   "trait": "有嘆氣（難過）也有鬆一口氣（a sigh of relief）",
+   "usage": "sigh deeply；a sigh of relief"
+  },
+  "scatter": {
+   "badge": "verb",
+   "first": "w02-d2",
+   "look": "一受驚嚇就碎成好幾十片、四處飛散的女孩",
+   "trait": "散開、撒落，冷靜下來才會慢慢拼回來",
+   "usage": "scatter seeds；the crowd scattered（人群散開）"
+  },
+  "sophisticated": {
+   "badge": "adjective",
+   "first": "w02-d3",
+   "look": "世故的秘書先生，戴金色徽章，負責記會議紀錄",
+   "trait": "懂很多、很細緻；少了 d 就變成他的分身 sophisticate（名詞，世故的人）",
+   "usage": "sophisticated technology／taste；名詞 sophistication"
+  },
+  "subtle": {
+   "badge": "adjective",
+   "first": "w02-d3",
+   "look": "幾乎透明、只用暗示說話的女士",
+   "trait": "細微、不明顯；她名字裡的 b 從來不發音",
+   "usage": "/ˋsʌtl/（b 不發音）；a subtle difference"
+  },
+  "scold": {
+   "badge": "verb",
+   "first": "w02-d3",
+   "look": "脖子上掛著哨子的阿姨",
+   "trait": "專門罵 scamp",
+   "usage": "scold sb for (doing) sth"
+  },
+  "swear": {
+   "badge": "verb",
+   "first": "w02-d3",
+   "look": "頭上戴兩頂帽子的男人",
+   "trait": "白帽子是發誓（swear to tell the truth），黑帽子是罵髒話（swear at sb）",
+   "usage": "swear–swore–sworn；swear to V／swear at sb"
+  },
+  "signal": {
+   "badge": "noun",
+   "first": "w02-d3",
+   "look": "全身插滿小旗子的燈塔女孩",
+   "trait": "不用說話也能傳訊息；手稿說字都有能量",
+   "usage": "a signal of／to V；也可當動詞：signal sb to V"
   }
  }
 }

@@ -1,0 +1,452 @@
+{
+ "id": "sarcasm-text",
+ "category": "語言與溝通",
+ "title": "Why Sarcasm Gets Lost in Text Messages",
+ "subtitle": "為什麼諷刺在訊息裡常常被誤會",
+ "pairedWith": "story:w02-d3",
+ "source": "原創教學文章；研究內容依 Kruger, Epley, Parker & Ng（2005）原始論文，2026-10-21 核對",
+ "sources": [
+  {
+   "title": "Kruger, J., Epley, N., Parker, J., & Ng, Z.-W. (2005). Egocentrism over e-mail: Can we communicate as well as we think? Journal of Personality and Social Psychology, 89(6), 925–936.",
+   "url": "https://doi.org/10.1037/0022-3514.89.6.925",
+   "accessed": "2026-10-21"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "“Great Job” — or Not?",
+   "paras": [
+    [
+     "Your friend sends you a message: “Great job on the test.” Is your friend happy for you, or making fun of you? When we talk face to face, we hear a voice and see a face. In a message, we only see the words. The meaning behind them can be hard to find.",
+     "朋友傳訊息給你：「考試考得真『好』。」朋友是替你高興，還是在取笑你？面對面說話時，我們聽得到語氣、看得到表情；在訊息裡，我們只看得到字。字背後的意思，可能很難看出來。"
+    ],
+    [
+     "In 2005, a group of psychologists studied this problem. In one experiment, students wrote short sentences about everyday topics. Half of the sentences were serious, and half were sarcastic. They sent the sentences by email, without using any emoji. Then they guessed how many their partner would understand correctly.",
+     "2005 年，一群心理學家研究了這個問題。在其中一個實驗裡，學生針對日常主題寫短句，一半是認真的，一半是諷刺的。他們用電子郵件把句子傳出去，而且不能用任何表情符號。接著，他們猜對方能正確理解幾句。"
+    ],
+    [
+     "The writers were very confident. They thought almost all of their messages would be understood. In another experiment, the researchers compared email with voice messages. People who heard the sentences understood about three out of four. People who only read the emails did little better than guessing.",
+     "寫的人都很有信心，認為幾乎所有訊息都會被讀懂。在另一個實驗裡，研究者比較了電子郵件和語音訊息。聽到句子的人，大約能理解四分之三；只讀電子郵件的人，表現幾乎跟用猜的差不多。"
+    ],
+    [
+     "Why are writers so confident? When you write a sarcastic message, you can “hear” your own tone in your head. You know exactly what you mean. It is hard to imagine that someone else cannot hear the same tone. The researchers called this egocentrism: seeing things only from your own point of view.",
+     "為什麼寫的人這麼有信心？當你寫一則諷刺的訊息，你在腦中「聽得到」自己的語氣，你很清楚自己的意思，所以很難想像別人聽不到同樣的語氣。研究者稱之為「自我中心」：只從自己的角度看事情。"
+    ],
+    [
+     "So before you send a joke, read it again as if you were the other person. If the meaning is only in your tone, add a clear signal, or say it in a call. A small change can stop a friend from feeling scolded when you were only joking.",
+     "所以，在傳出一個玩笑之前，用對方的角度再讀一遍。如果意思只存在你的語氣裡，就加一個清楚的訊號，或乾脆打電話說。一個小小的改變，就能避免朋友在你只是開玩笑的時候，覺得自己被罵了。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "Why Sarcasm Gets Lost in Text Messages",
+   "paras": [
+    [
+     "Sarcasm depends on a gap between what we say and what we mean. In speech, that gap is filled by tone of voice, a raised eyebrow or a small smile. Text removes these signals, leaving only the words. The question is not just whether sarcasm becomes harder to understand online, but whether we realize how much harder. That is why the same sentence — “Nice haircut” — can be a compliment or an insult.",
+     "諷刺建立在「說的話」和「真正的意思」之間的落差。說話時，這個落差由語氣、一個挑起的眉毛或一抹微笑來填補。文字把這些訊號都拿掉了，只剩下字。問題不只在於諷刺在網路上是否更難理解，而是我們有沒有意識到，它變得有多難。 這就是為什麼同一句話——「髮型不錯喔」——可以是稱讚，也可以是嘲諷。"
+    ],
+    [
+     "In 2005, Justin Kruger, Nicholas Epley and their colleagues ran a series of experiments to find out. In the first, students wrote two sentences about each of ten topics: one serious and one sarcastic. They emailed the sentences to a partner without using emoticons, then predicted how many their partner would interpret correctly. On average, they expected 97 percent to be understood. The actual figure was 84 percent. The topics were ordinary ones, such as food, sports and dating.",
+     "2005 年，賈斯汀．克魯格、尼可拉斯．艾普利和同事進行了一系列實驗來找答案。第一個實驗中，學生針對十個主題各寫兩句話：一句認真、一句諷刺。他們不用表情符號，把句子用電子郵件寄給搭檔，然後預測對方能正確理解幾句。平均來說，他們預期 97% 會被理解，實際數字是 84%。 主題都很日常，例如食物、運動和約會。"
+    ],
+    [
+     "A later experiment made the gap clearer. Some participants recorded their sentences as voice messages, while others sent them by email. Listeners correctly identified nearly three-quarters of the voice messages, but readers of the emails performed no better than chance. Remarkably, the email writers were just as confident as the speakers. Another study found that friends were no better at this than strangers. In other words, email removed the very cues that made sarcasm clear, but people did not adjust their expectations.",
+     "後來的實驗讓這個落差更明顯。有些參與者把句子錄成語音，有些用電子郵件寄出。聽語音的人能正確判斷將近四分之三，讀電子郵件的人卻和亂猜差不多。值得注意的是，寫電子郵件的人跟說話的人一樣有信心。另一項研究還發現，朋友之間並沒有比陌生人更厲害。 換句話說，電子郵件拿掉了讓諷刺變清楚的那些線索，但人們並沒有因此調整自己的預期。"
+    ],
+    [
+     "The researchers traced this overconfidence to egocentrism. Because writers already know what they mean, they “hear” the sarcastic tone as they type and assume the reader will hear it too. In one clever test, writers read their sarcastic sentences aloud in a serious voice before predicting the results. Once their own sense of the tone was disturbed, their overconfidence disappeared.",
+     "研究者把這種過度自信歸因於自我中心。因為寫的人已經知道自己的意思，打字時就「聽到」了諷刺的語氣，並以為讀者也聽得到。在一個巧妙的測試中，寫的人在預測結果前，先用認真的語氣把諷刺句唸出來。一旦他們自己對語氣的感覺被打亂，過度自信就消失了。"
+    ],
+    [
+     "None of this means we should never joke in writing. It means the subtle parts of a message deserve extra care. Before sending, it is worth reading your words as a stranger would. If a misunderstanding could hurt, choose clearer words — or simply call. A short phrase such as “just kidding” may seem unnecessary to you, but it can save the other person a lot of worry.",
+     "這些都不代表我們永遠不該在文字裡開玩笑，而是說，訊息中細微的部分值得多一分小心。傳送之前，值得用陌生人的眼光讀一遍自己的字。如果誤會可能傷人，就選擇更清楚的說法——或乾脆打個電話。 像「開玩笑的啦」這樣的一句話，對你來說可能多餘，卻能讓對方少擔心很多。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "The Tone Only You Can Hear",
+   "paras": [
+    [
+     "Imagine tapping out the rhythm of a familiar song on a table and asking a listener to name it. Studies cited by Kruger and his colleagues describe exactly this: tappers estimated that about half of their listeners would succeed, yet only 3 percent did. The tappers could “hear” the melody in their heads; the listeners heard only knocks. The same trap, the researchers suspected, lies hidden in every text message. If you have ever tried this game yourself, you may have been surprised by how badly it went.",
+     "想像你在桌上敲出一首熟悉歌曲的節奏，請聽的人說出歌名。克魯格等人在論文中引用的研究正是如此：敲的人估計大約一半的聽者會猜中，結果只有 3% 猜對。敲的人腦中「聽得到」旋律，聽的人只聽到敲擊聲。研究者懷疑，同樣的陷阱，就藏在每一則文字訊息裡。 如果你自己玩過這個遊戲，可能也曾驚訝於結果有多糟。"
+    ],
+    [
+     "Their 2005 paper reported five experiments on communication by email. In the first, students wrote pairs of one-sentence statements on ten topics — one serious, one sarcastic — and sent them without emoticons. Writers expected 97 percent of their topics to be decoded correctly; the true rate was 84 percent. As the authors noted, people were not poor at conveying sarcasm, but they were not as able as they believed. The topics were deliberately ordinary — food, sports, dating, everyday campus life — so that any difficulty lay in tone rather than content.",
+     "他們 2005 年的論文報告了五個關於電子郵件溝通的實驗。第一個實驗中，學生針對十個主題各寫一組單句——一句認真、一句諷刺——並在不用表情符號的情況下寄出。寫的人預期 97% 的主題會被正確解讀，實際比例是 84%。正如作者所指出的，人們並不是不會傳達諷刺，而是沒有自己以為的那麼厲害。 主題刻意選得很日常——食物、運動、約會、校園生活——讓困難只來自語氣，而不是內容。"
+    ],
+    [
+     "Subsequent studies sharpened the picture. When the same kinds of statements were delivered by voice, listeners identified nearly three-quarters correctly; when delivered by email, accuracy was indistinguishable from chance. Yet senders’ confidence barely changed between the two conditions. In a larger study with 154 pairs of students, participants predicted they would communicate 88.8 percent of intended tones but actually managed 70.4 percent — and friends fared no better than strangers. The medium changed what receivers could understand, but not what senders believed they had communicated. Familiarity, it seems, does not cure egocentrism.",
+     "後續研究讓這幅圖像更清楚。同樣類型的句子若用聲音傳達，聽者能正確判斷將近四分之三；若用電子郵件，準確率與亂猜無異。然而，寄件者的信心在兩種情況下幾乎沒有差別。在一項有 154 對學生參與的較大型研究中，參與者預測自己能傳達 88.8% 想表達的語氣，實際上只有 70.4%——而且朋友之間並沒有比陌生人好。 傳達的媒介改變了接收者能理解多少，卻沒有改變寄件者以為自己傳達了多少。 看來，熟悉並不能治好自我中心。"
+    ],
+    [
+     "The authors attributed this overconfidence to egocentrism: the difficulty of stepping outside one’s own perspective. The most elegant evidence came from a manipulation in which senders read their sarcastic statements aloud in a serious tone, and their serious statements sarcastically, before predicting how they would be received. Once their own experience of the message no longer matched its intended meaning, the overconfidence vanished. Writers, in other words, were mistaking the voice in their heads for a signal on the screen. The problem was never a lack of skill, but a lack of perspective.",
+     "作者把這種過度自信歸因於自我中心：難以跳脫自己的觀點。最精巧的證據來自一項操弄：寄件者在預測對方的解讀之前，先用認真的語氣唸諷刺句、用諷刺的語氣唸認真句。一旦他們自己對訊息的感受不再符合原本的意思，過度自信就消失了。換句話說，寫的人把自己腦中的聲音，誤當成了螢幕上的訊號。 問題從來不是能力不足，而是視角不足。"
+    ],
+    [
+     "Messaging technology has grown far more sophisticated since 2005, and emoji now carry some of the emotional weight that plain email could not. But the underlying bias is psychological, not technical. The lesson is not to abandon humour in writing, but to remember that the subtle layer of meaning we hear so clearly may not travel at all. Reading a message as a stranger would — before pressing “send” — is a small act of empathy with a large payoff. For students who conduct much of their social life through group chats, this is hardly an abstract finding.",
+     "自 2005 年以來，傳訊科技變得精密得多，表情符號也承擔了一部分純文字郵件無法傳達的情緒。但根本的偏誤是心理上的，不是技術上的。這給我們的啟示不是放棄文字裡的幽默，而是記得：我們自己聽得那麼清楚的那層細微意思，可能根本沒有傳過去。在按下「傳送」之前，用陌生人的眼光讀一遍訊息，是一個代價很小、回報很大的同理行動。 對社交生活大多在群組聊天裡進行的學生來說，這絕不是一個抽象的研究發現。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "hook",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "first-study",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "email-vs-voice",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "egocentrism",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "what-to-do",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "subtle",
+   "pos": "adj.",
+   "meaning": "細微的、不明顯的（b 不發音）",
+   "example": "There is a subtle difference in her tone.",
+   "family": "subtlety (n.)"
+  },
+  {
+   "w": "signal",
+   "pos": "n.",
+   "meaning": "訊號、暗示",
+   "example": "A smile is a signal that you are joking.",
+   "family": "signal (v.)"
+  },
+  {
+   "w": "sophisticated",
+   "pos": "adj.",
+   "meaning": "精密的、複雜的",
+   "example": "Phones have become very sophisticated.",
+   "family": "sophistication (n.)"
+  },
+  {
+   "w": "scolded",
+   "pos": "adj./v.",
+   "meaning": "被罵的（scold 的過去分詞）",
+   "example": "He felt scolded by her short reply.",
+   "family": "scold (v.)"
+  },
+  {
+   "w": "sarcastic",
+   "pos": "adj.",
+   "meaning": "諷刺的、挖苦的",
+   "example": "His sarcastic comment hurt her feelings.",
+   "family": "sarcasm (n.)"
+  },
+  {
+   "w": "egocentrism",
+   "pos": "n.",
+   "meaning": "自我中心（只從自己角度看事情）",
+   "example": "Egocentrism makes us overestimate how clear we are.",
+   "family": "egocentric (adj.)"
+  },
+  {
+   "w": "confident",
+   "pos": "adj.",
+   "meaning": "有信心的",
+   "example": "She was confident that he would understand.",
+   "family": "confidence (n.)"
+  },
+  {
+   "w": "overconfidence",
+   "pos": "n.",
+   "meaning": "過度自信",
+   "example": "Overconfidence can lead to mistakes.",
+   "family": "overconfident (adj.)"
+  },
+  {
+   "w": "interpret",
+   "pos": "v.",
+   "meaning": "解讀、詮釋",
+   "example": "How did you interpret her message?",
+   "family": "interpretation (n.)"
+  },
+  {
+   "w": "misunderstanding",
+   "pos": "n.",
+   "meaning": "誤會",
+   "example": "A quick call cleared up the misunderstanding.",
+   "family": "misunderstand (v.)"
+  },
+  {
+   "w": "perspective",
+   "pos": "n.",
+   "meaning": "觀點、角度",
+   "example": "Try to see it from her perspective.",
+   "family": "—"
+  },
+  {
+   "w": "empathy",
+   "pos": "n.",
+   "meaning": "同理心",
+   "example": "Empathy means feeling with others.",
+   "family": "empathize (v.), empathetic (adj.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "face to face",
+   "type": "phrase",
+   "meaning": "面對面",
+   "usage": "副詞片語：talk face to face；當形容詞時加連字號：a face-to-face meeting。",
+   "example": "It is easier to apologize face to face.",
+   "writing": "talk／meet face to face"
+  },
+  {
+   "phrase": "making fun of",
+   "type": "phrase",
+   "meaning": "取笑",
+   "usage": "make fun of sb／sth。",
+   "example": "Please don’t make fun of his accent.",
+   "writing": "S + make(s) fun of + N"
+  },
+  {
+   "phrase": "no better than chance",
+   "type": "argumentative_expression",
+   "meaning": "和亂猜差不多",
+   "usage": "研究常用說法：表現不比隨機好。",
+   "example": "Their guesses were no better than chance.",
+   "writing": "S + performed no better than chance."
+  },
+  {
+   "phrase": "point of view",
+   "type": "collocation",
+   "meaning": "觀點",
+   "usage": "from sb’s point of view；= perspective。",
+   "example": "From my point of view, the plan is too risky.",
+   "writing": "From + 所有格 + point of view, ..."
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "S + expected X; the actual figure was Y.",
+   "meaning": "預期……，實際上是……",
+   "example": "They expected 97 percent to be understood. The actual figure was 84 percent.",
+   "tip": "對比預期與實際，是報導研究結果的常用結構。"
+  },
+  {
+   "frame": "S + be just as + adj. + as + N",
+   "meaning": "和……一樣……",
+   "example": "The email writers were just as confident as the speakers.",
+   "tip": "just 加強「完全一樣」；否定用 not as ... as。"
+  },
+  {
+   "frame": "It is worth + V-ing ...",
+   "meaning": "……是值得的",
+   "example": "It is worth reading your words as a stranger would.",
+   "tip": "worth 後面接 V-ing，不接 to V。"
+  },
+  {
+   "frame": "None of this means (that) ...",
+   "meaning": "這些都不代表……",
+   "example": "None of this means we should never joke in writing.",
+   "tip": "論說文用來防止讀者過度推論。"
+  }
+ ],
+ "quote": {
+  "text": "Words carry two things: what they say, and how they say it. When you can’t hear the voice, read more gently.",
+  "author": "Original reflection",
+  "work": "原創箴言（改寫自 Story Quest Week 2 Day 3 長老 Search 的話；不是經典引文）",
+  "url": ""
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "What could the senders NOT use in their emails?",
+    "options": [
+     "Long sentences",
+     "Emoji",
+     "English",
+     "Questions"
+    ],
+    "a": 1,
+    "why": "第二段：不能用任何表情符號。",
+    "evidence": "without using any emoji"
+   },
+   {
+    "q": "How well did people understand the voice messages?",
+    "options": [
+     "Almost none",
+     "About half",
+     "About three out of four",
+     "All of them"
+    ],
+    "a": 2,
+    "why": "第三段：聽到的人大約理解四分之三。",
+    "evidence": "People who heard the sentences understood about three out of four."
+   },
+   {
+    "q": "What does “egocentrism” mean in the article?",
+    "options": [
+     "Being very kind",
+     "Seeing things only from your own point of view",
+     "Writing very fast",
+     "Using many emoji"
+    ],
+    "a": 1,
+    "why": "第四段最後一句直接定義。",
+    "evidence": "seeing things only from your own point of view"
+   },
+   {
+    "q": "What does the writer suggest before sending a joke?",
+    "options": [
+     "Send it quickly",
+     "Read it again as if you were the other person",
+     "Never joke again",
+     "Write it in capital letters"
+    ],
+    "a": 1,
+    "why": "最後一段的建議。",
+    "evidence": "read it again as if you were the other person"
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "According to the first paragraph, what fills the gap in sarcasm during speech?",
+    "options": [
+     "Longer sentences",
+     "Tone of voice and facial expressions",
+     "Emoji",
+     "Written explanations"
+    ],
+    "a": 1,
+    "why": "第一段：說話時由語氣、眉毛、微笑填補。",
+    "evidence": "that gap is filled by tone of voice, a raised eyebrow or a small smile"
+   },
+   {
+    "q": "In the first experiment, what percentage did writers EXPECT to be understood?",
+    "options": [
+     "50 percent",
+     "84 percent",
+     "97 percent",
+     "100 percent"
+    ],
+    "a": 2,
+    "why": "第二段：預期 97%，實際 84%。",
+    "evidence": "they expected 97 percent to be understood"
+   },
+   {
+    "q": "What was surprising about the email writers in the later experiment?",
+    "options": [
+     "They wrote longer messages",
+     "They were just as confident as the speakers",
+     "They refused to send messages",
+     "They were all friends"
+    ],
+    "a": 1,
+    "why": "第三段：準確率差很多，信心卻一樣。",
+    "evidence": "the email writers were just as confident as the speakers"
+   },
+   {
+    "q": "What happened when writers read their sarcastic sentences in a serious voice?",
+    "options": [
+     "They became more confident",
+     "Their overconfidence disappeared",
+     "They stopped writing",
+     "Their partners understood less"
+    ],
+    "a": 1,
+    "why": "第四段的巧妙測試結果。",
+    "evidence": "their overconfidence disappeared"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "Why does the writer begin with the song-tapping study?",
+    "options": [
+     "To show that music is hard to learn",
+     "To illustrate the gap between what the sender experiences and what the receiver gets",
+     "To criticize the listeners",
+     "To introduce a new technology"
+    ],
+    "a": 1,
+    "why": "第一段：敲的人聽得到旋律、聽者只聽到敲擊聲——就像訊息。",
+    "evidence": "The tappers could “hear” the melody in their heads; the listeners heard only knocks."
+   },
+   {
+    "q": "What point do the authors make about the 84 percent result?",
+    "options": [
+     "People are terrible at conveying sarcasm",
+     "People are not as able as they believe",
+     "Email is always clearer than voice",
+     "The study was flawed"
+    ],
+    "a": 1,
+    "why": "第二段：不是不會，而是沒有自己以為的厲害。",
+    "evidence": "people were not poor at conveying sarcasm, but they were not as able as they believed"
+   },
+   {
+    "q": "What did the study with 154 pairs show about friends?",
+    "options": [
+     "Friends communicated far better",
+     "Friends fared no better than strangers",
+     "Friends were less confident",
+     "Friends were not included"
+    ],
+    "a": 1,
+    "why": "第三段最後。",
+    "evidence": "friends fared no better than strangers"
+   },
+   {
+    "q": "Why does the writer say the bias is “psychological, not technical”?",
+    "options": [
+     "Because emoji have solved the problem",
+     "Because better technology does not remove our tendency to assume others hear our tone",
+     "Because the study used old computers",
+     "Because voice messages are unreliable"
+    ],
+    "a": 1,
+    "why": "最後一段：科技進步了，但自我中心的偏誤仍在。",
+    "evidence": "But the underlying bias is psychological, not technical."
+   }
+  ]
+ },
+ "reflections": [
+  "Have you ever been misunderstood in a message? What was missing from your words?",
+  "Rewrite this sarcastic message so it cannot be misunderstood: “Wow, thanks for waiting for me.”"
+ ],
+ "videos": [
+  {
+   "title": "How miscommunication happens (and how to avoid it)",
+   "channel": "TED-Ed · Katherine Hampsten",
+   "url": "https://ed.ted.com/lessons/how-to-avoid-miscommunication-katherine-hampsten",
+   "kind": "TED-Ed",
+   "desc": "An animated lesson on why miscommunication happens so often and how we can express ourselves better.",
+   "zh": "動畫課程：為什麼溝通常常出錯，以及怎麼把自己表達得更好。",
+   "question": "Which idea from the lesson could help in your group chats?"
+  },
+  {
+   "title": "10 ways to have a better conversation",
+   "channel": "TEDxCreativeCoast · Celeste Headlee",
+   "url": "https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation",
+   "kind": "TEDx",
+   "desc": "A radio host shares practical rules for talking — and listening — well.",
+   "zh": "一位電台主持人分享好好說話、好好傾聽的實用原則。",
+   "question": "Which of the ten rules is hardest for you?"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "w02-d2",
+ "week": "w02",
+ "day": 2,
+ "level": "B2",
+ "title": {"en": "The Word That Was Fading", "zh": "正在消失的字"},
+ "words": ["shelter", "suspicious", "sorrow", "sigh", "scatter"],
+ "review": ["scholar", "superior", "sympathy", "sensible", "stubborn"],
+ "blocks": [
+  {"en": "Following the crying sound proved harder than expected, because in the S family, almost nobody wanted to be found. Twice Bao walked straight past a man standing in the middle of the path — a man so ordinary that the eye simply slid off him. Only on the third pass did the Elder tap his shoulder. “[[Stealth|stealth]],” the Elder said, “you can switch off your shield now. These are guests.”",
+   "zh": "循著哭聲找人，比想像中困難多了，因為在 S 家族裡，幾乎沒有人想被找到。小寶兩次直接走過一個站在小路中央的男人——那個人平凡到眼睛會自動從他身上滑開。直到第三次經過，長老才拍拍他的肩膀。「Stealth，」長老說，「可以把防護罩關掉了，這些是客人。」"},
+  {"en": "A squirrel with narrowed eyes darted out from a hollow log and began checking everyone’s pockets. “Where are you going? Why are you here? What’s in the bag?” she demanded. “That is [[Suspicious|suspicious]],” the Elder sighed. “Last week you met her cousin [[Suspect|suspect]]. He is a verb or a noun, depending on his badge. She is always an adjective — gold badge, upper class, and she will tell you so.”",
+   "zh": "一隻瞇著眼的松鼠從空心樹幹裡竄出來，開始檢查每個人的口袋。「你們要去哪？來幹嘛？袋子裡裝什麼？」她逼問。「那是 Suspicious，」長老嘆了口氣，「上週你們見過她的表哥 Suspect，他看徽章是動詞或名詞；她永遠是形容詞——金色徽章、上流社會，而且她一定會告訴你。」"},
+  {"en": "Chuyi, as usual, solved the problem by sitting down and purring. Suspicious searched the cat’s fur for a full minute, found nothing but warmth, and finally stepped aside, still muttering.",
+   "zh": "初一照例用最簡單的方法解決問題：坐下來發出呼嚕聲。Suspicious 在貓毛裡翻找了整整一分鐘，除了溫暖什麼也沒找到，終於讓開了，嘴裡還在嘀咕。"},
+  {"en": "Beyond the log, a boy made of wind sat on a branch. Every breath he let out was long and heavy, and the leaves around him drooped. “[[Sigh|sigh]] has two moods,” Little Mushroom explained. “When he is sad, the leaves fall. When he is relieved, they dance.” Today, the leaves were falling.",
+   "zh": "樹幹後面，一個由風組成的男孩坐在樹枝上。他吐出的每一口氣都又長又重，四周的葉子都垂了下來。「Sigh 有兩種心情，」小蘑菇解釋，「難過的時候，葉子會掉；鬆一口氣的時候，葉子會跳舞。」今天，葉子正在往下掉。"},
+  {"en": "Then Bao saw the source of the crying. Beneath a little house folded out of autumn leaves sat a tiny word. His letters were so pale that Bao could almost see through them. The leaf house had grown around him on its own, the way it did around anyone who needed protection. It was [[Shelter|shelter]], doing her job.",
+   "zh": "接著，小寶看到了哭聲的來源。一間用秋葉摺成的小屋底下，坐著一個很小的字。他的字母淡到小寶幾乎可以看穿。那間葉子小屋是自己長在他身邊的，它總是這樣圍住任何需要保護的人。那是 Shelter，正在做她的工作。"},
+  {"choice": {
+    "prompt": {"en": "What does Bao do first?", "zh": "小寶先做什麼？"},
+    "options": [
+     {"id": "ask", "label": {"en": "Ask him what is wrong", "zh": "問他怎麼了"},
+      "en": "“What’s wrong?” Bao asked, a little too loudly. The tiny word jumped — and a girl hiding nearby burst into dozens of pieces that flew in every direction. “Oops,” said Little Mushroom. “That was [[Scatter|scatter]]. Loud questions frighten her.”",
+      "zh": "「你怎麼了？」小寶問，聲音有點太大。那個小小的字嚇了一跳——附近躲著的一個女孩當場碎成好幾十片，四處飛散。「糟糕，」小蘑菇說，「那是 Scatter。大聲的問題會嚇到她。」"},
+     {"id": "sit", "label": {"en": "Sit down beside him and wait", "zh": "在他旁邊坐下，靜靜等"},
+      "en": "Bao sat down quietly, the way [[Sympathy|sympathy]] had taught him. A girl hiding nearby, who had been ready to burst into pieces, stayed whole. “Good,” whispered Little Mushroom. “That was [[Scatter|scatter]]. Loud questions frighten her into pieces.”",
+      "zh": "小寶照著 Sympathy 教他的方式，安靜地坐下。附近躲著的一個女孩原本快要碎成好幾片，結果沒有散開。「很好，」小蘑菇小聲說，「那是 Scatter。大聲的問題會把她嚇得碎成好幾片。」"}
+    ],
+    "after": {"en": "Slowly, the tiny word began to speak.", "zh": "那個小小的字慢慢開口了。"}
+  }},
+  {"en": "“My name is [[Sooth|sooth]],” he said. “Long ago I meant ‘truth’. Kings asked for me. Poets wrote me. Now I live in only one dictionary, and hardly anyone remembers me — except inside the word soothsayer. Every year, my letters get a little fainter. I didn’t want anyone to see me cry, so I asked Stealth to hide me.”",
+   "zh": "「我叫 Sooth，」他說，「很久以前，我的意思是『真相』。國王需要我，詩人寫我。現在我只住在一本字典裡，幾乎沒有人記得我——除了 soothsayer（預言者）這個字裡面還有我。我的字母每年都淡一點。我不想讓任何人看到我哭，所以拜託 Stealth 把我藏起來。」"},
+  {"en": "A quiet woman in a deep blue dress came and sat on Sooth’s other side. She did not tell him to stop crying. She did not tell him to cheer up. She simply stayed. “That is [[Sorrow|sorrow]],” the Elder said softly. “She is deeper than sadness, and older. And she is not your enemy. Sad things — bring them to me, and to her. Do not carry them alone.”",
+   "zh": "一位穿深藍色洋裝的安靜女士走過來，坐在 Sooth 的另一邊。她沒有叫他別哭，也沒有叫他振作，只是陪著他。「那是 Sorrow，」長老輕聲說，「她比難過更深，也更古老。她不是你的敵人。傷心的事——帶來給我，也帶給她。不要自己一個人扛。」"},
+  {"en": "Bao thought hard, which for Bao meant pulling his hair. Then he took out a notebook. “I’ll write you into my book,” he announced. “A real book, about English World. If you’re written down, people will read you, and you can’t fade so fast.” [[Scholar|scholar]] nodded approvingly from somewhere above them; it was, she said, the most [[sensible]] thing a guest had said all year.",
+   "zh": "小寶努力思考——對小寶來說，這代表抓頭髮。接著他拿出一本筆記本。「我要把你寫進我的書裡，」他宣布，「一本真正的書，寫英語世界的。只要你被寫下來，就會有人讀到你，你就不會淡得那麼快。」Scholar 在他們上方某處讚許地點點頭；她說，這是今年客人說過最明智的一句話。"},
+  {"en": "Sooth stared at him. Then, for the first time, he smiled. On the branch above, Sigh let out one long breath — and all around them, the leaves began to dance.",
+   "zh": "Sooth 盯著他看。然後，他第一次笑了。樹枝上的 Sigh 長長地吐了一口氣——四周的葉子都開始跳起舞來。"},
+  {"en": "Even [[Stubborn|stubborn]], who had followed them all the way from the bridge, moved one step closer. [[Superior|superior]] did not. But he climbed down from his box to see better, which, the Elder said, was a start. And [[Sympathy|sympathy]] wiped her eyes and smiled at Bao as if she had known him for years.",
+   "zh": "就連一路從橋那邊跟過來的 Stubborn，也往前靠近了一步。Superior 沒有。不過他從箱子上爬下來，想看清楚一點——長老說，這也算是個開始。Sympathy 擦擦眼睛，對小寶微笑，好像已經認識他很多年了。"}
+ ],
+ "insight": {
+  "en": "A sorrow kept in the dark grows heavier. Put it into words, and it learns to walk beside you instead of on top of you.",
+  "zh": "藏在黑暗裡的難過會越來越重。把它說成文字，它就會學著走在你身邊，而不是壓在你身上。",
+  "by": "Elder Search"
+ },
+ "quote": {
+  "en": "Give sorrow words: the grief that does not speak / Whispers the o’er-fraught heart, and bids it break.",
+  "zh": "把悲傷說出來吧：不肯開口的哀痛，會對著不堪重負的心低語，叫它碎裂。",
+  "author": "William Shakespeare",
+  "source": "Macbeth, Act 4, Scene 3",
+  "url": "https://en.wikiquote.org/wiki/Macbeth"
+ },
+ "quiz": [
+  {"q": "During the storm, we took ______ under a bridge.", "answers": ["shelter"], "word": "shelter", "explain": "take shelter (from sth)：躲避（風雨等）。shelter 也可當動詞。"},
+  {"q": "The guard became ______ when the man kept looking around nervously.", "answers": ["suspicious"], "word": "suspicious", "explain": "suspicious 起疑的、可疑的（形容詞）：be suspicious of sb。suspect 是動詞／名詞。"},
+  {"q": "She felt deep ______ after her grandfather passed away.", "answers": ["sorrow"], "word": "sorrow", "explain": "sorrow 悲傷：比 sadness 更深、更正式。"},
+  {"q": "When the test was finally over, everyone ______ with relief.", "answers": ["sighed"], "word": "sigh", "explain": "sigh 嘆氣：a sigh of relief 是「鬆一口氣」。過去式 sighed。"},
+  {"q": "The wind ______ the papers all over the floor.", "answers": ["scattered"], "word": "scatter", "explain": "scatter 撒、使散開；the crowd scattered（人群散開）也很常用。"}
+ ]
+}

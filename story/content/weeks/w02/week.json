@@ -1,0 +1,186 @@
+{
+ "id": "w02",
+ "status": "confirmed",
+ "title": {
+  "en": "Visiting the S Family",
+  "zh": "拜訪 S 家族"
+ },
+ "theme": "我們以為的，常是心裡的投射；聽懂話裡的弦外之音",
+ "source": "PE 手稿〈14.2g2 與S家族長老會面〉〈14.2g 英語世界EW〉",
+ "usage_focus": {
+  "words": [
+   "say",
+   "speak",
+   "talk",
+   "tell",
+   "speech"
+  ],
+  "note": "手稿角色，Level 1–2，不算核心新字；本週用法重點：say 重內容、speak 重說話這個動作（偏正式）、talk 重互動、tell 要有對象"
+ },
+ "cameo": [
+  "search",
+  "stealth",
+  "sarcastic",
+  "scamp"
+ ],
+ "days": [
+  {
+   "day": 1,
+   "level": "B1",
+   "plot": "長老 Search 現身：小寶問「英國人比較高貴嗎？」，長老談「高貴與低賤是心裡的投射」；say、speak、speech 三位來湊熱鬧（say 自帶跑馬燈＝重內容、speak 大眼睛＝重說這個動作）",
+   "episode": "d1",
+   "words": [
+    {
+     "word": "scholar",
+     "level": 3,
+     "pos": "n.",
+     "zh": "學者",
+     "kk": "ˋskɑlɚ"
+    },
+    {
+     "word": "superior",
+     "level": 3,
+     "pos": "adj./n.",
+     "zh": "a.較高的，上級的",
+     "kk": "səˋpɪrɪɚ"
+    },
+    {
+     "word": "sympathy",
+     "level": 4,
+     "pos": "n.",
+     "zh": "同情，同情心",
+     "kk": "ˋsɪmpəθɪ"
+    },
+    {
+     "word": "sensible",
+     "level": 3,
+     "pos": "adj.",
+     "zh": "a.明智的；可注意到的，",
+     "kk": "ˋsɛnsəb!"
+    },
+    {
+     "word": "stubborn",
+     "level": 3,
+     "pos": "adj.",
+     "zh": "a.固執的，頑固的",
+     "kk": "ˋstʌbɚn"
+    }
+   ]
+  },
+  {
+   "day": 2,
+   "level": "B2",
+   "plot": "害羞又愛藏祕密的 S 家族：隱形的 stealth、躲在角落嘆氣的字；一個快要消失的字在哭，長老說「傷心的事問我就好」，小寶答應把它寫進書裡",
+   "episode": "d2",
+   "words": [
+    {
+     "word": "shelter",
+     "level": 4,
+     "pos": "n./v.",
+     "zh": "遮蓋物；躲避處；避難所",
+     "kk": "ˋʃɛltɚ"
+    },
+    {
+     "word": "suspicious",
+     "level": 4,
+     "pos": "adj.",
+     "zh": "a.猜疑的，可疑的",
+     "kk": "səˋspɪʃəs"
+    },
+    {
+     "word": "sorrow",
+     "level": 3,
+     "pos": "n.",
+     "zh": "悲痛，悲哀",
+     "kk": "ˋsɑro"
+    },
+    {
+     "word": "sigh",
+     "level": 3,
+     "pos": "n./v.",
+     "zh": "嘆氣，嘆息",
+     "kk": "saɪ"
+    },
+    {
+     "word": "scatter",
+     "level": 3,
+     "pos": "v./n.",
+     "zh": "撒；使分散",
+     "kk": "ˋskætɚ"
+    }
+   ]
+  },
+  {
+   "day": 3,
+   "level": "B1",
+   "plot": "Sarcastic 外形一直變、一臉欠揍，被淘氣的 scamp 帶來；世故的秘書 sophisticated 換徽章變分身；長老教小寶聽懂話裡的弦外之音",
+   "episode": "d3",
+   "words": [
+    {
+     "word": "sophisticated",
+     "level": 5,
+     "pos": "adj.",
+     "zh": "世故的",
+     "kk": "sə`fɪstɪ͵ketɪd"
+    },
+    {
+     "word": "subtle",
+     "level": 5,
+     "pos": "adj.",
+     "zh": "微妙的；隱約的",
+     "kk": "`sʌt!"
+    },
+    {
+     "word": "scold",
+     "level": 4,
+     "pos": "v./n.",
+     "zh": "罵，責罵",
+     "kk": "skold"
+    },
+    {
+     "word": "swear",
+     "level": 3,
+     "pos": "v.",
+     "zh": "發誓；罵髒話",
+     "kk": "swɛr"
+    },
+    {
+     "word": "signal",
+     "level": 3,
+     "pos": "n./v.",
+     "zh": "訊號；示意",
+     "kk": "ˋsɪgn!"
+    }
+   ]
+  }
+ ],
+ "lab": [
+  {
+   "id": "in-group",
+   "day": 1,
+   "title": {
+    "en": "Why We Think Our Group Is Better",
+    "zh": "為什麼我們總覺得自己人比較好"
+   },
+   "basis": "Tajfel 的「最小團體」實驗（1970 年代）：隨便分組，人就會偏袒同組"
+  },
+  {
+   "id": "secret-writing",
+   "day": 2,
+   "title": {
+    "en": "What Happens When We Write Down a Secret Sorrow",
+    "zh": "把藏在心裡的難過寫下來，會發生什麼事"
+   },
+   "basis": "Pennebaker（1986）的「表達性書寫」研究：寫下難過的經歷，與後續健康改善有關"
+  },
+  {
+   "id": "sarcasm-text",
+   "day": 3,
+   "title": {
+    "en": "Why Sarcasm Gets Lost in Text Messages",
+    "zh": "為什麼諷刺在訊息裡常常被誤會"
+   },
+   "basis": "Kruger 等人（2005）研究：寫信的人高估了自己的語氣能被讀懂"
+  }
+ ]
+}

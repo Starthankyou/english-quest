@@ -1,0 +1,457 @@
+{
+ "id": "in-group",
+ "category": "社會心理學",
+ "title": "Why We Think Our Group Is Better",
+ "subtitle": "為什麼我們總覺得自己人比較好",
+ "pairedWith": "story:w02-d1",
+ "source": "原創教學文章；實驗內容依 Tajfel（1970）及「最小團體範式」相關資料，2026-10-21 核對",
+ "sources": [
+  {
+   "title": "Tajfel, H. (1970). Experiments in intergroup discrimination. Scientific American, 223(5).",
+   "url": "https://doi.org/10.1038/scientificamerican1170-96",
+   "accessed": "2026-10-21"
+  },
+  {
+   "title": "Wikipedia: Minimal group paradigm",
+   "url": "https://en.wikipedia.org/wiki/Minimal_group_paradigm",
+   "accessed": "2026-10-21"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "Two Teams and a Coin",
+   "paras": [
+    [
+     "Imagine your teacher divides your class into two teams by tossing a coin. The teams have no special meaning. Nobody chose them, and they will only last for one afternoon. Would you start to like your own team more? Most people say no. A famous experiment suggests the answer is yes.",
+     "想像老師用擲硬幣把全班分成兩隊。這兩隊沒有任何特別意義，沒有人選擇過，而且只維持一個下午。你會開始比較喜歡自己這隊嗎？大多數人說不會。但一個著名的實驗顯示，答案是會。"
+    ],
+    [
+     "In the early 1970s, a scholar named Henri Tajfel invited 64 schoolboys, aged 14 and 15, to his laboratory in Britain. First, the boys did a simple task. For example, they said which paintings they liked better. Then they were put into two groups. They were told the groups were based on their answers, but in fact the groups were random.",
+     "1970 年代初，一位名叫亨利．泰菲爾的學者，邀請 64 位 14、15 歲的男學生到他在英國的實驗室。男孩們先做一個簡單的任務，例如說出自己比較喜歡哪些畫。接著他們被分成兩組。他們被告知分組是根據自己的答案，但其實分組是隨機的。"
+    ],
+    [
+     "Next, each boy decided how to share money between two other boys. He did not know who they were. He only knew which group each of them was in. He could never give any money to himself.",
+     "接下來，每個男孩要決定怎麼把錢分給另外兩個男孩。他不知道他們是誰，只知道他們各自屬於哪一組。他永遠不能把錢分給自己。"
+    ],
+    [
+     "The results surprised many people. Most boys gave more money to boys in their own group. Many even chose a smaller total for their own group, if it meant their group got more than the other group. Being ahead seemed more important than getting the most.",
+     "結果讓很多人驚訝。大多數男孩分給自己組的錢比較多。許多人甚至寧願讓自己組拿到的總數變少，只要能比另一組多就好。領先，似乎比拿到最多更重要。"
+    ],
+    [
+     "Why does this happen? Tajfel believed that groups help us feel good about who we are. Feeling that “my group is superior” can make us feel better about ourselves, but it can also make us less fair. The good news is that we can notice this habit. We can stop and ask, “Would I still think this if I were on the other team?” That question is a small step toward sympathy.",
+     "為什麼會這樣？泰菲爾認為，團體能幫助我們對「自己是誰」感覺良好。覺得「我們這組比較優秀」會讓自己感覺更好，卻也可能讓我們變得不公平。好消息是，我們可以察覺這個習慣，停下來問自己：「如果我在另一隊，我還會這樣想嗎？」這個問題，就是走向同理的一小步。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "Why We Think Our Group Is Better",
+   "paras": [
+    [
+     "We like to think that we judge people fairly, based on what they do rather than which team they belong to. Yet a series of experiments in the early 1970s suggested that it takes surprisingly little to make us favor our own group — far less than a shared history, a common language or a long rivalry. Think of sports days, online fan groups or rival classes: the feeling of “us” can appear almost instantly.",
+     "我們喜歡認為自己評價別人很公平，看的是對方做了什麼，而不是他屬於哪一隊。然而，1970 年代初的一系列實驗顯示，要讓我們偏袒自己人，所需要的條件少得驚人——遠遠少於共同的歷史、共同的語言或長久的對立。 想想運動會、網路粉絲團或班級之間的較勁：「我們」的感覺幾乎可以瞬間出現。"
+    ],
+    [
+     "The psychologist Henri Tajfel wanted to find the smallest possible reason for one group to treat another unfairly. He and his colleagues brought 64 British schoolboys aged 14 to 15 into a laboratory. The boys first completed a simple task, such as estimating the number of dots on a screen or choosing between paintings by Paul Klee and Wassily Kandinsky. They were then told they belonged to one group or another. In reality, the groups were assigned at random, and the reason they were given was completely trivial. The boys already knew one another well, which makes what followed even more striking.",
+     "心理學家亨利．泰菲爾想找出一個團體不公平對待另一個團體的「最小理由」。他和同事找來 64 位 14 到 15 歲的英國男學生到實驗室。男孩們先完成一個簡單任務，例如估計螢幕上有幾個點，或在保羅．克利和康丁斯基的畫之間做選擇。接著他們被告知自己屬於某一組。實際上，分組是隨機的，給他們的理由也完全無關緊要。 這些男孩彼此早已熟識，這讓接下來的結果更令人驚訝。"
+    ],
+    [
+     "Each boy then decided how to divide money between two other participants, who were identified only by a code number and a group label. He could never reward himself, and he would never meet the people he was paying. There was, in other words, no personal gain and no history of conflict.",
+     "接著，每個男孩要決定怎麼把錢分給另外兩位參與者，這兩人只用代號和組別標示。他永遠不能獎勵自己，也永遠不會見到他付錢的對象。換句話說，這裡沒有個人利益，也沒有衝突的歷史。"
+    ],
+    [
+     "Even so, most boys gave more to members of their own group. More striking still, many preferred options that maximized the difference between the groups, even when another choice would have given their own group more money in total. Winning against the other side mattered more than the reward itself. Put simply, many boys were willing to accept less, as long as “they” received even less.",
+     "即使如此，大多數男孩分給自己組員的錢比較多。更驚人的是，許多人偏好能讓兩組差距最大的選項，即使另一個選項能讓自己組拿到更多錢。贏過另一邊，比獎賞本身更重要。 簡單說，許多男孩願意自己少拿一點，只要「他們」拿得更少就好。"
+    ],
+    [
+     "Tajfel later argued that people draw part of their identity from the groups they belong to, so making “us” look better than “them” helps us feel good about ourselves. This does not mean people are hopeless. Simply knowing about the pattern is a sensible first step: it allows us to notice when a stubborn feeling that our side is superior is based on nothing more than a coin toss. It may also help explain why some rivalries feel so personal, even when nobody remembers how they began.",
+     "泰菲爾後來主張，人的自我認同有一部分來自所屬的團體，所以讓「我們」看起來比「他們」好，能讓自己感覺良好。這不代表人無可救藥。光是知道這個模式，就是明智的第一步：它讓我們能察覺，那種「我們比較優秀」的頑固感覺，其實可能只建立在一次擲硬幣上。 這或許也能解釋，為什麼有些對立讓人覺得那麼切身，即使已經沒有人記得它是怎麼開始的。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "The Smallest Reason to Take Sides",
+   "paras": [
+    [
+     "Explanations of prejudice often begin with history: long-standing conflict, competition for scarce resources, cultural misunderstanding. These factors matter. But in the early 1970s, the social psychologist Henri Tajfel asked a more unsettling question: what is the minimum condition under which one group will treat another unfairly? If prejudice required a long history, the solution would have to be historical too; if it can appear almost instantly, part of the problem lies in ordinary psychology.",
+     "對偏見的解釋，往往從歷史談起：長年的衝突、對稀少資源的競爭、文化上的誤解。這些因素確實重要。但在 1970 年代初，社會心理學家亨利．泰菲爾提出了一個更令人不安的問題：一個團體不公平對待另一個團體，最少需要什麼條件？ 如果偏見需要漫長的歷史才會形成，解方也得從歷史著手；如果它幾乎能瞬間出現，那問題有一部分就藏在平凡的心理運作裡。"
+    ],
+    [
+     "To find out, Tajfel and his colleagues designed what became known as the “minimal group paradigm.” Sixty-four schoolboys aged 14 to 15, who already knew one another, were brought into a laboratory in small groups. After a trivial task — estimating clusters of dots, or stating a preference between paintings by Klee and Kandinsky — each boy was told he belonged to a particular group. The assignment was in fact random, and the boys never learned who else shared their label. Crucially, the boys were told nothing about the other members of their group, so they had no reason to like or dislike them as individuals.",
+     "為了找出答案，泰菲爾和同事設計了後來被稱為「最小團體範式」的實驗。64 位彼此早已認識、年齡 14 到 15 歲的男學生，分成小組被帶進實驗室。在完成一個無關緊要的任務之後——估計一群群的點數，或說出比較喜歡克利還是康丁斯基的畫——每個男孩被告知自己屬於某一組。實際上分組是隨機的，男孩們也從來不知道還有誰跟自己同一組。 關鍵在於，男孩們對同組的其他成員一無所知，所以沒有任何理由喜歡或討厭某個人。"
+    ],
+    [
+     "The boys then allocated money to two anonymous participants, known only by a code number and group membership. Because they could not reward themselves and would never meet the recipients, self-interest and personal loyalty were removed from the equation. What remained was the group label alone. The researchers could therefore see not only whether the boys favoured their group, but which strategy they were following when they did.",
+     "接著，男孩們要把錢分給兩位匿名參與者，只知道對方的代號和組別。因為他們不能獎勵自己，也永遠不會見到收錢的人，自身利益和個人情誼都被排除在外。剩下的，只有組別標籤本身。 因此，研究者不只能看出男孩們是否偏袒自己組，還能看出他們偏袒時採取的是哪一種策略。"
+    ],
+    [
+     "That label proved powerful. Although the boys showed some concern for fairness, most allocated more to their own group. Most revealing was a preference for “maximum differentiation”: many chose distributions that widened the gap between the groups, even at the cost of a smaller absolute reward for their own side. Tajfel’s later social identity theory offered an explanation: people derive part of their self-esteem from group membership, and feeling superior to an out-group provides a sense of positive distinctiveness. Put differently, relative standing mattered more than absolute benefit — a pattern that is difficult to explain by self-interest alone.",
+     "這個標籤的力量很大。雖然男孩們也顯示出某種程度的公平意識，大多數人還是分較多錢給自己組。最能說明問題的，是對「最大差異」的偏好：許多人選擇能拉大兩組差距的分法，即使代價是自己這一方拿到的絕對金額變少。泰菲爾後來提出的社會認同理論給了一個解釋：人的自尊有一部分來自團體身分，而覺得自己比外團體優越，能帶來一種「正面的獨特感」。 換個方式說，相對地位比絕對利益更重要——這種模式很難只用自身利益來解釋。"
+    ],
+    [
+     "The findings do not imply that prejudice is inevitable, nor that real-world conflicts are merely laboratory games writ large; scholars continue to debate how far results from artificial groups generalize. Yet the experiments remain a sobering reminder that bias can arise before any genuine disagreement exists. If a coin toss is enough to tilt our judgment, then sympathy for “the other side” is not a natural default but a habit that has to be practised — deliberately, and often against our own instincts. For schools, the implication is practical: teams, houses and clubs can build a sense of belonging, but they also need deliberate moments in which members cooperate across group lines.",
+     "這些發現並不代表偏見無法避免，也不代表現實世界的衝突只是放大版的實驗室遊戲；學者們至今仍在爭論，人造團體的結果能推廣到什麼程度。但這些實驗始終是一個發人深省的提醒：偏見可能在任何真正的分歧出現之前就產生了。如果一次擲硬幣就足以讓我們的判斷傾斜，那麼對「另一邊」的同理，就不是天生的預設，而是一種必須刻意練習的習慣——而且常常要違背我們自己的本能。 對學校來說，這個啟示很實際：隊伍、班級和社團能建立歸屬感，但也需要刻意安排跨越團體界線、彼此合作的時刻。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "hook",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "experiment",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "money-task",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "results",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "meaning",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "superior",
+   "pos": "adj.",
+   "meaning": "優越的、較好的",
+   "example": "No group is naturally superior to another.",
+   "family": "superiority (n.); inferior (反義)"
+  },
+  {
+   "w": "sympathy",
+   "pos": "n.",
+   "meaning": "同情、同理",
+   "example": "She felt sympathy for the losing team.",
+   "family": "sympathize (v.), sympathetic (adj.)"
+  },
+  {
+   "w": "stubborn",
+   "pos": "adj.",
+   "meaning": "頑固的",
+   "example": "It is hard to change a stubborn belief.",
+   "family": "stubbornness (n.)"
+  },
+  {
+   "w": "sensible",
+   "pos": "adj.",
+   "meaning": "明智的、合理的",
+   "example": "Asking questions is a sensible first step.",
+   "family": "sense (n.)"
+  },
+  {
+   "w": "scholar",
+   "pos": "n.",
+   "meaning": "學者",
+   "example": "The scholar spent years studying group behavior.",
+   "family": "scholarly (adj.), scholarship (n.)"
+  },
+  {
+   "w": "random",
+   "pos": "adj.",
+   "meaning": "隨機的",
+   "example": "The names were chosen at random.",
+   "family": "randomly (adv.)"
+  },
+  {
+   "w": "trivial",
+   "pos": "adj.",
+   "meaning": "瑣碎的、無關緊要的",
+   "example": "They argued over a trivial detail.",
+   "family": "trivia (n.)"
+  },
+  {
+   "w": "favor",
+   "pos": "v.",
+   "meaning": "偏袒、偏好",
+   "example": "Referees should not favor either team.",
+   "family": "favorite (adj./n.), favoritism (n.)"
+  },
+  {
+   "w": "belong",
+   "pos": "v.",
+   "meaning": "屬於",
+   "example": "Which club do you belong to?",
+   "family": "belonging (n.)"
+  },
+  {
+   "w": "identity",
+   "pos": "n.",
+   "meaning": "身分、認同",
+   "example": "Music is part of his identity.",
+   "family": "identify (v.)"
+  },
+  {
+   "w": "loyalty",
+   "pos": "n.",
+   "meaning": "忠誠",
+   "example": "Team loyalty can be very strong.",
+   "family": "loyal (adj.)"
+  },
+  {
+   "w": "prejudice",
+   "pos": "n.",
+   "meaning": "偏見",
+   "example": "Prejudice often grows from fear.",
+   "family": "prejudiced (adj.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "even so",
+   "type": "discourse_marker",
+   "meaning": "即使如此",
+   "usage": "放句首，表示「雖然前面那樣說，結果還是……」。",
+   "example": "The task was easy. Even so, many students made mistakes.",
+   "writing": "S + V. Even so, S + V."
+  },
+  {
+   "phrase": "at the cost of",
+   "type": "phrase",
+   "meaning": "以……為代價",
+   "usage": "at the cost of + N／V-ing：為了得到某事而失去另一件事。",
+   "example": "He finished first at the cost of his health.",
+   "writing": "..., even at the cost of + N."
+  },
+  {
+   "phrase": "writ large",
+   "type": "idiom",
+   "meaning": "放大版的、更明顯的",
+   "usage": "放在名詞後面：A is B writ large（A 是 B 的放大版）。正式、書面。",
+   "example": "The city’s problems are the country’s problems writ large.",
+   "writing": "N + writ large"
+  },
+  {
+   "phrase": "step toward",
+   "type": "collocation",
+   "meaning": "朝……邁進的一步",
+   "usage": "a (small／big／first) step toward + N。",
+   "example": "Listening is the first step toward understanding.",
+   "writing": "..., which is a small step toward + N."
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "It takes (surprisingly) little to + V",
+   "meaning": "要……所需的條件少得驚人",
+   "example": "It takes surprisingly little to make us favor our own group.",
+   "tip": "little 是「很少」；a little 是「一點點」，語氣不同。"
+  },
+  {
+   "frame": "..., even when + 子句",
+   "meaning": "即使在……的時候也……",
+   "example": "Many chose the bigger gap, even when another choice would have given them more.",
+   "tip": "even when 強調「連這種情況也」；even if 偏假設。"
+  },
+  {
+   "frame": "A matter(s) more than B",
+   "meaning": "A 比 B 更重要",
+   "example": "Winning against the other side mattered more than the reward itself.",
+   "tip": "matter 當動詞是「重要」，不用 is matter。"
+  },
+  {
+   "frame": "This does not mean (that) ...",
+   "meaning": "這並不代表……",
+   "example": "This does not mean people are hopeless.",
+   "tip": "用來避免讀者過度推論，論說文很好用。"
+  }
+ ],
+ "quote": {
+  "text": "The superior man is catholic and no partisan. The mean man is partisan and not catholic.",
+  "author": "Confucius",
+  "work": "Analects II.14, tr. James Legge（「君子周而不比，小人比而不周」；catholic 在這裡是「普遍、包容」的意思）",
+  "url": "https://www.gutenberg.org/ebooks/4094"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "How were the boys really put into groups?",
+    "options": [
+     "By their test scores",
+     "At random",
+     "By their age",
+     "By their favorite sport"
+    ],
+    "a": 1,
+    "why": "第二段：他們被告知依答案分組，但其實是隨機的。",
+    "evidence": "but in fact the groups were random"
+   },
+   {
+    "q": "Who could a boy give money to?",
+    "options": [
+     "Only himself",
+     "His best friend",
+     "Two other boys he did not know",
+     "The teacher"
+    ],
+    "a": 2,
+    "why": "第三段：分給另外兩個不認識的男孩，不能給自己。",
+    "evidence": "each boy decided how to share money between two other boys"
+   },
+   {
+    "q": "What seemed more important to many boys?",
+    "options": [
+     "Getting the most money",
+     "Being ahead of the other group",
+     "Finishing quickly",
+     "Making friends"
+    ],
+    "a": 1,
+    "why": "第四段：領先似乎比拿到最多更重要。",
+    "evidence": "Being ahead seemed more important than getting the most."
+   },
+   {
+    "q": "What question does the writer suggest asking ourselves?",
+    "options": [
+     "Which team is the strongest?",
+     "Would I still think this if I were on the other team?",
+     "How can my team win?",
+     "Who chose the teams?"
+    ],
+    "a": 1,
+    "why": "最後一段提出的自問句。",
+    "evidence": "Would I still think this if I were on the other team?"
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "What was Tajfel trying to find?",
+    "options": [
+     "The best way to divide money",
+     "The smallest reason for one group to treat another unfairly",
+     "Which painter students preferred",
+     "How well boys could count dots"
+    ],
+    "a": 1,
+    "why": "第二段第一句說明研究目的。",
+    "evidence": "wanted to find the smallest possible reason for one group to treat another unfairly"
+   },
+   {
+    "q": "Why does the writer say there was “no personal gain”?",
+    "options": [
+     "The boys could not reward themselves",
+     "The money was not real",
+     "The boys were not paid at all",
+     "The groups were too small"
+    ],
+    "a": 0,
+    "why": "第三段：不能獎勵自己，也不會見到收錢的人。",
+    "evidence": "He could never reward himself"
+   },
+   {
+    "q": "What does “trivial” in paragraph 2 most likely mean?",
+    "options": [
+     "Very important",
+     "Unimportant",
+     "Dangerous",
+     "Secret"
+    ],
+    "a": 1,
+    "why": "分組理由是隨便的任務（數點、選畫），所以 trivial 是「無關緊要的」。",
+    "evidence": "the reason they were given was completely trivial"
+   },
+   {
+    "q": "According to the last paragraph, why is knowing about this pattern useful?",
+    "options": [
+     "It proves our group is better",
+     "It helps us notice when our feeling of superiority has no real basis",
+     "It makes us win more often",
+     "It removes all bias forever"
+    ],
+    "a": 1,
+    "why": "知道模式能讓我們察覺優越感只建立在擲硬幣上。",
+    "evidence": "it allows us to notice when a stubborn feeling that our side is superior is based on nothing more than a coin toss"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "How does the first paragraph frame Tajfel’s question?",
+    "options": [
+     "As a question about history",
+     "As more unsettling than the usual explanations of prejudice",
+     "As already answered by earlier research",
+     "As a question about money"
+    ],
+    "a": 1,
+    "why": "第一段先列出常見解釋，再說泰菲爾問了「更令人不安」的問題。",
+    "evidence": "asked a more unsettling question"
+   },
+   {
+    "q": "Why were self-interest and personal loyalty “removed from the equation”?",
+    "options": [
+     "The boys were strangers",
+     "The boys could not reward themselves and would never meet the recipients",
+     "The money was divided equally",
+     "The researchers chose the recipients"
+    ],
+    "a": 1,
+    "why": "第三段說明了排除這兩個因素的設計。",
+    "evidence": "Because they could not reward themselves and would never meet the recipients"
+   },
+   {
+    "q": "What does “maximum differentiation” refer to?",
+    "options": [
+     "Giving everyone the same amount",
+     "Choosing the option that widened the gap between groups",
+     "Giving the most money to the other group",
+     "Refusing to choose"
+    ],
+    "a": 1,
+    "why": "第四段解釋：選擇能拉大差距的分法。",
+    "evidence": "many chose distributions that widened the gap between the groups"
+   },
+   {
+    "q": "Which statement best reflects the writer’s conclusion?",
+    "options": [
+     "Prejudice is inevitable",
+     "Laboratory results apply directly to all real conflicts",
+     "Sympathy for the other side must be practised deliberately",
+     "Group membership has no effect on judgment"
+    ],
+    "a": 2,
+    "why": "最後一段：同理不是天生預設，而是要刻意練習的習慣；同時也否定了「偏見無法避免」。",
+    "evidence": "a habit that has to be practised — deliberately, and often against our own instincts"
+   }
+  ]
+ },
+ "reflections": [
+  "Describe a time you felt your class, team or school was “better” than another. What was that feeling really based on?",
+  "Suggest one rule for a class competition that would keep the fun of teams but reduce unfair “us vs. them” thinking."
+ ],
+ "videos": [
+  {
+   "title": "Can prejudice ever be a good thing?",
+   "channel": "TED · Paul Bloom",
+   "url": "https://www.ted.com/talks/paul_bloom_can_prejudice_ever_be_a_good_thing",
+   "kind": "TED",
+   "desc": "A psychologist argues that prejudice is often natural and rational — and asks when we should override it.",
+   "zh": "心理學家談偏見為何常是自然而然的，以及我們什麼時候該推翻它。",
+   "question": "Do you agree that some prejudice is “natural”? Does natural mean acceptable?"
+  },
+  {
+   "title": "3 kinds of bias that shape your worldview",
+   "channel": "TEDxUGA · J. Marshall Shepherd",
+   "url": "https://www.ted.com/talks/j_marshall_shepherd_3_kinds_of_bias_that_shape_your_worldview",
+   "kind": "TEDx",
+   "desc": "A meteorologist explains common biases that shape how we see the world.",
+   "zh": "一位氣象學家解釋影響我們世界觀的幾種常見偏誤。",
+   "question": "Which of the biases have you noticed in yourself?"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "id": "w02-d3",
+ "week": "w02",
+ "day": 3,
+ "level": "B1",
+ "title": {"en": "What Words Really Mean", "zh": "話裡真正的意思"},
+ "words": ["sophisticated", "subtle", "scold", "swear", "signal"],
+ "review": ["shelter", "suspicious", "sorrow", "sigh", "scatter"],
+ "blocks": [
+  {"en": "The next morning, Bao read his new chapter about Sooth out loud to the S family. When he finished, a voice called from the back: “Oh, WONDERFUL. Truly the greatest book ever written.”",
+   "zh": "隔天早上，小寶把他寫 Sooth 的新章節唸給 S 家族聽。唸完之後，後面傳來一個聲音：「喔，真是『太棒』了。絕對是史上最偉大的一本書。」"},
+  {"en": "Bao turned around, smiling — and then stopped smiling. The speaker looked bored and a little rude, as if the whole world owed him money. And his shape kept changing: first a child, then a woman, then an old man, then a middle-aged office worker. “Was that a compliment?” Bao asked. “Who knows?” said the shape. That was [[Sarcastic|sarcastic]].",
+   "zh": "小寶笑著轉過身——然後笑容停住了。說話的人一臉無聊，又有點沒禮貌，好像全世界都欠他錢。而且他的外形一直在變：先是小孩，然後是女人，接著是老先生，又變成中年上班族。「這是在稱讚我嗎？」小寶問。「誰知道呢？」那個身影說。那是 Sarcastic。"},
+  {"en": "Next to him, a small boy with huge eyes was grinning. He had clearly brought Sarcastic here on purpose, just to see what would happen. Before anyone could stop him, he grabbed Bao’s dictionary and ran.",
+   "zh": "他旁邊有個眼睛大大的小男孩在咧嘴笑。很明顯是他故意把 Sarcastic 帶來的，就想看看會發生什麼事。大家還來不及阻止，他就搶走小寶的字典跑掉了。"},
+  {"en": "A whistle blew. An aunt with a whistle around her neck marched after him. “[[Scamp|scamp]]! Bring that back this minute!” She was [[Scold|scold]], and scolding Scamp was the main job of her life. “I scold you for taking things,” she shouted, “and I scold you for running, and I scold you for smiling while you do it!”",
+   "zh": "一聲哨響。一位脖子上掛著哨子的阿姨大步追了上去。「Scamp！現在馬上還回來！」她是 Scold，罵 Scamp 是她人生的主要工作。「我罵你亂拿東西，」她大喊，「我罵你亂跑，我還要罵你一邊做還一邊笑！」"},
+  {"en": "Scamp skidded to a stop and raised one hand. “I didn’t take it! I [[swear]]!” A man wearing two hats — one white, one black — appeared beside him. “Careful,” said [[Swear|swear]]. “With my white hat, I promise to tell the truth. With my black hat, I say very bad words. Which hat are you using, young man?” Scamp looked at the dictionary in his hand and slowly gave it back.",
+   "zh": "Scamp 緊急剎車，舉起一隻手。「我沒拿！我發誓！」一個戴著兩頂帽子——一白一黑——的男人出現在他身邊。「小心點，」Swear 說，「戴白帽子的時候，我發誓會說實話；戴黑帽子的時候，我會說很難聽的話。年輕人，你現在用的是哪一頂？」Scamp 看看手上的字典，慢慢把它還了回來。"},
+  {"en": "Bao was still thinking about Sarcastic. “I don’t understand,” he said. “His words said ‘wonderful’. But his face said something else.”",
+   "zh": "小寶還在想 Sarcastic 的事。「我不懂，」他說，「他的字說『太棒了』，可是他的表情說的是別的意思。」"},
+  {"en": "A woman so pale she was almost transparent drifted closer. She spoke very softly, and everything she said was a hint. “That is [[Subtle|subtle]],” the Elder said. “Notice that the b in her name is silent. Subtle things are like that — present, but quiet. Sarcastic hides his real meaning in his tone. If you only read his words, you will miss it.”",
+   "zh": "一位蒼白到幾乎透明的女士飄了過來。她說話非常輕，說的每句話都是暗示。「那是 Subtle，」長老說，「注意她名字裡的 b 是不發音的。細微的東西就是這樣——存在，但很安靜。Sarcastic 把真正的意思藏在語氣裡，如果你只讀他的字，就會錯過。」"},
+  {"en": "Then the Elder explained something Bao’s teacher had once tried to teach him. “There are four brothers here. [[Say|say]] cares about the words — you say something. [[Speak|speak]] cares about the act of speaking — you speak English, you speak at a meeting. [[Talk|talk]] needs another person — you talk with someone. And [[Tell|tell]] always has someone to tell — you tell a friend a story.” The four brothers bowed, then started arguing loudly about who was most important.",
+   "zh": "接著長老解釋了一件小寶的老師曾經試著教他的事。「這裡有四兄弟。Say 在乎『字句』——你 say 某件事。Speak 在乎『說話』這個動作——你 speak English、在會議上 speak。Talk 需要另一個人——你跟某人 talk。Tell 一定有個告訴的對象——你 tell 朋友一個故事。」四兄弟鞠了個躬，然後開始大聲爭論誰最重要。"},
+  {"choice": {
+    "prompt": {"en": "Sarcastic is still watching Bao. What does Bao say?", "zh": "Sarcastic 還在看著小寶。小寶說什麼？"},
+    "options": [
+     {"id": "sarcastic-back", "label": {"en": "“Oh, thank you SO much.”", "zh": "「喔，真是『太感謝』你了。」"},
+      "en": "Sarcastic grinned and became a crocodile for a moment. Two sarcastic people make twice the confusion. Somewhere nearby, [[Suspicious|suspicious]] narrowed her eyes at both of them.",
+      "zh": "Sarcastic 咧嘴一笑，有一瞬間變成了鱷魚。兩個愛諷刺的人，只會製造兩倍的混亂。附近的 Suspicious 對他們兩個都瞇起了眼睛。"},
+     {"id": "honest", "label": {"en": "“Did you like it, or not? You can tell me.”", "zh": "「你到底喜不喜歡？可以直接告訴我。」"},
+      "en": "For one second, Sarcastic stopped changing shape. He looked like a quiet teenager. “The part about Sooth,” he muttered, “was okay.” Then he was a pigeon again. But Bao had seen it.",
+      "zh": "有一秒鐘，Sarcastic 停止了變形，看起來像個安靜的青少年。「寫 Sooth 那段，」他嘀咕，「還可以啦。」接著他又變回一隻鴿子。但小寶看見了。"}
+    ],
+    "after": {"en": "Just then, a girl covered in tiny flags waved them all at once.", "zh": "就在這時，一個全身插滿小旗子的女孩同時揮動所有旗子。"}
+  }},
+  {"en": "“That’s [[Signal|signal]],” said Little Mushroom. “She can send a message without saying a word.” Her flags spelled out: MEETING TOMORROW. NEW WORDS. EVERYONE COME.",
+   "zh": "「那是 Signal，」小蘑菇說，「她不用說一個字就能傳訊息。」她的旗子拼出：明天開會。新字。所有人都來。"},
+  {"en": "A gentleman with a gold badge and a neat notebook stepped forward. “I will take the minutes,” he said. He was [[Sophisticated|sophisticated]], the secretary — elegant, careful, and impossible to rush. Behind him stood a man who looked exactly like him, but without a badge. “My double,” Sophisticated explained. “Take away my d, and I become a sophisticate — a noun. Same man, different role.”",
+   "zh": "一位戴金色徽章、拿著工整筆記本的紳士走上前。「我來做會議紀錄。」他說。他是 Sophisticated，秘書先生——優雅、仔細，而且誰都催不動。他身後站著一個跟他長得一模一樣、卻沒有徽章的人。「我的分身，」Sophisticated 解釋，「拿掉我的 d，我就變成 sophisticate——一個名詞。同一個人，不同角色。」"},
+  {"en": "That night, Bao lay awake, still hearing Sarcastic’s voice. He realized that words carry two things: what they say, and how they say it. On paper, the second part can disappear. Under his leaf [[shelter|shelter]], with a small [[sigh]], he decided to listen more carefully tomorrow.",
+   "zh": "那天晚上，小寶睡不著，耳邊還響著 Sarcastic 的聲音。他發現，話語承載著兩件事：說了什麼，還有怎麼說。寫在紙上的時候，第二件事可能會消失。他躺在落葉小屋裡，輕輕嘆了口氣，決定明天要聽得更仔細。"},
+  {"en": "He did not know that someone else would also be at the meeting — someone who had not been invited, and whose touch was poison. Remembering Sooth’s [[sorrow]], Bao felt the old fear [[scatter]] his thoughts for a moment. Then he fell asleep.",
+   "zh": "他不知道，明天的會議還會有另一個人出現——一個沒有受邀、一碰就有毒的人。想起 Sooth 的悲傷，小寶的思緒被那股熟悉的恐懼打散了一下。然後他睡著了。"}
+ ],
+ "insight": {
+  "en": "Words carry two things: what they say, and how they say it. When you can’t hear the voice, listen more gently.",
+  "zh": "話語承載著兩件事：說了什麼，還有怎麼說。聽不到語氣的時候，就聽得溫柔一點。",
+  "by": "Elder Search"
+ },
+ "quote": {
+  "en": "A soft answer turneth away wrath: but grievous words stir up anger.",
+  "zh": "回答柔和，使怒消退；言語暴戾，觸動怒氣。",
+  "author": "Proverbs 15:1",
+  "source": "King James Bible (1611)",
+  "url": "https://www.kingjamesbibleonline.org/Proverbs-15-1/"
+ },
+ "quiz": [
+  {"q": "This is a very ______ machine. Only experts can repair it.", "answers": ["sophisticated"], "word": "sophisticated", "explain": "sophisticated 精密的、複雜的；形容人時是「世故的、有品味的」。"},
+  {"q": "There is a ______ difference between the two colors. You have to look carefully.", "answers": ["subtle"], "word": "subtle", "explain": "subtle 細微的、不明顯的。注意 b 不發音：/ˋsʌtl/。"},
+  {"q": "My mom ______ me for coming home late last night.", "answers": ["scolded"], "word": "scold", "explain": "scold sb for (doing) sth：因某事罵某人。"},
+  {"q": "I ______ I didn’t eat your chocolate!", "answers": ["swear"], "word": "swear", "explain": "swear 發誓（I swear...）；swear at sb 則是「罵髒話」。三態 swear–swore–sworn。"},
+  {"q": "The teacher gave us a ______ to stop talking: she raised her hand.", "answers": ["signal"], "word": "signal", "explain": "signal 訊號、示意：give a signal、signal sb to do sth。"},
+  {"q": "Can you ______ me the way to the station?", "answers": ["tell"], "word": "tell", "explain": "tell sb sth：tell 一定接「對象」。✗ say me the way。"}
+ ]
+}

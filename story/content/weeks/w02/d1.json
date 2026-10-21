@@ -1,0 +1,156 @@
+{
+ "id": "w02-d1",
+ "week": "w02",
+ "day": 1,
+ "level": "B1",
+ "title": {
+  "en": "The Elder Who Finds Everything",
+  "zh": "什麼都找得到的長老"
+ },
+ "words": [
+  "scholar",
+  "superior",
+  "sympathy",
+  "sensible",
+  "stubborn"
+ ],
+ "review": [
+  "evidence",
+  "rumor",
+  "permission",
+  "sincere",
+  "reliable"
+ ],
+ "blocks": [
+  {
+   "en": "The letter said only: Come to the outer ring. Bring your questions. So Bao packed the most important thing he owned — a dictionary connected to his mind. If he thought about a word, the dictionary found it for him. “I am a genius,” he told everyone. Nobody argued. Nobody agreed, either.",
+   "zh": "信上只寫著：到外圈來，帶著你的問題。所以小寶帶上了他最重要的東西——一本跟他的意念連線的字典。只要他想著一個字，字典就會幫他找到。「我真是天才。」他跟每個人說。沒人反駁，也沒人附和。"
+  },
+  {
+   "en": "Past the forest of English World, a wide ring of land circled everything. This was the home of the S family, the biggest family of all. “And the most difficult,” said Little Mushroom happily. “They are shy, and they love secrets. Shy plus secret — impossible to find.”",
+   "zh": "穿過英語世界的森林，一大圈土地環繞著一切。這裡是 S 家族的地盤，也是所有家族裡最大的一家。「也是最難搞的。」小蘑菇開心地說，「他們很害羞，又很愛祕密。害羞加祕密——根本找不到。」"
+  },
+  {
+   "en": "The road ended at a narrow bridge. In the middle stood a boy who looked like a rock. He did not move. He did not blink. “Excuse me,” said Bao. The boy said nothing. “That’s [[Stubborn|stubborn]],” said Little Mushroom. “Once he decides something, mountains move before he does.”",
+   "zh": "路的盡頭是一座窄橋，橋中間站著一個看起來像石頭的男孩。他不動，也不眨眼。「不好意思。」小寶說。男孩什麼也沒說。「那是 Stubborn，」小蘑菇說，「他一旦決定了什麼，山都會先移動，他也不會。」"
+  },
+  {
+   "en": "A man in sturdy shoes, carrying an umbrella on a sunny day, stepped up beside them. “You could argue with him for a week,” he said, “or you could simply walk across the river. It is only knee-deep.” He was [[Sensible|sensible]]. Behind him, a girl with very thin skin flinched every time the wind blew. “Don’t mix us up,” Sensible added. “I am wise. She is [[sensitive]]. We are only cousins.”",
+   "zh": "一位穿著耐走鞋子、大晴天還帶著傘的男人走到他們旁邊。「你可以跟他吵一個星期，」他說，「或者直接走過河。水只到膝蓋。」他是 Sensible。他身後有個皮膚很薄的女孩，風一吹她就縮一下。「別把我們搞混了，」Sensible 補充，「我是明智，她是敏感。我們只是表親。」"
+  },
+  {
+   "en": "On the other side, an old man was waiting. He wore black-rimmed glasses, a white beard, and an explorer’s outfit with a gentleman’s vest. When he lifted his hand, it became a thousand hands, and every hidden thing nearby flickered into view. “I am [[Search|search]],” he said. “In the S family there are fast ones, hidden ones and sneaky ones. Someone has to find them all.”",
+   "zh": "對岸有位老先生在等著。他戴黑框眼鏡、留白鬍子，一身探險家打扮，還穿著紳士背心。他一舉起手，那隻手就變成千手，附近所有藏起來的東西都閃現出來。「我是 Search，」他說，「S 家族裡有跑得快的、躲起來的、偷偷摸摸的。總得有人把他們都找出來。」"
+  },
+  {
+   "en": "Bao had a truckload of questions, and he started with the biggest — one based on a [[rumor]] he had heard at school, with no [[evidence]] at all. “Elder, is it true that English people are more noble than everyone else?”",
+   "zh": "小寶有一卡車的問題，他從最大的那個開始問——那是他在學校聽來的一個謠言，完全沒有證據。「長老，英國人真的比其他人更高貴嗎？」"
+  },
+  {
+   "en": "Before the Elder could answer, a tall man climbed onto a small wooden box so that he stood a little higher than everyone. “Of course some are better,” he said, looking down his nose. “The S family is [[superior]] to the A family, the B family, and especially to you.” Little Mushroom whispered, “That’s [[Superior|superior]]. And notice — he always says superior TO, never superior than.”",
+   "zh": "長老還來不及回答，一個高個子男人就爬上一個小木箱，讓自己比大家都高一點。「當然有些人比較好，」他用鼻孔看人，「S 家族比 A 家族、B 家族都優越，尤其比你們優越。」小蘑菇小聲說：「那是 Superior。還有注意——他永遠說 superior TO，從來不說 superior than。」"
+  },
+  {
+   "choice": {
+    "prompt": {
+     "en": "How does Bao answer Superior?",
+     "zh": "小寶怎麼回應 Superior？"
+    },
+    "options": [
+     {
+      "id": "argue",
+      "label": {
+       "en": "“We are just as good as you!”",
+       "zh": "「我們跟你一樣好！」"
+      },
+      "en": "Superior simply found a taller box. The argument went nowhere, and Bao’s face turned red.",
+      "zh": "Superior 只是換了一個更高的箱子。爭論毫無進展，小寶的臉都氣紅了。"
+     },
+     {
+      "id": "ask",
+      "label": {
+       "en": "“Who decided that you are better?”",
+       "zh": "「是誰決定你比較好的？」"
+      },
+      "en": "Superior opened his mouth, then closed it. Nobody had ever asked him that. He looked down at his box, as if seeing it for the first time.",
+      "zh": "Superior 張開嘴，又閉上了。從來沒有人這樣問過他。他低頭看著腳下的箱子，好像第一次看見它。"
+     }
+    ],
+    "after": {
+     "en": "The Elder laughed gently.",
+     "zh": "長老溫和地笑了。"
+    }
+   }
+  },
+  {
+   "en": "“Noble and low,” said the Elder, “are feelings that grow inside your own mind. A toy you love may bore your friend. A toy your friend loves may bore you. Much of what we believe about others is a picture our own heart is painting.” He turned around. “Hmm. Why am I talking so much today?”",
+   "zh": "「高貴與低賤，」長老說，「是從你自己心裡長出來的感受。你喜歡的玩具，你的朋友可能覺得無聊；你朋友喜歡的，你也可能覺得無聊。我們以為別人怎樣，很多其實是自己的心在畫畫。」他轉過身。「嗯？我今天話怎麼這麼多？」"
+  },
+  {
+   "en": "Behind him, two figures were hiding. One was a teenager whose shirt had a scrolling screen on it, showing every word as it was spoken. The other had enormous, beautiful eyes. “[[Say|say]] and [[Speak|speak]]!” the Elder groaned. “No wonder I can’t stop talking. Say cares about WHAT is said. Speak cares about the act of speaking. And if Talk and Tell join you, nobody will hear anything at all — you four may not meet without [[permission]].”",
+   "zh": "他身後躲著兩個身影。一個是衣服上有跑馬燈的青少年，說出的每個字都會在螢幕上跑過；另一個有一雙又大又美的眼睛。「Say 和 Speak！」長老哀號，「難怪我停不下來。Say 在乎說的『內容』，Speak 在乎『說』這個動作。要是 Talk 和 Tell 也來了，誰都別想聽清楚——你們四個沒有許可不准聚在一起。」"
+  },
+  {
+   "en": "A woman with ink on her fingers was already writing all of this down in the air. She was [[Scholar|scholar]], who read three books at once. Beside her stood a woman with gentle eyes, who winced whenever anyone was hurt, and whose kindness was as [[sincere]] as it was quiet. “And that is [[Sympathy|sympathy]],” said the Elder. “If you want the S family to trust you, make friends with her first. She is as [[reliable]] as a lantern at noon.”",
+   "zh": "一位手指沾著墨水的女士，早已在空氣裡把這一切記下來。她是 Scholar，能同時讀三本書。她身邊站著一位眼神溫柔的女士，只要有人受傷，她就會跟著皺眉，她的善意安靜而真誠。「那位是 Sympathy，」長老說，「想讓 S 家族信任你，先跟她做朋友。她就像中午準時亮起的燈籠一樣可靠。」"
+  },
+  {
+   "en": "Then, from somewhere in the trees, came a very small sound — like someone crying, very quietly, so that no one would hear.",
+   "zh": "就在這時，樹林裡某個地方傳來一個很小的聲音——像有人在哭，哭得非常小聲，好讓誰都聽不見。"
+  }
+ ],
+ "insight": {
+  "en": "Much of what we believe about others is a picture our own heart is painting.",
+  "zh": "我們以為別人怎樣，很多其實是自己的心在畫畫。",
+  "by": "Elder Search"
+ },
+ "quote": {
+  "en": "What the superior man seeks, is in himself. What the mean man seeks, is in others.",
+  "zh": "君子求諸己，小人求諸人。",
+  "author": "Confucius",
+  "source": "Analects XV.20, tr. James Legge",
+  "url": "https://www.gutenberg.org/ebooks/4094"
+ },
+ "quiz": [
+  {
+   "q": "She is a famous ______ who has studied Chinese history for forty years.",
+   "answers": [
+    "scholar"
+   ],
+   "word": "scholar",
+   "explain": "scholar 學者：長期深入研究某領域的人。scholarship 則是獎學金。"
+  },
+  {
+   "q": "This phone is ______ to my old one in every way.",
+   "answers": [
+    "superior"
+   ],
+   "word": "superior",
+   "explain": "superior to 優於：比較對象前用 to，不用 than。"
+  },
+  {
+   "q": "I have a lot of ______ for people who lost their homes in the flood.",
+   "answers": [
+    "sympathy"
+   ],
+   "word": "sympathy",
+   "explain": "have sympathy for sb：同情某人。"
+  },
+  {
+   "q": "It was ______ of you to bring an umbrella. It’s going to rain.",
+   "answers": [
+    "sensible"
+   ],
+   "word": "sensible",
+   "explain": "sensible 明智的、合理的。別和 sensitive（敏感的）搞混。"
+  },
+  {
+   "q": "My little brother is so ______. He won’t eat anything green.",
+   "answers": [
+    "stubborn"
+   ],
+   "word": "stubborn",
+   "explain": "stubborn 固執的：as stubborn as a mule（像騾子一樣固執）。"
+  }
+ ]
+}

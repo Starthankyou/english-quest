@@ -88,3 +88,6 @@ details.practice summary { cursor: pointer; font-weight: 700; }
 .readctl { display: flex; gap: 8px; margin: 0 0 16px; }
 .readctl .btn { font-size: 14px; padding: 4px 12px; }
 .block.speaking { background: var(--accent-soft); border-radius: 8px; box-shadow: 0 0 0 6px var(--accent-soft); }
+.weeks { display: flex; gap: 6px; margin: 0 0 14px; flex-wrap: wrap; }
+.weeks a { font-size: 14px; padding: 3px 12px; border-radius: 99px; border: 1px solid var(--line); color: var(--muted); text-decoration: none; background: var(--paper); }
+.weeks a.on { background: var(--accent); border-color: var(--accent); color: var(--paper); }

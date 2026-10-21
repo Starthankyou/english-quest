@@ -84,11 +84,13 @@ async function epExists(week, n) { return !!(await getJSON(`weeks/${week}/d${n}.
 async function viewWeek(id) {
   const wk = await loadWeek(id);
   if (!wk) return notFound();
-  const days = [...wk.days, { day: 7, level: wk.big_story.level, plot: wk.big_story.plot, big: true }];
+  const days = wk.big_story ? [...wk.days, { day: 7, level: wk.big_story.level, plot: wk.big_story.plot, big: true }] : wk.days;
+  const weeks = (await getJSON("index.json"))?.weeks || [];
   const ready = await Promise.all(days.map(d => epExists(id, d.day)));
   const eps = await Promise.all(days.map((d, i) => (ready[i] ? getJSON(`weeks/${id}/d${d.day}.json`) : null)));
   const next = days.find((d, i) => ready[i] && !state.done[`${id}-d${d.day}`]);
   app.innerHTML = `
+    ${weeks.length > 1 ? `<nav class="weeks">${weeks.map((x, i) => `<a href="#/${x.id}" class="${x.id === id ? "on" : ""}">Week ${i + 1}</a>`).join("")}</nav>` : ""}
     <h1>${esc(wk.title.en)}</h1><p class="zh-title">${esc(wk.title.zh)}</p>
     ${next ? `<a class="btn" href="#/${id}/d${next.day}">${Object.keys(state.done).length ? bi(`Continue · Day ${next.day}`, "繼續故事") : bi(`Start · Day ${next.day}`, "開始故事")}</a>`
            : `<p class="muted">${bi("You’ve finished every story so far.", "已讀完目前所有篇章。")}</p>`}
@@ -100,15 +102,15 @@ async function viewWeek(id) {
         ${state.done[`${id}-d${d.day}`] ? `<span class="done">✓</span>` : ""}
       </a></li>`).join("")}
     </ul>
-    ${(wk.lab || []).map(a => `<a class="lab-pair" href="../lab/#article=${encodeURIComponent(a.id)}">
+    ${(wk.lab || []).filter(a => !a.day).map(a => `<a class="lab-pair" href="../lab/#article=${encodeURIComponent(a.id)}">
       <span class="lab-tag">This week in Reading Lab · 本週配對文章</span>
       <strong>${esc(a.title.en)}</strong><span class="sub">${esc(a.title.zh)}</span>
-      <span class="muted" style="font-size:14px">${esc(a.note.en)}<span class="sub">${esc(a.note.zh)}</span></span></a>`).join("")}
+      ${a.note ? `<span class="muted" style="font-size:14px">${esc(a.note.en)}<span class="sub">${esc(a.note.zh)}</span></span>` : ""}</a>`).join("")}
     <p class="foot"><a href="#/records">My learning record · 我的學習紀錄</a>　<a href="../">← Home</a></p>`;
 }
 
 async function viewEpisode(week, n) {
-  await loadWeek(week);
+  const wk = (await loadWeek(week)) || {};
   const ep = await getJSON(`weeks/${week}/d${n}.json`);
   if (!ep) return notFound();
   const core = ep.words;
@@ -126,6 +128,9 @@ async function viewEpisode(week, n) {
       <p class="by">— ${esc(ep.insight.by)}</p></div>
     <blockquote class="quote"><p>${esc(ep.quote.en)}</p><p class="zh" style="border:0;padding:0">${esc(ep.quote.zh)}</p>
       <p class="src">— ${esc(ep.quote.author)}, <a href="${esc(ep.quote.url)}" target="_blank" rel="noopener">${esc(ep.quote.source)}</a></p></blockquote>
+    ${(wk.lab || []).filter(a => a.day === n).map(a => `<a class="lab-pair" href="../lab/#article=${encodeURIComponent(a.id)}">
+      <span class="lab-tag">Today in Reading Lab · 今天的配對文章</span>
+      <strong>${esc(a.title.en)}</strong><span class="sub">${esc(a.title.zh)}</span></a>`).join("")}
     <div class="finish">
       <button type="button" class="btn${state.done[ep.id] ? " ghost" : ""}" id="finish">${state.done[ep.id] ? "Finished ✓" : bi("I’ve finished", "讀完了")}</button>
       ${hasNext ? `<a class="btn ghost" href="#/${week}/d${n + 1}">Next story →</a>` : ""}
@@ -197,7 +202,7 @@ function quiz(ep, btn, used) {
   const say = (cls, html) => { fb.className = `fb ${cls}`; fb.innerHTML = html; };
   if (btn.dataset.act === "hint") {
     u.hint = true;
-    return say("", bi(`Hint: it starts with <strong>${esc(q.answers[0][0])}</strong> and has ${esc(q.answers[0].length)} letters.`, `提示：開頭是 ${esc(q.answers[0][0])}，${esc(q.answers[0].length)} 個字母；意思是「${esc(x.zh || "")}」。`));
+    return say("", bi(`Hint: it starts with <strong>${esc(q.answers[0][0])}</strong> and has ${esc(q.answers[0].length)} letters.`, `提示：開頭是 ${esc(q.answers[0][0])}，${esc(q.answers[0].length)} 個字母` + (x.zh ? `；意思是「${esc(x.zh)}」。` : "。")));
   }
   if (btn.dataset.act === "show") {
     u.shown = true;
@@ -232,6 +237,18 @@ async function viewRecords() {
 
 const notFound = () => { app.innerHTML = `<p>${bi("Story not found.", "找不到這一篇。")} <a href="#/w01">← This week</a></p>`; };
 
+// 沒指定週次時，打開第一個還沒讀完的週（新同學從 Week 1 開始）
+async function firstUnfinishedWeek() {
+  const ws = (await getJSON("index.json"))?.weeks || [{ id: "w01" }];
+  for (const w of ws) {
+    const wk = await getJSON(`weeks/${w.id}/week.json`);
+    const total = (wk?.days?.length || 0) + (wk?.big_story ? 1 : 0);
+    const done = Object.keys(state.done).filter(k => k.startsWith(w.id + "-")).length;
+    if (done < total) return w.id;
+  }
+  return ws.at(-1).id;
+}
+
 async function route() {
   EWCard.close(); EWSpeech.stop();
   app.onclick = app.onkeydown = null;
@@ -239,7 +256,7 @@ async function route() {
   const [week, ep] = location.hash.replace(/^#\/?/, "").split("/");
   if (week === "records") await viewRecords();
   else if (week && ep) await viewEpisode(week, parseInt(ep.replace("d", ""), 10));
-  else await viewWeek(week || (await getJSON("index.json"))?.weeks.at(-1)?.id || "w01");
+  else await viewWeek(week || await firstUnfinishedWeek());
   app.focus(); window.scrollTo(0, 0);
 }
 
