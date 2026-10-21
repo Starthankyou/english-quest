@@ -2,56 +2,73 @@
  "id": "fomo",
  "category": "心理與數位生活",
  "title": "When Everyone Else Seems to Be Living Better",
- "subtitle": "社群媒體與錯失恐懼",
- "source": "原創教學文章；心理學概念為一般知識，非特定研究報導",
+ "subtitle": "當別人的生活看起來都比較精彩：錯失恐懼（FOMO）",
+ "source": "原創議題文章；研究內容依 Przybylski et al.（2013）與 Hunt et al.（2018）論文摘要，名言依 Wikisource Gummere 譯本，2026-10-22 核對",
+ "sources": [
+  {
+   "title": "Przybylski, A. K., Murayama, K., DeHaan, C. R., & Gladwell, V. (2013). Motivational, emotional, and behavioral correlates of fear of missing out. Computers in Human Behavior, 29(4), 1841–1848.",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0747563213000800",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Hunt, M. G., Marx, R., Lipson, C., & Young, J. (2018). No more FOMO: Limiting social media decreases loneliness and depression. Journal of Social and Clinical Psychology, 37(10), 751–768.",
+   "url": "https://psycnet.apa.org/record/2019-02635-001",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Seneca, Moral Letters to Lucilius, Letter 2 (trans. R. M. Gummere), Wikisource",
+   "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_2",
+   "accessed": "2026-10-22"
+  }
+ ],
  "levels": {
   "beginner": {
    "title": "The Photos That Changed Mia’s Mood",
    "paras": [
     [
-     "Mia had a good Saturday. She read a novel, cooked lunch with her father, and helped her younger brother with his homework. In the evening, she felt calm and satisfied. Then she opened a social media app.",
-     "Mia 度過了愉快的星期六。她讀了小說、和爸爸一起煮午餐，也幫弟弟寫功課。晚上她感到平靜又滿足，接著卻打開了社群媒體。"
+     "It is Saturday night. Mia is at home reading a good book, and she feels happy. Then she opens her phone. Her friends are at a concert, at a party and at the beach. Suddenly her quiet evening feels boring. She starts to think: “Everyone is having more fun than me.”",
+     "星期六晚上，米亞在家讀一本好書，覺得很開心。接著她打開手機：朋友們有的在聽演唱會，有的在派對，有的在海邊。突然間，她安靜的夜晚變得好無聊。她開始想：「每個人都過得比我開心。」"
     ],
     [
-     "Her classmates were sharing photos from a concert. One friend had visited a beautiful café, and another was traveling with her family. Mia looked at her own day again. Suddenly, reading at home did not seem exciting enough. She began to wonder whether she had missed something important.",
-     "同學們正在分享演唱會照片，有人去了漂亮的咖啡館，也有人和家人旅行。Mia 回頭看自己的這一天，突然覺得在家讀書似乎不夠精彩。她開始懷疑自己是否錯過了重要的事情。"
+     "This feeling has a name: FOMO, or the fear of missing out. In 2013, a group of researchers described it as a worry that other people are having good experiences without you. People with strong FOMO want to stay connected all the time, so they keep checking what others are doing.",
+     "這種感覺有個名字：FOMO，也就是「錯失恐懼」。2013 年，一群研究人員把它描述為一種擔心：擔心別人正在享受美好的經驗，而你不在場。FOMO 很強的人，會想一直保持連線，所以不停查看別人在做什麼。"
     ],
     [
-     "This feeling is often called the fear of missing out, or FOMO. People may feel it when they see others having experiences they do not have. Social media makes these experiences easy to see, but a picture only shows a small part of someone’s life.",
-     "這種感覺常稱為錯失恐懼（FOMO）。當人們看到別人擁有自己沒有的經驗時，就可能產生這種感受。社群媒體讓這些經驗隨手可見，但照片往往只呈現生活的一小部分。"
+     "The same study found that people with more FOMO used social media more. They were also less happy with their lives. Some even used social media while driving or during class. But remember: a photo shows only one good moment. It does not show the whole week.",
+     "同一份研究發現，FOMO 比較強的人，用社群媒體用得比較多，對生活也比較不滿意。有些人甚至在開車時或上課時用社群媒體。但請記得：一張照片只呈現一個美好的瞬間，不會呈現整個星期。"
     ],
     [
-     "Mia decided to put her phone away and think about what she truly enjoyed. Her day had not become worse because someone else had gone to a concert. She still remembered laughing with her brother and finishing a wonderful chapter of her book.",
-     "Mia 決定放下手機，想想自己真正喜歡的事。別人去了演唱會，並不會讓她的一天變差。她依然記得和弟弟一起笑，以及讀完精彩書籍章節的快樂。"
+     "Can using less social media help? In 2018, 143 university students in the US took part in an experiment. For three weeks, some of them used Facebook, Instagram and Snapchat for only 10 minutes a day on each app. These students felt less lonely and less sad than the other students. The researchers said that about 30 minutes a day in total may be a good limit.",
+     "少用社群媒體有幫助嗎？2018 年，美國 143 名大學生參加了一個實驗。三個星期裡，其中一些人每個 App 每天只用 10 分鐘的 Facebook、Instagram 和 Snapchat。這些學生比其他學生覺得比較不孤單、也比較不難過。研究人員說，每天總共大約 30 分鐘，可能是個不錯的上限。"
     ],
     [
-     "The next time Mia saw exciting photos online, she tried a simple question: “Do I want this experience, or do I only want to look as happy as the people in the picture?” The question did not remove every uncomfortable feeling, but it helped her choose how to spend her time.",
-     "下一次看到社群上的精彩照片時，Mia 試著問自己：「我是想要這種經驗，還是只想看起來和照片裡的人一樣快樂？」這個問題沒有消除所有不舒服的感受，卻幫助她更有意識地安排時間。"
+     "Here is something interesting: in both groups, FOMO went down. Just paying attention to how they used their phones seemed to help. So next time you feel FOMO, ask yourself: “Was I happy before I opened this app?”",
+     "有件事很有意思：兩組學生的 FOMO 都降低了。光是留意自己怎麼用手機，似乎就有幫助。所以下次你感到 FOMO 時，問問自己：「打開這個 App 之前，我是不是其實很開心？」"
     ]
    ]
   },
   "intermediate": {
-   "title": "The Quiet Saturday That Suddenly Felt Inadequate",
+   "title": "When Everyone Else Seems to Be Living Better",
    "paras": [
     [
-     "Until she opened social media, Mia had considered her Saturday a success. She had enjoyed a novel, prepared lunch with her father, and helped her brother solve a difficult math problem. Yet photographs of friends at concerts and fashionable cafés made her ordinary afternoon feel strangely disappointing. Nothing about her day had changed; what had changed was the standard by which she judged it.",
-     "在打開社群媒體前，Mia 一直覺得自己的星期六過得不錯。她讀了小說、和爸爸煮午餐，也幫弟弟解出一道數學難題。然而，朋友在演唱會及時髦咖啡館的照片，卻讓這個平凡下午突然顯得令人失望。她的一天沒有改變，改變的是她用來評價這一天的標準。"
+     "Mia was enjoying a quiet Saturday with a novel until she opened her phone. Within a minute she had seen a concert, a birthday party and a trip to the beach. Nothing about her own evening had changed, yet it suddenly felt inadequate. Many teenagers know this feeling well, and psychologists have given it a name. Back in 1954, the psychologist Leon Festinger argued that people judge their own abilities and opinions partly by comparing themselves with others. Social media simply gives us far more people to compare ourselves with.",
+     "米亞原本正享受著一個有小說相伴的安靜星期六，直到她打開手機。不到一分鐘，她就看到了一場演唱會、一個生日派對和一趟海邊旅行。她自己的夜晚什麼都沒變，卻突然顯得不夠好。很多青少年都很熟悉這種感覺，心理學家也替它取了名字。早在 1954 年，心理學家利昂．費斯廷格就主張：人們部分是透過與他人比較，來判斷自己的能力和看法。社群媒體只是讓我們有多得多的人可以拿來比較。"
     ],
     [
-     "Psychologists use the term fear of missing out, or FOMO, to describe anxiety that others may be enjoying rewarding experiences without us. Although the feeling existed long before smartphones, digital platforms can make comparisons more frequent. We are repeatedly shown carefully selected moments while remaining largely unaware of the boredom, disagreements, and routine that surround them.",
-     "心理學家使用「錯失恐懼」（FOMO）來描述一種焦慮：擔心別人正在享受有價值的經驗，而自己卻沒有參與。這種感受早在智慧型手機問世前就已存在，但數位平台可能讓比較變得更加頻繁。我們不斷看見別人精心挑選的瞬間，卻幾乎看不見背後的無聊、爭執與日常。"
+     "In a 2013 study, Andrew Przybylski and his colleagues defined the fear of missing out, or FOMO, as “a pervasive apprehension that others might be having rewarding experiences from which one is absent”. They created a questionnaire to measure it and found that it was linked to a strong desire to stay continually connected with what others are doing. As the researchers pointed out, social media shows us more options than we could ever pursue with our limited time.",
+     "在 2013 年的一項研究中，安德魯．普日貝爾斯基和同事把錯失恐懼（FOMO）定義為「一種普遍的憂慮：擔心別人可能正在享受有價值的經驗，而自己不在其中」。他們設計了一份問卷來測量它，並發現它與一種強烈的渴望有關：想持續掌握別人正在做什麼。研究人員指出，社群媒體讓我們看到的選項，多到我們在有限的時間裡根本不可能都去追求。"
     ],
     [
-     "The difficulty is not that people share happy memories. Rather, it is that viewers may treat those selected images as a complete account of everyone else’s life. As a result, an enjoyable evening at home can appear less valuable than an event we never wanted to attend in the first place. The comparison quietly changes our priorities.",
-     "問題不在於人們分享快樂回憶，而在於觀看者可能把經過挑選的照片當成別人生活的全貌。因此，即使原本很享受在家度過的夜晚，也可能覺得它不如自己原本根本不想參加的活動有價值。這樣的比較悄悄改變了我們的優先順序。"
+     "Their results were revealing. People with higher FOMO reported lower mood and lower life satisfaction, and they were more engaged with social media. FOMO was even associated with distracted driving and using social media during lectures. However, these were correlations: the study could not show whether social media causes FOMO, or whether people with FOMO simply use it more.",
+     "他們的結果很有啟發性。FOMO 較高的人，心情和生活滿意度都比較低，也更投入社群媒體。FOMO 甚至與分心駕駛和上課時用社群媒體有關。不過，這些都是相關性：這份研究無法證明是社群媒體造成 FOMO，還是有 FOMO 的人本來就比較常用社群媒體。"
     ],
     [
-     "Mia began experimenting with a small habit: before opening an app, she asked what she expected to gain from it. Was she looking for a message from a friend, useful information, or simply relief from boredom? This pause helped her notice when she was scrolling automatically rather than intentionally.",
-     "Mia 開始嘗試一個小習慣：每次打開 App 前，先問自己希望從中獲得什麼。她是在等朋友訊息、尋找有用資訊，還是單純想擺脫無聊？這短暫的停頓讓她察覺自己何時是在無意識滑手機，而非有目的地使用。"
+     "To test cause and effect, a team at the University of Pennsylvania ran an experiment in 2018. After a week of baseline monitoring, 143 undergraduates were randomly assigned either to limit Facebook, Instagram and Snapchat to 10 minutes per platform per day, or to use social media as usual, for three weeks. The limited group showed significant reductions in loneliness and depression. Based on these results, the authors suggested that limiting social media to about 30 minutes a day may lead to a real improvement in well-being.",
+     "為了檢驗因果關係，賓州大學的一個團隊在 2018 年做了一項實驗。經過一週的基準期記錄後，143 名大學生被隨機分配：一組把 Facebook、Instagram 和 Snapchat 限制在每個平台每天 10 分鐘，另一組照常使用，為期三週。限制組的孤單感和憂鬱程度都顯著下降。根據這些結果，作者們認為，把社群媒體限制在每天約 30 分鐘，可能會讓身心健康真正改善。"
     ],
     [
-     "Her experience suggests that a healthier relationship with social media does not necessarily require avoiding it altogether. Instead, it may begin with recognizing a simple distinction: observing someone else’s happiness is not evidence that our own life is lacking.",
-     "她的經驗顯示，與社群媒體建立更健康的關係，不一定得完全遠離它。相反地，起點可能是認清一個簡單的區別：看見別人的快樂，並不代表自己的生活有所欠缺。"
+     "Surprisingly, both groups reported less anxiety and less FOMO than at the start. The researchers suggested that simply monitoring one’s own use may help. This is a practical lesson. Before you judge your life by someone else’s highlights, notice what you were feeling before you opened the app — and whether the app has changed it.",
+     "令人意外的是，兩組的焦慮和 FOMO 都比一開始低。研究人員認為，光是記錄自己的使用情況，或許就有幫助。這是個實用的啟示。在你拿別人的精華片段來評判自己的生活之前，先留意打開 App 之前你是什麼感覺——以及這個 App 有沒有改變了它。"
     ]
    ]
   },
@@ -59,175 +76,361 @@
    "title": "When Curated Happiness Becomes a Measuring Stick",
    "paras": [
     [
-     "Mia’s Saturday had been, by any reasonable standard, satisfying. She had read without interruption, cooked with her father, and helped her younger brother overcome a frustrating homework problem. Nevertheless, after encountering an endless succession of photographs documenting concerts, travel, and stylish restaurants, she found herself reconsidering what had seemed like a perfectly worthwhile day. The experience illustrates a curious feature of social comparison: satisfaction can deteriorate even when the underlying circumstances remain unchanged.",
-     "從任何合理標準來看，Mia 的星期六都很充實。她不受打擾地閱讀、和父親下廚，並協助弟弟克服令人挫折的作業難題。然而，在接連看見演唱會、旅行與時髦餐廳的照片後，她開始重新評價原本覺得很值得的一天。這段經驗說明社會比較的一個微妙特性：即使實際情況完全沒有改變，滿足感仍可能下降。"
+     "Social comparison is not new. In 1954 the psychologist Leon Festinger proposed that people evaluate their own abilities and opinions partly by comparing themselves with others. What has changed is the scale and selectivity of the comparison. A single scroll through a feed can expose a teenager to dozens of carefully chosen moments — concerts, holidays, celebrations — each one presented without the dull hours that surrounded it.",
+     "社會比較並不新鮮。1954 年，心理學家利昂．費斯廷格提出：人們部分是透過與他人比較，來評估自己的能力和看法。改變的是比較的規模與選擇性。滑一次動態，就可能讓青少年看到幾十個精心挑選的瞬間——演唱會、假期、慶祝活動——每一個都去掉了周圍那些平淡無奇的時光。"
     ],
     [
-     "The fear of missing out, commonly abbreviated as FOMO, refers to unease arising from the possibility that others are enjoying experiences from which we are absent. Digital platforms do not create the desire to belong; that desire is deeply familiar to human beings. What these platforms can change, however, is the frequency and visibility of opportunities for comparison, allowing countless selectively presented lives to compete for our attention.",
-     "錯失恐懼（FOMO）指的是一種不安：擔心別人正在享受自己未能參與的經驗。數位平台並非創造了人們想要歸屬的渴望；這種渴望本來就是人類熟悉的感受。然而，平台可能改變比較機會出現的頻率與可見度，讓無數經過選擇呈現的生活片段爭奪我們的注意力。"
+     "This environment gave rise to a concept that researchers began to measure formally in 2013. Andrew Przybylski and his colleagues defined the fear of missing out as “a pervasive apprehension that others might be having rewarding experiences from which one is absent”, characterised by the desire to stay continually connected with what others are doing. As they observed, social media offers many opportunities for interaction but also broadcasts more options than anyone can pursue, given limited time.",
+     "這樣的環境催生了一個研究者在 2013 年開始正式測量的概念。安德魯．普日貝爾斯基和同事把錯失恐懼定義為「一種普遍的憂慮：擔心別人可能正在享受有價值的經驗，而自己不在其中」，其特徵是渴望持續掌握別人在做什麼。他們指出，社群媒體提供了許多互動機會，卻也播送出比任何人在有限時間內能追求的還要多的選項。"
     ],
     [
-     "The distinction between representation and reality is therefore crucial. A photograph records an occasion, not the emotional texture of an entire week. Yet when selected highlights are repeatedly mistaken for ordinary life, viewers may evaluate their unedited routines against an unrealistic reference point. In such circumstances, the apparent inadequacy of one’s own experience is partly a consequence of the comparison itself.",
-     "因此，區分呈現方式與現實至關重要。照片記錄的是某個場合，而不是整個星期的情緒樣貌。然而，當精選亮點一再被誤認為日常生活，觀看者便可能拿自己未經修飾的生活，與不切實際的參照標準比較。在這種情況下，自己的經驗看似不足，有一部分其實是比較行為本身造成的。"
+     "Their findings outlined a troubling profile. Higher FOMO was associated with lower need satisfaction, lower mood and lower life satisfaction, and it was robustly linked to greater social media engagement. It was even associated with distracted driving and with using social media during lectures. Yet the design was correlational. Such data cannot tell us whether feeds produce anxiety, whether anxious people seek out feeds, or whether some third factor drives both. The authors also found that FOMO helped explain why certain individual differences were linked to heavier social media use, suggesting it may act as a bridge between personal needs and online behaviour.",
+     "他們的發現勾勒出一幅令人不安的輪廓。FOMO 較高，與較低的需求滿足、較差的心情和較低的生活滿意度相關，也與更高的社群媒體投入程度有穩健的關聯，甚至與分心駕駛和上課時使用社群媒體有關。然而，這是相關性研究。這類資料無法告訴我們：是動態消息製造了焦慮，還是焦慮的人主動尋找動態消息，或是有第三個因素同時驅動兩者。作者也發現，FOMO 有助於解釋為什麼某些個人差異會與更大量的社群媒體使用有關，這表示它可能是個人需求與線上行為之間的橋樑。"
     ],
     [
-     "It would be misleading, however, to conclude that social media is inherently harmful. Online communities can provide friendship, inspiration, and practical information, particularly for people whose interests are not shared by those around them. The more meaningful question concerns the conditions under which connection turns into competition—and whether users can recognize that transition before it shapes their decisions.",
-     "然而，若因此認定社群媒體本質上有害，也會造成誤導。網路社群可以帶來友誼、靈感與實用資訊，對於周遭缺乏同好的人尤其如此。更有意義的問題在於：連結在什麼條件下變成競爭？使用者能否在它影響決定之前察覺這個轉變？"
+     "An experiment published in 2018 attempted to address the causal question. After a week of baseline monitoring, 143 undergraduates at the University of Pennsylvania were randomly assigned either to limit Facebook, Instagram and Snapchat to ten minutes per platform per day or to continue as usual for three weeks. The limited-use group showed significant reductions in loneliness and depression compared with the control group. The sample was modest and drawn from a single university, so the result is suggestive rather than conclusive. On this basis, the authors proposed that limiting use to approximately 30 minutes per day may lead to significant improvement in well-being — a recommendation worth testing in younger and more diverse groups.",
+     "2018 年發表的一項實驗，試圖回答因果問題。經過一週的基準期記錄後，143 名賓州大學的大學生被隨機分配：一組把 Facebook、Instagram 和 Snapchat 限制在每個平台每天十分鐘，另一組照常使用，為期三週。與對照組相比，限制使用組的孤單感和憂鬱程度都顯著下降。樣本規模不大，又只來自一所大學，所以這個結果是一種提示，而非定論。基於此，作者提出：把使用時間限制在每天約 30 分鐘，可能讓身心健康顯著改善——這個建議值得在更年輕、更多元的族群中加以驗證。"
     ],
     [
-     "Mia eventually developed a modest rule: she would check social media with a purpose rather than use it whenever silence felt uncomfortable. This strategy did not make comparison disappear, nor could it guarantee lasting contentment. It did, however, return one important decision to her: the authority to determine whether her day had been meaningful.",
-     "後來 Mia 建立了一條簡單原則：使用社群媒體應帶著目的，而非每當安靜讓她不自在時就打開它。這項策略不會讓比較完全消失，也無法保證永久滿足；但它的確讓一項重要決定重新回到她手中：由自己判斷這一天是否有意義。"
+     "One detail deserves attention. Both groups showed significant decreases in anxiety and fear of missing out, which the researchers interpreted as a possible benefit of increased self-monitoring. The implication is subtle but important: awareness may matter as much as restriction. A curated feed becomes a measuring stick only when we forget what it is — a selection, not a life. Noticing how we feel before and after we scroll may be the first step towards using comparison wisely rather than being used by it. Seneca made a similar point nearly two thousand years ago: a life spread across everything risks gaining depth in nothing.",
+     "有一個細節值得注意。兩組的焦慮與錯失恐懼都顯著下降，研究人員將此解讀為「更多自我記錄」可能帶來的好處。這個意涵很微妙卻很重要：覺察或許和限制一樣重要。經過篩選的動態，只有在我們忘記它是什麼的時候，才會變成量尺——它是精選，不是人生。留意自己滑動態前後的感受，或許是學會聰明地比較、而不是被比較牽著走的第一步。將近兩千年前，塞內卡就提出過類似的觀點：把人生分散在一切事物上，就可能在任何一件事上都沒有深度。"
     ]
    ]
   }
  },
+ "sections": [
+  {
+   "sectionId": "scene",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "definition",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "correlates",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "experiment",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "self-monitoring",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
  "vocab": [
+  {
+   "w": "Suddenly",
+   "pos": "adv.",
+   "meaning": "突然地",
+   "example": "Suddenly, the lights went out.",
+   "family": "sudden (adj.)"
+  },
+  {
+   "w": "connected",
+   "pos": "adj.",
+   "meaning": "連線的；有聯繫的",
+   "example": "Phones keep us connected.",
+   "family": "connect (v.), connection (n.)"
+  },
+  {
+   "w": "experiment",
+   "pos": "n.",
+   "meaning": "實驗",
+   "example": "We did an experiment in science class.",
+   "family": "experimental (adj.)"
+  },
   {
    "w": "inadequate",
    "pos": "adj.",
    "meaning": "不足的；不夠好的",
-   "example": "The plan seemed inadequate.",
+   "example": "My answer felt inadequate.",
    "family": "inadequacy (n.)"
   },
   {
-   "w": "curated",
+   "w": "questionnaire",
+   "pos": "n.",
+   "meaning": "問卷",
+   "example": "Please fill in this questionnaire.",
+   "family": "question (n.)"
+  },
+  {
+   "w": "satisfaction",
+   "pos": "n.",
+   "meaning": "滿意",
+   "example": "Customer satisfaction is important.",
+   "family": "satisfy (v.), satisfied (adj.)"
+  },
+  {
+   "w": "correlations",
+   "pos": "n.",
+   "meaning": "相關性（複數）",
+   "example": "Correlations do not prove cause.",
+   "family": "correlate (v.)"
+  },
+  {
+   "w": "highlights",
+   "pos": "n.",
+   "meaning": "精華片段",
+   "example": "We watched the match highlights.",
+   "family": "highlight (v.)"
+  },
+  {
+   "w": "pervasive",
    "pos": "adj.",
-   "meaning": "經過挑選與編排的",
-   "example": "Social feeds contain curated moments.",
-   "family": "curate (v.)"
+   "meaning": "普遍的、無所不在的",
+   "example": "Phones have a pervasive influence.",
+   "family": "pervade (v.)"
   },
   {
-   "w": "comparison",
+   "w": "apprehension",
    "pos": "n.",
-   "meaning": "比較",
-   "example": "The comparison was unfair.",
-   "family": "compare (v.)"
+   "meaning": "憂慮、不安",
+   "example": "She felt apprehension before the exam.",
+   "family": "apprehensive (adj.)"
   },
   {
-   "w": "recognize",
-   "pos": "v.",
-   "meaning": "察覺；認出",
-   "example": "She recognized a pattern.",
-   "family": "recognition (n.)"
+   "w": "suggestive",
+   "pos": "adj.",
+   "meaning": "提示性的、暗示的",
+   "example": "The evidence is suggestive but not final.",
+   "family": "suggest (v.)"
   },
   {
-   "w": "circumstances",
-   "pos": "n.",
-   "meaning": "情況；環境",
-   "example": "The circumstances had not changed.",
-   "family": "circumstantial (adj.)"
+   "w": "conclusive",
+   "pos": "adj.",
+   "meaning": "確定的、決定性的",
+   "example": "There is no conclusive proof.",
+   "family": "conclude (v.), conclusion (n.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "missing out",
+   "type": "phrase",
+   "meaning": "錯過（好事）",
+   "usage": "miss out (on sth)：錯過機會或樂趣。",
+   "example": "Don’t miss out on the school trip.",
+   "writing": "the fear of missing out"
   },
   {
-   "w": "distinction",
-   "pos": "n.",
-   "meaning": "區別",
-   "example": "This distinction matters.",
-   "family": "distinct (adj.)"
+   "phrase": "took part in",
+   "type": "phrase",
+   "meaning": "參加（take part in 的過去式）",
+   "usage": "take part in + 活動。",
+   "example": "Many students took part in the race.",
+   "writing": "N + took part in + an experiment"
+  },
+  {
+   "phrase": "gave rise to",
+   "type": "phrase",
+   "meaning": "引起、造成（give rise to 的過去式）",
+   "usage": "give rise to + N：導致某事產生，常用於正式寫作。",
+   "example": "The invention gave rise to new jobs.",
+   "writing": "This environment gave rise to + N"
+  },
+  {
+   "phrase": "rather than",
+   "type": "phrase",
+   "meaning": "而不是",
+   "usage": "連接兩個對等的結構。",
+   "example": "I prefer walking rather than driving.",
+   "writing": "V-ing A rather than V-ing B"
   }
  ],
  "patterns": [
   {
-   "frame": "This suggests that + 子句",
-   "meaning": "這顯示／暗示……；用於審慎推論",
-   "example": "This suggests that comparison can change how we evaluate our lives.",
-   "tip": "若證據不足以確定因果，suggests 通常比 proves 更恰當。"
+   "frame": "Nothing about A had changed, yet B",
+   "meaning": "A 什麼都沒變，B 卻……",
+   "example": "Nothing about her own evening had changed, yet it suddenly felt inadequate.",
+   "tip": "用 yet 帶出出乎意料的轉折。"
   },
   {
-   "frame": "In terms of + 名詞／V-ing",
-   "meaning": "就……而言",
-   "example": "In terms of personal satisfaction, a quiet day can still be meaningful.",
-   "tip": "不可寫成 in terms to。"
+   "frame": "Such data cannot tell us whether A, whether B, or whether C",
+   "meaning": "這類資料無法告訴我們是 A、B 還是 C",
+   "example": "Such data cannot tell us whether feeds produce anxiety, whether anxious people seek out feeds, or whether some third factor drives both.",
+   "tip": "討論相關與因果時的經典句型。"
   },
   {
-   "frame": "Although + 子句, 主句",
-   "meaning": "雖然……，但……",
-   "example": "Although the photos seemed exciting, Mia valued her own experience.",
-   "tip": "英文正式寫作中，Although 子句後不再另外接 but。"
-  },
-  {
-   "frame": "It is worth considering whether + 子句",
-   "meaning": "值得思考是否……",
-   "example": "It is worth considering whether online comparison affects our choices.",
-   "tip": "適合議論文提出問題或轉換論述角度。"
+   "frame": "S + is suggestive rather than conclusive",
+   "meaning": "……是提示而非定論",
+   "example": "The result is suggestive rather than conclusive.",
+   "tip": "評論研究限制時很好用。"
   }
  ],
+ "quote": {
+  "text": "Everywhere means nowhere. When a person spends all his time in foreign travel, he ends by having many acquaintances, but no friends.",
+  "author": "Seneca",
+  "work": "Moral Letters to Lucilius, Letter 2 (trans. Richard Mott Gummere)",
+  "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_2"
+ },
  "quiz": {
   "beginner": [
    {
-    "q": "What made Mia question her Saturday?",
+    "q": "Why does Mia’s evening suddenly feel boring?",
     "options": [
-     "A math test",
-     "Photos posted by her friends",
-     "A phone call from her father",
-     "Her unfinished novel"
+     "Her book is bad",
+     "She sees photos of her friends having fun",
+     "Her phone is broken",
+     "She is tired"
     ],
     "a": 1,
-    "why": "第二段提到她看到同學的照片後開始覺得自己的週末不夠精彩。"
+    "why": "第一段。",
+    "evidence": "Suddenly her quiet evening feels boring."
    },
    {
-    "q": "What does FOMO refer to?",
+    "q": "What is FOMO?",
     "options": [
-     "Fear of missing experiences",
-     "Fear of reading difficult books",
-     "A method of sharing photos",
-     "A way to avoid friends"
+     "A new app",
+     "The fear of missing out",
+     "A kind of music",
+     "A school club"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "FOMO, or the fear of missing out"
+   },
+   {
+    "q": "What does a photo show, according to the article?",
+    "options": [
+     "The whole week",
+     "Only one good moment",
+     "The truth about someone’s life",
+     "Nothing"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "a photo shows only one good moment"
+   },
+   {
+    "q": "What happened in both groups of the experiment?",
+    "options": [
+     "FOMO went down",
+     "FOMO went up",
+     "Nobody changed",
+     "They stopped using phones"
     ],
     "a": 0,
-    "why": "第三段直接解釋 FOMO。"
+    "why": "最後一段。",
+    "evidence": "in both groups, FOMO went down"
    }
   ],
   "intermediate": [
    {
-    "q": "What does the writer suggest about social-media photos?",
+    "q": "How did Przybylski and his colleagues measure FOMO?",
     "options": [
-     "They show complete personal histories",
-     "They are usually impossible to understand",
-     "They represent selected moments rather than whole lives",
-     "They should never be shared"
+     "With brain scans",
+     "With a questionnaire they created",
+     "By counting photos",
+     "By interviewing parents"
     ],
-    "a": 2,
-    "why": "第三段指出觀看者可能把精選圖片誤當成完整人生。"
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "They created a questionnaire to measure it"
    },
    {
-    "q": "Why does Mia pause before opening an app?",
+    "q": "Why can the 2013 study not prove that social media causes FOMO?",
     "options": [
-     "To decide whether she has a purpose",
-     "To turn off all notifications forever",
-     "To compare her photos with others",
-     "To avoid speaking to her brother"
+     "Its results were correlations",
+     "It had no participants",
+     "It was about driving",
+     "It was too long"
     ],
     "a": 0,
-    "why": "第四段說明她先釐清打開 App 的目的。"
+    "why": "第三段。",
+    "evidence": "However, these were correlations"
+   },
+   {
+    "q": "How long did the 2018 experiment last after the baseline week?",
+    "options": [
+     "Three days",
+     "One week",
+     "Three weeks",
+     "Three months"
+    ],
+    "a": 2,
+    "why": "第四段。",
+    "evidence": "or to use social media as usual, for three weeks"
+   },
+   {
+    "q": "What did the researchers suggest might help both groups?",
+    "options": [
+     "Deleting all apps",
+     "Simply monitoring one’s own use",
+     "Posting more photos",
+     "Studying harder"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "simply monitoring one’s own use may help"
    }
   ],
   "advanced": [
    {
-    "q": "Which assumption does the author most directly challenge?",
+    "q": "According to the writer, what has changed about social comparison?",
     "options": [
-     "Social connections matter to humans",
-     "An exciting photograph represents ordinary life",
-     "People sometimes compare themselves with others",
-     "Online communities can offer information"
+     "Its scale and selectivity",
+     "People no longer compare",
+     "Festinger’s theory was disproved",
+     "It only happens offline"
     ],
-    "a": 1,
-    "why": "第三段指出照片並不能代表一整週的情緒樣貌，挑戰把精選亮點視為日常的假設。"
+    "a": 0,
+    "why": "第一段。",
+    "evidence": "What has changed is the scale and selectivity of the comparison."
    },
    {
-    "q": "What best describes the author’s attitude toward social media?",
+    "q": "Which explanation does the writer say correlational data cannot rule out?",
     "options": [
-     "Entirely dismissive",
-     "Unconditionally enthusiastic",
-     "Qualified and balanced",
-     "Unconcerned about its effects"
+     "That some third factor drives both",
+     "That photos are real",
+     "That teenagers use phones",
+     "That Festinger was right"
     ],
-    "a": 2,
-    "why": "第四段同時指出社群媒體的風險及潛在益處，觀點有所保留且平衡。"
+    "a": 0,
+    "why": "第三段。",
+    "evidence": "or whether some third factor drives both"
+   },
+   {
+    "q": "Why does the writer call the 2018 result “suggestive rather than conclusive”?",
+    "options": [
+     "The sample was modest and from a single university",
+     "It found no effect",
+     "It was not random",
+     "It studied only Facebook"
+    ],
+    "a": 0,
+    "why": "第四段。",
+    "evidence": "The sample was modest and drawn from a single university"
+   },
+   {
+    "q": "What is the “subtle but important” implication in the last paragraph?",
+    "options": [
+     "Restriction is useless",
+     "Awareness may matter as much as restriction",
+     "Feeds are always harmful",
+     "Comparison should be avoided completely"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "awareness may matter as much as restriction"
    }
   ]
  },
  "reflections": [
-  "Is a meaningful day necessarily an exciting one? Explain your view.",
-  "How could a student use social media without relying on it to judge personal success?"
+  "Is a meaningful day necessarily an exciting one? Describe an ordinary day that felt meaningful to you.",
+  "Try tracking your social media use for three days. What did you notice about your feelings before and after scrolling?"
  ],
  "videos": [
   {
@@ -237,34 +440,16 @@
    "kind": "TED",
    "desc": "Learn how to rethink online comparison and protect your sense of self.",
    "zh": "重新思考社群比較與自我價值。",
-   "question": "How do social media metrics influence self-worth?"
+   "question": "Which of her tips connects to the idea of self-monitoring?"
   },
   {
    "title": "What we're getting wrong about teens and tech",
-   "channel": "TED2026 · Candice Odgers",
+   "channel": "TED · Candice Odgers",
    "url": "https://www.ted.com/talks/candice_odgers_what_we_re_getting_wrong_about_teens_and_tech",
    "kind": "TED",
-   "desc": "Explore a research-informed perspective on adolescents and digital technology.",
-   "zh": "從研究角度重新檢視青少年與科技的關係。",
-   "question": "What assumptions about technology should we question?"
-  },
-  {
-   "title": "Creation of mind beyond FOMO (Fear Of Missing Out)",
-   "channel": "TEDxIMIB · Prabal Chakraborty",
-   "url": "https://www.ted.com/talks/prabal_chakraborty_creation_of_mind_beyond_fomo_fear_of_missing_out",
-   "kind": "TEDx",
-   "desc": "A talk directly about fear of missing out and self-awareness.",
-   "zh": "直接討論 FOMO 與自我覺察。",
-   "question": "What can we do when we feel left out?"
-  },
-  {
-   "title": "Social media isn't bad: you're just using it wrong",
-   "channel": "TEDxCherryCreekWomen · Eva Amin",
-   "url": "https://www.ted.com/talks/eva_amin_social_media_isn_t_bad_you_re_just_using_it_wrong",
-   "kind": "TEDx",
-   "desc": "Consider a less pessimistic view of social media use.",
-   "zh": "探討社群媒體可能帶來的正面價值。",
-   "question": "Can social media be beneficial?"
+   "desc": "A researcher questions simple stories about adolescents and digital technology.",
+   "zh": "研究者質疑關於青少年與科技的簡化說法。",
+   "question": "How does her talk connect to the difference between correlation and cause?"
   }
  ]
 }
