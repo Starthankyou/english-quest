@@ -1,0 +1,243 @@
+{
+ "id": "ai",
+ "category": "科技與教育",
+ "title": "When AI Gives the Answer, Who Does the Learning?",
+ "subtitle": "生成式 AI、學習與思考",
+ "source": "原創議題文章；不引用特定研究統計",
+ "levels": {
+  "beginner": {
+   "title": "A Helpful Answer Is Not Always Learning",
+   "paras": [
+    [
+     "Leo had ten minutes to finish his science homework. He asked an AI chatbot a question, and a clear answer appeared immediately. He copied it into his notebook and felt relieved.",
+     "Leo 只剩十分鐘能完成科學作業。他問了 AI 聊天機器人一個問題，清楚的答案立刻出現。他把答案抄進筆記本，鬆了一口氣。"
+    ],
+    [
+     "The next day, his teacher asked him to explain the answer in his own words. Leo could not do it. He realized that getting the correct answer was different from understanding the idea behind it.",
+     "隔天老師請他用自己的話解釋答案，Leo 卻做不到。他發現取得正確答案，和真正理解背後概念，是兩回事。"
+    ],
+    [
+     "AI can help students study. It can explain new words, provide examples, and ask practice questions. However, students still need to check information and try solving problems on their own.",
+     "AI 可以協助學生學習，像是解釋生字、提供例子、提出練習題。然而，學生仍需要查核資訊，並嘗試自己解決問題。"
+    ],
+    [
+     "Leo changed his method. Before asking AI for help, he wrote his best guess. Then he asked the chatbot to explain where his reasoning went wrong. Sometimes the tool made mistakes too, so he compared its answers with his textbook.",
+     "Leo 改變了方法。向 AI 求助前，他先寫下自己的最佳猜測，再請聊天機器人指出推理哪裡有誤。有時工具也會犯錯，因此他會拿答案與教科書核對。"
+    ],
+    [
+     "After a week, Leo still used AI, but he used it to practice rather than to escape difficult work. The answers arrived quickly; understanding took more time.",
+     "一週後，Leo 仍使用 AI，但把它用來練習，而不是逃避困難的工作。答案來得很快，理解卻需要更多時間。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "The Difference Between Receiving and Understanding",
+   "paras": [
+    [
+     "When Leo used an AI chatbot to complete his science assignment, the experience felt remarkably efficient. Within seconds, he received an explanation that sounded clearer than anything he could have written himself. Yet the following morning, when his teacher asked him to justify the answer, he discovered that fluency on a screen did not automatically become knowledge in his mind.",
+     "Leo 使用 AI 聊天機器人完成科學作業時，覺得效率驚人。短短幾秒，他便獲得一段聽起來比自己寫的更清楚的解釋。然而隔天早上，老師請他說明理由時，他才發現螢幕上的流暢文字，不會自動變成腦中的知識。"
+    ],
+    [
+     "Generative AI can serve several useful roles in learning. For instance, it can present alternative explanations, help students examine a difficult passage, or offer practice questions. Nevertheless, its convenience introduces a challenge: learners may confuse familiarity with mastery, especially when an answer seems convincing.",
+     "生成式 AI 在學習中可以發揮多種用途，例如提供不同解釋、協助分析難懂段落，或提出練習問題。然而便利性也帶來挑戰：當答案看起來有說服力時，學習者可能把熟悉感誤認為真正掌握。"
+    ],
+    [
+     "To address this problem, Leo adopted a three-step approach. First, he tried answering independently. Second, he asked AI for feedback instead of a finished response. Finally, he closed the chatbot and explained the concept without looking at his notes. This last step was uncomfortable, but it revealed gaps that passive reading had hidden.",
+     "為了解決這個問題，Leo 採用三步驟。首先獨立作答，其次請 AI 回饋而非直接給完成版答案，最後關掉聊天視窗，不看筆記自行解釋概念。最後一步讓人不太舒服，卻能暴露被被動閱讀掩蓋的理解缺口。"
+    ],
+    [
+     "There is another reason to remain cautious: AI-generated responses can contain errors. A confident tone is not proof of accuracy. When information matters, students should compare explanations with reliable sources and ask whether the evidence supports the conclusion.",
+     "另一個需要謹慎的原因是：AI 生成的回答也可能有錯誤。有自信的語氣不等於正確。當資訊很重要時，學生應與可靠來源比對，並檢查證據是否支持結論。"
+    ],
+    [
+     "The goal, therefore, is not to choose between technology and independent thought. It is to design a learning process in which technology supports the effort that produces understanding, rather than replacing it.",
+     "因此，目標不是在科技與獨立思考之間二選一，而是設計一套學習流程，讓科技支持產生理解所需的努力，而不是取代這份努力。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "The Illusion of Knowing in an Age of Instant Answers",
+   "paras": [
+    [
+     "The answer appeared almost before Leo had finished formulating the question. Written in confident, orderly sentences, the AI-generated explanation made a complicated scientific concept seem deceptively simple. Yet when he was subsequently asked to reconstruct the reasoning without assistance, the apparent clarity vanished. What he had acquired was access to an explanation, not necessarily the ability to produce or evaluate one.",
+     "答案幾乎在 Leo 問完問題之前就出現了。AI 生成的解釋句子井然有序、語氣篤定，讓複雜的科學概念顯得異常簡單。然而，當他必須在沒有協助的情況下重新推導時，那份看似清晰的理解就消失了。他得到的是解釋的取得管道，而不一定是自行建立或評估解釋的能力。"
+    ],
+    [
+     "This distinction matters because learning is not synonymous with exposure to information. A polished response may reduce immediate confusion while leaving essential cognitive work unfinished. The learner still needs to distinguish evidence from assertion, connect new ideas with previous knowledge, and retrieve those ideas later without external prompts.",
+     "這個區別很重要，因為學習不等於接觸資訊。一段精緻的回答可能立刻減少困惑，卻讓必要的認知工作尚未完成。學習者仍須區分證據與主張、把新觀念連結到既有知識，並在之後沒有外部提示的情況下提取這些觀念。"
+    ],
+    [
+     "It would nevertheless be mistaken to treat ease of access as an educational disadvantage in itself. Generative AI can provide multiple explanations, lower the barrier to asking questions, and offer opportunities for practice. Its educational value depends less on whether students use it than on what they are asked to do while using it. A chatbot that supplies completed work may encourage dependence; one that challenges an initial explanation can instead stimulate reflection.",
+     "然而，把資訊容易取得本身視為教育上的缺點，也是不恰當的。生成式 AI 能提供多種解釋、降低提問門檻，並創造練習機會。它的教育價值，與其說取決於學生是否使用，不如說取決於學生使用時必須做什麼。提供完整作業的聊天機器人可能助長依賴；挑戰學生初步解釋的工具，則可能促進反思。"
+    ],
+    [
+     "Accuracy introduces a further complication. Language models can generate statements that are grammatically polished yet factually unsupported. Consequently, a convincing explanation should be treated as a claim to examine, not a conclusion to accept automatically. Source checking and independent verification become part of the learning task rather than optional activities performed afterward.",
+     "正確性則帶來另一層複雜性。語言模型可能產生文法流暢、但缺乏事實支持的陳述。因此，有說服力的解釋應被視為需要檢視的主張，而不是直接接受的結論。來源查核與獨立驗證應成為學習任務的一部分，而非事後可有可無的活動。"
+    ],
+    [
+     "In terms of classroom practice, the most promising question may therefore be a design question: how can AI make worthwhile thinking more accessible without making thinking itself optional? The answer is unlikely to lie in either unrestricted automation or a blanket prohibition. It lies in placing genuine intellectual responsibility back in the hands of learners.",
+     "就課堂實務而言，最值得問的或許是一個設計問題：如何讓 AI 降低有價值思考的門檻，卻不讓思考本身變成可省略的步驟？答案恐怕既不是毫無限制的自動化，也不是全面禁止，而是把真正的智識責任重新交還學習者。"
+    ]
+   ]
+  }
+ },
+ "vocab": [
+  {
+   "w": "fluency",
+   "pos": "n.",
+   "meaning": "流暢；流利",
+   "example": "Fluency is not the same as understanding.",
+   "family": "fluent (adj.)"
+  },
+  {
+   "w": "independently",
+   "pos": "adv.",
+   "meaning": "獨立地",
+   "example": "Students should think independently.",
+   "family": "independent (adj.)"
+  },
+  {
+   "w": "convincing",
+   "pos": "adj.",
+   "meaning": "有說服力的",
+   "example": "A convincing tone can hide errors.",
+   "family": "convince (v.)"
+  },
+  {
+   "w": "retrieve",
+   "pos": "v.",
+   "meaning": "提取；取回",
+   "example": "Learners retrieve information from memory.",
+   "family": "retrieval (n.)"
+  },
+  {
+   "w": "verification",
+   "pos": "n.",
+   "meaning": "查證",
+   "example": "Verification remains important.",
+   "family": "verify (v.)"
+  },
+  {
+   "w": "assistance",
+   "pos": "n.",
+   "meaning": "協助",
+   "example": "He tried without assistance.",
+   "family": "assist (v.)"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "It indicates that + 子句",
+   "meaning": "這顯示……（較直接的結果解讀）",
+   "example": "The result indicates that some students need more practice.",
+   "tip": "動詞是 indicates，不是 indicateds；過去式為 indicated。"
+  },
+  {
+   "frame": "In terms of + 名詞／V-ing",
+   "meaning": "就……方面而言",
+   "example": "In terms of accuracy, every answer should be checked.",
+   "tip": "terms 後面接 of。"
+  },
+  {
+   "frame": "With regard to + 名詞",
+   "meaning": "關於……",
+   "example": "With regard to AI use, clear learning goals matter.",
+   "tip": "也可用 regarding + 名詞；不可寫 regarding to。"
+  },
+  {
+   "frame": "Rather than + V-ing / 名詞",
+   "meaning": "而不是……",
+   "example": "Students should evaluate evidence rather than accept it blindly.",
+   "tip": "rather than 後的結構應與前文語意協調。"
+  }
+ ],
+ "quiz": {
+  "beginner": [
+   {
+    "q": "Why could Leo not explain his science answer?",
+    "options": [
+     "He lost his textbook",
+     "He copied an answer without understanding it",
+     "His teacher changed the topic",
+     "The classroom was too noisy"
+    ],
+    "a": 1,
+    "why": "文章指出取得答案不等於理解。"
+   },
+   {
+    "q": "What did Leo do before asking AI after changing his method?",
+    "options": [
+     "He wrote his own guess",
+     "He copied the question twice",
+     "He stopped studying",
+     "He asked his brother"
+    ],
+    "a": 0,
+    "why": "第四段敘述他先寫出自己的猜測。"
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "What does “familiarity with mastery” mean in the passage?",
+    "options": [
+     "Students should memorize every word",
+     "Familiar-looking answers may not reflect true understanding",
+     "AI is never useful",
+     "Science is easier than other subjects"
+    ],
+    "a": 1,
+    "why": "第二段說明看似熟悉的答案可能讓人誤判學習成果。"
+   },
+   {
+    "q": "Why does Leo explain the concept with his notes closed?",
+    "options": [
+     "To practice handwriting",
+     "To reveal gaps in understanding",
+     "To save electricity",
+     "To impress classmates"
+    ],
+    "a": 1,
+    "why": "第三段指出此步驟可以揭露被動閱讀掩蓋的理解缺口。"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "Which statement best expresses the author’s central claim?",
+    "options": [
+     "AI should be completely removed from school",
+     "Fast access to answers is equal to mastery",
+     "Learning tasks should preserve learners’ intellectual responsibility",
+     "Only scientific subjects benefit from AI"
+    ],
+    "a": 2,
+    "why": "最後一段強調以設計保留學習者真正的思考責任。"
+   },
+   {
+    "q": "What is the author’s view of a fluent AI explanation?",
+    "options": [
+     "It proves the answer is accurate",
+     "It is a claim that may still require verification",
+     "It should replace textbooks",
+     "It is always misleading"
+    ],
+    "a": 1,
+    "why": "第四段明確指出流暢不等於事實正確。"
+   }
+  ]
+ },
+ "reflections": [
+  "When is AI helping you think, and when is it thinking instead of you?",
+  "Design one rule that would make AI-assisted homework more meaningful."
+ ],
+ "videos": [
+  {
+   "title": "How to make learning as addictive as social media",
+   "channel": "TED2023 · Luis von Ahn",
+   "url": "https://www.ted.com/talks/luis_von_ahn_how_to_make_learning_as_addictive_as_social_media",
+   "kind": "TED",
+   "desc": "How educational design can borrow ideas from digital engagement.",
+   "zh": "探索學習工具如何借鏡數位互動機制。",
+   "question": "What makes learning engaging?"
+  }
+ ]
+}
