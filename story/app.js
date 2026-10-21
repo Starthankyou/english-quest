@@ -1,8 +1,6 @@
 // English Story Quest — 靜態網頁，內容全部來自 content/*.json，不需建置。介面英文優先，中文用 .sub 小字放下方。
 const KEY = "esq:v1";
 const app = document.getElementById("app");
-const card = document.getElementById("card");
-const cardBody = document.getElementById("card-body");
 const tally = document.getElementById("tally");
 
 /* ---------- 本機紀錄（localStorage 可能被擋，失敗時仍可閱讀） ---------- */
@@ -60,33 +58,25 @@ const markup = (text, core) => esc(text).replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]
 const bi = (en, zh) => `${en}<span class="sub">${zh}</span>`;   // 英文優先，中文小字在下
 const norm = s => s.trim().toLowerCase().replace(/[’']/g, "'").replace(/\s+/g, " ");
 
-/* ---------- 字卡 ---------- */
+/* ---------- 字卡（全站共用 shared/wordcard.js） ---------- */
 function openCard(w) {
-  const r = chars.residents[w] || {};
-  const x = lexicon[w] || { word: w, zh: r.zh, kk: r.kk };
-  const bs = [].concat(r.badge || []).map(k => chars.badges[k]).filter(Boolean);
-  const canSpeak = "speechSynthesis" in window;
-  cardBody.innerHTML = `
-    <h3>${esc(x.word)}${canSpeak ? `<button type="button" class="speak" data-say="${esc(x.word)}">🔊 Listen</button>` : ""}</h3>
-    ${x.kk ? `<div class="kk">/${esc(x.kk)}/　${esc(x.pos || "")}${x.level ? `　CEEC Level ${x.level}` : ""}</div>` : ""}
-    ${bs.map(b => `<span class="badge" style="background:${b.color}">${esc(b.zh)}・${esc(b.label)}</span>`).join(" ")}
-    <dl>
-      ${x.zh ? `<dt>Meaning · 意思</dt><dd>${esc(x.zh)}</dd>` : ""}
-      ${r.look ? `<dt>In English World · 在英語世界長這樣</dt><dd>${esc(r.look)}</dd>` : ""}
-      ${r.trait ? `<dt>Personality = meaning · 個性＝字義</dt><dd>${esc(r.trait)}</dd>` : ""}
-      ${r.usage ? `<dt>Real-world usage · 真實英文怎麼用</dt><dd>${esc(r.usage)}</dd>` : ""}
-      ${state.words[w]?.ctx?.lab ? `<dt>New context · 換情境遇見</dt><dd>You also met this word in Reading Lab. ✓<span class="sub">你也在 Reading Lab 的文章裡遇過這個字。</span></dd>` : ""}
-    </dl>`;
-  card.hidden = false;
   markSeen(w);
+  const r = state.words[w];
+  EWCard.open({ word: w, newContext: !!(r?.ctx?.story && r?.ctx?.lab) });
 }
-card.addEventListener("click", e => {
-  if (e.target.closest(".card-close")) card.hidden = true;
-  const s = e.target.closest("[data-say]");
-  if (s) { const u = new SpeechSynthesisUtterance(s.dataset.say); u.lang = "en-US"; speechSynthesis.cancel(); speechSynthesis.speak(u); }
-});
-document.addEventListener("keydown", e => { if (e.key === "Escape") card.hidden = true; });
 app.addEventListener("click", e => { const b = e.target.closest("button.w"); if (b) openCard(b.dataset.w); });
+
+/* ---------- 朗讀（全站共用 shared/speech.js） ---------- */
+const plain = t => t.replace(/\[\[([^\]|]+)(?:\|[^\]]+)?\]\]/g, "$1");
+const clearSpeaking = () => document.querySelectorAll(".block.speaking").forEach(el => el.classList.remove("speaking"));
+document.addEventListener("ew:speech-stop", clearSpeaking);
+function readBlocks(ep, idxs) {
+  EWSpeech.speak(idxs.map(i => plain(ep.blocks[i].en)), {
+    onStart: k => { clearSpeaking(); document.querySelector(`.block[data-b="${idxs[k]}"]`)?.classList.add("speaking"); },
+    onDone: clearSpeaking,
+    onUnavailable: () => alert("Speech playback is unavailable in this browser.／此瀏覽器不支援朗讀。"),
+  });
+}
 
 /* ---------- 頁面 ---------- */
 async function epExists(week, n) { return !!(await getJSON(`weeks/${week}/d${n}.json`)); }
@@ -123,13 +113,14 @@ async function viewEpisode(week, n) {
   if (!ep) return notFound();
   const core = ep.words;
   const blocks = ep.blocks.map((b, i) => b.choice ? choiceHTML(ep, b.choice) : `
-    <div class="block"><p>${markup(b.en, core)}<button type="button" class="zh-toggle" data-zh="${i}" aria-expanded="false" aria-label="Show Chinese translation">中</button></p>
+    <div class="block" data-b="${i}"><p>${markup(b.en, core)}<button type="button" class="zh-toggle" data-zh="${i}" aria-expanded="false" aria-label="Show Chinese translation">中</button><button type="button" class="zh-toggle" data-play="${i}" aria-label="Play paragraph ${i + 1}">▶</button></p>
     <p class="zh" id="zh-${i}" hidden>${esc(b.zh)}</p></div>`).join("");
   const hasNext = await epExists(week, n + 1);
   app.innerHTML = `
     <p class="muted" style="margin:0"><a href="#/${week}" class="muted">← This week</a>　Day ${n}${ep.big ? " · Big story" : ""}　<span class="lv">${esc(ep.level)}</span></p>
     ${ep.big ? `<p class="muted" style="font-size:15px">${bi(`All ${ep.review.length} residents of this week are back. Tap a dotted word to review it.`, `本週 ${ep.review.length} 位居民全部回來了，點虛線的字可以複習。`)}</p>` : ""}
     <h1>${esc(ep.title.en)}</h1><p class="zh-title">${esc(ep.title.zh)}</p>
+    <div class="readctl"><button type="button" class="btn ghost" id="play-all">▶ Play all</button><button type="button" class="btn ghost" id="stop-all">■ Stop</button></div>
     ${blocks}
     <div class="insight"><p>${esc(ep.insight.en)}</p><p class="zh" style="border:0;padding:0">${esc(ep.insight.zh)}</p>
       <p class="by">— ${esc(ep.insight.by)}</p></div>
@@ -171,6 +162,10 @@ function bindEpisode(ep) {
   const choice = ep.blocks.find(b => b.choice)?.choice;
   const used = {}; // 題號 -> {hint, shown}
   app.onclick = e => {
+    const pl = e.target.closest("[data-play]");
+    if (pl) readBlocks(ep, [+pl.dataset.play]);
+    if (e.target.id === "play-all") readBlocks(ep, ep.blocks.map((b, i) => (b.en ? i : -1)).filter(i => i >= 0));
+    if (e.target.id === "stop-all") EWSpeech.stop();
     const z = e.target.closest("[data-zh]");
     if (z) { const p = document.getElementById(`zh-${z.dataset.zh}`); p.hidden = !p.hidden; z.setAttribute("aria-expanded", String(!p.hidden)); }
     const o = e.target.closest("[data-opt]");
@@ -238,7 +233,7 @@ async function viewRecords() {
 const notFound = () => { app.innerHTML = `<p>${bi("Story not found.", "找不到這一篇。")} <a href="#/w01">← This week</a></p>`; };
 
 async function route() {
-  card.hidden = true;
+  EWCard.close(); EWSpeech.stop();
   app.onclick = app.onkeydown = null;
   reload(); renderTally();
   const [week, ep] = location.hash.replace(/^#\/?/, "").split("/");
