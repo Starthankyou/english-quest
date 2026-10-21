@@ -1,0 +1,474 @@
+{
+ "id": "false-news",
+ "category": "心理與數位生活",
+ "title": "Why False Stories Travel Faster",
+ "subtitle": "假消息為什麼跑得比真相快",
+ "pairedWith": "story:w01",
+ "source": "原創教學文章；研究數據依 Vosoughi, Roy & Aral (2018), Science 及 MIT News 報導，2026-10-21 核對",
+ "sources": [
+  {
+   "title": "Vosoughi, Roy & Aral (2018). The spread of true and false news online. Science, 359(6380).",
+   "url": "https://doi.org/10.1126/science.aap9559",
+   "accessed": "2026-10-21"
+  },
+  {
+   "title": "MIT News (2018-03-08). Study: On Twitter, false news travels faster than true stories.",
+   "url": "https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308",
+   "accessed": "2026-10-21"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "The Message That Ran Faster",
+   "paras": [
+    [
+     "Imagine two messages arrive on your phone at the same time. One is true but a little boring. The other is surprising and exciting — and false. Which one will your friends share first? Many people guess the true one. A large study suggests the answer is the false one.",
+     "想像兩則訊息同時傳到你的手機。一則是真的，但有點無聊；另一則令人驚訝又刺激——但是假的。你的朋友會先轉傳哪一則？很多人猜是真的那則。但一項大型研究指出，答案是假的那則。"
+    ],
+    [
+     "In 2018, three researchers at MIT published a study in the journal Science. They looked at about 126,000 news stories that spread on Twitter between 2006 and 2017. About three million people shared these stories more than 4.5 million times. Six fact-checking groups had already decided whether each story was true or false, so the researchers had reliable evidence about every story.",
+     "2018 年，三位麻省理工學院（MIT）的研究者在《科學》期刊發表了一項研究。他們分析了 2006 到 2017 年間在 Twitter 上流傳的約 12 萬 6 千則新聞，約三百萬人把這些新聞轉發了超過 450 萬次。六個事實查核組織早已判定每則新聞是真是假，所以研究者對每則新聞都有可靠的證據。"
+    ],
+    [
+     "The results were clear. False stories were 70 percent more likely to be shared again than true ones. True stories took about six times longer to reach 1,500 people. In other words, a rumor could travel across the network while the truth was still getting ready.",
+     "結果很清楚。假新聞被再次轉發的機率比真新聞高 70%；真新聞觸及 1,500 人所花的時間，大約是假新聞的六倍。換句話說，謠言已經傳遍整個網路，真相還在準備出門。"
+    ],
+    [
+     "Why does this happen? The researchers found that false news often felt new and surprising. People enjoy sharing something new, because it makes them look like they know something first. Many replies to false stories showed surprise and disgust. Robots, or “bots”, were not the main problem. When the researchers removed them, the result stayed the same. People spread most of the false news.",
+     "為什麼會這樣？研究者發現，假新聞常常讓人覺得新鮮又意外。人們喜歡分享新東西，因為這讓自己看起來比別人先知道。許多對假新聞的回應都帶著驚訝和厭惡。機器人帳號（bots）並不是主要問題：研究者把它們移除後，結果還是一樣。散播大部分假新聞的，是人。"
+    ],
+    [
+     "This means that each of us is part of the answer. Before you share a story, you can stop and ask a few questions. Who wrote it? Is the writer anonymous? Is there evidence, or only strong feelings? Does the headline exaggerate? A few seconds of checking can slow down a false story.",
+     "這代表我們每個人都是解答的一部分。轉傳一則消息前，你可以停下來問幾個問題：誰寫的？作者是匿名的嗎？有證據，還是只有強烈的情緒？標題有沒有誇大？幾秒鐘的查證，就能讓一則假消息跑慢一點。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "Why False Stories Travel Faster",
+   "paras": [
+    [
+     "Picture two posts appearing in your feed at the same moment. One reports an ordinary but accurate fact; the other makes a shocking claim that turns out to be false. If you had to bet on which one would be shared more widely, which would you choose? Most of us would like to believe that truth has the advantage. A landmark study, however, suggests the opposite.",
+     "想像兩則貼文同時出現在你的動態上。一則報導一個平凡但正確的事實；另一則提出驚人的說法，後來證明是假的。如果要你賭哪一則會被分享得更廣，你會選哪一則？我們大多希望相信真相占上風。然而，一項里程碑式的研究顯示，事實正好相反。"
+    ],
+    [
+     "In 2018, MIT researchers Soroush Vosoughi, Deb Roy and Sinan Aral published one of the largest studies of how news spreads online. They tracked roughly 126,000 stories that circulated on Twitter between 2006 and 2017, shared more than 4.5 million times by about three million people. To decide which stories were true, they relied on six independent fact-checking organizations, whose judgments agreed more than 95 percent of the time.",
+     "2018 年，MIT 研究者 Soroush Vosoughi、Deb Roy 和 Sinan Aral 發表了一項關於新聞如何在網路上傳播的大型研究。他們追蹤了 2006 到 2017 年間在 Twitter 上流傳的約 12 萬 6 千則新聞，這些新聞被約三百萬人轉發超過 450 萬次。為了判斷哪些是真的，他們採用六個獨立事實查核組織的判定，這些組織的判斷有超過 95% 的時候是一致的。"
+    ],
+    [
+     "The gap between true and false news was striking. False stories were 70 percent more likely to be retweeted than true ones, and true stories needed about six times as long to reach 1,500 people. Political news spread especially fast. As one of the researchers put it, falsehood diffuses “significantly farther, faster, deeper, and more broadly than the truth.”",
+     "真假新聞之間的差距非常驚人。假新聞被轉推的機率比真新聞高 70%，而真新聞要花大約六倍的時間才能觸及 1,500 人。政治新聞傳得特別快。正如其中一位研究者所說，假消息的擴散「比真相傳得更遠、更快、更深、也更廣，而且差距顯著」。"
+    ],
+    [
+     "What gives false news this speed? The researchers point to novelty. False stories tended to be more surprising, and people who share surprising information can appear to be “in the know.” Replies to false stories expressed more surprise and disgust, while replies to true stories showed more sadness, anticipation and trust. Notably, automated accounts were not to blame: when bots were removed from the data, the difference remained. The study does not prove that novelty alone causes sharing, but it suggests that human choices, rather than machines, drive the problem.",
+     "是什麼讓假新聞跑得這麼快？研究者指向「新奇感」。假新聞往往更令人意外，而分享意外消息的人，看起來就像是「消息靈通」的人。對假新聞的回應表達了較多的驚訝與厭惡，對真新聞的回應則較多悲傷、期待與信任。值得注意的是，自動化帳號並不是元兇：把機器人帳號從資料中移除後，差距依然存在。這項研究並沒有證明新奇感本身就會導致分享，但它顯示推動問題的是人的選擇，而不是機器。"
+    ],
+    [
+     "If people are the main reason false news spreads, people can also be part of the solution. Before sharing, it is worth asking where a story comes from, whether its source is anonymous, and whether it offers evidence or simply an emotional reaction. Headlines that exaggerate or sound too perfect deserve a second look. Slowing down for a moment may feel small, but across millions of users, small pauses add up.",
+     "如果人是假新聞擴散的主因，人也可以是解方的一部分。分享之前，值得問一問：這則消息從哪裡來？來源是不是匿名的？它提供了證據，還是只有情緒反應？誇大其詞或聽起來太完美的標題，值得多看一眼。停下來一下或許微不足道，但在數百萬使用者之間，這些小小的停頓會累積起來。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "The Speed of a Story",
+   "paras": [
+    [
+     "We like to imagine that information markets reward accuracy — that, given enough time and enough readers, true claims will outcompete false ones. Yet the architecture of social media complicates this comforting assumption. When any user can broadcast to an audience of thousands, the question is no longer simply what is true, but what is likely to be passed on.",
+     "我們喜歡想像資訊市場會獎勵正確——只要時間夠長、讀者夠多，真的說法終究會勝過假的。然而，社群媒體的結構讓這個令人安心的假設變得複雜。當任何使用者都能向成千上萬的觀眾廣播，問題就不再只是「什麼是真的」，而是「什麼可能被傳下去」。"
+    ],
+    [
+     "A 2018 study in Science by Soroush Vosoughi, Deb Roy and Sinan Aral offered one of the most detailed answers to that question. Drawing on Twitter’s archive, the authors examined roughly 126,000 news cascades — unbroken chains of retweets — that were shared more than 4.5 million times by about three million people between 2006 and 2017. Crucially, they did not judge the stories themselves; they relied on six independent fact-checking organizations whose verdicts overlapped more than 95 percent of the time. Politics was the largest category, with about 45,000 cascades, followed by urban legends, business, terrorism, science, entertainment and natural disasters.",
+     "Soroush Vosoughi、Deb Roy 與 Sinan Aral 在 2018 年發表於《科學》的研究，為這個問題提供了最詳盡的答案之一。作者利用 Twitter 的歷史資料，分析了約 12 萬 6 千個新聞「轉推鏈」（不間斷的轉推串），這些內容在 2006 到 2017 年間被約三百萬人轉發超過 450 萬次。關鍵在於，他們沒有自己判斷新聞真假，而是採用六個獨立事實查核組織的判定，這些判定有超過 95% 的時候相互一致。政治是最大的類別，約有 4 萬 5 千個轉推鏈，其次是都市傳說、商業、恐怖主義、科學、娛樂和天然災害。"
+    ],
+    [
+     "Their central finding was unambiguous: falsehood diffuses “significantly farther, faster, deeper, and more broadly than the truth” across every category of information. False stories were 70 percent more likely to be retweeted, and accurate stories took roughly six times as long to reach 1,500 people. Measured by depth, falsehoods reached ten steps along a retweet chain about twenty times faster than facts did. The effect was strongest for political news, an area in which a claim can mislead the public long before any correction appears.",
+     "他們的核心發現毫不含糊：在每一類資訊中，假消息的擴散都「比真相傳得更遠、更快、更深、也更廣，而且差距顯著」。假新聞被轉推的機率高出 70%，正確的新聞則要花大約六倍時間才能觸及 1,500 人。若以深度衡量，假消息沿著轉推鏈傳到第十層的速度，大約是事實的二十倍。這個效應在政治新聞上最強烈——在這個領域裡，一個說法可能在任何更正出現之前，早已誤導了大眾。"
+    ],
+    [
+     "The more unsettling result concerned responsibility. Automated bots spread true and false stories at similar rates, so removing them did not change the overall pattern; the difference was driven by human users. The authors proposed a “novelty hypothesis”: false stories were measurably more novel, and the replies they attracted expressed more surprise and disgust, whereas replies to true stories leaned towards sadness, anticipation and trust. Sharing novel information may confer social status, signaling that one is “in the know.” The researchers were careful, however, to state that they could not claim novelty causes retweets — a distinction between correlation and causation that is easily lost when findings are retold.",
+     "更令人不安的結果與責任有關。自動化機器人帳號散播真假新聞的速度差不多，所以把它們移除後，整體模式並沒有改變；造成差距的是人類使用者。作者提出「新奇假說」：假新聞在可測量的程度上更新奇，引來的回應也表達了更多驚訝與厭惡；對真新聞的回應則偏向悲傷、期待與信任。分享新奇資訊可能帶來社會地位，暗示自己是「消息靈通」的人。不過研究者很謹慎地說明，他們不能斷言新奇感導致了轉推——這種相關與因果的區別，在研究結果被轉述時很容易消失。"
+    ],
+    [
+     "If the problem is behavioral rather than merely technological, then solutions must be partly behavioral too. As Aral observed, if bots alone were to blame, a technological fix might be enough; because people are the main drivers, behavioral interventions become even more important. Fact-checking labels, slower sharing features and media-literacy education all aim to insert a moment of reflection between seeing and sharing. None of these is a complete remedy, and a study limited to one platform cannot settle how far its patterns generalize. Its lasting contribution may be to reveal an uncomfortable truth: the speed of a story tells us little about whether it is true, and a great deal about ourselves.",
+     "如果問題出在行為，而不只是技術，那麼解方也必須有一部分來自行為。正如 Aral 所說，如果只是機器人帳號的問題，技術就能解決；正因為主要推手是人，行為上的介入就更加重要。事實查核標籤、放慢分享的功能、媒體素養教育，目的都是在「看到」與「分享」之間插入片刻的思考。這些都不是萬靈丹，而一項只研究單一平台的研究，也無法斷定它的發現能推廣到多遠。它最持久的貢獻，或許是揭露了一個令人不安的事實：一則故事傳得多快，幾乎說明不了它是否為真，卻說明了很多關於我們自己的事。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "hook",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "study",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "findings",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "why",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "what-we-can-do",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "evidence",
+   "pos": "n.",
+   "meaning": "證據（不可數）",
+   "example": "Is there any evidence for this claim?",
+   "family": "evident (adj.)"
+  },
+  {
+   "w": "reliable",
+   "pos": "adj.",
+   "meaning": "可靠的",
+   "example": "We need a reliable source.",
+   "family": "rely (v.), reliability (n.)"
+  },
+  {
+   "w": "rumor",
+   "pos": "n.",
+   "meaning": "謠言",
+   "example": "The rumor spread across the school in an hour.",
+   "family": "rumored (adj.)"
+  },
+  {
+   "w": "anonymous",
+   "pos": "adj.",
+   "meaning": "匿名的",
+   "example": "The post came from an anonymous account.",
+   "family": "anonymity (n.)"
+  },
+  {
+   "w": "exaggerate",
+   "pos": "v.",
+   "meaning": "誇大",
+   "example": "Headlines often exaggerate small findings.",
+   "family": "exaggeration (n.)"
+  },
+  {
+   "w": "accurate",
+   "pos": "adj.",
+   "meaning": "正確的、精確的",
+   "example": "Accurate reporting takes time.",
+   "family": "accuracy (n.)"
+  },
+  {
+   "w": "novelty",
+   "pos": "n.",
+   "meaning": "新奇、新穎",
+   "example": "The novelty of the idea attracted attention.",
+   "family": "novel (adj.)"
+  },
+  {
+   "w": "falsehood",
+   "pos": "n.",
+   "meaning": "謊言、虛假的說法",
+   "example": "A falsehood can spread faster than a correction.",
+   "family": "false (adj.)"
+  },
+  {
+   "w": "broadcast",
+   "pos": "v.",
+   "meaning": "廣播、播送",
+   "example": "Anyone can broadcast an opinion online.",
+   "family": "broadcaster (n.)"
+  },
+  {
+   "w": "audience",
+   "pos": "n.",
+   "meaning": "觀眾、聽眾",
+   "example": "The video reached a huge audience.",
+   "family": "—"
+  },
+  {
+   "w": "mislead",
+   "pos": "v.",
+   "meaning": "誤導",
+   "example": "A chart can mislead readers without a single lie.",
+   "family": "misleading (adj.)"
+  },
+  {
+   "w": "reveal",
+   "pos": "v.",
+   "meaning": "揭露、顯示",
+   "example": "The data reveal a clear pattern.",
+   "family": "revelation (n.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "in other words",
+   "type": "discourse_marker",
+   "meaning": "換句話說",
+   "usage": "用來換個方式說明前一句，通常更簡單或更直接。",
+   "example": "The test was optional. In other words, nobody had to take it.",
+   "writing": "S + V. In other words, S + V."
+  },
+  {
+   "phrase": "turns out to be",
+   "type": "phrase",
+   "meaning": "結果是、原來是",
+   "usage": "turn out to be + N／adj.：事後才發現的結果。",
+   "example": "The shocking news turned out to be false.",
+   "writing": "What seemed ... turned out to be ..."
+  },
+  {
+   "phrase": "in the know",
+   "type": "idiom",
+   "meaning": "消息靈通的、知道內幕的",
+   "usage": "be in the know；偏口語，帶「圈內人」的意味。",
+   "example": "She always seems to be in the know about school events.",
+   "writing": "People who ... appear to be in the know."
+  },
+  {
+   "phrase": "add up",
+   "type": "phrase",
+   "meaning": "累積起來（變得可觀）",
+   "usage": "small things add up：小事累積起來會有大影響。另有「說得通」的意思（It doesn’t add up.）。",
+   "example": "Ten minutes a day adds up over a year.",
+   "writing": "Small ... may seem minor, but they add up."
+  },
+  {
+   "phrase": "deserve a second look",
+   "type": "collocation",
+   "meaning": "值得再看一眼、值得再檢查",
+   "usage": "deserve + N：值得……；a second look 指再次仔細檢查。",
+   "example": "Any headline that sounds too perfect deserves a second look.",
+   "writing": "Claims that ... deserve a second look."
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "A is + 數字 + percent more likely to + V than B",
+   "meaning": "A 比 B 更可能……（多出幾成）",
+   "example": "False stories were 70 percent more likely to be shared than true ones.",
+   "tip": "more likely 後面接 to + 原形動詞；than 後面比較的對象要對等（stories 對 ones）。"
+  },
+  {
+   "frame": "A take(s) + 倍數 + as long to + V",
+   "meaning": "A 花了……倍的時間才……",
+   "example": "True stories took about six times as long to reach 1,500 people.",
+   "tip": "six times as long（六倍長）和 six times longer 在口語常混用，但正式寫作建議用 as long。"
+  },
+  {
+   "frame": "It is worth + V-ing ...",
+   "meaning": "……是值得的",
+   "example": "Before sharing, it is worth asking where a story comes from.",
+   "tip": "worth 後面接 V-ing 或名詞，不接 to + V（✗ It is worth to ask）。"
+  },
+  {
+   "frame": "S + do(es) not prove that ..., but it suggests that ...",
+   "meaning": "……並未證明……，但顯示……",
+   "example": "The study does not prove that novelty causes sharing, but it suggests that human choices matter.",
+   "tip": "區分「證明」和「顯示」：研究推論不要寫成定論。"
+  }
+ ],
+ "quote": {
+  "text": "Falsehood flies, and truth comes limping after it.",
+  "author": "Jonathan Swift",
+  "work": "The Examiner, 9 November 1710（Story Quest Week 1 Day 3 也引用這一句）",
+  "url": "https://en.wikiquote.org/wiki/Jonathan_Swift"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "What did the study find about false stories?",
+    "options": [
+     "They were shared less than true stories",
+     "They were more likely to be shared again",
+     "They were all shared by robots",
+     "They were never checked by anyone"
+    ],
+    "a": 1,
+    "why": "第三段：假新聞被再次轉發的機率高 70%。",
+    "evidence": "False stories were 70 percent more likely to be shared again than true ones."
+   },
+   {
+    "q": "How did the researchers know which stories were true or false?",
+    "options": [
+     "They asked the people who shared them",
+     "They guessed from the headlines",
+     "Six fact-checking groups had already checked them",
+     "Twitter told them"
+    ],
+    "a": 2,
+    "why": "第二段：六個事實查核組織已判定真假。",
+    "evidence": "Six fact-checking groups had already decided whether each story was true or false"
+   },
+   {
+    "q": "What happened when the researchers removed the bots?",
+    "options": [
+     "The result stayed the same",
+     "False news stopped spreading",
+     "True news spread faster",
+     "The study ended"
+    ],
+    "a": 0,
+    "why": "第四段：移除機器人帳號後結果不變，主要散播者是人。",
+    "evidence": "When the researchers removed them, the result stayed the same."
+   },
+   {
+    "q": "What is the main idea of the last paragraph?",
+    "options": [
+     "Phones are dangerous",
+     "We should never share news",
+     "Checking a story for a few seconds can slow false news",
+     "Anonymous writers are always lying"
+    ],
+    "a": 2,
+    "why": "最後一段：幾秒鐘的查證就能讓假消息慢下來。",
+    "evidence": "A few seconds of checking can slow down a false story."
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "According to the article, why might people share false stories?",
+    "options": [
+     "False stories are usually shorter",
+     "Sharing surprising news can make people seem in the know",
+     "Bots force people to share them",
+     "Fact-checkers recommend them"
+    ],
+    "a": 1,
+    "why": "第四段：分享意外消息的人看起來像「消息靈通」。",
+    "evidence": "people who share surprising information can appear to be “in the know.”"
+   },
+   {
+    "q": "What does the word “striking” in paragraph 3 most likely mean?",
+    "options": [
+     "Very noticeable",
+     "Very violent",
+     "Slightly different",
+     "Hard to measure"
+    ],
+    "a": 0,
+    "why": "前文說差距很大，後面列出 70% 與六倍，所以 striking 指「非常顯著」。",
+    "evidence": "The gap between true and false news was striking."
+   },
+   {
+    "q": "Which statement about the study’s conclusion is accurate?",
+    "options": [
+     "It proves that novelty causes sharing",
+     "It shows that bots spread most false news",
+     "It suggests human choices drive the problem but does not prove novelty alone causes sharing",
+     "It finds no difference between true and false news"
+    ],
+    "a": 2,
+    "why": "第四段最後一句明確區分「沒有證明」和「顯示」。",
+    "evidence": "The study does not prove that novelty alone causes sharing, but it suggests that human choices, rather than machines, drive the problem."
+   },
+   {
+    "q": "Why does the writer mention that the fact-checkers agreed more than 95 percent of the time?",
+    "options": [
+     "To show the true/false labels were reliable",
+     "To criticize the fact-checkers",
+     "To explain why bots were removed",
+     "To prove political news spreads fastest"
+    ],
+    "a": 0,
+    "why": "判定高度一致，表示真假標籤可信，研究結果才站得住。",
+    "evidence": "they relied on six independent fact-checking organizations, whose judgments agreed more than 95 percent of the time."
+   }
+  ],
+  "advanced": [
+   {
+    "q": "What “comforting assumption” does the first paragraph challenge?",
+    "options": [
+     "That social media is always harmful",
+     "That true claims will eventually outcompete false ones",
+     "That readers prefer short stories",
+     "That fact-checkers are biased"
+    ],
+    "a": 1,
+    "why": "第一段：我們以為真的說法終究會勝過假的，社群媒體讓這個假設變複雜。",
+    "evidence": "given enough time and enough readers, true claims will outcompete false ones."
+   },
+   {
+    "q": "Why does the writer call the result about responsibility “more unsettling”?",
+    "options": [
+     "Because bots were more dangerous than expected",
+     "Because humans, not bots, drove the difference",
+     "Because the data were incomplete",
+     "Because political news was excluded"
+    ],
+    "a": 1,
+    "why": "第四段：移除機器人後模式不變，差距來自人類使用者。",
+    "evidence": "the difference was driven by human users."
+   },
+   {
+    "q": "What does the writer imply about how research findings are retold?",
+    "options": [
+     "They are usually more cautious than the original",
+     "The difference between correlation and causation is often lost",
+     "They always include the original data",
+     "They are rarely shared"
+    ],
+    "a": 1,
+    "why": "第四段末：相關與因果的區別在轉述時容易消失——文章本身也在示範這種謹慎。",
+    "evidence": "a distinction between correlation and causation that is easily lost when findings are retold."
+   },
+   {
+    "q": "Which limitation of the study does the writer acknowledge?",
+    "options": [
+     "It used too few fact-checkers",
+     "It studied only one platform, so its patterns may not generalize",
+     "It ignored political news",
+     "It did not count retweets"
+    ],
+    "a": 1,
+    "why": "第五段：只研究單一平台，無法斷定能推廣多遠。",
+    "evidence": "a study limited to one platform cannot settle how far its patterns generalize."
+   }
+  ]
+ },
+ "reflections": [
+  "Think of a time you almost shared something that turned out to be false. What made it feel believable?",
+  "Design one rule for your class group chat that could slow down rumors without stopping real news."
+ ],
+ "videos": [
+  {
+   "title": "How false news can spread",
+   "channel": "TED-Ed · Noah Tavlin",
+   "url": "https://ed.ted.com/lessons/how-false-news-can-spread-noah-tavlin",
+   "kind": "TED-Ed",
+   "desc": "An animated lesson on circular reporting: how one unchecked claim can be repeated by source after source until it looks true.",
+   "zh": "動畫課程：「循環報導」如何讓一個未查證的說法被層層轉述，最後看起來像真的。",
+   "question": "Have you ever seen a claim that seemed true only because many sources repeated it?"
+  },
+  {
+   "title": "How we can protect truth in the age of misinformation",
+   "channel": "TEDxCERN · Sinan Aral",
+   "url": "https://www.ted.com/talks/sinan_aral_how_we_can_protect_truth_in_the_age_of_misinformation",
+   "kind": "TEDx",
+   "desc": "One of the authors of the Science study discusses false news and what we can do about it.",
+   "zh": "這篇文章所引研究的作者之一，談假消息與我們能做些什麼。",
+   "question": "Which of the speaker’s ideas could work in a school setting?"
+  },
+  {
+   "title": "Why people fall for misinformation",
+   "channel": "TED-Ed · Joseph Isaac",
+   "url": "https://ed.ted.com/lessons/why-people-fall-for-misinformation-joseph-isaac",
+   "kind": "TED-Ed",
+   "desc": "An animated lesson on why our minds can be fooled by false information.",
+   "zh": "動畫課程：為什麼我們的大腦會被錯誤資訊騙過。",
+   "question": "What habit of mind makes you more likely to believe a false story?"
+  }
+ ]
+}

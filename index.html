@@ -45,14 +45,14 @@ h1 { font-size:1.7rem; line-height:1.3; margin:0; }
   </div>
   <p class="tally" id="tally"></p>
 </main>
+<script src="shared/progress.js"></script>
 <script>
-// 首頁只讀故事端的學習紀錄（esq:v1）；讀不到就不顯示
+// 首頁顯示全站共用的學習累積；沒有紀錄就不顯示
 try {
-  const s = JSON.parse(localStorage.getItem("esq:v1") || "{}");
-  const ws = Object.values(s.words || {});
-  if (ws.length) document.getElementById("tally").innerHTML =
-    `Words met: ${ws.filter(r => r.seen).length} · Recalled on your own: ${ws.filter(r => r.recalled?.length).length}` +
-    `<span class="sub">遇見 ${ws.filter(r => r.seen).length} 字｜自己想起 ${ws.filter(r => r.recalled?.length).length} 字</span>`;
+  const t = EWProgress.stats();
+  if (t.seen) document.getElementById("tally").innerHTML =
+    `Words met: ${t.seen} · Recalled on your own: ${t.recalled}` + (t.transfer ? ` · Met in a new context: ${t.transfer}` : "") +
+    `<span class="sub">遇見 ${t.seen} 字｜自己想起 ${t.recalled} 字` + (t.transfer ? `｜換情境遇見 ${t.transfer} 字` : "") + `</span>`;
 } catch {}
 </script>
 </body>

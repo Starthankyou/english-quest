@@ -10,12 +10,14 @@
 <header class="top">
   <a href="../" class="brand" style="font-weight:400">← Home</a><a href="#/" class="brand">Story Quest</a>
   <p id="tally" class="tally" aria-live="polite"></p>
+  <span class="fontctl"><button type="button" id="font-minus" aria-label="Decrease text size">A−</button><button type="button" id="font-plus" aria-label="Increase text size">A+</button></span>
 </header>
 <main id="app" tabindex="-1"><p class="muted">Loading…</p></main>
 <aside id="card" class="card" hidden aria-live="polite">
   <button type="button" class="card-close" aria-label="Close">×</button>
   <div id="card-body"></div>
 </aside>
+<script src="../shared/progress.js"></script>
 <script type="module" src="app.js"></script>
 </body>
 </html>

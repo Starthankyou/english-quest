@@ -80,3 +80,8 @@ details.practice summary { cursor: pointer; font-weight: 700; }
 .records td, .records th { border-bottom: 1px solid var(--line); padding: 6px 4px; text-align: left; }
 .foot { margin-top: 32px; font-size: 13px; }
 .foot a { color: var(--muted); }
+.fontctl { margin-left: auto; display: flex; gap: 4px; }
+.fontctl button { font: inherit; font-size: 13px; border: 1px solid var(--line); background: var(--paper); color: var(--ink); border-radius: 6px; padding: 0 8px; cursor: pointer; }
+.lab-pair { display: block; margin: 8px 0 16px; padding: 14px; border-radius: 12px; text-decoration: none; color: var(--ink);
+  background: var(--paper); border: 1px solid var(--line); border-left: 4px solid #3d5a8a; }
+.lab-pair .lab-tag { display: block; font-size: 12px; font-weight: 700; color: #3d5a8a; letter-spacing: .02em; margin-bottom: 4px; }

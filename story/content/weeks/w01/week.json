@@ -273,5 +273,18 @@
  "title": {
   "en": "The Silent Bell of Truth Square",
   "zh": "真相廣場的沉默之鐘"
- }
+ },
+ "lab": [
+  {
+   "id": "false-news",
+   "title": {
+    "en": "Why False Stories Travel Faster",
+    "zh": "假消息為什麼跑得比真相快"
+   },
+   "note": {
+    "en": "The true story behind this week: a real study on why rumors outrun the truth.",
+    "zh": "這週故事背後的真實世界：一項關於謠言為什麼跑贏真相的研究。"
+   }
+  }
+ ]
 }

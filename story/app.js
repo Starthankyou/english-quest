@@ -11,8 +11,12 @@ const load = () => { try { return JSON.parse(localStorage.getItem(KEY)) || {}; }
 const state = Object.assign({ words: {}, done: {}, choices: {} }, load());
 const save = () => { try { localStorage.setItem(KEY, JSON.stringify(state)); saveOk = true; } catch { saveOk = false; } renderTally(); };
 const today = () => { const d = new Date(); return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`; };
-const rec = w => (state.words[w] ||= { seen: null, hinted: [], recalled: [] });
-const markSeen = w => { const r = rec(w); if (!r.seen) { r.seen = today(); save(); } };
+const rec = w => { const r = (state.words[w] ||= { seen: null, hinted: [], recalled: [] }); r.ctx ||= {}; return r; };
+// 在故事裡遇見：記 seen，並記下 ctx.story（Reading Lab 會記 ctx.lab，兩邊都有＝換情境遇見）
+const seenHere = w => { const r = rec(w); r.seen ||= today(); r.ctx.story ||= today(); return r; };
+const markSeen = w => { const r = rec(w); if (!r.seen || !r.ctx.story) { seenHere(w); save(); } };
+// 另一個分頁（Reading Lab）可能寫過紀錄：每次換頁前重讀
+const reload = () => { const fresh = load(); state.words = fresh.words || state.words; };
 const addDate = (list, d) => { if (!list.includes(d)) list.push(d); };
 
 function stats() {
@@ -21,13 +25,14 @@ function stats() {
     seen: ws.filter(r => r.seen).length,
     recalled: ws.filter(r => r.recalled.length).length,
     crossDay: ws.filter(r => r.recalled.length >= 2).length,
+    transfer: ws.filter(r => r.ctx?.story && r.ctx?.lab).length,
   };
 }
 function renderTally() {
   const s = stats();
   tally.innerHTML = `Met ${s.seen} · Recalled ${s.recalled} · ` +
-    (s.crossDay ? `Next-day recall ${s.crossDay}` : "Next-day recall: not checked yet") + (saveOk ? "" : " · ⚠ Progress can’t be saved in this browser") +
-    `<span class="sub">遇見 ${s.seen} 字｜自己想起 ${s.recalled} 字｜` + (s.crossDay ? `隔天想起 ${s.crossDay} 字` : "隔天想起：尚未檢核") +
+    (s.crossDay ? `Next-day recall ${s.crossDay}` : "Next-day recall: not checked yet") + (s.transfer ? ` · New context ${s.transfer}` : "") + (saveOk ? "" : " · ⚠ Progress can’t be saved in this browser") +
+    `<span class="sub">遇見 ${s.seen} 字｜自己想起 ${s.recalled} 字｜` + (s.crossDay ? `隔天想起 ${s.crossDay} 字` : "隔天想起：尚未檢核") + (s.transfer ? `｜換情境遇見 ${s.transfer} 字` : "") +
     (saveOk ? "" : "｜這個瀏覽器無法儲存紀錄") + `</span>`;
 }
 
@@ -70,6 +75,7 @@ function openCard(w) {
       ${r.look ? `<dt>In English World · 在英語世界長這樣</dt><dd>${esc(r.look)}</dd>` : ""}
       ${r.trait ? `<dt>Personality = meaning · 個性＝字義</dt><dd>${esc(r.trait)}</dd>` : ""}
       ${r.usage ? `<dt>Real-world usage · 真實英文怎麼用</dt><dd>${esc(r.usage)}</dd>` : ""}
+      ${state.words[w]?.ctx?.lab ? `<dt>New context · 換情境遇見</dt><dd>You also met this word in Reading Lab. ✓<span class="sub">你也在 Reading Lab 的文章裡遇過這個字。</span></dd>` : ""}
     </dl>`;
   card.hidden = false;
   markSeen(w);
@@ -104,6 +110,10 @@ async function viewWeek(id) {
         ${state.done[`${id}-d${d.day}`] ? `<span class="done">✓</span>` : ""}
       </a></li>`).join("")}
     </ul>
+    ${(wk.lab || []).map(a => `<a class="lab-pair" href="../lab/#article=${encodeURIComponent(a.id)}">
+      <span class="lab-tag">This week in Reading Lab · 本週配對文章</span>
+      <strong>${esc(a.title.en)}</strong><span class="sub">${esc(a.title.zh)}</span>
+      <span class="muted" style="font-size:14px">${esc(a.note.en)}<span class="sub">${esc(a.note.zh)}</span></span></a>`).join("")}
     <p class="foot"><a href="#/records">My learning record · 我的學習紀錄</a>　<a href="../">← Home</a></p>`;
 }
 
@@ -172,7 +182,7 @@ function bindEpisode(ep) {
         `<p class="muted" style="font-size:14px">${bi("Try the other option to see a different clue.", "也可以點另一個選項，看看另一條線索。")}</p>`;
     }
     if (e.target.id === "finish" && !state.done[ep.id]) {
-      state.done[ep.id] = today(); ep.words.forEach(w => rec(w).seen ||= today()); save();
+      state.done[ep.id] = today(); ep.words.forEach(seenHere); save();
       e.target.textContent = "Finished ✓"; e.target.classList.add("ghost");
       document.getElementById("finish-fb").innerHTML = ep.words.length
         ? bi(`${ep.words.length} new residents added to “Met”. Want to check if you remember them? Open Practice below.`, `本篇 ${ep.words.length} 個新居民已加入「遇見」。想確認記不記得，可以點開下面的練習。`)
@@ -201,7 +211,7 @@ function quiz(ep, btn, used) {
   const a = norm(input.value);
   if (!a) return say("no", bi("Type the word you think of first.", "先寫下你想到的字。"));
   if (q.answers.map(norm).includes(a)) {
-    const r = rec(q.word); r.seen ||= today();
+    const r = seenHere(q.word);
     let status;
     if (u.shown) status = bi("completed after seeing the answer (not counted)", "看過答案後完成（不算想起）");
     else if (u.hint) { addDate(r.hinted, today()); status = bi("recalled with a hint", "有提示想起"); }
@@ -230,12 +240,19 @@ const notFound = () => { app.innerHTML = `<p>${bi("Story not found.", "找不到
 async function route() {
   card.hidden = true;
   app.onclick = app.onkeydown = null;
+  reload(); renderTally();
   const [week, ep] = location.hash.replace(/^#\/?/, "").split("/");
   if (week === "records") await viewRecords();
   else if (week && ep) await viewEpisode(week, parseInt(ep.replace("d", ""), 10));
   else await viewWeek(week || (await getJSON("index.json"))?.weeks.at(-1)?.id || "w01");
   app.focus(); window.scrollTo(0, 0);
 }
+
+/* ---------- 字體（和 Reading Lab 共用設定） ---------- */
+const setFont = px => { px = Math.max(16, Math.min(30, px)); document.documentElement.style.setProperty("--fs", px + "px"); EWProgress.setFont(px); };
+document.getElementById("font-minus").onclick = () => setFont(EWProgress.getFont(18) - 2);
+document.getElementById("font-plus").onclick = () => setFont(EWProgress.getFont(18) + 2);
+setFont(EWProgress.getFont(18));
 
 (async () => {
   chars = (await getJSON("characters.json")) || chars;
