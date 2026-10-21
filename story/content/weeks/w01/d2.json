@@ -1,0 +1,169 @@
+{
+ "id": "w01-d2",
+ "week": "w01",
+ "day": 2,
+ "level": "A2",
+ "title": {
+  "en": "The Tower of Voices",
+  "zh": "聲音之塔"
+ },
+ "words": [
+  "announce",
+  "broadcast",
+  "audience",
+  "volunteer",
+  "permission"
+ ],
+ "review": [
+  "mysterious",
+  "evidence",
+  "hesitate",
+  "reliable",
+  "reveal"
+ ],
+ "blocks": [
+  {
+   "en": "[[Reveal|reveal]] had found the bell’s voice. It was safe in the glass jar, but it was still asleep. “How do we wake it up?” Bao asked.",
+   "zh": "Reveal 找到了鐘的聲音。它安全地待在玻璃罐裡，但還在睡。「我們要怎麼叫醒它？」小寶問。"
+  },
+  {
+   "en": "Master Mu looked at the word on the jar: SORRY. “The voice will wake when the person who took it tells the truth,” he said. “So we must ask that person to come.”",
+   "zh": "木大人看著罐子上的字：SORRY。「拿走它的人說出真話，聲音就會醒來。」他說，「所以我們得請那個人出來。」"
+  },
+  {
+   "en": "“But we don’t know who it is!” said Bao. “Then we tell everyone,” said Little Mushroom. “Let’s go to the Tower of Voices.”",
+   "zh": "「可是我們不知道是誰啊！」小寶說。「那就告訴所有人，」小蘑菇說，「我們去聲音之塔。」"
+  },
+  {
+   "en": "At the door of the tower stood a guard with a big stamp. A copper-coloured badge? No — his badge was silver. He was a noun. “Stop,” he said. “Nobody goes up without [[permission]].”",
+   "zh": "塔門口站著一個拿著大印章的守衛。紅銅色徽章？不對——他的徽章是銀色的，他是名詞。「站住，」他說，「沒有許可，誰都不能上去。」"
+  },
+  {
+   "en": "“That’s [[Permission|permission]],” whispered Little Mushroom. “Ask him nicely. He never says yes to shouting.”",
+   "zh": "「那是 Permission，」小蘑菇小聲說，「好好問他。有人對他大吼，他從來不會答應。」"
+  },
+  {
+   "en": "Bao took a deep breath. “Can we have permission to go up, please?” Permission looked at them for a long time. Then the old woman with the lantern arrived — exactly at noon, of course. “They are with me,” said [[Reliable|reliable]]. Permission smiled and stamped Bao’s hand. “Permission given.”",
+   "zh": "小寶深吸一口氣。「請問我們可以獲得許可上去嗎？」Permission 看了他們很久。這時提燈籠的婆婆來了——當然是剛好中午。「他們是跟我一起的。」Reliable 說。Permission 笑了，在小寶手上蓋了一個章。「准許。」"
+  },
+  {
+   "en": "Inside, a girl ran down the stairs. Her hand was already in the air. “I’ll help! I’ll carry that! I’ll show you the way!” Nobody had asked her anything yet.",
+   "zh": "塔裡有個女孩跑下樓梯，手已經舉在半空中。「我來幫忙！那個我來拿！我帶你們上去！」根本還沒有人問她任何事。"
+  },
+  {
+   "en": "“That’s [[Volunteer|volunteer]],” laughed Little Mushroom. “She always offers to help before you ask. And she never wants money for it.” Volunteer took the glass jar and carried it up the stairs, very carefully.",
+   "zh": "「那是 Volunteer，」小蘑菇笑著說，「你還沒開口她就自願要幫忙，而且從來不要錢。」Volunteer 接過玻璃罐，非常小心地抱上樓梯。"
+  },
+  {
+   "en": "At the top of the tower, a tall man in a red coat was waiting with a golden trumpet. Before anyone could speak, he lifted it. “Attention, please!” he shouted. He only ever said important things. He was [[Announce|announce]].",
+   "zh": "塔頂有個穿紅外套的高個子男人拿著金色小號在等。還沒人開口，他就舉起小號大喊：「請注意！」他只說重要的事。他是 Announce。"
+  },
+  {
+   "en": "Next to him sat his sister. Her coat was covered in a hundred small speakers. “I am [[Broadcast|broadcast]],” she said. “He makes the news. I send it everywhere at once — to every street, every house, every ear.”",
+   "zh": "他旁邊坐著他的妹妹，外套上布滿一百個小喇叭。「我是 Broadcast，」她說，「他負責宣布消息，我負責把它同時送到每個地方——每條街、每間房子、每隻耳朵。」"
+  },
+  {
+   "en": "Far below, something strange moved into the square. It looked like a cloud — but it was made of ears. Hundreds of them. They all turned towards the tower at the same time.",
+   "zh": "在遠遠的下方，有個奇怪的東西移進廣場。看起來像一朵雲——但它是由耳朵組成的，好幾百隻。它們同時轉向高塔。"
+  },
+  {
+   "en": "“The [[audience]] is here,” said Broadcast. “Many ears, but one audience. Now, what is your message?”",
+   "zh": "「聽眾到了，」Broadcast 說，「很多隻耳朵，但只是一群聽眾。好，你們要說什麼？」"
+  },
+  {
+   "choice": {
+    "prompt": {
+     "en": "What does Bao say to the audience?",
+     "zh": "小寶要對聽眾說什麼？"
+    },
+    "options": [
+     {
+      "id": "gentle",
+      "label": {
+       "en": "“Please come and talk to us. Nobody will be angry.”",
+       "zh": "「請來跟我們談談，沒有人會生氣。」"
+      },
+      "en": "Bao spoke kindly. The ears of the audience became soft and pink. Somewhere in the square, someone stopped and listened very carefully.",
+      "zh": "小寶溫和地說話。聽眾的耳朵變得柔軟、粉粉的。廣場上某個地方，有人停下腳步，非常仔細地聽著。"
+     },
+     {
+      "id": "angry",
+      "label": {
+       "en": "“We know it was you! Come out now!”",
+       "zh": "「我們知道是你！現在給我出來！」"
+      },
+      "en": "Bao shouted. The ears of the audience jumped. Down in the square, people began to look at each other. Who was “you”?",
+      "zh": "小寶用吼的。聽眾的耳朵嚇得一跳。廣場上的人開始互相打量。「你」到底是誰？"
+     }
+    ],
+    "after": {
+     "en": "Announce lifted his trumpet, and Broadcast sent the message out. Then they all waited.",
+     "zh": "Announce 舉起小號，Broadcast 把訊息送出去。接著大家都在等。"
+    }
+   }
+  },
+  {
+   "en": "Nobody came. Only a small piece of paper flew up into the sky and landed at Bao’s feet. There was no name on it — only one line: I SAW SOMEONE AT THE GATE. It was not [[evidence]]. It was only a note. Somewhere in the fog, [[Mysterious|mysterious]] laughed.",
+   "zh": "沒有人來。只有一張小紙片飛上天空，落在小寶腳邊。上面沒有署名，只有一行字：我看到有人在城門口。這不是證據，只是一張紙條。霧裡某個地方，Mysterious 笑了。"
+  },
+  {
+   "en": "Bao thought of [[Hesitate|hesitate]], the young man who could not decide to go forward or back. He did not say the name. But his face did.",
+   "zh": "小寶想起那個決定不了要往前還是往後的年輕人。他沒有說出名字，但他的表情說了。"
+  }
+ ],
+ "insight": {
+  "en": "A message is not finished when you speak it. It is finished when someone truly listens.",
+  "zh": "訊息不是說出口就結束了，要等到有人真的聽進去，才算完成。",
+  "by": "Volunteer"
+ },
+ "quote": {
+  "en": "We have two ears and one mouth, so we should listen more than we say.",
+  "zh": "我們有兩隻耳朵、一張嘴，所以應該多聽少說。",
+  "author": "Zeno of Citium",
+  "source": "Diogenes Laërtius, Lives of Eminent Philosophers, vii.23",
+  "url": "https://en.wikiquote.org/wiki/Zeno_of_Citium"
+ },
+ "quiz": [
+  {
+   "q": "You need ______ from your parents to join the school trip.",
+   "answers": [
+    "permission"
+   ],
+   "word": "permission",
+   "explain": "permission 許可，不可數：ask for permission、give permission、without permission。"
+  },
+  {
+   "q": "The teacher will ______ the winners of the contest tomorrow.",
+   "answers": [
+    "announce"
+   ],
+   "word": "announce",
+   "explain": "announce 宣布：announce the winners／the news。"
+  },
+  {
+   "q": "The concert was ______ live on TV and online.",
+   "answers": [
+    "broadcast",
+    "broadcasted"
+   ],
+   "word": "broadcast",
+   "explain": "broadcast 廣播、播出，過去式和過去分詞通常也是 broadcast。"
+  },
+  {
+   "q": "The ______ clapped for five minutes after the show.",
+   "answers": [
+    "audience"
+   ],
+   "word": "audience",
+   "explain": "audience 聽眾、觀眾，是一群人的集合名詞：a large audience。"
+  },
+  {
+   "q": "Last Saturday, Lily ______ to clean the beach. Nobody paid her.",
+   "answers": [
+    "volunteered"
+   ],
+   "word": "volunteer",
+   "explain": "volunteer 自願（做）、志工：volunteer to do something。講上週六的事，用過去式 volunteered。"
+  }
+ ]
+}

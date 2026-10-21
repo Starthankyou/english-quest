@@ -1,0 +1,163 @@
+{
+ "id": "w01-d1",
+ "week": "w01",
+ "day": 1,
+ "level": "B1",
+ "title": {
+  "en": "The Bell That Stopped Ringing",
+  "zh": "不再響的鐘"
+ },
+ "words": [
+  "mysterious",
+  "evidence",
+  "hesitate",
+  "reliable",
+  "reveal"
+ ],
+ "review": [],
+ "blocks": [
+  {
+   "en": "Bao had one problem with English: it never stayed still. “The words keep changing shape,” he complained. “How can I make friends with something I can’t even see?”",
+   "zh": "小寶學英文有個問題：英文從來不會乖乖待著。「這些字一直變形，」他抱怨，「我連看都看不到，要怎麼跟它們交朋友？」"
+  },
+  {
+   "en": "“That’s why we’re going in,” said Little Mushroom, and he gave everyone a small sensor. “When a word is near, it will glow.” Master Mu said nothing. Chuyi the cat yawned.",
+   "zh": "「所以我們才要進去啊。」小蘑菇說，發給每個人一個小感應器。「有字靠近的時候，它就會發亮。」木大人沒說話。貓咪初一打了個呵欠。"
+  },
+  {
+   "en": "They walked out of the forest and into Truth Square. In the middle stood a huge silver bell. “It rings whenever someone tells the truth,” Little Mushroom explained. But today the square was silent. Nobody had heard the bell since sunrise.",
+   "zh": "他們走出森林，來到真相廣場。廣場中央立著一口巨大的銀鐘。「只要有人說真話，它就會響。」小蘑菇解釋。但今天廣場一片安靜，從日出到現在，沒有人聽過鐘聲。"
+  },
+  {
+   "en": "Bao’s sensor began to glow. Beside the bell stood a figure made of grey fog. Every time Bao tried to see its face, the fog moved. A small gold badge shone on its coat. “Who are you?” Bao asked. “Who are you?” the figure asked back.",
+   "zh": "小寶的感應器亮了。鐘旁邊站著一個灰霧組成的身影，小寶每次想看清它的臉，霧就移開。它的外套上別著一枚小小的金色徽章。「你是誰？」小寶問。「你是誰？」那個身影反問。"
+  },
+  {
+   "en": "Little Mushroom laughed. “That’s [[Mysterious|mysterious]]. You’ll never get a straight answer from him. The gold badge means he’s an adjective — upper class.”",
+   "zh": "小蘑菇笑了。「那是 Mysterious。你永遠別想從他那裡拿到直接的答案。金色徽章代表他是形容詞——上流社會的。」"
+  },
+  {
+   "en": "“Someone has stolen the bell’s voice,” Mysterious whispered. “Bring me [[evidence]], not opinions.” Then the fog was gone.",
+   "zh": "「有人偷走了鐘的聲音，」Mysterious 低聲說，「帶證據來給我，不要帶意見。」說完，霧就散了。"
+  },
+  {
+   "en": "A thin man in a long silver-buttoned coat stepped forward. The coat had hundreds of pockets. “I am [[Evidence|evidence]],” he said. “Nice to meet you, an Evidence!” said Bao. The man frowned. “Never ’an evidence.’ Nobody can count me. Call me ’a piece of evidence,’ if you must.” Then he opened two pockets.",
+   "zh": "一個穿著銀扣長大衣的瘦高男人走上前，大衣上有好幾百個口袋。「我是 Evidence。」他說。「很高興認識你，一個 Evidence！」小寶說。男人皺起眉頭：「絕對不要說 an evidence。沒有人能數我。真要說的話，請叫我 a piece of evidence。」接著他打開了兩個口袋。"
+  },
+  {
+   "choice": {
+    "prompt": {
+     "en": "Which pocket do you look into first?",
+     "zh": "你要先看哪個口袋？"
+    },
+    "options": [
+     {
+      "id": "footprint",
+      "label": {
+       "en": "The pocket with a wet footprint",
+       "zh": "有濕腳印的口袋"
+      },
+      "en": "The footprint was small and still wet. It pointed towards the old gate at the edge of the square.",
+      "zh": "腳印很小，還是濕的，指向廣場邊緣的舊城門。"
+     },
+     {
+      "id": "feather",
+      "label": {
+       "en": "The pocket with a blue feather",
+       "zh": "有藍色羽毛的口袋"
+      },
+      "en": "The feather smelled of the morning wind. “I found it by the old gate,” Evidence said.",
+      "zh": "羽毛帶著早晨的風的味道。「我在舊城門旁邊找到的。」Evidence 說。"
+     }
+    ],
+    "after": {
+     "en": "Either way, the clue led to the same place: the old gate.",
+     "zh": "不管看哪一個，線索都指向同一個地方：舊城門。"
+    }
+   }
+  },
+  {
+   "en": "At the gate stood a young man with one foot forward and one foot back. “Can we come in?” Bao asked. “Well... maybe... I mean...” He took a step forward, then a step back. “That’s [[Hesitate|hesitate]],” whispered Little Mushroom. “Look at his copper badge — he’s a verb. He always stops before he acts.”",
+   "zh": "城門口站著一個年輕人，一腳在前、一腳在後。「我們可以進去嗎？」小寶問。「嗯……也許……我是說……」他往前一步，又往後一步。「那是 Hesitate，」小蘑菇小聲說，「看他的紅銅色徽章——他是動詞。他每次要行動之前都會停下來。」"
+  },
+  {
+   "en": "Chuyi walked over slowly and rubbed against his leg. Hesitate relaxed a little. “Don’t [[hesitate]] to tell us,” Bao said gently. Hesitate opened his mouth, closed it, and opened it again. “Someone came here this morning. But I... wasn’t sure, so I said nothing.”",
+   "zh": "初一慢慢走過去，蹭了蹭他的腿，Hesitate 放鬆了一點。「有什麼就直接跟我們說，不用猶豫。」小寶溫和地說。Hesitate 張開嘴、閉上，又張開。「今天早上有人來過這裡。可是我……不太確定，所以什麼都沒說。」"
+  },
+  {
+   "en": "Just then, the town clock struck twelve, and an old woman with a lantern arrived. “[[Reliable|reliable]],” said Master Mu with a small bow. “For a thousand years she has come at noon. Never early, never late.” Reliable lifted her lantern. “You need light,” she said simply. “So I am here.”",
+   "zh": "就在這時，鎮上的鐘敲了十二下，一位提著燈籠的老婆婆來了。「Reliable。」木大人微微鞠躬，「一千年來，她每天中午都會來，從不早到，也從不遲到。」Reliable 舉起燈籠，簡單地說：「你們需要光，所以我來了。」"
+  },
+  {
+   "en": "Her lantern led them to a red curtain hanging from nowhere. A girl with bright eyes held its edge. “I’m [[Reveal|reveal]],” she said. “I show what is hidden — but only when you’re ready to see it.” She pulled the curtain.",
+   "zh": "她的燈籠帶他們來到一片憑空垂下的紅色布簾前，一個眼睛閃亮的女孩握著簾子的邊緣。「我是 Reveal，」她說，「我會讓藏起來的東西被看見——但只在你準備好看的時候。」她拉開了布簾。"
+  },
+  {
+   "en": "Behind it was the bell’s voice: a tiny golden sound, asleep in a glass jar. On the jar, someone had written one word: SORRY.",
+   "zh": "布簾後面就是鐘的聲音：一個小小的金色聲響，在玻璃罐裡睡著了。罐子上有人寫了一個字：SORRY（對不起）。"
+  },
+  {
+   "en": "“Sorry?” Bao said. “Who steals something and then says sorry?” Master Mu looked at the jar for a long time. “When something goes wrong, our minds run to find someone to blame,” he said. “Evidence walks slowly. Let us walk with him.”",
+   "zh": "「對不起？」小寶說，「誰會偷了東西還說對不起？」木大人看著罐子很久。「出事的時候，我們的心會急著找一個人來怪，」他說，「證據走得很慢。我們就跟著他慢慢走吧。」"
+  },
+  {
+   "en": "Behind them, somebody in the crowd was already whispering a name.",
+   "zh": "在他們身後，人群裡已經有人開始小聲說出一個名字。"
+  }
+ ],
+ "insight": {
+  "en": "Evidence walks slowly. Let us walk with him.",
+  "zh": "證據走得很慢。我們就跟著他慢慢走吧。",
+  "by": "Master Mu"
+ },
+ "quote": {
+  "en": "Extraordinary claims require extraordinary evidence.",
+  "zh": "非凡的主張，需要非凡的證據。",
+  "author": "Carl Sagan",
+  "source": "Cosmos (1980)",
+  "url": "https://en.wikipedia.org/wiki/Sagan_standard"
+ },
+ "quiz": [
+  {
+   "q": "The police found no ______ that he took the money.",
+   "answers": [
+    "evidence"
+   ],
+   "word": "evidence",
+   "explain": "evidence 證據，不可數：no evidence、a piece of evidence，不說 an evidence。"
+  },
+  {
+   "q": "Don't ______ to ask me if you need help.",
+   "answers": [
+    "hesitate"
+   ],
+   "word": "hesitate",
+   "explain": "hesitate to + 原形動詞：猶豫要不要做某事。Don't hesitate to... 常用來請對方別客氣。"
+  },
+  {
+   "q": "My old bike is slow, but it's very ______. It never breaks down.",
+   "answers": [
+    "reliable"
+   ],
+   "word": "reliable",
+   "explain": "reliable 可靠的：人或東西都能用，像 Reliable 婆婆每天準時出現。"
+  },
+  {
+   "q": "Her smile ______ nothing about how she really felt.",
+   "answers": [
+    "revealed",
+    "reveals"
+   ],
+   "word": "reveal",
+   "explain": "reveal 透露、顯示：reveal the truth、reveal nothing。這裡講過去用 revealed。"
+  },
+  {
+   "q": "A ______ letter with no name arrived at our door.",
+   "answers": [
+    "mysterious"
+   ],
+   "word": "mysterious",
+   "explain": "mysterious 神祕的、難以解釋的：a mysterious letter、a mysterious man。"
+  }
+ ]
+}

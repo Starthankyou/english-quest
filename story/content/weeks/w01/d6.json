@@ -1,0 +1,158 @@
+{
+ "id": "w01-d6",
+ "week": "w01",
+ "day": 6,
+ "level": "B2",
+ "title": {
+  "en": "The Smallest Word in the S Family",
+  "zh": "S 家族最小的字"
+ },
+ "words": [
+  "coincidence",
+  "confess",
+  "apologize",
+  "frank",
+  "cooperate"
+ ],
+ "review": [
+  "accuse",
+  "reputation",
+  "panic",
+  "genuine",
+  "sincere"
+ ],
+ "blocks": [
+  {
+   "en": "Before anyone could follow the crying, two identical girls appeared on either side of Bao, at precisely the same moment. “What a surprise to see you here!” they said together. Then they looked at each other. “What a surprise to see YOU here!”",
+   "zh": "還沒人來得及循著哭聲走過去，兩個長得一模一樣的女孩就在同一瞬間出現在小寶兩側。「真意外會在這裡遇到你！」她們異口同聲。接著她們看向彼此：「真意外會在這裡遇到『你』！」"
+  },
+  {
+   "en": "“The twins are called [[Coincidence|coincidence]],” said Little Mushroom, grinning for the first time in two days. “Two things happen at the same time, and people think they must be connected. Sometimes they are. Usually they aren’t.”",
+   "zh": "「這對雙胞胎叫 Coincidence，」小蘑菇說，這是他兩天來第一次露出笑容，「兩件事同時發生，大家就以為它們一定有關聯。有時候是，但通常不是。」"
+  },
+  {
+   "en": "The twins explained everything, finishing each other’s sentences. On the morning the bell went silent, Hesitate happened to be standing at the gate — as he does every morning. At the same moment, someone small happened to run past him. “Two events, one place, one moment,” said the first twin. “And everyone decided it was one story,” said the second.",
+   "zh": "雙胞胎你一句我一句地把一切解釋清楚。鐘聲消失的那個早上，Hesitate 剛好站在城門口——他每天早上都站在那裡。就在同一刻，有個小小的身影剛好從他身邊跑過。「兩件事，同一個地點，同一個時刻，」第一個說。「然後大家就認定那是同一個故事。」第二個說。"
+  },
+  {
+   "en": "Following the crying, they found a tiny word hiding under the bell. He wore a little cap with a blue feather, and his shoes were still wet from the fountain. The wet footprint. The blue feather. Bao remembered the pockets of [[Evidence|evidence]] and felt his face turn hot.",
+   "zh": "他們循著哭聲，在大鐘底下找到一個躲著的小小的字。他戴著一頂插著藍羽毛的小帽子，鞋子還因為噴水池而濕濕的。濕腳印。藍羽毛。小寶想起 Evidence 的那些口袋，臉一下子熱了起來。"
+  },
+  {
+   "en": "“I’m [[Sorry|sorry]],” said the little word. “That’s my name, too. I’m from the S family. We’re shy, and we keep secrets.” He wiped his nose. “Three days ago I was playing on the bell, and I cracked it. I was afraid that if anyone told the truth, the bell would ring, and everyone would hear how broken it sounded. So I hid its voice. Hesitate saw me. I begged him not to tell.”",
+   "zh": "「我叫 Sorry，」小小的字說，「這也是我的名字。我是 S 家族的，我們很害羞，又很會藏祕密。」他擦擦鼻子。「三天前我在鐘上玩，不小心把它撞裂了。我怕只要有人說真話，鐘就會響，大家就會聽到它碎掉的聲音有多難聽。所以我把它的聲音藏起來了。Hesitate 看到了，我拜託他不要說出去。」"
+  },
+  {
+   "choice": {
+    "prompt": {
+     "en": "What does Bao say to Sorry first?",
+     "zh": "小寶先對 Sorry 說什麼？"
+    },
+    "options": [
+     {
+      "id": "comfort",
+      "label": {
+       "en": "“It’s okay. Accidents happen.”",
+       "zh": "「沒關係，意外難免嘛。」"
+      },
+      "en": "Sorry stopped crying for a second and looked up at Bao in surprise. Nobody had said that to him in three days.",
+      "zh": "Sorry 停止哭泣了一下，驚訝地抬頭看著小寶。三天來，從來沒有人對他說過這句話。"
+     },
+     {
+      "id": "why",
+      "label": {
+       "en": "“Why didn’t you just tell someone?”",
+       "zh": "「你為什麼不直接跟別人說？」"
+      },
+      "en": "Sorry cried even harder. “Because I was scared,” he sobbed. “Haven’t you ever been scared?” Bao thought about the grey glasses, and about the giant story he had nearly believed. He said nothing.",
+      "zh": "Sorry 哭得更大聲了。「因為我很害怕啊，」他抽泣著說，「你都沒有害怕過嗎？」小寶想起那副灰色眼鏡，還有他差點就相信的巨人故事。他什麼都沒說。"
+     }
+    ],
+    "after": {
+     "en": "Then a broad-shouldered man pushed through the crowd.",
+     "zh": "接著，一個肩膀寬闊的男人擠過人群走了過來。"
+    }
+   }
+  },
+  {
+   "en": "He wore no decorations and no jewellery, and he did not waste a single word. “I’m [[Frank|frank]],” he said. “So I’ll be frank. You made a mistake, Sorry. Mistakes can be fixed. Hiding them is what breaks things.”",
+   "zh": "他身上沒有任何裝飾或珠寶，也不浪費任何一個字。「我是 Frank，」他說，「所以我就直說了。Sorry，你犯了一個錯。錯誤是可以修補的。把錯藏起來，才會把事情弄壞。」"
+  },
+  {
+   "en": "Beside Frank stood a woman holding a heavy sack full of stones. “When you [[confess]], I take one stone from your bag,” she told Sorry. “Shall we try?” Sorry took a deep breath. “I cracked the bell, and I hid its voice.” She lifted out a stone, and Sorry stood up a little straighter. She was [[Confess|confess]].",
+   "zh": "Frank 旁邊站著一位抱著一大袋石頭的女士。「每當你坦白，我就從你的袋子裡拿走一顆石頭，」她對 Sorry 說，「要試試看嗎？」Sorry 深吸一口氣：「我把鐘撞裂了，還把它的聲音藏起來。」她拿出一顆石頭，Sorry 的背挺直了一些。她是 Confess。"
+  },
+  {
+   "en": "Then something unexpected happened. [[Accuse|accuse]] lowered his long finger, and it slowly shrank back to normal size. He walked up to Hesitate. “I [[apologize]] to you,” he said stiffly, “for accusing you without evidence.” A gentle man in a grey suit nodded his approval. “Good,” he said. “Apologize TO someone, FOR something. Never forget the two little words.” He was [[Apologize|apologize]], and he bowed so often that his hat had worn thin.",
+   "zh": "接著，意想不到的事發生了。Accuse 放下了他的長手指，手指慢慢縮回正常的長度。他走到 Hesitate 面前，生硬地說：「我向你道歉，我沒有證據就指控你。」一位穿灰色西裝的溫和男士點頭表示讚許。「很好，」他說，「apologize TO 某人，FOR 某件事。千萬別忘了這兩個小字。」他是 Apologize，因為太常鞠躬，帽子都磨薄了。"
+  },
+  {
+   "en": "Above Hesitate’s head, the cracked crown flickered. [[Reputation|reputation]] looked at it sadly. “It will never be quite as it was,” she said. “But it can be mended.”",
+   "zh": "Hesitate 頭上那頂裂開的王冠閃了一下。Reputation 難過地看著它。「它不會完全回到原來的樣子，」她說，「但可以修補。」"
+  },
+  {
+   "en": "By now, [[Panic|panic]] had stopped running and was fast asleep on [[Genuine|genuine]]’s lap, and [[Sincere|sincere]] was holding Sorry’s hand. Last of all came a crowd of small helpers who moved like bees, each carrying a tool. Alone, none of them could lift the bell. Together, they lifted it easily. “We are [[Cooperate|cooperate]],” they hummed. “We cooperate with anyone who asks. Shall we fix this bell?”",
+   "zh": "這時，Panic 已經不跑了，在 Genuine 的腿上睡得正熟；Sincere 牽著 Sorry 的手。最後來的是一群像蜜蜂一樣移動的小幫手，每個都拿著一樣工具。單獨一個，沒有誰抬得起大鐘；大家一起，輕輕鬆鬆就抬起來了。「我們是 Cooperate，」他們嗡嗡地說，「誰開口，我們就跟誰合作。要不要一起把這口鐘修好？」"
+  },
+  {
+   "en": "Master Mu watched them begin to work. “A mistake grows smaller when you say it out loud,” he said, “and bigger when you hide it.” Tomorrow, the whole square would gather. Tomorrow, someone would have to speak to the bell.",
+   "zh": "木大人看著他們開始工作。「一個錯誤，說出口就會變小，」他說，「藏起來就會變大。」明天，整個廣場的人都會聚集起來。明天，得有人對著大鐘說話。"
+  }
+ ],
+ "insight": {
+  "en": "A mistake grows smaller when you say it out loud, and bigger when you hide it.",
+  "zh": "一個錯誤，說出口就會變小，藏起來就會變大。",
+  "by": "Master Mu"
+ },
+ "quote": {
+  "en": "To err is human, to forgive divine.",
+  "zh": "犯錯是人之常情，寬恕則近乎神聖。",
+  "author": "Alexander Pope",
+  "source": "An Essay on Criticism, 1711",
+  "url": "https://en.wikiquote.org/wiki/Alexander_Pope"
+ },
+ "quiz": [
+  {
+   "q": "What a ______! I was thinking about you, and then you called me.",
+   "answers": [
+    "coincidence"
+   ],
+   "word": "coincidence",
+   "explain": "coincidence 巧合：What a coincidence! 是很常用的驚嘆句。"
+  },
+  {
+   "q": "After a long talk, he finally ______ that he had broken the window.",
+   "answers": [
+    "confessed"
+   ],
+   "word": "confess",
+   "explain": "confess 坦白、承認（做錯的事）：confess that...／confess to (doing) something。"
+  },
+  {
+   "q": "You should ______ to your sister for reading her diary.",
+   "answers": [
+    "apologize",
+    "apologise"
+   ],
+   "word": "apologize",
+   "explain": "apologize to someone for something：向某人為某事道歉。英式拼法 apologise。"
+  },
+  {
+   "q": "To be ______, I didn’t enjoy the movie at all.",
+   "answers": [
+    "frank"
+   ],
+   "word": "frank",
+   "explain": "frank 坦白的、直率的：To be frank,... 常用在說出直接、可能不好聽的實話之前。"
+  },
+  {
+   "q": "If we ______ with each other, we can finish the project faster.",
+   "answers": [
+    "cooperate",
+    "co-operate"
+   ],
+   "word": "cooperate",
+   "explain": "cooperate with someone 跟某人合作。名詞 cooperation。"
+  }
+ ]
+}

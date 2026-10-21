@@ -1,0 +1,152 @@
+{
+ "id": "w01-d4",
+ "week": "w01",
+ "day": 4,
+ "level": "B2",
+ "title": {
+  "en": "The Glasses That Saw Too Much",
+  "zh": "看太多的眼鏡"
+ },
+ "words": [
+  "investigate",
+  "witness",
+  "observe",
+  "assume",
+  "mislead"
+ ],
+ "review": [
+  "anonymous",
+  "gossip",
+  "exaggerate",
+  "rumor",
+  "suspect"
+ ],
+ "blocks": [
+  {
+   "en": "Bao woke up with a plan. If [[Rumor|rumor]] could grow overnight, the truth would have to move faster. “I’m going to solve this myself,” he announced, although nobody had asked him to.",
+   "zh": "小寶醒來時已經有了計畫。既然 Rumor 一個晚上就能長那麼大，真相就得跑得更快。「我要自己把這件事查清楚。」他宣布，雖然根本沒人叫他這麼做。"
+  },
+  {
+   "en": "At the edge of the square, a man in a velvet jacket was selling spectacles. Their lenses were tinted every colour imaginable: rose, grey, gold, deep blue. “Try a pair,” he said warmly. “They help you see what is really going on.”",
+   "zh": "廣場邊緣，一個穿天鵝絨外套的男人在賣眼鏡，鏡片有各種你想得到的顏色：玫瑰色、灰色、金色、深藍色。「試戴一副吧，」他親切地說，「它們能幫你看清楚到底發生了什麼事。」"
+  },
+  {
+   "en": "Bao put on the grey pair — and gasped. Everywhere he looked, he saw Hesitate. Hesitate’s shadow behind the café. Hesitate’s footprints by the fountain. Hesitate’s face in the window of every house.",
+   "zh": "小寶戴上灰色那副——倒抽一口氣。他看向哪裡，就看到 Hesitate：咖啡館後面有 Hesitate 的影子，噴水池旁有 Hesitate 的腳印，每一扇窗戶裡都有 Hesitate 的臉。"
+  },
+  {
+   "en": "“I knew it,” Bao whispered. Little Mushroom tapped the glasses. “Bao, look at the badge on that man’s jacket. Copper. He’s a verb. His name is [[Assume|assume]].” The seller bowed. “I simply show you what you already believe,” he said. “Isn’t that comfortable?”",
+   "zh": "「我就知道。」小寶小聲說。小蘑菇敲了敲那副眼鏡。「小寶，看那個人外套上的徽章，紅銅色，他是動詞。他叫 Assume。」賣眼鏡的人鞠了個躬。「我只是讓你看到你本來就相信的東西，」他說，「這樣不是很舒服嗎？」"
+  },
+  {
+   "choice": {
+    "prompt": {
+     "en": "What should Bao do next?",
+     "zh": "小寶接下來該怎麼做？"
+    },
+    "options": [
+     {
+      "id": "keep-glasses",
+      "label": {
+       "en": "Keep the glasses on and follow the footprints",
+       "zh": "繼續戴著眼鏡，跟著腳印走"
+      },
+      "en": "Bao kept the glasses on. A friendly guide appeared beside him and pointed confidently down a narrow street. “Hesitate’s house is this way. I’m sure of it.” The guide never told a lie, exactly — he just kept leading people in the wrong direction. A small sign on his back read: [[MISLEAD|mislead]]. Bao followed him for twenty minutes and ended up exactly where he had started.",
+      "zh": "小寶繼續戴著眼鏡。一個友善的嚮導出現在他身邊，很有把握地指向一條小巷：「Hesitate 的家往這邊，我很確定。」這個嚮導嚴格說來從沒說謊——他只是一直把人帶往錯的方向。他背上有個小牌子寫著：MISLEAD。小寶跟著他走了二十分鐘，結果回到原點。"
+     },
+     {
+      "id": "remove-glasses",
+      "label": {
+       "en": "Take the glasses off and ask someone first",
+       "zh": "拿下眼鏡，先問問別人"
+      },
+      "en": "Bao took the glasses off. At once, a friendly guide appeared and pointed confidently down a narrow street. “The answer is this way.” But Little Mushroom pulled Bao back. “That’s [[Mislead|mislead]]. He never tells a lie, exactly. He just leads you the wrong way — that’s what the ‘mis-’ in his name means.”",
+      "zh": "小寶拿下眼鏡。一個友善的嚮導立刻出現，很有把握地指向一條小巷：「答案在這邊。」但小蘑菇把小寶拉回來。「那是 Mislead。他嚴格說來從沒說謊，只是會把你帶往錯的方向——他名字裡的 mis- 就是這個意思。」"
+     }
+    ],
+    "after": {
+     "en": "Either way, Bao learned something: a confident voice is not the same as a correct one.",
+     "zh": "不管走哪條路，小寶都學到了一件事：說得很有把握，不代表說得對。"
+    }
+   }
+  },
+  {
+   "en": "Back at the fountain, a woman in a raincoat was kneeling on the stones with a notebook. She did not look at Rumor, and she did not listen to [[Gossip|gossip]]. She asked questions and wrote down answers — slowly, patiently, one line at a time. On the first page she had pinned [[Anonymous|anonymous]]’s note, next to a large question mark. “I’m [[Investigate|investigate]],” she said, without looking up. “I don’t decide first and look later. I look first.”",
+   "zh": "回到噴水池邊，一位穿雨衣的女士拿著筆記本跪在石板上。她不看 Rumor，也不聽 Gossip。她問問題，然後把答案記下來——慢慢地、耐心地，一次一行。她在第一頁釘上了 Anonymous 的紙條，旁邊畫了一個大問號。「我是 Investigate，」她頭也不抬地說，「我不會先下結論再去看，我會先去看。」"
+  },
+  {
+   "en": "Beside her sat a quiet boy who had not said a word all morning. He was watching the footprints carefully, the way a cat watches a bird. “That’s [[Observe|observe]],” whispered Little Mushroom. “He notices what everyone else walks past.” Finally the boy spoke. “These footprints are small,” he said. “Much smaller than Hesitate’s feet.”",
+   "zh": "她旁邊坐著一個整個早上都沒開口的安靜男孩。他仔細地盯著那些腳印，就像貓盯著小鳥。「那是 Observe，」小蘑菇小聲說，「別人走過去沒注意到的，他都會注意到。」終於，男孩開口了：「這些腳印很小，比 Hesitate 的腳小多了。」"
+  },
+  {
+   "en": "Then an elderly woman with very bright eyes came forward. “I am [[Witness|witness]],” she said. “I keep what I have seen, exactly as it happened. At dawn on the day the bell went silent, I [[witnessed|witness]] something small hurrying away from the bell, carrying a jar. But I was far away. I cannot tell you who it was. I will not [[exaggerate]].”",
+   "zh": "接著一位眼睛很亮的老婦人走上前。「我是 Witness，」她說，「我把我看到的事，原原本本地保存下來。鐘聲消失那天的黎明，我目睹一個小小的身影抱著一個罐子，匆匆離開大鐘。可是我離得很遠，沒辦法告訴你那是誰。我不會誇大。」"
+  },
+  {
+   "en": "Bao looked down at the grey glasses in his hand. Seen through them, the world had been simple: one villain, one answer. Without them, it was blurry, complicated — and real. Investigate closed her notebook. “So,” she said. “Small footprints. Something small carrying a jar. Who in this square is small?”",
+   "zh": "小寶低頭看著手上的灰色眼鏡。透過它看，世界很簡單：一個壞人、一個答案。拿下來之後，世界變得模糊、複雜——但是真實。Investigate 闔上筆記本。「所以，」她說，「小腳印，一個抱著罐子的小身影。這個廣場上，誰個子很小？」"
+  },
+  {
+   "en": "Master Mu took the glasses gently from Bao’s hand. “What we think we see in others,” he said, “is very often a picture painted by our own mind.”",
+   "zh": "木大人輕輕從小寶手上拿走眼鏡。「我們以為在別人身上看到的，」他說，「很多時候，是我們自己的心畫出來的畫。」"
+  },
+  {
+   "en": "But when they returned to the centre of the square, the crowd had already formed a circle. In the middle, one foot forward and one foot back, stood Hesitate — and the [[suspect]] badge was pinned to his chest.",
+   "zh": "可是當他們回到廣場中央，群眾已經圍成一圈。圈子正中間，一腳在前、一腳在後，站著 Hesitate——他的胸口被別上了「嫌疑犯」的徽章。"
+  }
+ ],
+ "insight": {
+  "en": "What we think we see in others is very often a picture painted by our own mind.",
+  "zh": "我們以為在別人身上看到的，很多時候，是我們自己的心畫出來的畫。",
+  "by": "Master Mu"
+ },
+ "quote": {
+  "en": "There is nothing either good or bad, but thinking makes it so.",
+  "zh": "世上本無好壞，是想法讓它們變成這樣。",
+  "author": "William Shakespeare",
+  "source": "Hamlet, Act 2, Scene 2",
+  "url": "https://en.wikiquote.org/wiki/Hamlet"
+ },
+ "quiz": [
+  {
+   "q": "The police are going to ______ the fire. They want to know how it started.",
+   "answers": [
+    "investigate"
+   ],
+   "word": "investigate",
+   "explain": "investigate 調查：investigate a crime／a problem。名詞是 investigation。"
+  },
+  {
+   "q": "Don’t ______ she is angry just because she didn’t reply. Maybe she is busy.",
+   "answers": [
+    "assume"
+   ],
+   "word": "assume",
+   "explain": "assume 以為、假定（沒有證據就先認定）：assume that...。"
+  },
+  {
+   "q": "Two people ______ the accident and called the police.",
+   "answers": [
+    "witnessed"
+   ],
+   "word": "witness",
+   "explain": "witness 當動詞是「目擊」，當名詞是「目擊者」：a witness to the accident。"
+  },
+  {
+   "q": "Scientists ______ the birds for three months to learn how they find food.",
+   "answers": [
+    "observed"
+   ],
+   "word": "observe",
+   "explain": "observe 觀察（仔細看）：observe animals／changes。名詞 observation。"
+  },
+  {
+   "q": "The advertisement was ______. The product was much smaller than in the picture.",
+   "answers": [
+    "misleading"
+   ],
+   "word": "mislead",
+   "explain": "mislead 誤導；形容詞 misleading（誤導人的）。mis- 是「錯誤地」的字首。"
+  }
+ ]
+}

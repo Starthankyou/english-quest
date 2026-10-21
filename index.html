@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>English Story Quest · Reading Lab</title>
+<style>
+:root { --bg:#faf7f1; --paper:#fffdf9; --ink:#2a2622; --muted:#7a726a; --line:#e7dfd3; --accent:#2f6f5f; --lab:#3d5a8a; }
+@media (prefers-color-scheme: dark) { :root { --bg:#1d1b19; --paper:#262320; --ink:#ece6dd; --muted:#a39a90; --line:#3a3530; --accent:#7cc4ad; --lab:#9db6e6; } }
+* { box-sizing: border-box; }
+body { margin:0; background:var(--bg); color:var(--ink); font:17px/1.6 -apple-system,"PingFang TC","Noto Sans TC",system-ui,sans-serif; }
+main { max-width:760px; margin:0 auto; padding:40px 16px 60px; }
+h1 { font-size:1.7rem; line-height:1.3; margin:0; }
+.sub { display:block; font-size:.8em; color:var(--muted); line-height:1.5; }
+.lead { margin:6px 0 28px; }
+.doors { display:grid; gap:16px; grid-template-columns:1fr; }
+@media (min-width:640px) { .doors { grid-template-columns:1fr 1fr; } }
+.door { display:block; padding:22px 20px; border-radius:16px; background:var(--paper); border:1px solid var(--line);
+  color:var(--ink); text-decoration:none; border-top:5px solid var(--accent); }
+.door.lab { border-top-color:var(--lab); }
+.door h2 { margin:0 0 2px; font-size:1.3rem; }
+.door p { margin:10px 0 0; font-size:15px; }
+.door .go { display:inline-block; margin-top:14px; font-weight:700; color:var(--accent); }
+.door.lab .go { color:var(--lab); }
+.tally { margin-top:28px; font-size:14px; color:var(--muted); }
+</style>
+</head>
+<body>
+<main>
+  <h1>Choose your path<span class="sub">選一條路開始</span></h1>
+  <p class="lead">Stories to meet words. Articles to use them.<span class="sub">在故事裡認識單字，在文章裡用上它們。</span></p>
+  <div class="doors">
+    <a class="door" href="story/">
+      <h2>Story Quest<span class="sub">英語世界小說</span></h2>
+      <p>Walk into English World, where every word is a resident with a personality. A short story every day, a big story every week.
+        <span class="sub">走進英語世界：每個單字都是有個性的居民。每天一篇小故事，每週一篇大故事。</span></p>
+      <span class="go">Enter the story →</span>
+    </a>
+    <a class="door lab" href="lab/">
+      <h2>Reading Lab<span class="sub">跨領域分級閱讀</span></h2>
+      <p>Explore the world through English. Science, psychology, society and technology, each written at three levels.
+        <span class="sub">用英文探索世界：科學、心理、社會、科技，每篇都有三種程度。</span></p>
+      <span class="go">Open the library →</span>
+    </a>
+  </div>
+  <p class="tally" id="tally"></p>
+</main>
+<script>
+// 首頁只讀故事端的學習紀錄（esq:v1）；讀不到就不顯示
+try {
+  const s = JSON.parse(localStorage.getItem("esq:v1") || "{}");
+  const ws = Object.values(s.words || {});
+  if (ws.length) document.getElementById("tally").innerHTML =
+    `Words met: ${ws.filter(r => r.seen).length} · Recalled on your own: ${ws.filter(r => r.recalled?.length).length}` +
+    `<span class="sub">遇見 ${ws.filter(r => r.seen).length} 字｜自己想起 ${ws.filter(r => r.recalled?.length).length} 字</span>`;
+} catch {}
+</script>
+</body>
+</html>

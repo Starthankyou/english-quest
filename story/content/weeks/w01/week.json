@@ -1,0 +1,277 @@
+{
+ "id": "w01",
+ "status": "confirmed",
+ "theme": "謠言與真相",
+ "issue": "資訊真假：匿名訊息、轉傳、先入為主",
+ "big_story": {
+  "day": 7,
+  "level": "B2",
+  "plot": "鐘再次響起：一行人在全廣場面前用證據還原事件，本週 30 個居民全部回來",
+  "new_words": [],
+  "episode": "d7"
+ },
+ "days": [
+  {
+   "day": 1,
+   "level": "B1",
+   "plot": "一行人抵達真相廣場，說真話就會響的鐘不響了；認識 Mysterious、Evidence 等居民",
+   "words": [
+    {
+     "word": "reliable",
+     "level": 3,
+     "pos": "adj.",
+     "zh": "a.可信賴的；可靠的",
+     "kk": "rɪˋlaɪəb!"
+    },
+    {
+     "word": "mysterious",
+     "level": 4,
+     "pos": "adj.",
+     "zh": "a.神祕的；不可思議",
+     "kk": "mɪsˋtɪrɪəs"
+    },
+    {
+     "word": "evidence",
+     "level": 4,
+     "pos": "n./v.",
+     "zh": "證據；證詞；證人；",
+     "kk": "ˋɛvədəns"
+    },
+    {
+     "word": "hesitate",
+     "level": 3,
+     "pos": "v.",
+     "zh": "猶豫",
+     "kk": "ˋhɛzə͵tet"
+    },
+    {
+     "word": "reveal",
+     "level": 3,
+     "pos": "v.",
+     "zh": "展現；暴露；洩露",
+     "kk": "rɪˋvil"
+    }
+   ],
+   "episode": "d1"
+  },
+  {
+   "day": 2,
+   "level": "A2",
+   "plot": "廣場要發布緊急公告：Announce、Broadcast 和一大群耳朵 Audience；Volunteer 自願幫忙，Permission 守門",
+   "words": [
+    {
+     "word": "announce",
+     "level": 3,
+     "pos": "v.",
+     "zh": "宣布，發布，通知",
+     "kk": "əˋnaʊns"
+    },
+    {
+     "word": "broadcast",
+     "level": 3,
+     "pos": "n./v.",
+     "zh": "廣播",
+     "kk": "ˋbrɔd͵kæst"
+    },
+    {
+     "word": "audience",
+     "level": 3,
+     "pos": "n.",
+     "zh": "觀眾，聽眾，讀者",
+     "kk": "ˋɔdɪəns"
+    },
+    {
+     "word": "volunteer",
+     "level": 4,
+     "pos": "n./v.",
+     "zh": "志願者，義工",
+     "kk": "͵vɑlənˋtɪr"
+    },
+    {
+     "word": "permission",
+     "level": 3,
+     "pos": "n.",
+     "zh": "允許，許可",
+     "kk": "pɚˋmɪʃən"
+    }
+   ],
+   "episode": "d2"
+  },
+  {
+   "day": 3,
+   "level": "B1",
+   "plot": "一張沒有臉的紙條傳開（Anonymous），Rumor 每被轉述一次就長大一圈，Gossip、Exaggerate 推波助瀾，大家開始 suspect 彼此",
+   "words": [
+    {
+     "word": "rumor",
+     "level": 3,
+     "pos": "n./v.",
+     "zh": "謠言，謠傳",
+     "kk": "ˋrumɚ"
+    },
+    {
+     "word": "gossip",
+     "level": 3,
+     "pos": "n./v.",
+     "zh": "閒話，聊天；八卦",
+     "kk": "ˋgɑsəp"
+    },
+    {
+     "word": "exaggerate",
+     "level": 4,
+     "pos": "v.",
+     "zh": "誇張，誇大",
+     "kk": "ɪgˋzædʒə͵ret"
+    },
+    {
+     "word": "anonymous",
+     "level": 5,
+     "pos": "adj.",
+     "zh": "匿名的",
+     "kk": "ə`nɑnəməs"
+    },
+    {
+     "word": "suspect",
+     "level": 3,
+     "pos": "v./n./adj.",
+     "zh": "懷疑",
+     "kk": "səˋspɛkt"
+    }
+   ],
+   "episode": "d3"
+  },
+  {
+   "day": 4,
+   "level": "B2",
+   "plot": "Bao 戴上 Assume 的有色眼鏡，看到的都是自己腦中的投影；Investigate、Witness、Observe 幫忙，Mislead 指錯路",
+   "words": [
+    {
+     "word": "investigate",
+     "level": 3,
+     "pos": "v.",
+     "zh": "調查，研究",
+     "kk": "ɪnˋvɛstə͵get"
+    },
+    {
+     "word": "witness",
+     "level": 4,
+     "pos": "n./v.",
+     "zh": "目擊者；見證人  vt.目擊",
+     "kk": "ˋwɪtnɪs"
+    },
+    {
+     "word": "observe",
+     "level": 3,
+     "pos": "v.",
+     "zh": "觀察；看(注意)到",
+     "kk": "əbˋzɝv"
+    },
+    {
+     "word": "assume",
+     "level": 3,
+     "pos": "v.",
+     "zh": "以為；假定為；承擔；就",
+     "kk": "əˋsjum"
+    },
+    {
+     "word": "mislead",
+     "level": 4,
+     "pos": "v.",
+     "zh": "誤導；把…引入歧途",
+     "kk": "mɪsˋlid"
+    }
+   ],
+   "episode": "d4"
+  },
+  {
+   "day": 5,
+   "level": "B1",
+   "plot": "Hesitate 被指控偷了鐘聲（因為他總在猶豫，看起來很心虛）；Reputation 的光環碎了，Panic 到處亂跑；Genuine 和 Sincere 站出來",
+   "words": [
+    {
+     "word": "accuse",
+     "level": 4,
+     "pos": "v.",
+     "zh": "指控，控告；譴責",
+     "kk": "əˋkjuz"
+    },
+    {
+     "word": "reputation",
+     "level": 4,
+     "pos": "n.",
+     "zh": "名譽，名聲",
+     "kk": "͵rɛpjəˋteʃən"
+    },
+    {
+     "word": "genuine",
+     "level": 4,
+     "pos": "adj.",
+     "zh": "a.真的，非偽造的；真誠",
+     "kk": "ˋdʒɛnjʊɪn"
+    },
+    {
+     "word": "panic",
+     "level": 3,
+     "pos": "n./v.",
+     "zh": "恐慌，驚慌",
+     "kk": "ˋpænɪk"
+    },
+    {
+     "word": "sincere",
+     "level": 3,
+     "pos": "adj.",
+     "zh": "a.衷心的，真誠的",
+     "kk": "sɪnˋsɪr"
+    }
+   ],
+   "episode": "d5"
+  },
+  {
+   "day": 6,
+   "level": "B2",
+   "plot": "Coincidence 雙胞胎揭開一連串巧合；真正不敢開口的人 confess，大家 apologize、frank 地談、cooperate",
+   "words": [
+    {
+     "word": "confess",
+     "level": 4,
+     "pos": "v.",
+     "zh": "坦白，承認",
+     "kk": "kənˋfɛs"
+    },
+    {
+     "word": "apologize",
+     "level": 3,
+     "pos": "v.",
+     "zh": "道歉；認錯",
+     "kk": "əˋpɑlə͵dʒaɪz"
+    },
+    {
+     "word": "frank",
+     "level": 3,
+     "pos": "adj.",
+     "zh": "坦白的",
+     "kk": "fræŋk"
+    },
+    {
+     "word": "cooperate",
+     "level": 4,
+     "pos": "v.",
+     "zh": "合作，協作",
+     "kk": "koˋɑpə͵ret"
+    },
+    {
+     "word": "coincidence",
+     "level": 5,
+     "pos": "n.",
+     "zh": "巧合",
+     "kk": "ko`ɪnsɪdəns"
+    }
+   ],
+   "episode": "d6"
+  }
+ ],
+ "title": {
+  "en": "The Silent Bell of Truth Square",
+  "zh": "真相廣場的沉默之鐘"
+ }
+}

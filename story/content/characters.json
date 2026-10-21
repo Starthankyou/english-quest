@@ -1,0 +1,274 @@
+{
+ "badges": {
+  "adjective": {
+   "zh": "形容詞",
+   "color": "#b8860b",
+   "label": "金色徽章・上流社會"
+  },
+  "noun": {
+   "zh": "名詞",
+   "color": "#8a8f98",
+   "label": "銀色徽章"
+  },
+  "verb": {
+   "zh": "動詞",
+   "color": "#b06a3b",
+   "label": "紅銅色徽章・動詞同業公會"
+  },
+  "adverb": {
+   "zh": "副詞",
+   "color": "#4a7a8c",
+   "label": "副詞同業公會（徽章顏色待定）"
+  }
+ },
+ "cast": [
+  {
+   "id": "bao",
+   "en": "Bao",
+   "zh": "小寶",
+   "note": "主角。好奇、急性子、點子多，英文不太好但很敢問"
+  },
+  {
+   "id": "mushroom",
+   "en": "Little Mushroom",
+   "zh": "小蘑菇",
+   "note": "唯一看得見字的人，可愛到字會偷摸他的頭，愛看熱鬧"
+  },
+  {
+   "id": "mu",
+   "en": "Master Mu",
+   "zh": "木大人",
+   "note": "神祕溫和的長輩，話少，關鍵時刻說一句讓人想很久的話"
+  },
+  {
+   "id": "chuyi",
+   "en": "Chuyi",
+   "zh": "初一",
+   "note": "一隻貓。害羞、防備心重的字遇到她會放鬆"
+  }
+ ],
+ "residents": {
+  "mysterious": {
+   "badge": "adjective",
+   "first": "w01-d1",
+   "look": "灰霧組成的身影，永遠看不清臉",
+   "trait": "從不給直接答案，問他問題他會反問",
+   "usage": "a mysterious letter／man／sound；名詞 mystery"
+  },
+  "evidence": {
+   "badge": "noun",
+   "first": "w01-d1",
+   "look": "穿銀扣長大衣的瘦高男人，大衣有幾百個口袋",
+   "trait": "只談口袋裡真的有的東西；討厭被數",
+   "usage": "不可數：no evidence、a piece of evidence，不說 an evidence"
+  },
+  "hesitate": {
+   "badge": "verb",
+   "first": "w01-d1",
+   "look": "年輕人，永遠一腳在前、一腳在後",
+   "trait": "每次要行動前都會停下來；初一靠近時會放鬆",
+   "usage": "hesitate to + V；Don't hesitate to ask."
+  },
+  "reliable": {
+   "badge": "adjective",
+   "first": "w01-d1",
+   "look": "提燈籠的老婆婆",
+   "trait": "一千年來每天中午準時出現，不早不晚",
+   "usage": "a reliable person／car／source；動詞 rely on"
+  },
+  "reveal": {
+   "badge": "verb",
+   "first": "w01-d1",
+   "look": "眼睛閃亮的女孩，握著一片憑空垂下的紅布簾",
+   "trait": "讓藏起來的東西被看見，但只在你準備好的時候",
+   "usage": "reveal the truth／a secret；reveal nothing"
+  },
+  "permission": {
+   "badge": "noun",
+   "first": "w01-d2",
+   "look": "聲音之塔門口拿大印章的守衛",
+   "trait": "沒有他點頭誰都不能進；有人吼他就絕不答應",
+   "usage": "不可數：ask for／give permission、without permission"
+  },
+  "volunteer": {
+   "badge": "verb",
+   "first": "w01-d2",
+   "look": "手永遠舉在半空中的女孩",
+   "trait": "還沒人開口她就自願幫忙，而且不要錢",
+   "usage": "volunteer to do sth；也可當名詞「志工」（換銀色徽章）"
+  },
+  "announce": {
+   "badge": "verb",
+   "first": "w01-d2",
+   "look": "穿紅外套、拿金色小號的高個子",
+   "trait": "一開口就是「Attention, please!」，只說重要的事",
+   "usage": "announce the news／the winner；名詞 announcement"
+  },
+  "broadcast": {
+   "badge": "verb",
+   "first": "w01-d2",
+   "look": "外套上有一百個小喇叭的女生，Announce 的妹妹",
+   "trait": "把一個訊息同時送到所有地方",
+   "usage": "broadcast live／on TV；過去式通常也是 broadcast"
+  },
+  "audience": {
+   "badge": "noun",
+   "first": "w01-d2",
+   "look": "一朵由幾百隻耳朵組成的雲",
+   "trait": "很多耳朵，但永遠是「一群」聽眾，一起轉向",
+   "usage": "集合名詞：a large／small audience"
+  },
+  "anonymous": {
+   "badge": "adjective",
+   "first": "w01-d3",
+   "look": "沒有臉的灰大衣身影，臉是一片光滑的白",
+   "trait": "會寫信、送禮、傳話，但從不署名；多半只是害羞",
+   "usage": "an anonymous letter／call／donor"
+  },
+  "gossip": {
+   "badge": "noun",
+   "first": "w01-d3",
+   "look": "咖啡館裡拿茶杯的開朗女士",
+   "trait": "很愛聊別人的事，但很少跟本人說；茶永遠喝不完",
+   "usage": "gossip about sb；a piece of gossip；也可當動詞"
+  },
+  "exaggerate": {
+   "badge": "verb",
+   "first": "w01-d3",
+   "look": "拿著大放大鏡的男人",
+   "trait": "看什麼什麼就變大：一小步變一大跳，十分鐘變一輩子",
+   "usage": "exaggerate the problem；名詞 exaggeration"
+  },
+  "rumor": {
+   "badge": "noun",
+   "first": "w01-d3",
+   "look": "一團灰塵球，一開始比豌豆還小",
+   "trait": "每被轉述一次就長大一圈；沒人知道他哪裡來，但人人都在餵他",
+   "usage": "There is a rumor that...；英式拼法 rumour"
+  },
+  "suspect": {
+   "badge": [
+    "verb",
+    "noun"
+   ],
+   "first": "w01-d3",
+   "look": "瞇著眼、斜眼看人的瘦男人，有兩枚徽章",
+   "trait": "戴紅銅色徽章時懷疑別人（sus-PECT），換銀色就變嫌疑犯（SUS-pect）",
+   "usage": "suspect that...；a suspect；注意重音隨詞性改變"
+  },
+  "assume": {
+   "badge": "verb",
+   "first": "w01-d4",
+   "look": "穿天鵝絨外套、賣有色眼鏡的男人",
+   "trait": "眼鏡讓你只看到你本來就相信的東西",
+   "usage": "assume that...；名詞 assumption"
+  },
+  "mislead": {
+   "badge": "verb",
+   "first": "w01-d4",
+   "look": "很有把握地指路的友善嚮導",
+   "trait": "嚴格說來從不說謊，只是一直把人帶往錯的方向（mis- = 錯誤地）",
+   "usage": "mislead sb；形容詞 misleading"
+  },
+  "investigate": {
+   "badge": "verb",
+   "first": "w01-d4",
+   "look": "穿雨衣、跪在地上寫筆記的女士",
+   "trait": "不先下結論再看，而是先看；一次只寫一行確定的事",
+   "usage": "investigate a crime／problem；名詞 investigation"
+  },
+  "observe": {
+   "badge": "verb",
+   "first": "w01-d4",
+   "look": "整個早上不說話的安靜男孩",
+   "trait": "像貓盯小鳥一樣，注意到別人走過去沒看到的東西",
+   "usage": "observe carefully；名詞 observation"
+  },
+  "witness": {
+   "badge": "noun",
+   "first": "w01-d4",
+   "look": "眼睛很亮的老婦人",
+   "trait": "把看到的事原原本本保存下來，不多加一個細節",
+   "usage": "a witness to sth；當動詞 = 目擊（換紅銅色徽章）"
+  },
+  "accuse": {
+   "badge": "verb",
+   "first": "w01-d5",
+   "look": "手指非常長的高個子男人",
+   "trait": "指著誰手指就越伸越長；永遠記得 of，有時會忘記事實",
+   "usage": "accuse sb of (doing) sth"
+  },
+  "reputation": {
+   "badge": "noun",
+   "first": "w01-d5",
+   "look": "穿白衣、守護每個人頭上玻璃王冠的女士",
+   "trait": "王冠要一千天建立，一個下午就能打碎",
+   "usage": "a good／bad reputation；damage one’s reputation"
+  },
+  "panic": {
+   "badge": "verb",
+   "first": "w01-d5",
+   "look": "又小又快、尖叫著繞圈跑的東西",
+   "trait": "跑到哪裡，那裡的人心跳就加快；沒辦法邊跑邊思考",
+   "usage": "Don’t panic.；過去式 panicked；也可當名詞"
+  },
+  "genuine": {
+   "badge": "adjective",
+   "first": "w01-d5",
+   "look": "穿棕色外套的樸素老先生，手上的硬幣是真金",
+   "trait": "分得出什麼是真的：害怕是真的，但害怕不等於有罪",
+   "usage": "genuine leather；a genuine smile"
+  },
+  "sincere": {
+   "badge": "adjective",
+   "first": "w01-d5",
+   "look": "聲音柔和的年輕女子",
+   "trait": "眼神和話語永遠表達同一件事，每個字都是真心的",
+   "usage": "a sincere apology；Yours sincerely"
+  },
+  "coincidence": {
+   "badge": "noun",
+   "first": "w01-d6",
+   "look": "一對總是同時出現的雙胞胎",
+   "trait": "兩件事同時發生，大家就以為有關；有時是，通常不是",
+   "usage": "What a coincidence!；It was a coincidence that..."
+  },
+  "frank": {
+   "badge": "adjective",
+   "first": "w01-d6",
+   "look": "肩膀寬闊、沒有任何裝飾的男人",
+   "trait": "不浪費任何一個字，有話直說",
+   "usage": "To be frank,...；a frank discussion"
+  },
+  "confess": {
+   "badge": "verb",
+   "first": "w01-d6",
+   "look": "抱著一大袋石頭的女士",
+   "trait": "你每坦白一次，她就從你的袋子拿走一顆石頭",
+   "usage": "confess that...；confess to (doing) sth"
+  },
+  "apologize": {
+   "badge": "verb",
+   "first": "w01-d6",
+   "look": "穿灰西裝、帽子都鞠躬鞠到磨薄的溫和男士",
+   "trait": "永遠提醒你兩個小字：TO 某人、FOR 某事",
+   "usage": "apologize to sb for sth；英式 apologise"
+  },
+  "cooperate": {
+   "badge": "verb",
+   "first": "w01-d6",
+   "look": "一群像蜜蜂一樣的小幫手",
+   "trait": "單獨誰都抬不動大鐘，一起就輕鬆抬起",
+   "usage": "cooperate with sb；名詞 cooperation"
+  },
+  "sorry": {
+   "badge": "adjective",
+   "first": "w01-d6",
+   "look": "戴插藍羽毛小帽子的小小字，S 家族成員",
+   "trait": "害羞又會藏祕密；把鐘撞裂後怕被聽見，藏起了鐘聲",
+   "usage": "I’m sorry.；sorry for／about sth",
+   "zh": "抱歉的；難過的",
+   "kk": "ˋsɑrɪ"
+  }
+ }
+}

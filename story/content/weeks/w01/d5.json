@@ -1,0 +1,160 @@
+{
+ "id": "w01-d5",
+ "week": "w01",
+ "day": 5,
+ "level": "B1",
+ "title": {
+  "en": "The Crack in the Crown",
+  "zh": "王冠上的裂痕"
+ },
+ "words": [
+  "accuse",
+  "reputation",
+  "panic",
+  "genuine",
+  "sincere"
+ ],
+ "review": [
+  "investigate",
+  "witness",
+  "observe",
+  "assume",
+  "mislead"
+ ],
+ "blocks": [
+  {
+   "en": "In the middle of the circle stood a tall man with a very long finger. When he pointed at someone, the finger grew longer and longer. Now it was pointing straight at Hesitate’s nose.",
+   "zh": "圈子中間站著一個手指非常長的高個子男人。他指著誰，手指就越伸越長。現在，那根手指正直直指著 Hesitate 的鼻子。"
+  },
+  {
+   "en": "“Hesitate,” he said in a loud, cold voice, “I [[accuse]] you of stealing the bell’s voice!” The crowd gasped. Little Mushroom sighed. “That’s [[Accuse|accuse]]. He always says ‘accuse you OF something’. He never forgets the ‘of’. He sometimes forgets the facts.”",
+   "zh": "「Hesitate，」他用響亮又冰冷的聲音說，「我指控你偷了鐘的聲音！」群眾倒抽一口氣。小蘑菇嘆了口氣。「那是 Accuse。他永遠都說 accuse you OF something，那個 of 從來不會忘。他有時候會忘記的，是事實。」"
+  },
+  {
+   "en": "Hesitate opened his mouth. He closed it. He opened it again. To the crowd, this looked exactly like guilt. They had already [[assumed|assume]] the worst, and somewhere at the back, [[Mislead|mislead]] was nodding helpfully.",
+   "zh": "Hesitate 張開嘴，閉上，又張開。在群眾眼裡，這看起來就是心虛。大家早就往最壞的方向認定了，人群後面的 Mislead 還在熱心地點頭附和。"
+  },
+  {
+   "en": "Above every resident in English World floats a small glass crown. It shines when people think well of you. Above Hesitate’s head, the crown began to crack. A lady in white rushed over and tried to hold the pieces together. “This is [[Reputation|reputation]],” said Master Mu quietly. “It takes a thousand days to build her crown, and one afternoon to break it.”",
+   "zh": "英語世界的每個居民頭上都漂浮著一頂小小的玻璃王冠，大家對你評價好的時候，它就會發光。Hesitate 頭上的王冠開始裂開。一位穿白衣的女士衝過來，想把碎片拼回去。「這是 Reputation，」木大人輕聲說，「她的王冠要一千天才能建立，一個下午就能打碎。」"
+  },
+  {
+   "en": "Then something small and fast ran into the circle, screaming. It ran left. It ran right. It ran in circles. Wherever it went, people’s hearts began to beat faster, and they started screaming too. “Lock the gates! Hide the bells! Hesitate will steal everything!”",
+   "zh": "接著，一個又小又快的東西尖叫著衝進圈子。它往左跑，往右跑，繞著圈跑。它跑到哪裡，那裡的人心跳就加快，也跟著尖叫起來：「鎖上城門！把鐘藏好！Hesitate 會把所有東西都偷走！」"
+  },
+  {
+   "en": "“[[Panic|panic]],” said Little Mushroom, covering his ears. “He’s not evil. He just can’t think and run at the same time — so he only runs.”",
+   "zh": "「Panic，」小蘑菇摀住耳朵說，「他不壞，只是沒辦法一邊跑一邊思考——所以他只會跑。」"
+  },
+  {
+   "en": "Bao held up [[Investigate|investigate]]’s notebook. “Wait! We have [[evidence]]! The footprints are small! [[Observe|observe]] saw them! [[Witness|witness]] saw something small!” But Panic was louder than Bao.",
+   "zh": "小寶舉起 Investigate 的筆記本。「等一下！我們有證據！腳印很小！Observe 看到了！Witness 也看到一個小小的身影！」但 Panic 比小寶還大聲。"
+  },
+  {
+   "choice": {
+    "prompt": {
+     "en": "Nobody is listening. What does Bao do?",
+     "zh": "沒有人在聽。小寶怎麼做？"
+    },
+    "options": [
+     {
+      "id": "shout",
+      "label": {
+       "en": "Shout louder than Accuse",
+       "zh": "比 Accuse 吼得更大聲"
+      },
+      "en": "Bao shouted until his voice hurt. Panic loved it. He ran faster, and the crowd became even louder.",
+      "zh": "小寶吼到喉嚨都痛了。Panic 超愛這樣，跑得更快，群眾也變得更吵。"
+     },
+     {
+      "id": "stand",
+      "label": {
+       "en": "Walk over and stand next to Hesitate",
+       "zh": "走過去站在 Hesitate 旁邊"
+      },
+      "en": "Bao walked into the circle and stood next to Hesitate. Chuyi followed and sat on Hesitate’s foot. For a moment, Panic slowed down, confused.",
+      "zh": "小寶走進圈子，站到 Hesitate 身邊。初一也跟過來，坐在 Hesitate 的腳上。有那麼一下子，Panic 慢了下來，一臉困惑。"
+     }
+    ],
+    "after": {
+     "en": "Then two quiet figures stepped out of the crowd.",
+     "zh": "這時，兩個安靜的身影從人群中走了出來。"
+    }
+   }
+  },
+  {
+   "en": "The first was a plain old man in a brown coat. Nothing about him was shiny. But when he held up a coin, everyone could see it was real gold. “I am [[Genuine|genuine]],” he said. “I know what is real. And Hesitate’s fear is real. But fear is not the same as guilt.”",
+   "zh": "第一位是穿著棕色外套、樸素的老先生，身上沒有任何閃亮的東西。可是當他舉起一枚硬幣，大家都看得出那是真金。「我是 Genuine，」他說，「我分得出什麼是真的。Hesitate 的害怕是真的，但害怕不等於有罪。」"
+  },
+  {
+   "en": "The second was a young woman with a soft voice. When she spoke, her eyes and her words said exactly the same thing. She knelt in front of Hesitate. “I believe you,” she said. She was [[Sincere|sincere]], and everyone could feel that she meant every word.",
+   "zh": "第二位是聲音柔和的年輕女子。她說話的時候，眼神和話語表達的完全一致。她在 Hesitate 面前蹲下來。「我相信你。」她說。她是 Sincere，每個人都感覺得到，她說的每個字都是真心的。"
+  },
+  {
+   "en": "Hesitate looked at Sincere. Then at Bao. Then at the cracked crown above his own head. Very slowly, without stepping back even once, he spoke.",
+   "zh": "Hesitate 看著 Sincere，再看看小寶，然後看看自己頭上裂開的王冠。他非常緩慢地開口了，這一次，一步都沒有往後退。"
+  },
+  {
+   "en": "“I didn’t take it,” he said. “But I know who did. And I promised not to tell.”",
+   "zh": "「我沒有拿，」他說，「但我知道是誰拿的。而且我答應過，不會說出去。」"
+  },
+  {
+   "en": "Somewhere near the bell, a very small voice began to cry.",
+   "zh": "在大鐘附近的某個地方，一個很小很小的聲音開始哭了起來。"
+  }
+ ],
+ "insight": {
+  "en": "Being slow to speak is not the same as having something to hide.",
+  "zh": "說話慢，不代表心裡有鬼。",
+  "by": "Genuine"
+ },
+ "quote": {
+  "en": "Glass, China, and Reputation, are easily crack’d, and never well mended.",
+  "zh": "玻璃、瓷器和名聲，都很容易破裂，而且很難修補完好。",
+  "author": "Benjamin Franklin",
+  "source": "Poor Richard’s Almanack, 1751",
+  "url": "https://en.wikiquote.org/wiki/Poor_Richard%27s_Almanack"
+ },
+ "quiz": [
+  {
+   "q": "She ______ her brother of eating her cake, but he said he didn’t.",
+   "answers": [
+    "accused"
+   ],
+   "word": "accuse",
+   "explain": "accuse someone of (doing) something 指控某人做了某事。介系詞一定是 of。"
+  },
+  {
+   "q": "That restaurant has a good ______. Everyone says the food is great.",
+   "answers": [
+    "reputation"
+   ],
+   "word": "reputation",
+   "explain": "reputation 名聲、名譽：have a good／bad reputation、damage someone’s reputation。"
+  },
+  {
+   "q": "When the lights went out, people started to ______ and run.",
+   "answers": [
+    "panic"
+   ],
+   "word": "panic",
+   "explain": "panic 恐慌、驚慌：don’t panic。過去式要加 k：panicked。"
+  },
+  {
+   "q": "Is this bag made of ______ leather, or is it fake?",
+   "answers": [
+    "genuine"
+   ],
+   "word": "genuine",
+   "explain": "genuine 真的、非偽造的；也可形容真心的：a genuine smile。"
+  },
+  {
+   "q": "His apology was ______. You could tell he really meant it.",
+   "answers": [
+    "sincere"
+   ],
+   "word": "sincere",
+   "explain": "sincere 真誠的：a sincere apology。信件結尾常寫 Yours sincerely。"
+  }
+ ]
+}

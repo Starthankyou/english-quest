@@ -1,0 +1,71 @@
+{
+ "id": "w01-d3",
+ "week": "w01",
+ "day": 3,
+ "level": "B1",
+ "title": {"en": "The Story That Grew", "zh": "越長越大的故事"},
+ "words": ["anonymous", "gossip", "exaggerate", "rumor", "suspect"],
+ "review": ["announce", "broadcast", "audience", "volunteer", "permission"],
+ "blocks": [
+  {"en": "The next morning, Bao found the person who had written the note. Or rather, Chuyi found him. She sat in front of a figure in a long grey coat and refused to move.",
+   "zh": "隔天早上，小寶找到了寫紙條的人。正確來說，是初一找到的。她坐在一個穿灰色長大衣的身影前面，怎麼樣都不肯走。"},
+  {"en": "The figure had no face. Where his eyes, nose and mouth should be, there was only a smooth white surface, like a blank page. A gold badge was pinned to his coat.",
+   "zh": "那個身影沒有臉。原本該有眼睛、鼻子和嘴巴的地方，只有一片光滑的白色，像一張空白的紙。他的大衣上別著一枚金色徽章。"},
+  {"en": "“Did you write this?” Bao held up the note. The figure nodded. “Who are you?” The figure shook his head. “That’s [[Anonymous|anonymous]],” said Little Mushroom. “He writes letters, gives gifts and sends messages — but he never signs his name. Not because he is bad. Most of the time, he is just shy.”",
+   "zh": "「這是你寫的嗎？」小寶舉起紙條。那個身影點點頭。「你是誰？」身影搖搖頭。「那是 Anonymous，」小蘑菇說，「他會寫信、送禮物、傳訊息——但從不署名。不是因為他壞，大部分時候他只是害羞。」"},
+  {"en": "But Anonymous’s note had already left the tower. [[Announce|announce]] had read it aloud, [[Broadcast|broadcast]] had sent it to every street, and the [[audience]] had heard every word. [[Volunteer|volunteer]] had even offered to copy it a hundred times — without anyone’s [[permission]]. Now the note was travelling on its own.",
+   "zh": "可是 Anonymous 的紙條早就離開了高塔。Announce 大聲唸了出來，Broadcast 把它送到每條街，聽眾每個字都聽到了。Volunteer 甚至自告奮勇抄了一百份——沒經過任何人同意。現在這張紙條開始自己旅行了。"},
+  {"en": "In the café next to the square sat a cheerful lady with a teacup. She loved talking about other people, though she rarely talked to them. “Have you heard?” she said to the man at the next table. “Someone was at the gate. I wonder who…” She was [[Gossip|gossip]], and her tea was never finished, because her mouth was always busy.",
+   "zh": "廣場旁的咖啡館裡坐著一位拿著茶杯、很開朗的女士。她很愛聊別人的事，但很少跟那些人本人說話。「你聽說了嗎？」她對隔壁桌的男人說，「有人在城門口出現喔。不知道是誰……」她是 Gossip。她的茶從來沒喝完過，因為嘴巴一直在忙。"},
+  {"en": "The man at the next table held a large magnifying glass. Everything he looked at became bigger. “Someone at the gate?” he said loudly. “I heard that a giant was at the gate. A giant who stole every bell in the world!” He was [[Exaggerate|exaggerate]]. To him, a small step was a giant jump, and ten minutes were “forever”.",
+   "zh": "隔壁桌的男人拿著一個大放大鏡，他看什麼，什麼就變大。「城門口有人？」他大聲說，「我聽說城門口有個巨人，一個偷走全世界所有鐘的巨人！」他是 Exaggerate。在他嘴裡，一小步就是一大跳，十分鐘就是「一輩子」。"},
+  {"en": "Under their table, something small began to move. At first, it was a ball of grey dust, no bigger than a pea. Each time someone repeated the story, it grew. By lunchtime it was the size of a cat. By the afternoon it was the size of a car.",
+   "zh": "他們桌子底下，有個小東西開始動了。一開始，它只是一顆灰塵球，比豌豆還小。每次有人重複這個故事，它就長大一點。到了中午，它跟貓一樣大；到了下午，它跟一台車一樣大。"},
+  {"en": "“That’s [[Rumor|rumor]],” said Little Mushroom, and for once he did not laugh. “Nobody knows where he was born. But everybody feeds him.”",
+   "zh": "「那是 Rumor，」小蘑菇說，這次他難得沒有笑，「沒有人知道他從哪裡生出來的，但每個人都在餵他。」"},
+  {"en": "Soon a thin man with narrow eyes walked across the square, looking at everyone sideways. On his coat he wore a copper badge. “I [[suspect]] the young man at the gate,” he said. Then he took off the copper badge and put on a silver one. Suddenly he looked worried. “Or maybe I am the suspect,” he muttered. “It changes.”",
+   "zh": "很快地，一個瞇著眼的瘦男人走過廣場，斜眼打量每一個人。他的外套上別著紅銅色徽章。「我懷疑城門口那個年輕人。」他說。接著他拿下紅銅色徽章，換上一枚銀色的，突然一臉擔心。「也可能我才是嫌疑犯，」他喃喃地說，「這會變的。」"},
+  {"en": "“That’s [[Suspect|suspect]],” said Little Mushroom. “As a verb, he says sus-PECT. As a noun, he becomes a SUS-pect. Same man, different badge.”",
+   "zh": "「那是 Suspect，」小蘑菇說，「當動詞的時候，重音在後面：sus-PECT；當名詞的時候，他就變成 SUS-pect（嫌疑犯）。同一個人，換個徽章而已。」"},
+  {"choice": {
+    "prompt": {"en": "Bao is not sure what to believe. What does he do?", "zh": "小寶不知道該相信什麼。他要怎麼做？"},
+    "options": [
+     {"id": "tell", "label": {"en": "Tell Chuyi the giant story", "zh": "把巨人的故事講給初一聽"},
+      "en": "“Did you know there was a giant at the gate?” Bao whispered to Chuyi. Under the table, Rumor grew a little bigger and wagged his tail at Bao.",
+      "zh": "「你知道城門口有個巨人嗎？」小寶小聲對初一說。桌子底下，Rumor 又長大了一點，還對小寶搖了搖尾巴。"},
+     {"id": "keep", "label": {"en": "Keep it to himself", "zh": "什麼都不說"},
+      "en": "Bao closed his mouth and said nothing. Under the table, Rumor shrank a tiny bit and looked at Bao with hungry eyes.",
+      "zh": "小寶閉上嘴，什麼都沒說。桌子底下，Rumor 縮小了一點點，用很餓的眼神看著小寶。"}
+    ],
+    "after": {"en": "But it was too late. All over the square, other people were feeding Rumor.", "zh": "可是已經太遲了。整個廣場上，其他人都還在餵 Rumor。"}
+  }},
+  {"en": "Master Mu watched Rumor grow. “Before you pass a story on,” he said quietly, “ask yourself one thing: did I see it, or did I only hear it?”",
+   "zh": "木大人看著 Rumor 長大。「把一個故事傳下去之前，」他輕聲說，「先問自己一件事：這是我親眼看到的，還是只是聽來的？」"},
+  {"en": "By nightfall, Rumor was taller than the bell. And on his back, written in large black letters, was a name: HESITATE.",
+   "zh": "到了晚上，Rumor 已經比鐘還高。他的背上用大大的黑字寫著一個名字：HESITATE。"}
+ ],
+ "insight": {
+  "en": "Before you pass a story on, ask yourself: did I see it, or did I only hear it?",
+  "zh": "把一個故事傳下去之前，先問自己：這是我親眼看到的，還是只是聽來的？",
+  "by": "Master Mu"
+ },
+ "quote": {
+  "en": "Falsehood flies, and truth comes limping after it.",
+  "zh": "謊言會飛，真相卻一跛一跛地跟在後面。",
+  "author": "Jonathan Swift",
+  "source": "The Examiner, 9 November 1710",
+  "url": "https://en.wikiquote.org/wiki/Jonathan_Swift"
+ },
+ "quiz": [
+  {"q": "There is a ______ that our school will close early on Friday, but nobody knows if it is true.", "answers": ["rumor", "rumour"], "word": "rumor",
+   "explain": "rumor 謠言（英式拼法 rumour）：There is a rumor that... 是很常見的句型。"},
+  {"q": "Someone sent me flowers, but the card was ______. There was no name on it.", "answers": ["anonymous"], "word": "anonymous",
+   "explain": "anonymous 匿名的：an anonymous letter／call／donor。"},
+  {"q": "Don’t ______. The fish wasn’t THAT big!", "answers": ["exaggerate"], "word": "exaggerate",
+   "explain": "exaggerate 誇大：把事情說得比實際更大、更嚴重。"},
+  {"q": "The police ______ that the man was lying, but they had no proof.", "answers": ["suspected"], "word": "suspect",
+   "explain": "suspect 懷疑（覺得「可能是」）：suspect that...。注意和 doubt（覺得「可能不是」）相反。"},
+  {"q": "My aunt loves to ______ about the neighbors.", "answers": ["gossip"], "word": "gossip",
+   "explain": "gossip 說閒話、八卦：gossip about someone。也可以當名詞：a piece of gossip。"}
+ ]
+}
