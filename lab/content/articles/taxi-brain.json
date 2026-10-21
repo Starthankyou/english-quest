@@ -1,0 +1,451 @@
+{
+ "id": "taxi-brain",
+ "category": "大腦科學",
+ "title": "The Taxi Drivers’ Brains",
+ "subtitle": "倫敦計程車司機的大腦",
+ "source": "原創教學文章；研究內容依 Maguire et al.（2000）PNAS 原始論文，2026-10-21 核對",
+ "sources": [
+  {
+   "title": "Maguire, E. A., et al. (2000). Navigation-related structural change in the hippocampi of taxi drivers. PNAS, 97(8), 4398–4403.",
+   "url": "https://doi.org/10.1073/pnas.070039597",
+   "accessed": "2026-10-21"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "A Map Inside the Head",
+   "paras": [
+    [
+     "London is a very old city with thousands of streets. Many of them are small, crooked and confusing. To drive one of London’s famous black taxis, drivers must pass a very difficult test called The Knowledge. They have to learn the city’s streets so well that they can find the best route without a map.",
+     "倫敦是一座非常古老的城市，有成千上萬條街道，很多又小又彎、讓人搞不清楚方向。想開倫敦著名的黑色計程車，司機必須通過一項非常困難的考試，叫做「The Knowledge（倫敦知識）」。他們要把城市的街道記得滾瓜爛熟，不看地圖也能找到最好的路線。"
+    ],
+    [
+     "Learning all these streets takes a long time. In one study, the drivers had spent about two years, on average, training for The Knowledge. Scientist Eleanor Maguire wondered: does all this learning change the brain? For some drivers in the study, the training took less than a year; for others, it took three and a half years.",
+     "要學會這些街道得花很長的時間。在一項研究中，司機們平均花了大約兩年準備這項考試。科學家艾莉諾．馬奎爾好奇：這麼多的學習，會改變大腦嗎？在這項研究裡，有些司機的訓練不到一年，有些則花了三年半。"
+    ],
+    [
+     "In 2000, she and her team used brain scans to study 16 London taxi drivers. They compared them with men who did not drive taxis. They looked closely at a part of the brain called the hippocampus, which helps us remember places and find our way.",
+     "2000 年，她和團隊用腦部掃描研究了 16 位倫敦計程車司機，並把他們和不開計程車的男性做比較。他們仔細觀察了大腦裡一個叫做海馬迴的部位，它幫助我們記住地點、找到方向。"
+    ],
+    [
+     "The back part of the hippocampus was larger in the taxi drivers. Also, drivers who had worked longer tended to have a larger back part. This suggests that the brain may change as we use it. The scientists called this “plasticity”. In other words, the more the drivers used their memory for places, the more this part of the brain seemed to grow.",
+     "計程車司機海馬迴的後側比較大。而且，開車年資越久的司機，後側往往越大。這表示大腦可能會隨著我們的使用而改變。科學家稱之為「可塑性」。換句話說，司機越常使用對地點的記憶，大腦的這個部位似乎就長得越大。"
+    ],
+    [
+     "Today, most of us use phone maps. They are fast and helpful. But this study makes us think: if we never find our way by ourselves, what happens to the map inside our heads? Scientists are still studying that question. Maybe sometimes it is worth putting the phone away and exploring.",
+     "現在，我們大多數人都用手機地圖，又快又方便。但這項研究讓我們思考：如果我們從來不靠自己找路，腦中的那張地圖會怎麼樣？科學家仍在研究這個問題。也許有時候，值得把手機收起來，自己探索看看。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "The Taxi Drivers’ Brains",
+   "paras": [
+    [
+     "To earn a licence to drive a black cab in London, drivers must pass one of the most demanding tests in the world, known simply as The Knowledge. They must memorise the layout of a huge and irregular city — its streets, landmarks and best routes — and then prove they can plan journeys from memory. For scientists interested in learning, these drivers offered a rare opportunity.",
+     "想取得倫敦黑色計程車的駕駛執照，司機必須通過世界上最嚴苛的考試之一，簡稱「The Knowledge」。他們得記住一座巨大又不規則的城市的布局——街道、地標和最佳路線——並證明自己能憑記憶規劃行程。對研究學習的科學家來說，這些司機提供了一個難得的機會。"
+    ],
+    [
+     "Neuroscientist Eleanor Maguire and her colleagues wanted to know whether this kind of intensive learning could change the physical structure of the adult brain. In a study published in 2000, they scanned the brains of 16 licensed London taxi drivers, who had spent an average of about two years training for The Knowledge, and compared them with men who did not drive taxis. All of the drivers had been licensed for more than a year and a half, and some had been driving for decades.",
+     "神經科學家艾莉諾．馬奎爾和同事想知道，這種密集的學習，是否能改變成人大腦的實體結構。在 2000 年發表的研究中，他們掃描了 16 位持照倫敦計程車司機的大腦——這些司機平均花了約兩年準備考試——並與不開計程車的男性比較。所有司機都已持照超過一年半，有些人已經開了幾十年的車。"
+    ],
+    [
+     "The researchers focused on the hippocampus, a region known to be important for spatial memory and navigation. They found that the posterior, or rear, part of the hippocampus was significantly larger in the taxi drivers, while a front region was larger in the comparison group. In other words, the drivers’ brains showed a different distribution of tissue, not simply more of it.",
+     "研究者聚焦於海馬迴——一個已知對空間記憶與導航很重要的區域。他們發現，計程車司機海馬迴的後側明顯較大，而前側的某個區域則是對照組較大。換句話說，司機的大腦呈現的是組織分布的不同，而不只是「比較多」。"
+    ],
+    [
+     "A natural objection is that people with larger hippocampi might simply be more likely to become taxi drivers. To test this, the team looked at how long each person had worked as a driver. The longer someone had spent on the job, the larger the right posterior hippocampus tended to be. This suggested that the difference was acquired through experience rather than present from birth. It did not prove the point beyond doubt, but it made a strong case.",
+     "一個很自然的質疑是：也許海馬迴本來就比較大的人，比較可能去當計程車司機。為了檢驗這一點，團隊觀察了每個人當司機的時間長短。結果發現，工作年資越長，右側海馬迴後側往往越大。這表示差異是透過經驗後天形成的，而不是天生就有。這並沒有毫無疑問地證明這一點，但已是相當有力的論證。"
+    ],
+    [
+     "The study became famous because it showed that the adult brain is more changeable than many people once believed. It also raises a modern question. If finding our way builds the brain’s internal map, what happens when we let phone apps do the navigating? Researchers are still investigating, but the taxi drivers remind us that the brain tends to grow in the directions we exercise it.",
+     "這項研究之所以出名，是因為它顯示成人的大腦比許多人過去以為的更具可塑性。它也引出一個現代的問題：如果自己找路能建構大腦裡的地圖，那麼當我們讓手機應用程式替我們導航時，會發生什麼事？研究者仍在探討，但這些計程車司機提醒我們：大腦往往朝著我們鍛鍊它的方向成長。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "How Learning Shapes the Brain",
+   "paras": [
+    [
+     "For much of the twentieth century, the adult brain was widely regarded as relatively fixed: it could store new memories, but its basic structure was thought to change little after childhood. Testing that assumption in humans is difficult, because researchers rarely find groups of adults who have undergone long, intensive and comparable training in a single skill. London’s taxi drivers proved to be an exception. If structure could change, then learning would be not only a matter of storing information but also of reshaping the very organ that stores it.",
+     "在二十世紀的大部分時間裡，成人的大腦普遍被認為相對固定：它能儲存新的記憶，但基本結構在童年之後被認為變化不大。要在人類身上檢驗這個假設很困難，因為研究者很少能找到一群接受過長期、密集、且彼此可比較之單一技能訓練的成年人。倫敦的計程車司機正是一個例外。如果結構能夠改變，那麼學習就不只是儲存資訊，而是重塑那個負責儲存的器官本身。"
+    ],
+    [
+     "To be licensed, they must master The Knowledge, an exhaustive mental map of the city that typically takes years of study. In a study published in 2000, Eleanor Maguire and colleagues used structural MRI to compare the brains of 16 licensed taxi drivers — whose training had taken about two years on average — with those of men who did not drive taxis. Their attention fell on the hippocampus, a structure long associated with spatial memory. The drivers had been licensed for anywhere between a year and a half and several decades, which gave the researchers a natural range of experience to work with.",
+     "要取得執照，他們必須精通「The Knowledge」——一份涵蓋整座城市、詳盡無遺的心智地圖，通常需要多年的學習。在 2000 年發表的研究中，艾莉諾．馬奎爾與同事用結構性核磁共振，把 16 位持照計程車司機（平均訓練約兩年）的大腦，與不開計程車的男性比較。他們的焦點落在海馬迴——一個長期被認為與空間記憶有關的結構。這些司機的持照時間從一年半到數十年不等，讓研究者有一段自然的經驗範圍可以分析。"
+    ],
+    [
+     "The results pointed to a redistribution rather than a simple enlargement. The posterior hippocampus was significantly larger in the drivers, whereas a more anterior region was larger in the control group. Crucially, the volume of the right posterior hippocampus correlated positively with time spent as a taxi driver, and the anterior volume correlated negatively. The authors therefore argued that the changes were acquired, reflecting what they called local plasticity in the structure of the healthy adult brain. This pattern matters because it is harder to explain by pre-existing differences alone: if people simply chose the job because of their brains, there would be little reason for the difference to grow with every additional year of driving.",
+     "結果指向的是一種重新分配，而不是單純的變大。司機的海馬迴後側明顯較大，而較前側的區域則是對照組較大。關鍵在於，右側海馬迴後側的體積與擔任計程車司機的時間呈正相關，前側體積則呈負相關。因此，作者主張這些變化是後天獲得的，反映了他們所稱的「健康成人大腦結構的局部可塑性」。這個模式很重要，因為單靠「本來就有的差異」很難解釋：如果人們只是因為大腦本來如此才選擇這份工作，那麼差異就沒有理由隨著每多開一年車而增加。"
+    ],
+    [
+     "Like any single study, this one has limits. The sample was small and consisted only of men, and a correlation with experience, while suggestive, is not the same as watching the brain change over time. Nevertheless, the finding helped shift scientific opinion towards the view that sustained mental effort can leave physical traces in the adult brain — and that the brain allocates resources according to the demands we place on it.",
+     "和任何單一研究一樣，這項研究也有限制。樣本很小、只有男性，而與經驗之間的相關性雖然具有啟發性，卻不等同於親眼看見大腦隨時間改變。儘管如此，這項發現仍推動科學界的看法轉向：持續的心智努力，可以在成人大腦中留下實體痕跡——而大腦會依照我們對它的要求來分配資源。"
+    ],
+    [
+     "That idea acquires new relevance in an age of satellite navigation. If spatial skill is, in part, built by the act of navigating, then handing that task to a device may reshape not only how we travel but how we think. The question is still under investigation, and convenience is not a vice. Yet the taxi drivers offer a reminder worth keeping: abilities we stop practising may not disappear overnight, but they are unlikely to grow on their own. Perhaps the most useful lesson is not to abandon technology, but to choose, now and then, to do the work ourselves.",
+     "在衛星導航的時代，這個想法有了新的意義。如果空間能力有一部分是由「自己導航」這個行為建立的，那麼把這項任務交給裝置，改變的可能不只是我們移動的方式，還有我們思考的方式。這個問題仍在研究中，而便利本身也不是一種罪過。然而，這些計程車司機提供了一個值得記住的提醒：我們不再練習的能力，也許不會一夜消失，但它們也不太可能自己長大。也許最有用的啟示不是放棄科技，而是偶爾選擇自己動手去做。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "the-knowledge",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "study",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "findings",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "acquired",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "gps",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "route",
+   "pos": "n.",
+   "meaning": "路線",
+   "example": "This is the fastest route to school.",
+   "family": "—"
+  },
+  {
+   "w": "licence",
+   "pos": "n.",
+   "meaning": "執照（美式 license）",
+   "example": "You need a licence to drive a taxi.",
+   "family": "license (v.)"
+  },
+  {
+   "w": "memorise",
+   "pos": "v.",
+   "meaning": "記住、背熟（美式 memorize）",
+   "example": "Actors memorise their lines.",
+   "family": "memory (n.)"
+  },
+  {
+   "w": "navigation",
+   "pos": "n.",
+   "meaning": "導航、找路",
+   "example": "Birds use the sun for navigation.",
+   "family": "navigate (v.)"
+  },
+  {
+   "w": "hippocampus",
+   "pos": "n.",
+   "meaning": "海馬迴（大腦中與記憶有關的區域）",
+   "example": "The hippocampus helps us form memories.",
+   "family": "hippocampi (pl.)"
+  },
+  {
+   "w": "plasticity",
+   "pos": "n.",
+   "meaning": "（大腦的）可塑性",
+   "example": "Brain plasticity allows us to learn new skills.",
+   "family": "plastic (adj.)"
+  },
+  {
+   "w": "spatial",
+   "pos": "adj.",
+   "meaning": "空間的",
+   "example": "Chess requires good spatial thinking.",
+   "family": "space (n.)"
+  },
+  {
+   "w": "intensive",
+   "pos": "adj.",
+   "meaning": "密集的",
+   "example": "She took an intensive English course.",
+   "family": "intense (adj.)"
+  },
+  {
+   "w": "acquired",
+   "pos": "adj.",
+   "meaning": "後天獲得的",
+   "example": "Reading is an acquired skill.",
+   "family": "acquire (v.)"
+  },
+  {
+   "w": "objection",
+   "pos": "n.",
+   "meaning": "反對意見、質疑",
+   "example": "Does anyone have an objection?",
+   "family": "object (v.)"
+  },
+  {
+   "w": "correlated",
+   "pos": "v.",
+   "meaning": "相關（correlate 的過去式）",
+   "example": "Sleep correlated with test scores.",
+   "family": "correlation (n.)"
+  },
+  {
+   "w": "sustained",
+   "pos": "adj.",
+   "meaning": "持續的",
+   "example": "Learning a language takes sustained effort.",
+   "family": "sustain (v.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "find our way",
+   "type": "phrase",
+   "meaning": "找到路",
+   "usage": "find one’s way (to/around + 地方)。",
+   "example": "It took us an hour to find our way out.",
+   "writing": "S + find(s) one’s way to + N"
+  },
+  {
+   "phrase": "putting the phone away",
+   "type": "phrase",
+   "meaning": "把手機收起來",
+   "usage": "put sth away：把某物收好；這裡是動名詞 putting。",
+   "example": "Please put the phone away during dinner.",
+   "writing": "It is worth putting the phone away and + V-ing"
+  },
+  {
+   "phrase": "rather than",
+   "type": "discourse_marker",
+   "meaning": "而不是",
+   "usage": "連接對等的成分：A rather than B。",
+   "example": "She chose to walk rather than take the bus.",
+   "writing": "A rather than B"
+  },
+  {
+   "phrase": "in other words",
+   "type": "discourse_marker",
+   "meaning": "換句話說",
+   "usage": "換一個方式說明前一句。",
+   "example": "He was late again. In other words, he missed the bus.",
+   "writing": "S + V. In other words, S + V."
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "so + adv. + that + 子句",
+   "meaning": "如此……以致於……",
+   "example": "They have to learn the streets so well that they can find the best route without a map.",
+   "tip": "so 後接副詞 well，修飾動詞 learn。"
+  },
+  {
+   "frame": "The longer ..., the larger ...",
+   "meaning": "越久……就越大……",
+   "example": "The longer someone had spent on the job, the larger the right posterior hippocampus tended to be.",
+   "tip": "雙比較級句型。"
+  },
+  {
+   "frame": "A natural objection is that ...",
+   "meaning": "一個很自然的質疑是……",
+   "example": "A natural objection is that people with larger hippocampi might simply become taxi drivers.",
+   "tip": "論說文中先提出反方意見，再加以回應。"
+  },
+  {
+   "frame": "A, while suggestive, is not the same as B",
+   "meaning": "A 雖然有啟發性，但不等同於 B",
+   "example": "A correlation with experience, while suggestive, is not the same as watching the brain change.",
+   "tip": "區分相關與因果的精準說法。"
+  }
+ ],
+ "quote": {
+  "text": "Not till we are lost, in other words not till we have lost the world, do we begin to find ourselves, and realize where we are and the infinite extent of our relations.",
+  "author": "Henry David Thoreau",
+  "work": "Walden (1854), “The Village”",
+  "url": "https://www.gutenberg.org/ebooks/205"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "What is The Knowledge?",
+    "options": [
+     "A famous book",
+     "A difficult test for London taxi drivers",
+     "A phone app",
+     "A type of taxi"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "drivers must pass a very difficult test called The Knowledge"
+   },
+   {
+    "q": "How long did the drivers in the study train, on average?",
+    "options": [
+     "About two months",
+     "About six months",
+     "About two years",
+     "About ten years"
+    ],
+    "a": 2,
+    "why": "第二段。",
+    "evidence": "the drivers had spent about two years, on average, training for The Knowledge"
+   },
+   {
+    "q": "What does the hippocampus help us do?",
+    "options": [
+     "Remember places and find our way",
+     "Taste food",
+     "Hear music",
+     "Move our hands"
+    ],
+    "a": 0,
+    "why": "第三段。",
+    "evidence": "which helps us remember places and find our way"
+   },
+   {
+    "q": "What did the scientists call the brain’s ability to change?",
+    "options": [
+     "Navigation",
+     "Plasticity",
+     "Memory",
+     "Knowledge"
+    ],
+    "a": 1,
+    "why": "第四段最後一句。",
+    "evidence": "The scientists called this “plasticity”."
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "Why did the taxi drivers offer scientists “a rare opportunity”?",
+    "options": [
+     "They drive very fast",
+     "They had gone through intensive learning of a city",
+     "They were all famous",
+     "They lived near the lab"
+    ],
+    "a": 1,
+    "why": "第一段：他們經歷了密集的城市學習。",
+    "evidence": "They must memorise the layout of a huge and irregular city"
+   },
+   {
+    "q": "What did the researchers find about the front region of the hippocampus?",
+    "options": [
+     "It was larger in the comparison group",
+     "It was missing in drivers",
+     "It was the same in everyone",
+     "It grew with every trip"
+    ],
+    "a": 0,
+    "why": "第三段：前側某區域是對照組較大。",
+    "evidence": "a front region was larger in the comparison group"
+   },
+   {
+    "q": "How did the team respond to the “natural objection”?",
+    "options": [
+     "They ignored it",
+     "They looked at how long each person had worked as a driver",
+     "They scanned the drivers’ children",
+     "They tested women instead"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "the team looked at how long each person had worked as a driver"
+   },
+   {
+    "q": "What modern question does the study raise?",
+    "options": [
+     "Whether taxis are too expensive",
+     "What happens when we let phone apps do the navigating",
+     "Whether London should build more roads",
+     "How to pass The Knowledge faster"
+    ],
+    "a": 1,
+    "why": "第五段。",
+    "evidence": "what happens when we let phone apps do the navigating"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "Why is testing the “fixed brain” assumption in humans difficult?",
+    "options": [
+     "Brain scans are illegal",
+     "It is rare to find adults with long, intensive and comparable training",
+     "Adults refuse to learn",
+     "Children are easier to study"
+    ],
+    "a": 1,
+    "why": "第一段說明困難所在。",
+    "evidence": "researchers rarely find groups of adults who have undergone long, intensive and comparable training in a single skill"
+   },
+   {
+    "q": "What does “a redistribution rather than a simple enlargement” mean?",
+    "options": [
+     "Some regions were larger and others smaller",
+     "The whole brain grew",
+     "The brain shrank",
+     "Nothing changed"
+    ],
+    "a": 0,
+    "why": "第三段：後側較大、前側較小。",
+    "evidence": "The posterior hippocampus was significantly larger in the drivers, whereas a more anterior region was larger in the control group."
+   },
+   {
+    "q": "Which limitation does the writer mention?",
+    "options": [
+     "The study used too many drivers",
+     "The sample was small and included only men",
+     "The scans were in colour",
+     "The drivers were too young"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "The sample was small and consisted only of men"
+   },
+   {
+    "q": "What is the writer’s final point about abilities we stop practising?",
+    "options": [
+     "They disappear overnight",
+     "They are unlikely to grow on their own",
+     "They become stronger",
+     "They are replaced by apps"
+    ],
+    "a": 1,
+    "why": "最後一句。",
+    "evidence": "they are unlikely to grow on their own"
+   }
+  ]
+ },
+ "reflections": [
+  "When did you last find your way somewhere without using a phone map? How did it feel?",
+  "Choose one skill you use every day. How might your brain change if a machine did it for you?"
+ ],
+ "videos": [
+  {
+   "title": "How your brain tells you where you are",
+   "channel": "TED · Neil Burgess (TEDSalon London)",
+   "url": "https://www.ted.com/talks/neil_burgess_how_your_brain_tells_you_where_you_are",
+   "kind": "TED",
+   "desc": "A neuroscientist explains the brain cells that map the space around us.",
+   "zh": "神經科學家解釋大腦中替我們周遭空間繪製地圖的細胞。",
+   "question": "What surprised you about how the brain maps places?"
+  },
+  {
+   "title": "How memories form and how we lose them",
+   "channel": "TED-Ed · Catharine Young",
+   "url": "https://ed.ted.com/lessons/how-memories-form-and-how-we-lose-them-catharine-young",
+   "kind": "TED-Ed",
+   "desc": "An animated lesson on how memories are formed and why they fade.",
+   "zh": "動畫課程：記憶如何形成，又為什麼會消退。",
+   "question": "Why do you think some memories last longer than others?"
+  }
+ ]
+}

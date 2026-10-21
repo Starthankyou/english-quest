@@ -1,0 +1,456 @@
+{
+ "id": "bystander",
+ "category": "社會心理學",
+ "title": "Does Nobody Really Help?",
+ "subtitle": "真的沒人會出手嗎？旁觀者效應的再檢驗",
+ "source": "原創教學文章；內容依 Darley & Latané（1968）、Philpot et al.（2020）原始論文及相關綜述，2026-10-21 核對",
+ "sources": [
+  {
+   "title": "Darley, J. M., & Latané, B. (1968). Bystander intervention in emergencies: Diffusion of responsibility. Journal of Personality and Social Psychology, 8(4).",
+   "url": "https://doi.org/10.1037/h0025589",
+   "accessed": "2026-10-21"
+  },
+  {
+   "title": "Philpot, R., Liebst, L. S., Levine, M., Bernasco, W., & Lindegaard, M. R. (2020). Would I be helped? Cross-national CCTV footage shows that intervention is the norm in public conflicts. American Psychologist, 75(1), 66–75.",
+   "url": "https://doi.org/10.1037/amp0000469",
+   "accessed": "2026-10-21"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "Will Someone Help?",
+   "paras": [
+    [
+     "Imagine you fall down in a busy street. Many people are walking past. Will anyone stop to help you? For many years, psychology students learned a worrying answer: the more people who are watching, the less likely it is that anyone will help. This idea is called the bystander effect.",
+     "想像你在熱鬧的街上跌倒了，很多人從你身邊走過。會有人停下來幫你嗎？多年來，心理系學生學到的是一個令人擔心的答案：看的人越多，越不可能有人伸出援手。這個想法叫做「旁觀者效應」。"
+    ],
+    [
+     "The idea came from a famous experiment in 1968. Students talked to each other through microphones from different rooms. Suddenly, one voice seemed to have a medical emergency. When students thought they were the only person listening, 85 percent went to get help. When they thought four other people were also listening, only 31 percent did.",
+     "這個想法來自 1968 年一個著名的實驗。學生在不同房間裡透過麥克風彼此交談。突然間，其中一個聲音聽起來像是發生了緊急的身體狀況。當學生以為只有自己在聽時，85% 的人會去找人幫忙；當他們以為還有另外四個人也在聽時，只有 31% 的人這樣做。"
+    ],
+    [
+     "Why? The researchers explained that when many people are present, each person feels less responsible. Everyone thinks, “Someone else will do it.” But the experiment had a limit. It happened in a laboratory, and the students never actually saw anyone.",
+     "為什麼？研究者解釋，當現場有很多人時，每個人都覺得自己的責任比較小，大家都想著：「別人會處理的。」但這個實驗有它的限制：它發生在實驗室裡，學生從來沒有真正看到任何人。"
+    ],
+    [
+     "In 2020, a group of researchers looked at real life instead. They studied 219 videos from security cameras in three countries. Each video showed an angry fight or argument in a public place. In about 9 out of 10 cases, at least one person stepped in to help. And when there were more people around, help was even more likely.",
+     "2020 年，一群研究者改為觀察真實生活。他們研究了三個國家監視器拍下的 219 段影片，每段都是公共場所的激烈衝突或爭吵。大約每 10 次裡有 9 次，至少有一個人出手幫忙。而且周圍的人越多，越有可能有人幫忙。"
+    ],
+    [
+     "So, are people kind or not? Both studies teach us something. One person in a crowd may wait for others. But a crowd, together, usually helps. Next time you see someone in trouble, don’t wait for “someone else”. You can be the someone.",
+     "所以，人到底善不善良？兩項研究都教了我們一些事。人群中的某一個人，可能會等別人先動；但整群人加起來，通常會有人幫忙。下次你看到有人遇到麻煩，別等「別人」——你就可以是那個人。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "Does Nobody Really Help?",
+   "paras": [
+    [
+     "Few ideas in psychology are as famous, or as depressing, as the bystander effect: the claim that people are less likely to help someone in trouble when others are present. It is often illustrated with a frightening image — a crowd of people watching an emergency while nobody does anything. But how accurate is that image of human nature? Many of us have heard it so often that we accept it without question.",
+     "在心理學裡，很少有概念像「旁觀者效應」這樣有名、又這樣令人沮喪：它主張，當周圍有其他人時，人們比較不會去幫助遇到麻煩的人。這個概念常用一個可怕的畫面來說明——一群人看著緊急事件發生，卻沒有人採取行動。但這個對人性的描繪，究竟有多準確？我們很多人聽過太多次，以至於毫不懷疑地接受了它。"
+    ],
+    [
+     "The classic evidence comes from a 1968 experiment by John Darley and Bibb Latané. College students took part in a discussion over an intercom, each in a separate room. During the conversation, one participant appeared to suffer a seizure. Of the students who believed they were the only listener, 85 percent sought help before the seizure ended. Of those who believed four other people could also hear it, only 31 percent did. The difference was large, and it seemed to confirm a troubling idea about crowds.",
+     "經典的證據來自約翰．達利與畢布．拉塔內在 1968 年做的實驗。大學生各自在不同房間，透過對講機參與討論。談話中，其中一位參與者似乎癲癇發作了。在以為只有自己在聽的學生中，85% 會在發作結束前去求助；在以為另外還有四個人也聽得到的學生中，只有 31% 這樣做。差距很大，似乎證實了一個關於人群、令人不安的想法。"
+    ],
+    [
+     "The researchers called the explanation “diffusion of responsibility”: the more people who could act, the less responsible each individual feels. The research was also partly inspired by a 1964 newspaper report claiming that 38 witnesses had watched a murder in New York without helping. Later investigations found that this famous story had been seriously exaggerated — several people did try to help, and many could not clearly see what was happening.",
+     "研究者把這個現象解釋為「責任分散」：能夠行動的人越多，每個人感覺到的責任就越小。這項研究的靈感，有一部分來自 1964 年的一篇新聞報導，宣稱有 38 名目擊者看著紐約一起謀殺案發生卻沒有出手。後來的調查發現，這個著名的故事被嚴重誇大了——其實有好幾個人試圖幫忙，而且很多人根本看不清楚發生了什麼事。"
+    ],
+    [
+     "In 2020, Richard Philpot and his colleagues tested the question in real life. They analysed 219 public conflicts captured on surveillance cameras in the United Kingdom, the Netherlands and South Africa. In about nine out of ten incidents, at least one bystander — and usually several — did something to help. Surprisingly, the more bystanders were present, the more likely it was that someone would intervene.",
+     "2020 年，理查．菲爾波特和同事在真實生活中檢驗了這個問題。他們分析了英國、荷蘭和南非監視器拍下的 219 起公共衝突。大約每十起事件中就有九起，至少有一位旁觀者——而且通常有好幾位——做了些什麼來幫忙。令人意外的是，在場的旁觀者越多，越有可能有人介入。"
+    ],
+    [
+     "How can both findings be true? A large group contains more potential helpers, so even if each individual hesitates a little, the chance that someone acts goes up. The lesson is not that people are selfish, nor that we can relax and leave it to others. It is that help is common — and that it often begins with one person deciding not to wait. If you are ever unsure whether to act, remember that asking a simple question — “Are you okay?” — is already a form of help.",
+     "兩個發現怎麼可能同時成立？一大群人裡有更多可能的幫手，所以即使每個人都稍微猶豫，「有人出手」的機率還是會提高。這給我們的啟示不是人很自私，也不是我們可以放心交給別人。而是：幫助其實很常見——而且它往往始於一個人決定不再等待。如果你不確定要不要行動，記得一句簡單的「你還好嗎？」本身就已經是一種幫助。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "The Bystander Effect, Revisited",
+   "paras": [
+    [
+     "The bystander effect occupies a special place in popular psychology. It is taught in introductory courses, cited in discussions of urban life and repeated whenever a video circulates of passers-by apparently ignoring someone in distress. Its message is bleak: the presence of others makes each of us less likely to help. Yet the history of this idea, and the most recent evidence, suggest a more complicated and more hopeful picture.",
+     "旁觀者效應在大眾心理學中占有特殊地位。它出現在入門課程裡，被引用在都市生活的討論中，每當有影片流傳、看似路人對陷入困境的人視而不見時，它就會再被提起。它傳達的訊息很悲觀：其他人在場，會讓我們每個人都更不可能伸出援手。然而，這個概念的歷史與最新的證據，呈現出一幅更複雜、也更有希望的圖像。"
+    ],
+    [
+     "The concept was shaped by a 1968 experiment in which John Darley and Bibb Latané led students to believe they were talking over an intercom with peers in other rooms. When one apparent participant seemed to have a seizure, 85 percent of students who thought they were the sole listener sought help before the seizure ended, compared with 31 percent of those who thought four others were also listening. Darley and Latané attributed the difference to diffusion of responsibility. The design was ingenious, but it also had obvious limits: the emergency was staged, the students were alone in small rooms, and they could neither see the victim nor coordinate with the other supposed listeners.",
+     "這個概念的成形，來自達利與拉塔內 1968 年的一項實驗：他們讓學生以為自己正透過對講機與其他房間的同儕交談。當其中一位看似參與者的人好像癲癇發作時，以為只有自己在聽的學生，有 85% 在發作結束前求助；以為另有四人也在聽的學生，則只有 31%。達利與拉塔內把這個差異歸因於「責任分散」。這個設計很巧妙，卻也有明顯的限制：緊急狀況是安排好的，學生獨自待在小房間裡，既看不到受害者，也無法和其他假想的聆聽者協調。"
+    ],
+    [
+     "The inspiration for this research, however, rested on shaky ground. A 1964 newspaper account of the murder of Kitty Genovese in New York claimed that 38 witnesses had watched without helping, and that story became a powerful parable about modern indifference. Later scholarship found that the central claim was not supported by the available records: some neighbours did call for help or shout at the attacker, and many could not see the final attack at all.",
+     "然而，這項研究的靈感來源並不穩固。1964 年一篇關於紐約姬蒂．吉諾維斯遇害的新聞報導宣稱，有 38 名目擊者袖手旁觀，這個故事後來成了關於現代人冷漠的有力寓言。之後的學術研究發現，這個核心說法並沒有得到現有紀錄的支持：有些鄰居確實報了警，或對著加害者大喊；而許多人根本看不到最後那次攻擊。"
+    ],
+    [
+     "More recently, Richard Philpot and colleagues examined what bystanders actually do. Analysing 219 aggressive incidents recorded by surveillance cameras in the United Kingdom, the Netherlands and South Africa, they found that at least one bystander intervened in 90.9 percent of cases, typically joined by several others. Intervention rates were similar across the three countries despite large differences in perceived public safety. Most strikingly, each additional bystander increased, rather than decreased, the likelihood that a victim received help. Because the footage captured real events rather than staged ones, it offered a rare view of how people behave when the stakes are genuine.",
+     "近年，理查．菲爾波特與同事檢視了旁觀者實際上會怎麼做。他們分析了英國、荷蘭和南非監視器記錄的 219 起攻擊事件，發現在 90.9% 的案例中至少有一位旁觀者介入，而且通常還有好幾位一起。儘管三國民眾對公共安全的感受差異很大，介入的比例卻很相近。最驚人的是，每多一位旁觀者，受害者獲得幫助的可能性是提高，而不是降低。因為這些影像記錄的是真實事件而非安排好的情境，它提供了一個難得的視角，讓人看見在真正利害攸關時，人們會怎麼做。"
+    ],
+    [
+     "These findings need not contradict the original experiment. An individual in a group may indeed feel less personally responsible, yet a group contains more potential helpers, so the probability that somebody acts can still rise. The researchers argued that it is time to move away from a narrative of absent help and towards understanding what makes intervention succeed. Perhaps the most practical lesson concerns ourselves: the belief that “nobody helps” may be less accurate than we think — and less useful than deciding to be the person who does. Science, in this sense, corrected not only a finding but also a story we had told ourselves about each other.",
+     "這些發現不一定與原始實驗矛盾。群體中的個人或許確實覺得自己責任較小，但群體裡有更多潛在的幫手，因此「有人出手」的機率仍可能上升。研究者主張，是時候擺脫「沒人幫忙」的敘事，轉而去理解什麼樣的介入能夠成功。或許最實際的啟示與我們自己有關：「沒有人會幫忙」的想法，可能沒有我們以為的準確——也遠不如決定自己成為那個出手的人來得有用。從這個意義來說，科學修正的不只是一項研究發現，也是一個我們長久以來對彼此說的故事。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "hook",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "1968-experiment",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "explanation-and-myth",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "cctv-study",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "lesson",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "bystander",
+   "pos": "n.",
+   "meaning": "旁觀者",
+   "example": "A bystander called an ambulance.",
+   "family": "bystanders (pl.)"
+  },
+  {
+   "w": "emergency",
+   "pos": "n.",
+   "meaning": "緊急情況",
+   "example": "In an emergency, call 119.",
+   "family": "—"
+  },
+  {
+   "w": "responsible",
+   "pos": "adj.",
+   "meaning": "有責任的",
+   "example": "Who is responsible for this project?",
+   "family": "responsibility (n.)"
+  },
+  {
+   "w": "intervene",
+   "pos": "v.",
+   "meaning": "介入、出手干預",
+   "example": "A teacher intervened to stop the fight.",
+   "family": "intervention (n.)"
+  },
+  {
+   "w": "witnesses",
+   "pos": "n.",
+   "meaning": "目擊者（複數）",
+   "example": "The police spoke to several witnesses.",
+   "family": "witness (n./v.)"
+  },
+  {
+   "w": "exaggerated",
+   "pos": "adj.",
+   "meaning": "被誇大的",
+   "example": "The story was greatly exaggerated.",
+   "family": "exaggerate (v.)"
+  },
+  {
+   "w": "surveillance",
+   "pos": "n.",
+   "meaning": "監視",
+   "example": "The station has surveillance cameras.",
+   "family": "survey (相關字)"
+  },
+  {
+   "w": "potential",
+   "pos": "adj.",
+   "meaning": "潛在的、可能的",
+   "example": "Every customer is a potential friend.",
+   "family": "potential (n.)"
+  },
+  {
+   "w": "diffusion",
+   "pos": "n.",
+   "meaning": "分散、擴散",
+   "example": "There was a diffusion of responsibility.",
+   "family": "diffuse (v.)"
+  },
+  {
+   "w": "indifference",
+   "pos": "n.",
+   "meaning": "冷漠、漠不關心",
+   "example": "His indifference hurt her feelings.",
+   "family": "indifferent (adj.)"
+  },
+  {
+   "w": "parable",
+   "pos": "n.",
+   "meaning": "寓言、比喻性的故事",
+   "example": "The story became a parable about greed.",
+   "family": "—"
+  },
+  {
+   "w": "narrative",
+   "pos": "n.",
+   "meaning": "敘事、說法",
+   "example": "The media created a narrative of failure.",
+   "family": "narrate (v.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "stepped in",
+   "type": "phrase",
+   "meaning": "介入、出面",
+   "usage": "片語動詞，= intervene；step in to + V。",
+   "example": "The coach stepped in to stop the argument.",
+   "writing": "S + stepped in to + V"
+  },
+  {
+   "phrase": "took part in",
+   "type": "phrase",
+   "meaning": "參加",
+   "usage": "take part in + N／V-ing。",
+   "example": "Thirty students took part in the study.",
+   "writing": "S + took part in + N"
+  },
+  {
+   "phrase": "leave it to",
+   "type": "phrase",
+   "meaning": "交給……處理",
+   "usage": "leave it to sb（讓別人去做）。",
+   "example": "Don’t leave it to others to clean up.",
+   "writing": "We cannot simply leave it to + N."
+  },
+  {
+   "phrase": "move away from",
+   "type": "phrase",
+   "meaning": "擺脫、遠離（某種想法）",
+   "usage": "move away from + N（觀念、做法）。",
+   "example": "Schools are moving away from memorization.",
+   "writing": "It is time to move away from + N."
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "The more + S + V, the less (likely) + S + V",
+   "meaning": "越……就越不……",
+   "example": "The more people who are watching, the less likely it is that anyone will help.",
+   "tip": "比較級雙句型：兩個子句都要用比較級開頭。"
+  },
+  {
+   "frame": "Of + those who ..., + 數字 + percent + V",
+   "meaning": "在……的人當中，有……%",
+   "example": "Of those who believed four other people could hear it, only 31 percent did.",
+   "tip": "報導研究結果時，清楚指出「哪一群人」。"
+  },
+  {
+   "frame": "A need not contradict B",
+   "meaning": "A 不一定與 B 矛盾",
+   "example": "These findings need not contradict the original experiment.",
+   "tip": "need not + 原形動詞，正式寫法。"
+  },
+  {
+   "frame": "The lesson is not that ..., nor that ...; it is that ...",
+   "meaning": "啟示不是……也不是……而是……",
+   "example": "The lesson is not that people are selfish, nor that we can relax. It is that help is common.",
+   "tip": "先排除兩種錯誤結論，再提出正確結論。"
+  }
+ ],
+ "quote": {
+  "text": "Bad men need nothing more to compass their ends, than that good men should look on and do nothing.",
+  "author": "John Stuart Mill",
+  "work": "Inaugural Address Delivered to the University of St Andrews (1867)（常被誤傳為 Edmund Burke 所說）",
+  "url": "https://en.wikiquote.org/wiki/John_Stuart_Mill"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "What is the bystander effect?",
+    "options": [
+     "People help more when they are alone",
+     "The more people watching, the less likely anyone will help",
+     "Crowds are always dangerous",
+     "People never help strangers"
+    ],
+    "a": 1,
+    "why": "第一段定義。",
+    "evidence": "the more people who are watching, the less likely it is that anyone will help"
+   },
+   {
+    "q": "In the 1968 experiment, how many students went to get help when they thought they were alone?",
+    "options": [
+     "31 percent",
+     "50 percent",
+     "85 percent",
+     "100 percent"
+    ],
+    "a": 2,
+    "why": "第二段：以為只有自己在聽時 85%。",
+    "evidence": "85 percent went to get help"
+   },
+   {
+    "q": "What was one limit of the 1968 experiment?",
+    "options": [
+     "It used too many students",
+     "It happened in a laboratory",
+     "It was too long",
+     "It was in a hospital"
+    ],
+    "a": 1,
+    "why": "第三段：發生在實驗室，學生沒有真正看到任何人。",
+    "evidence": "It happened in a laboratory, and the students never actually saw anyone."
+   },
+   {
+    "q": "What did the 2020 study find when more people were around?",
+    "options": [
+     "Nobody helped",
+     "Help was even more likely",
+     "People ran away",
+     "There were more fights"
+    ],
+    "a": 1,
+    "why": "第四段最後一句。",
+    "evidence": "when there were more people around, help was even more likely"
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "How did students in the 1968 experiment communicate?",
+    "options": [
+     "Face to face",
+     "Over an intercom from separate rooms",
+     "By email",
+     "By writing letters"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "College students took part in a discussion over an intercom, each in a separate room."
+   },
+   {
+    "q": "What did later investigations find about the “38 witnesses” story?",
+    "options": [
+     "It was completely accurate",
+     "It had been seriously exaggerated",
+     "It happened in London",
+     "There were 100 witnesses"
+    ],
+    "a": 1,
+    "why": "第三段：這個故事被嚴重誇大。",
+    "evidence": "this famous story had been seriously exaggerated"
+   },
+   {
+    "q": "Where did the 2020 videos come from?",
+    "options": [
+     "Mobile phones",
+     "Surveillance cameras in three countries",
+     "TV news",
+     "A laboratory"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "captured on surveillance cameras in the United Kingdom, the Netherlands and South Africa"
+   },
+   {
+    "q": "How can both findings be true, according to the last paragraph?",
+    "options": [
+     "A large group contains more potential helpers",
+     "The 1968 study was faked",
+     "People were nicer in 2020",
+     "Cameras make people help"
+    ],
+    "a": 0,
+    "why": "最後一段的解釋。",
+    "evidence": "A large group contains more potential helpers"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "What does the writer say the history and recent evidence suggest?",
+    "options": [
+     "A bleaker picture",
+     "A more complicated and more hopeful picture",
+     "That the effect is fake",
+     "That cities are dangerous"
+    ],
+    "a": 1,
+    "why": "第一段最後一句。",
+    "evidence": "suggest a more complicated and more hopeful picture"
+   },
+   {
+    "q": "Why does the writer say the research’s inspiration “rested on shaky ground”?",
+    "options": [
+     "The newspaper story’s central claim was not supported by records",
+     "The experiment was never published",
+     "The students lied",
+     "The murder did not happen"
+    ],
+    "a": 0,
+    "why": "第三段：核心說法沒有得到紀錄支持。",
+    "evidence": "the central claim was not supported by the available records"
+   },
+   {
+    "q": "What was surprising about intervention rates across the three countries?",
+    "options": [
+     "They were very different",
+     "They were similar despite different levels of perceived safety",
+     "Only one country had any intervention",
+     "They could not be measured"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "Intervention rates were similar across the three countries despite large differences in perceived public safety."
+   },
+   {
+    "q": "Which statement best matches the writer’s conclusion?",
+    "options": [
+     "The original experiment was wrong and should be forgotten",
+     "Individuals may feel less responsible, yet groups make help more likely overall",
+     "People are naturally selfish",
+     "Bystanders should never intervene"
+    ],
+    "a": 1,
+    "why": "最後一段調和兩個發現。",
+    "evidence": "An individual in a group may indeed feel less personally responsible, yet a group contains more potential helpers"
+   }
+  ]
+ },
+ "reflections": [
+  "Have you ever seen someone who needed help in a public place? What did you and the people around you do?",
+  "Why do you think the “38 witnesses” story spread so widely, even though it was inaccurate?"
+ ],
+ "videos": [
+  {
+   "title": "How to be an upstander instead of a bystander",
+   "channel": "TED · Angélique Parisot-Potter (TEDWomen 2020)",
+   "url": "https://www.ted.com/talks/angelique_parisot_potter_how_to_be_an_upstander_instead_of_a_bystander",
+   "kind": "TED",
+   "desc": "Practical ways to step in when you see someone being harassed or mistreated.",
+   "zh": "看到有人被騷擾或欺負時，可以怎麼出手的實用方法。",
+   "question": "Which strategy would you feel most comfortable using?"
+  },
+  {
+   "title": "The Bystander Effect: Why Some People Act and Others Don’t",
+   "channel": "TEDxOcala · Kelly Charles-Collins",
+   "url": "https://www.ted.com/talks/kelly_charles_collins_the_bystander_effect_why_some_people_act_and_others_don_t",
+   "kind": "TEDx",
+   "desc": "A talk on why we sometimes wait for others to act — and how to stop waiting.",
+   "zh": "談為什麼我們有時會等別人先動，以及如何不再等待。",
+   "question": "What makes it easier for you to act in a difficult situation?"
+  }
+ ]
+}

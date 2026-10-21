@@ -1,0 +1,450 @@
+{
+ "id": "microplastics",
+ "category": "環境",
+ "title": "The Plastic We Can’t See",
+ "subtitle": "看不見的塑膠：微塑膠跑進人體",
+ "source": "原創教學文章；研究內容依 Leslie et al.（2022）原始論文及《衛報》報導，2026-10-21 核對",
+ "sources": [
+  {
+   "title": "Leslie, H. A., et al. (2022). Discovery and quantification of plastic particle pollution in human blood. Environment International, 163, 107199.",
+   "url": "https://doi.org/10.1016/j.envint.2022.107199",
+   "accessed": "2026-10-21"
+  },
+  {
+   "title": "The Guardian (2022-03-24). Microplastics found in human blood for first time.",
+   "url": "https://www.theguardian.com/environment/2022/mar/24/microplastics-found-in-human-blood-for-first-time",
+   "accessed": "2026-10-21"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "Plastic in Our Blood",
+   "paras": [
+    [
+     "Look around you. Your pen, your phone case, your water bottle and maybe even your clothes are made of plastic. Plastic is useful because it is cheap, light and strong. But plastic does not simply disappear when we throw it away. Over time, it breaks into smaller and smaller pieces.",
+     "看看你的四周：筆、手機殼、水壺，甚至你的衣服，可能都是塑膠做的。塑膠很好用，因為它便宜、輕又堅固。但塑膠被丟掉之後，並不會就這樣消失。隨著時間過去，它會碎成越來越小的碎片。"
+    ],
+    [
+     "Very small pieces of plastic are called microplastics. Some are so tiny that we cannot see them with our eyes. Scientists have found them in the ocean, in rivers, in the soil and even in the air. Then they asked a new question: are these tiny pieces inside our bodies too?",
+     "非常小的塑膠碎片叫做微塑膠。有些小到我們用肉眼看不見。科學家在海洋、河流、土壤，甚至空氣裡都發現了它們。接著他們問了一個新問題：這些小碎片，是不是也在我們的身體裡？"
+    ],
+    [
+     "In 2022, a team of scientists in the Netherlands tested blood from 22 healthy adults. They found tiny plastic particles in the blood of 17 of them. This was the first time scientists had measured plastic in human blood in this way. The scientists used a special machine to find and measure the plastic.",
+     "2022 年，荷蘭的一組科學家檢驗了 22 位健康成年人的血液，其中 17 人的血液裡發現了微小的塑膠顆粒。這是科學家第一次用這種方式測量人類血液裡的塑膠。科學家用一種特別的儀器來找出並測量這些塑膠。"
+    ],
+    [
+     "The most common kind was the plastic used in drink bottles. It appeared in about half of the samples. Plastic used for food packaging was found in about a third of them. Is this dangerous for our health? The honest answer is that scientists do not know yet. More research is needed.",
+     "最常見的一種，是用來做飲料瓶的塑膠，大約一半的樣本裡都有。用在食品包裝的塑膠，大約三分之一的樣本裡有。這對健康有危險嗎？老實說，科學家目前還不知道，還需要更多研究。"
+    ],
+    [
+     "Still, this study reminds us of something important. What we throw away does not leave our world. It can come back to us in ways we cannot see. Using fewer single-use bottles and bags is a small step. But many small steps, taken by many people, can make a real difference.",
+     "不過，這項研究提醒了我們一件重要的事：我們丟掉的東西，並沒有離開我們的世界，它可能以看不見的方式回到我們身上。少用一次性的瓶子和袋子是一小步，但很多人一起踏出的許多小步，就能帶來真正的改變。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "The Plastic We Can’t See",
+   "paras": [
+    [
+     "Plastic is one of the most useful materials ever invented. It keeps food fresh, makes medical equipment safe and allows us to carry drinks almost anywhere. Its greatest strength, however, is also its greatest problem: plastic is designed to last. When it is thrown away, it rarely breaks down completely. Instead, sunlight, waves and wear slowly break it into smaller and smaller fragments. A single plastic bottle can take a very long time to break down, and even then it does not truly vanish.",
+     "塑膠是人類發明過最有用的材料之一。它讓食物保鮮、讓醫療器材安全，也讓我們幾乎能把飲料帶到任何地方。然而，它最大的優點也是最大的問題：塑膠就是設計來耐久的。被丟掉之後，它很少會完全分解，而是在陽光、海浪和磨損之下，慢慢碎成越來越小的碎片。一個塑膠瓶要花非常久的時間才會分解，而且即使如此，它也不會真正消失。"
+    ],
+    [
+     "These fragments, known as microplastics, are now found almost everywhere scientists look — in oceans and rivers, in soil, in food and in the air we breathe. Many are far too small to see. For years, researchers suspected that these particles must also be entering the human body, but measuring them in blood was technically difficult.",
+     "這些碎片被稱為微塑膠，如今幾乎在科學家能找到的每個地方都看得到——海洋、河流、土壤、食物，以及我們呼吸的空氣。其中許多小到肉眼根本看不見。多年來，研究者懷疑這些顆粒一定也進入了人體，但要在血液中測量它們，在技術上非常困難。"
+    ],
+    [
+     "In 2022, a team led by Heather Leslie in the Netherlands published the first study to measure plastic particles in human blood. They analysed blood samples from 22 anonymous, healthy adult donors and found plastic particles in 17 of them. On average, the measurable amount was 1.6 micrograms per millilitre of blood. The team used a sensitive technique that can identify different types of plastic by their chemical make-up, even in very small amounts.",
+     "2022 年，荷蘭由海瑟．萊斯利帶領的團隊，發表了第一份測量人類血液中塑膠顆粒的研究。他們分析了 22 位匿名健康成年捐血者的血液樣本，其中 17 人的血液裡驗出塑膠顆粒。平均而言，可測得的含量是每毫升血液 1.6 微克。團隊使用一種靈敏的技術，即使量非常少，也能從化學組成辨認出不同種類的塑膠。"
+    ],
+    [
+     "The type of plastic varied. Half of the samples contained PET, which is commonly used in drink bottles. About a third contained polystyrene, used for food packaging, and a quarter contained polyethylene, the material of many plastic bags. What these particles do once they are inside us remains unclear. The researchers stressed that the impact on health is not yet known, and that larger studies are needed.",
+     "塑膠的種類各不相同。一半的樣本含有 PET，也就是常用來做飲料瓶的材料；約三分之一含有用於食品包裝的聚苯乙烯；四分之一含有聚乙烯，也就是許多塑膠袋的材料。這些顆粒進入人體後會造成什麼影響，目前仍不清楚。研究者強調，對健康的影響尚未可知，還需要更大規模的研究。"
+    ],
+    [
+     "A study of 22 people cannot tell us how much plastic is in everyone’s blood, or whether it is harmful. What it does show is that the boundary between “out there” and “in here” is thinner than we imagined. The plastic we use for a few minutes may stay in the environment for decades — and some of it may find its way back to us. For now, the most sensible response is neither panic nor indifference, but curiosity and care about the choices we make every day.",
+     "一項只有 22 人的研究，無法告訴我們每個人血液裡有多少塑膠，也無法證明它是否有害。但它確實顯示：「外面的世界」和「我們體內」之間的界線，比我們想像的薄。我們只用了幾分鐘的塑膠，可能會在環境中留存數十年——而其中一部分，可能會回到我們身上。目前，最明智的回應既不是恐慌，也不是漠不關心，而是對我們每天做的選擇保持好奇與用心。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "When Pollution Comes Home",
+   "paras": [
+    [
+     "For most of its history, plastic pollution has been imagined as something external: bottles on beaches, bags tangled in trees, floating debris far out at sea. Such images are troubling, but they also allow us to keep a comfortable distance. The pollution, we assume, is out there in the environment, not inside us. Recent research has begun to challenge that assumption. If plastic can be found in our blood, the familiar distinction between a polluted world and a protected body begins to look less secure.",
+     "長久以來，塑膠污染一直被想像成身體以外的事：沙灘上的瓶子、纏在樹上的塑膠袋、遠洋裡漂浮的垃圾。這些畫面令人不安，卻也讓我們能保持一段舒服的距離。我們以為，污染存在於外面的環境，而不在我們體內。近年的研究開始挑戰這個假設。如果我們的血液裡也找得到塑膠，那麼「受污染的世界」和「受保護的身體」之間熟悉的分界，就開始顯得沒那麼穩固了。"
+    ],
+    [
+     "The difficulty lies partly in the material’s durability. Plastic is engineered to resist decay, so instead of disappearing it fragments, gradually breaking into microplastics and even smaller nanoplastics. These particles have been detected in oceans, soil, drinking water and air. The obvious next question — whether they enter human tissue — proved harder to answer, because measuring minute quantities of plastic in blood requires sensitive methods and careful control of contamination. Researchers also have to make sure that the plastic they find did not come from their own equipment, which is often made of plastic too.",
+     "困難的一部分在於這種材料的耐久性。塑膠被設計成不易腐壞，所以它不會消失，而是碎裂，逐漸分解成微塑膠，甚至更小的奈米塑膠。這些顆粒已在海洋、土壤、飲用水和空氣中被檢測到。接下來的明顯問題——它們是否進入人體組織——卻更難回答，因為要在血液中測量極微量的塑膠，需要靈敏的方法，以及對污染的嚴格控制。研究者還必須確定，他們找到的塑膠不是來自自己的器材——而那些器材往往也是塑膠做的。"
+    ],
+    [
+     "In 2022, researchers led by Heather Leslie reported what they described as a first measurement of plastic particles in human blood. Analysing samples from 22 healthy adult donors, they detected quantifiable plastic in 17, with a mean concentration of 1.6 micrograms per millilitre. Polyethylene terephthalate (PET), common in drinks bottles, appeared in half of the samples; polystyrene in roughly a third; and polyethylene in about a quarter. By identifying several distinct polymers, the study suggested that the particles came from a variety of everyday sources rather than a single product.",
+     "2022 年，海瑟．萊斯利帶領的研究團隊發表了他們所稱的人類血液塑膠顆粒「首次測量」。他們分析了 22 位健康成年捐血者的樣本，在其中 17 人身上驗出可量化的塑膠，平均濃度為每毫升 1.6 微克。常用於飲料瓶的聚對苯二甲酸乙二酯（PET）出現在一半的樣本中；聚苯乙烯約占三分之一；聚乙烯約占四分之一。研究辨識出好幾種不同的聚合物，顯示這些顆粒來自各式各樣的日常來源，而不是單一產品。"
+    ],
+    [
+     "It is important to read these findings precisely. The study was small, and it was designed to show that plastic particles could be detected and measured, not to establish how widespread they are or what harm they cause. As reports at the time emphasised, the health impact remains unknown. Treating the results as proof of danger would be an overstatement; dismissing them because the sample was small would be an understatement. The responsible conclusion is that a new question has been opened, not closed. Good science communication, in other words, depends on matching the strength of a claim to the strength of the evidence.",
+     "精確解讀這些發現很重要。這項研究規模很小，它的設計目的是證明塑膠顆粒「可以被偵測和測量」，而不是確認它們有多普遍或會造成什麼傷害。如同當時的報導所強調，對健康的影響仍然未知。把結果當成危險的證據，是言過其實；因為樣本小就加以忽視，則是輕描淡寫。負責任的結論是：一個新的問題被打開了，而不是被解決了。換句話說，好的科學溝通，取決於讓主張的強度與證據的強度相符。"
+    ],
+    [
+     "Even so, the study carries a quieter significance. It suggests that the line we draw between the environment and our own bodies is, at best, a convenient fiction. The materials we produce, use briefly and discard do not simply go “away”; there is no such place. Whether future research finds these particles harmful or not, the discovery invites a broader reflection on how products designed to last for centuries are used for only a few minutes. In that sense, the most important finding may be less about chemistry than about habit.",
+     "即便如此，這項研究仍有一層較安靜的意義。它暗示，我們在環境和自己的身體之間畫下的那條線，充其量只是一個方便的假象。我們製造、短暫使用、然後丟棄的材料，並不會就這樣「離開」——因為根本沒有「別的地方」可去。無論未來的研究是否發現這些顆粒有害，這個發現都邀請我們更廣泛地反思：為什麼設計來留存數百年的產品，只被使用短短幾分鐘。從這個角度看，最重要的發現，或許與其說關乎化學，不如說關乎習慣。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "hook",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "microplastics",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "study",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "findings-limits",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "meaning",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "particles",
+   "pos": "n.",
+   "meaning": "顆粒、微粒（複數）",
+   "example": "Dust particles floated in the air.",
+   "family": "particle (n.)"
+  },
+  {
+   "w": "samples",
+   "pos": "n.",
+   "meaning": "樣本（複數）",
+   "example": "The doctor took blood samples.",
+   "family": "sample (n./v.)"
+  },
+  {
+   "w": "packaging",
+   "pos": "n.",
+   "meaning": "包裝",
+   "example": "Too much packaging creates waste.",
+   "family": "package (n./v.)"
+  },
+  {
+   "w": "fragments",
+   "pos": "n.",
+   "meaning": "碎片（複數）",
+   "example": "The glass broke into fragments.",
+   "family": "fragment (v.), fragmented (adj.)"
+  },
+  {
+   "w": "durability",
+   "pos": "n.",
+   "meaning": "耐久性",
+   "example": "This bag is known for its durability.",
+   "family": "durable (adj.)"
+  },
+  {
+   "w": "contamination",
+   "pos": "n.",
+   "meaning": "污染、混入雜質",
+   "example": "Scientists must avoid contamination in the lab.",
+   "family": "contaminate (v.)"
+  },
+  {
+   "w": "anonymous",
+   "pos": "adj.",
+   "meaning": "匿名的",
+   "example": "The donors were anonymous.",
+   "family": "anonymity (n.)"
+  },
+  {
+   "w": "impact",
+   "pos": "n.",
+   "meaning": "影響、衝擊",
+   "example": "Plastic has a big impact on sea life.",
+   "family": "impact (v.)"
+  },
+  {
+   "w": "environment",
+   "pos": "n.",
+   "meaning": "環境",
+   "example": "We should protect the environment.",
+   "family": "environmental (adj.)"
+  },
+  {
+   "w": "single-use",
+   "pos": "adj.",
+   "meaning": "一次性的",
+   "example": "Many cities ban single-use bags.",
+   "family": "—"
+  },
+  {
+   "w": "overstatement",
+   "pos": "n.",
+   "meaning": "言過其實、誇大",
+   "example": "Calling it a disaster would be an overstatement.",
+   "family": "overstate (v.); understatement (反義)"
+  },
+  {
+   "w": "boundary",
+   "pos": "n.",
+   "meaning": "界線",
+   "example": "The river forms a boundary between the two towns.",
+   "family": "—"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "throw away",
+   "type": "phrase",
+   "meaning": "丟掉",
+   "usage": "throw sth away／throw away sth；名詞 throwaway（一次性的）。",
+   "example": "Don’t throw away that box.",
+   "writing": "What we throw away ..."
+  },
+  {
+   "phrase": "find its way",
+   "type": "idiom",
+   "meaning": "（慢慢地、意外地）到達",
+   "usage": "find its／their way + 地方：表示經過一段過程才到某處。",
+   "example": "The letter finally found its way to me.",
+   "writing": "N + may find its way back to + N"
+  },
+  {
+   "phrase": "at best",
+   "type": "phrase",
+   "meaning": "充其量、最好的情況下",
+   "usage": "語氣保留：at best + 評價。",
+   "example": "The plan is, at best, unrealistic.",
+   "writing": "S + is, at best, + N／adj."
+  },
+  {
+   "phrase": "make a real difference",
+   "type": "collocation",
+   "meaning": "帶來真正的改變",
+   "usage": "make a difference（有影響）；real 加強語氣。",
+   "example": "Small changes can make a real difference.",
+   "writing": "N + can make a real difference."
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "so + adj. + that + 子句",
+   "meaning": "如此……以致於……",
+   "example": "Some are so tiny that we cannot see them with our eyes.",
+   "tip": "so 後面接形容詞或副詞；接名詞時用 such。"
+  },
+  {
+   "frame": "A’s greatest strength is also its greatest problem",
+   "meaning": "A 最大的優點也是它最大的問題",
+   "example": "Its greatest strength, however, is also its greatest problem: plastic is designed to last.",
+   "tip": "作文開頭帶出矛盾的好句型。"
+  },
+  {
+   "frame": "Treating A as B would be an overstatement; dismissing A would be an understatement.",
+   "meaning": "把 A 當成 B 是誇大；忽視 A 則是低估",
+   "example": "Treating the results as proof of danger would be an overstatement.",
+   "tip": "論說文中用來展現平衡、精確的態度。"
+  }
+ ],
+ "quote": {
+  "text": "When we try to pick out anything by itself, we find it hitched to everything else in the universe.",
+  "author": "John Muir",
+  "work": "My First Summer in the Sierra (1911)",
+  "url": "https://www.gutenberg.org/ebooks/32540"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "What happens to plastic over time after we throw it away?",
+    "options": [
+     "It disappears completely",
+     "It breaks into smaller and smaller pieces",
+     "It turns into water",
+     "It becomes stronger"
+    ],
+    "a": 1,
+    "why": "第一段最後一句。",
+    "evidence": "Over time, it breaks into smaller and smaller pieces."
+   },
+   {
+    "q": "How many of the 22 adults had plastic in their blood?",
+    "options": [
+     "5",
+     "11",
+     "17",
+     "22"
+    ],
+    "a": 2,
+    "why": "第三段：22 人中有 17 人。",
+    "evidence": "They found tiny plastic particles in the blood of 17 of them."
+   },
+   {
+    "q": "Which kind of plastic was the most common?",
+    "options": [
+     "Plastic used in drink bottles",
+     "Plastic used in toys",
+     "Plastic used in phones",
+     "Plastic used in cars"
+    ],
+    "a": 0,
+    "why": "第四段第一句。",
+    "evidence": "The most common kind was the plastic used in drink bottles."
+   },
+   {
+    "q": "Do scientists know if this plastic is dangerous?",
+    "options": [
+     "Yes, it is very dangerous",
+     "Yes, it is completely safe",
+     "Not yet; more research is needed",
+     "They are not interested"
+    ],
+    "a": 2,
+    "why": "第四段：科學家還不知道，需要更多研究。",
+    "evidence": "The honest answer is that scientists do not know yet."
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "According to the first paragraph, what is plastic’s “greatest problem”?",
+    "options": [
+     "It is expensive",
+     "It is designed to last",
+     "It is heavy",
+     "It is hard to make"
+    ],
+    "a": 1,
+    "why": "第一段：最大的優點也是最大的問題——它耐久。",
+    "evidence": "plastic is designed to last"
+   },
+   {
+    "q": "Why had measuring plastic in blood been difficult?",
+    "options": [
+     "Nobody was interested",
+     "It was technically difficult",
+     "Blood samples were illegal",
+     "Plastic dissolves in blood"
+    ],
+    "a": 1,
+    "why": "第二段最後一句。",
+    "evidence": "measuring them in blood was technically difficult"
+   },
+   {
+    "q": "What was the average measurable amount of plastic?",
+    "options": [
+     "1.6 micrograms per millilitre",
+     "16 grams per litre",
+     "22 micrograms per person",
+     "17 percent"
+    ],
+    "a": 0,
+    "why": "第三段最後一句。",
+    "evidence": "1.6 micrograms per millilitre of blood"
+   },
+   {
+    "q": "What can a study of 22 people NOT tell us, according to the last paragraph?",
+    "options": [
+     "Whether plastic can be detected in blood",
+     "How much plastic is in everyone’s blood or whether it is harmful",
+     "Which plastics were found",
+     "Where the donors came from"
+    ],
+    "a": 1,
+    "why": "最後一段說明了研究的限制。",
+    "evidence": "A study of 22 people cannot tell us how much plastic is in everyone’s blood, or whether it is harmful."
+   }
+  ],
+  "advanced": [
+   {
+    "q": "What assumption does the first paragraph say recent research challenges?",
+    "options": [
+     "That plastic is useful",
+     "That pollution is out there, not inside us",
+     "That oceans are clean",
+     "That plastic is cheap"
+    ],
+    "a": 1,
+    "why": "第一段最後：污染在外面、不在我們體內的假設。",
+    "evidence": "The pollution, we assume, is out there in the environment, not inside us."
+   },
+   {
+    "q": "Why does plastic “fragment” instead of disappearing?",
+    "options": [
+     "It is engineered to resist decay",
+     "It dissolves in water",
+     "It is eaten by animals",
+     "It is burned"
+    ],
+    "a": 0,
+    "why": "第二段：塑膠被設計成不易腐壞。",
+    "evidence": "Plastic is engineered to resist decay"
+   },
+   {
+    "q": "What was the study designed to show?",
+    "options": [
+     "How harmful plastic is",
+     "That plastic particles could be detected and measured",
+     "How widespread plastic is worldwide",
+     "Which companies produce the most plastic"
+    ],
+    "a": 1,
+    "why": "第四段：設計目的是證明可以偵測與測量。",
+    "evidence": "it was designed to show that plastic particles could be detected and measured"
+   },
+   {
+    "q": "What does the writer mean by calling the line between environment and body “a convenient fiction”?",
+    "options": [
+     "The boundary is not as real as we like to think",
+     "Our bodies are not affected by anything",
+     "Pollution is imaginary",
+     "Scientists invented the problem"
+    ],
+    "a": 0,
+    "why": "最後一段：我們畫的那條線充其量只是方便的假象。",
+    "evidence": "the line we draw between the environment and our own bodies is, at best, a convenient fiction"
+   }
+  ]
+ },
+ "reflections": [
+  "List the plastic items you used today. Which of them did you use for less than ten minutes?",
+  "The article says a small study “opens a question” rather than proving danger. Why is it important not to exaggerate or dismiss such results?"
+ ],
+ "videos": [
+  {
+   "title": "3 surprising ways microplastics can enter your body",
+   "channel": "TED-Ed",
+   "url": "https://ed.ted.com/lessons/3-surprising-ways-microplastics-can-enter-your-body",
+   "kind": "TED-Ed",
+   "desc": "An animated lesson on how micro- and nanoplastics enter the body through air, skin, food and drink.",
+   "zh": "動畫課程：微塑膠和奈米塑膠如何經由空氣、皮膚、食物和飲料進入人體。",
+   "question": "Which way surprised you the most?"
+  },
+  {
+   "title": "Microplastics are everywhere — but we can do something about them",
+   "channel": "TEDxBinghamtonUniversity · Sarah Dudas",
+   "url": "https://www.ted.com/talks/sarah_dudas_microplastics_are_everywhere_but_we_can_do_something_about_them",
+   "kind": "TEDx",
+   "desc": "A researcher explains how widespread microplastics are and what we can do about them.",
+   "zh": "研究者說明微塑膠有多普遍，以及我們能做些什麼。",
+   "question": "Which of her suggestions could your school try?"
+  }
+ ]
+}

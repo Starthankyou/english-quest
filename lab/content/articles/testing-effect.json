@@ -1,0 +1,451 @@
+{
+ "id": "testing-effect",
+ "category": "學習科學",
+ "title": "Why Rereading Fools You",
+ "subtitle": "為什麼重讀會騙了你：考自己比重讀更有效",
+ "source": "原創教學文章；研究內容依 Roediger & Karpicke（2006）原始論文，2026-10-21 核對",
+ "sources": [
+  {
+   "title": "Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. Psychological Science, 17(3), 249–255.",
+   "url": "https://doi.org/10.1111/j.1467-9280.2006.01693.x",
+   "accessed": "2026-10-21"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "Read It Again — or Test Yourself?",
+   "paras": [
+    [
+     "It is the night before a test. You open your textbook and read the chapter again. Then you read it one more time. The words look familiar, and you feel ready. But are you really ready? Research suggests that this good feeling can fool you. Many students study this way, and it is easy to see why. Rereading is simple, and it does not feel stressful.",
+     "考試前一晚，你打開課本，把那一章再讀一遍，然後又讀了一遍。那些字看起來很熟悉，你覺得自己準備好了。但你真的準備好了嗎？研究顯示，這種良好的感覺可能會騙了你。很多學生都這樣讀書，原因不難理解：重讀很簡單，也不會讓人有壓力。"
+    ],
+    [
+     "In 2006, two psychologists, Henry Roediger and Jeffrey Karpicke, tested this idea with college students. The students read short passages about science. Then some students read the passages again. Other students closed the book and wrote down everything they could remember. Nobody told them if their answers were right.",
+     "2006 年，兩位心理學家亨利．羅迪格和傑佛瑞．卡匹克用大學生測試了這個想法。學生先讀幾篇關於科學的短文。接著，有些學生再讀一次；另一些學生則闔上書，寫下自己記得的所有內容。沒有人告訴他們答得對不對。"
+    ],
+    [
+     "Five minutes later, the students who had read twice remembered a little more. But two days later, and one week later, the results changed. The students who had tested themselves remembered much more. After one week, they recalled 56 percent of the ideas. The students who had only reread recalled 42 percent. The difference was large enough to change a test score.",
+     "五分鐘後，讀了兩次的學生記得稍微多一點。但兩天後和一星期後，結果改變了。考過自己的學生記得多得多。一星期後，他們能想起 56% 的內容；只有重讀的學生，只想起 42%。 這個差距大到足以改變一次考試的分數。"
+    ],
+    [
+     "Why does testing work so well? When you try to remember something, your brain has to search for it. This effort makes the memory stronger. Rereading feels easy because the answers are right in front of you, but easy is not always effective.",
+     "為什麼考自己這麼有效？當你試著回想一件事，大腦必須去搜尋它，而這份努力會讓記憶變得更牢固。重讀感覺很輕鬆，因為答案就在眼前；但輕鬆不一定有效。"
+    ],
+    [
+     "So next time, try a different plan. Read the chapter once. Then close the book and ask yourself questions. Write down what you remember, and then check. It may feel harder, but your future self will thank you. You can also ask a friend to test you, or explain the chapter to a family member.",
+     "所以下次試試不同的做法：先讀一遍，然後闔上書問自己問題。寫下你記得的，再對照檢查。這樣可能比較辛苦，但未來的你會感謝現在的你。 你也可以請朋友考你，或把那一章講給家人聽。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "Why Rereading Fools You",
+   "paras": [
+    [
+     "Ask students how they study, and many will describe the same method: reading their notes or textbook again and again until the material feels familiar. It is a comfortable strategy, and it seems logical. Yet a well-known experiment suggests that this familiar feeling is a poor guide to what we will actually remember. Many teachers have seen students who reread carefully and still struggle on the exam.",
+     "問學生怎麼讀書，很多人會描述同一種方法：把筆記或課本一讀再讀，直到內容感覺很熟悉。這是一種舒服的策略，看起來也很合理。然而，一項著名的實驗顯示，這種熟悉的感覺，並不能很好地告訴我們實際上會記住多少。 很多老師都見過認真重讀、考試時卻還是卡住的學生。"
+    ],
+    [
+     "In 2006, psychologists Henry Roediger and Jeffrey Karpicke asked college students to study short prose passages on scientific topics. After a first reading, the students either studied the passage again or took a recall test, writing down as much as they could remember without looking. Crucially, they received no feedback on their answers. Each student studied some passages one way and other passages the other way, so the two methods could be compared fairly.",
+     "2006 年，心理學家羅迪格和卡匹克請大學生閱讀幾篇科學主題的短文。讀過第一次後，學生要嘛再讀一次，要嘛做一個回想測驗：不看原文，盡可能寫下記得的內容。關鍵在於，他們完全沒有得到答案對錯的回饋。 每位學生都用兩種方式讀不同的文章，因此兩種方法可以公平比較。"
+    ],
+    [
+     "The results depended on timing. On a final test given only five minutes later, rereading produced slightly better recall. But when the final test was delayed by two days or a week, the pattern reversed. After one week, students who had practised recalling the material remembered 56 percent of the ideas, compared with 42 percent for those who had simply reread. A difference of fourteen percentage points may not sound dramatic, but on a real exam it could easily be the difference between passing and failing.",
+     "結果取決於時間點。如果最後的測驗只隔五分鐘，重讀的效果稍好；但如果測驗延到兩天或一週後，情況就反轉了。一週後，練習過回想的學生記得 56% 的概念，只有重讀的學生則是 42%。 十四個百分點聽起來也許不多，但在真正的考試裡，很可能就是及格與不及格的差別。"
+    ],
+    [
+     "Perhaps the most striking finding came from a second experiment, in which some students reread a passage several times while others tested themselves repeatedly. The rereaders felt more confident that they would remember the material, yet after a week they remembered the least. In other words, the method that felt best was not the method that worked best. This is worrying, because students usually choose study methods based on how those methods feel.",
+     "最驚人的發現或許來自第二個實驗：有些學生把文章重讀好幾次，有些學生則反覆考自己。重讀的學生對自己會記得內容更有信心，但一週後，他們記得的反而最少。換句話說，感覺最好的方法，並不是最有效的方法。 這很令人擔心，因為學生通常是依照「感覺」來選擇讀書方法的。"
+    ],
+    [
+     "Psychologists call this the testing effect. The act of pulling information out of memory strengthens it, while rereading mainly makes the page look familiar. For students, the practical lesson is simple: after reading, close the book and quiz yourself. It is harder, but that difficulty is part of how learning happens. Simple tools such as flashcards, practice questions or a blank sheet of paper are enough to start.",
+     "心理學家稱之為「測驗效應」。把資訊從記憶中提取出來的動作，會讓它更牢固；重讀主要只是讓那一頁看起來眼熟。對學生來說，實際的啟示很簡單：讀完之後，闔上書考考自己。這比較難，但那份困難本身，就是學習發生的方式之一。 字卡、練習題，或一張白紙，這些簡單的工具就足以開始。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "The Illusion of Knowing",
+   "paras": [
+    [
+     "Few study habits are as popular, or as reassuring, as rereading. Each pass through a chapter makes the material feel more fluent, and fluency is easily mistaken for mastery. The difficulty is that our sense of how well we know something is an imperfect measure of whether we will be able to retrieve it later, when it actually matters. Students are not foolish to rely on this feeling; it is simply the most obvious signal available to them.",
+     "很少有讀書習慣像重讀這樣受歡迎、又令人安心。每多讀一次，內容就感覺更流暢，而流暢很容易被誤當成精熟。問題在於，我們對「自己有多懂」的感覺，並不能準確反映之後真正需要時，我們能否把它提取出來。 學生依賴這種感覺並不愚蠢；它只是他們手邊最明顯的訊號。"
+    ],
+    [
+     "In an influential 2006 study, Henry Roediger and Jeffrey Karpicke examined this gap directly. Students studied short prose passages on scientific topics and then either restudied them or took a free-recall test, writing down as much as they could without feedback. A final test followed after five minutes, two days or one week. The design allowed the researchers to ask not only which method worked, but when it worked. Importantly, each student experienced both conditions with different passages, which ruled out the possibility that one group was simply more able than the other.",
+     "在 2006 年一項深具影響力的研究中，羅迪格與卡匹克直接檢驗了這個落差。學生先閱讀科學主題的短文，接著再讀一次，或做一個自由回想測驗——在沒有回饋的情況下盡可能寫下內容。最後的測驗安排在五分鐘、兩天或一週之後。這樣的設計讓研究者不只能問「哪種方法有效」，還能問「什麼時候有效」。 重要的是，每位學生都以不同文章經歷了兩種條件，這排除了「某一組本來就比較厲害」的可能。"
+    ],
+    [
+     "The answer was striking. On the immediate test, restudying held a modest advantage. On the delayed tests, however, prior testing produced substantially greater retention: after a week, students who had been tested recalled 56 percent of the idea units, against 42 percent for those who had restudied. A second experiment sharpened the paradox. Students who read a passage four times were the most confident about remembering it, yet after a week they recalled less than students who had read it once and then recalled it three times. In other words, repeated testing produced the best long-term retention but the weakest sense of confidence — a mismatch that has troubling implications for how students choose to study.",
+     "答案令人驚訝。在立即測驗中，重讀略占優勢；但在延後的測驗中，事先做過測驗的學生記得的明顯更多：一週後，受測組能回想 56% 的概念單位，重讀組只有 42%。第二個實驗讓這個矛盾更加鮮明：把文章讀四遍的學生，對自己會記住最有信心，但一週後，他們記得的比「讀一遍、回想三次」的學生還少。 換句話說，反覆測驗帶來最好的長期記憶，卻也帶來最弱的信心——這種落差，對學生如何選擇讀書方法有著令人憂心的影響。"
+    ],
+    [
+     "Why should retrieval be so powerful? One explanation is that recalling information is not simply a read-out of what is stored; it is an act that reshapes memory, making the retrieved information easier to access in the future. Rereading, by contrast, offers the comfort of recognition without the work of reconstruction. The very ease that makes rereading feel productive may be what limits its long-term value. Researchers sometimes describe this kind of productive struggle as a “desirable difficulty”: a challenge that slows learning down in the short term but strengthens it in the long run.",
+     "為什麼提取這麼有力量？一種解釋是：回想不只是把儲存的資訊讀出來，它本身就是一個重塑記憶的行為，會讓被提取的資訊在未來更容易取用。相對地，重讀給人的是「認得」的安心感，卻少了「重建」的功夫。讓重讀感覺很有效率的那份輕鬆，或許正是限制它長期價值的原因。 研究者有時把這種有益的掙扎稱為「有益的困難」：短期內讓學習變慢，長期卻讓它更穩固。"
+    ],
+    [
+     "The implication for learners is uncomfortable but useful: the strategies that feel most effective in the moment are not necessarily the ones that last. Self-quizzing, flashcards and explaining an idea from memory all feel more effortful than rereading — and that effort is precisely the point. Learning, it turns out, is less about how often we see the material than about how often we are asked to bring it back. None of this means that rereading is useless; a first careful reading is necessary before there is anything to retrieve. The point is to stop treating repetition as the finish line.",
+     "這對學習者的啟示令人不太舒服，卻很有用：當下感覺最有效的策略，不一定是最持久的。自我測驗、字卡、憑記憶解釋一個概念，都比重讀更費力——而那份費力正是重點。原來，學習的關鍵，比較不在於我們看過內容多少次，而在於我們被要求把它「找回來」多少次。 這並不代表重讀沒有用；先仔細讀過一遍，才有東西可以提取。重點是別再把「重複」當成終點線。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "hook",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "study",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "results",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "why",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "advice",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "familiar",
+   "pos": "adj.",
+   "meaning": "熟悉的",
+   "example": "The song sounded familiar.",
+   "family": "familiarity (n.)"
+  },
+  {
+   "w": "recall",
+   "pos": "v./n.",
+   "meaning": "回想、記起",
+   "example": "I can’t recall her name.",
+   "family": "recall (n.)"
+  },
+  {
+   "w": "effective",
+   "pos": "adj.",
+   "meaning": "有效的",
+   "example": "Sleep is an effective way to improve memory.",
+   "family": "effect (n.), effectively (adv.)"
+  },
+  {
+   "w": "effort",
+   "pos": "n.",
+   "meaning": "努力、費力",
+   "example": "Learning a language takes effort.",
+   "family": "effortless (adj.)"
+  },
+  {
+   "w": "confident",
+   "pos": "adj.",
+   "meaning": "有信心的",
+   "example": "She felt confident before the exam.",
+   "family": "confidence (n.)"
+  },
+  {
+   "w": "feedback",
+   "pos": "n.",
+   "meaning": "回饋",
+   "example": "The teacher gave us useful feedback.",
+   "family": "—"
+  },
+  {
+   "w": "strategy",
+   "pos": "n.",
+   "meaning": "策略",
+   "example": "What is your strategy for learning vocabulary?",
+   "family": "strategic (adj.)"
+  },
+  {
+   "w": "reversed",
+   "pos": "v.",
+   "meaning": "反轉（reverse 的過去式）",
+   "example": "The trend reversed after a year.",
+   "family": "reverse (v./n.), reversal (n.)"
+  },
+  {
+   "w": "retention",
+   "pos": "n.",
+   "meaning": "保留、記住（的程度）",
+   "example": "Sleep improves the retention of new words.",
+   "family": "retain (v.)"
+  },
+  {
+   "w": "retrieval",
+   "pos": "n.",
+   "meaning": "提取、取回",
+   "example": "Practice improves memory retrieval.",
+   "family": "retrieve (v.)"
+  },
+  {
+   "w": "fluency",
+   "pos": "n.",
+   "meaning": "流暢",
+   "example": "Fluency is not the same as understanding.",
+   "family": "fluent (adj.)"
+  },
+  {
+   "w": "paradox",
+   "pos": "n.",
+   "meaning": "矛盾、悖論",
+   "example": "It is a paradox that more choice can make us less happy.",
+   "family": "paradoxical (adj.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "again and again",
+   "type": "phrase",
+   "meaning": "一再、反覆地",
+   "usage": "強調重複；= repeatedly。",
+   "example": "He read the letter again and again.",
+   "writing": "S + V + again and again"
+  },
+  {
+   "phrase": "in front of",
+   "type": "phrase",
+   "meaning": "在……前面",
+   "usage": "in front of + N；比喻「就在眼前」。",
+   "example": "The answer was right in front of me.",
+   "writing": "right in front of + N"
+  },
+  {
+   "phrase": "it turns out",
+   "type": "discourse_marker",
+   "meaning": "原來、結果是",
+   "usage": "It turns out (that) + 子句；常用來帶出意外的發現。",
+   "example": "It turns out that the shop was closed.",
+   "writing": "It turns out (that) ..."
+  },
+  {
+   "phrase": "mistaken for",
+   "type": "collocation",
+   "meaning": "被誤認為",
+   "usage": "be mistaken for + N；mistake A for B（把 A 誤認為 B）。",
+   "example": "He is often mistaken for his brother.",
+   "writing": "A is easily mistaken for B."
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "Compared with + N, ... ／ ..., compared with + N",
+   "meaning": "和……相比",
+   "example": "Students recalled 56 percent, compared with 42 percent for those who reread.",
+   "tip": "比較數據時很常用；compared to 也可以。"
+  },
+  {
+   "frame": "The + adj./N + that + 子句 + is not (necessarily) + N",
+   "meaning": "……的那個……，不一定是……",
+   "example": "The method that felt best was not the method that worked best.",
+   "tip": "用來對比「感覺」和「事實」。"
+  },
+  {
+   "frame": "not only A but (also) B",
+   "meaning": "不只 A，還有 B",
+   "example": "The design allowed them to ask not only which method worked, but when it worked.",
+   "tip": "A、B 的詞性和結構要對等。"
+  },
+  {
+   "frame": "less about A than about B",
+   "meaning": "與其說是 A，不如說是 B",
+   "example": "Learning is less about how often we see it than about how often we bring it back.",
+   "tip": "比 not A but B 語氣更緩和。"
+  }
+ ],
+ "quote": {
+  "text": "If you read any work twenty times over, you will not learn it by heart so readily as if you were to read it but ten times, trying each time to repeat it, and when your memory fails you looking into the book.",
+  "author": "Francis Bacon",
+  "work": "Novum Organum (1620), Book II（Project Gutenberg 英譯本）",
+  "url": "https://www.gutenberg.org/ebooks/45988"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "What did some students do instead of reading again?",
+    "options": [
+     "They watched a video",
+     "They wrote down everything they could remember",
+     "They asked the teacher",
+     "They went to sleep"
+    ],
+    "a": 1,
+    "why": "第二段：另一些學生闔上書，寫下記得的所有內容。",
+    "evidence": "Other students closed the book and wrote down everything they could remember."
+   },
+   {
+    "q": "Who remembered more after five minutes?",
+    "options": [
+     "The students who had read twice",
+     "The students who had tested themselves",
+     "Both groups the same",
+     "Nobody remembered anything"
+    ],
+    "a": 0,
+    "why": "第三段：五分鐘後，讀兩次的學生記得稍多。",
+    "evidence": "Five minutes later, the students who had read twice remembered a little more."
+   },
+   {
+    "q": "After one week, what percentage did the self-testing students recall?",
+    "options": [
+     "42 percent",
+     "50 percent",
+     "56 percent",
+     "80 percent"
+    ],
+    "a": 2,
+    "why": "第三段：一星期後 56%，重讀組 42%。",
+    "evidence": "After one week, they recalled 56 percent of the ideas."
+   },
+   {
+    "q": "Why does testing yourself make memories stronger?",
+    "options": [
+     "Because it is easy",
+     "Because your brain has to search for the information",
+     "Because tests are short",
+     "Because you read faster"
+    ],
+    "a": 1,
+    "why": "第四段：回想時大腦要去搜尋，這份努力讓記憶更牢固。",
+    "evidence": "When you try to remember something, your brain has to search for it."
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "What is important about the feedback in the experiment?",
+    "options": [
+     "Students got detailed feedback",
+     "Students received no feedback on their answers",
+     "Only the rereaders got feedback",
+     "Teachers graded every answer"
+    ],
+    "a": 1,
+    "why": "第二段最後一句。",
+    "evidence": "they received no feedback on their answers"
+   },
+   {
+    "q": "According to paragraph 3, what did the results depend on?",
+    "options": [
+     "The students’ age",
+     "Timing",
+     "The length of the passages",
+     "The subject of the passages"
+    ],
+    "a": 1,
+    "why": "第三段第一句：結果取決於時間點。",
+    "evidence": "The results depended on timing."
+   },
+   {
+    "q": "What was surprising about the rereaders in the second experiment?",
+    "options": [
+     "They felt more confident but remembered the least",
+     "They refused to reread",
+     "They remembered the most",
+     "They took more tests"
+    ],
+    "a": 0,
+    "why": "第四段：信心最高，一週後記得最少。",
+    "evidence": "The rereaders felt more confident that they would remember the material, yet after a week they remembered the least."
+   },
+   {
+    "q": "What does “the testing effect” refer to?",
+    "options": [
+     "Tests make students nervous",
+     "Pulling information out of memory strengthens it",
+     "Tests are always fair",
+     "Rereading improves test scores"
+    ],
+    "a": 1,
+    "why": "第五段定義：提取資訊會讓它更牢固。",
+    "evidence": "The act of pulling information out of memory strengthens it"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "What does the writer mean by “fluency is easily mistaken for mastery”?",
+    "options": [
+     "Reading smoothly can feel like truly knowing",
+     "Fluent readers always master the material",
+     "Mastery requires reading aloud",
+     "Fluency and mastery are the same"
+    ],
+    "a": 0,
+    "why": "第一段：讀得流暢的感覺，容易被誤當成精熟。",
+    "evidence": "fluency is easily mistaken for mastery"
+   },
+   {
+    "q": "Why was the timing of the final test important to the design?",
+    "options": [
+     "It let researchers ask when each method worked",
+     "It made the test easier",
+     "It reduced the number of students",
+     "It allowed feedback"
+    ],
+    "a": 0,
+    "why": "第二段最後一句。",
+    "evidence": "The design allowed the researchers to ask not only which method worked, but when it worked."
+   },
+   {
+    "q": "What “paradox” does the second experiment reveal?",
+    "options": [
+     "Students who tested more felt less tired",
+     "The most confident group recalled less after a week",
+     "Reading four times improved recall the most",
+     "Testing reduced confidence and memory"
+    ],
+    "a": 1,
+    "why": "第三段：讀四遍的人最有信心，一週後卻記得較少。",
+    "evidence": "Students who read a passage four times were the most confident about remembering it, yet after a week they recalled less"
+   },
+   {
+    "q": "According to the fourth paragraph, how does rereading differ from retrieval?",
+    "options": [
+     "Rereading offers recognition without reconstruction",
+     "Rereading is harder than retrieval",
+     "Retrieval only reads out stored memories",
+     "They work in exactly the same way"
+    ],
+    "a": 0,
+    "why": "第四段：重讀給的是認得的安心感，少了重建的功夫。",
+    "evidence": "Rereading, by contrast, offers the comfort of recognition without the work of reconstruction."
+   }
+  ]
+ },
+ "reflections": [
+  "How do you usually study for a test? After reading this article, what would you change?",
+  "Write three questions you could ask yourself about this article — then try to answer them without looking back."
+ ],
+ "videos": [
+  {
+   "title": "3 tips on how to study effectively",
+   "channel": "TED-Ed",
+   "url": "https://ed.ted.com/lessons/3-tips-on-how-to-study-effectively",
+   "kind": "TED-Ed",
+   "desc": "An animated lesson on how the brain stores information and which study habits make memories last.",
+   "zh": "動畫課程：大腦如何儲存資訊，以及哪些讀書習慣能讓記憶更持久。",
+   "question": "Which of the three tips do you already use? Which will you try?"
+  },
+  {
+   "title": "How to practice effectively...for just about anything",
+   "channel": "TED-Ed · Annie Bosler and Don Greene",
+   "url": "https://ed.ted.com/lessons/how-to-practice-effectively-for-just-about-anything-annie-bosler-and-don-greene",
+   "kind": "TED-Ed",
+   "desc": "How practice changes the brain, and what makes practice effective.",
+   "zh": "練習如何改變大腦，以及什麼樣的練習才有效。",
+   "question": "How could you make your English practice more effective?"
+  }
+ ]
+}
