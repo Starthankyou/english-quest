@@ -1,0 +1,156 @@
+{
+ "id": "w02-d4",
+ "week": "w02",
+ "day": 4,
+ "level": "A2",
+ "title": {
+  "en": "The Meeting of New Words",
+  "zh": "新字委員會"
+ },
+ "words": [
+  "security",
+  "status",
+  "senior",
+  "signature",
+  "summary"
+ ],
+ "review": [
+  "sophisticated",
+  "subtle",
+  "scold",
+  "swear",
+  "signal"
+ ],
+ "blocks": [
+  {
+   "en": "In the morning, [[Signal|signal]] waved her flags again: THIS WAY. Bao, Little Mushroom, Master Mu and Chuyi followed her to a round hall made of white stone. This was the Hall of New Words.",
+   "zh": "早上，Signal 又揮起了旗子：往這邊。小寶、小蘑菇、木大人和初一跟著她，來到一座白色石頭建成的圓形大廳。這裡是新字大廳。"
+  },
+  {
+   "en": "A tall, calm man stood at the door. He looked at every badge. He looked at every face. “That’s [[Security|security]],” said Little Mushroom. “Nobody goes in without his OK.” Security looked at Bao for a long time. Then he looked at Chuyi. Chuyi purred. Security gave a small, [[subtle|subtle]] smile. “Guests,” he said. “Come in.”",
+   "zh": "門口站著一個高大又冷靜的男人。他看每一枚徽章，也看每一張臉。「那是 Security，」小蘑菇說，「沒有他點頭，誰都進不去。」Security 看了小寶很久，又看看初一。初一發出呼嚕聲。Security 露出一個淡淡的微笑。「是客人，」他說，「請進。」"
+  },
+  {
+   "en": "Inside, there were twenty-nine seats in a circle. Twenty-six were for the letters, from A to Z. One was for the Chairman. One was for the President. One was for the Secretary.",
+   "zh": "大廳裡有二十九個座位，排成一個圓。二十六個給字母，從 A 到 Z；一個給主席，一個給會長，一個給秘書。"
+  },
+  {
+   "en": "In the front row sat a very old man. It was Grandpa Z. On their first day in English World, he had come out to touch Little Mushroom’s head, because he thought the mushroom was cute. “He is the most [[senior]] member here,” said Master Mu. “The oldest, and the one with the most years of service.”",
+   "zh": "第一排坐著一位很老的老先生，是 Z 爺爺。他們剛來英語世界的第一天，他就因為覺得小蘑菇很可愛，自己跑出來摸小蘑菇的頭。「他是這裡資歷最深的成員，」木大人說，「年紀最大，服務最久。」"
+  },
+  {
+   "en": "The Chairman stood up. He looked strange — he was two words holding hands. “I am [[Look Into|look into]],” he said. “The chair changes every year. This year it’s me. Today we have one new word. Let’s look into it.”",
+   "zh": "主席站了起來。他長得很奇怪——是兩個手牽手的字。「我是 Look Into，」他說，「主席每年輪流當，今年輪到我。今天我們有一個新字，我們來好好研究一下。」"
+  },
+  {
+   "en": "A young word walked in, holding a phone high in the air. He turned his face left and right, looking for the best angle. At the back, [[Scold|scold]] blew her whistle: “No phones in the hall!” He lowered it, a little. “My name is [[Selfie|selfie]],” he said. “I was born on the internet. Can I live in English World?”",
+   "zh": "一個年輕的字走了進來，把手機舉得高高的。他把臉左轉、右轉，在找最好的角度。後排的 Scold 吹了哨子：「大廳裡不准用手機！」他把手機放低了一點點。「我叫 Selfie，」他說，「我是在網路上出生的。我可以住在英語世界嗎？」"
+  },
+  {
+   "en": "First, the letters checked his spelling. S, E, L, F, I, E — six letters stood up and nodded. Next, a very neat man with thick black glasses looked at the end of the word. “Hmm. An -ie at the end,” said [[Prefix|prefix]], the club manager. “Like ‘movie’ and ‘cookie’. That is fine.”",
+   "zh": "首先，字母們檢查他的拼法。S、E、L、F、I、E——六個字母站起來點點頭。接著，一位戴著粗框黑眼鏡、非常規矩的先生看了看這個字的結尾。「嗯，結尾是 -ie，」社團管理人 Prefix 說，「就像 movie 和 cookie。沒問題。」"
+  },
+  {
+   "choice": {
+    "prompt": {
+     "en": "Look Into asks the guests: “Should Selfie become a resident?”",
+     "zh": "Look Into 問客人：「Selfie 應該成為居民嗎？」"
+    },
+    "options": [
+     {
+      "id": "yes",
+      "label": {
+       "en": "“Yes! Everyone uses him.”",
+       "zh": "「應該！大家都在用他。」"
+      },
+      "en": "“A good reason,” said Look Into. “Words live when people use them.” Selfie took a selfie to celebrate.",
+      "zh": "「好理由，」Look Into 說，「有人使用，字才會活著。」Selfie 拍了一張自拍來慶祝。"
+     },
+     {
+      "id": "wait",
+      "label": {
+       "en": "“Maybe. Let’s wait and see.”",
+       "zh": "「也許吧，我們再觀察看看。」"
+      },
+      "en": "“A careful answer,” said Look Into. “But he is used every day, all over the world.” Selfie looked worried, then took a selfie anyway.",
+      "zh": "「很謹慎的回答，」Look Into 說，「不過全世界每天都在用他。」Selfie 看起來有點擔心，但還是拍了一張自拍。"
+     }
+    ],
+    "after": {
+     "en": "The committee voted. Selfie could stay.",
+     "zh": "委員會投票了。Selfie 可以留下來。"
+    }
+   }
+  },
+  {
+   "en": "A woman at the front desk held a big stack of cards. “I am [[Status|status]],” she said. “I keep everyone’s card. Resident, waiting, or fading. Your status is now: resident.” She gave Selfie a card. Bao thought of Sooth. His card probably said: fading.",
+   "zh": "前面櫃台的女士拿著一大疊卡片。「我是 Status，」她說，「我保管每個人的卡片。正式居民、候補中，或是正在消失。你現在的身分是：正式居民。」她給了 Selfie 一張卡。小寶想起 Sooth，他的卡上大概寫著：正在消失。"
+  },
+  {
+   "en": "Last, a golden pen flew down from the ceiling. “Every new resident must sign in to the Resident Book,” said the Secretary, [[Sophisticated|sophisticated]]. “Your [[signature]] proves you are you. Then nobody can steal your name.” Selfie raised his hand and [[swore|swear]] to use his name kindly. Then he signed. The golden pen was [[Signature|signature]] herself.",
+   "zh": "最後，一支金色的筆從天花板飛下來。「每個新居民都必須簽名登入居民名冊，」秘書 Sophisticated 說，「你的簽名證明你就是你，這樣就沒有人能盜用你的名字。」Selfie 舉起手，發誓會善用自己的名字，然後簽了名。那支金筆就是 Signature 本人。"
+  },
+  {
+   "en": "Then a man folded the whole three-hour meeting into one small piece of paper. “[[Summary|summary]],” he read. “One new word. One new resident. Meeting finished.” Everyone clapped.",
+   "zh": "接著，一個男人把整整三小時的會議摺成一張小紙條。「摘要，」他念道，「一個新字。一位新居民。會議結束。」大家都鼓掌了。"
+  },
+  {
+   "en": "But Bao was not clapping. Near the Resident Book, he saw a shadow with a sweet smile. Nobody had invited it. Security was looking the other way. And the golden pen was shaking.",
+   "zh": "但小寶沒有鼓掌。在居民名冊旁邊，他看到一個帶著甜甜微笑的影子。沒有人邀請它。Security 正看著別的地方。而那支金筆在發抖。"
+  }
+ ],
+ "insight": {
+  "en": "Words live when people use them.",
+  "zh": "有人使用，字才會活著。",
+  "by": "Chairman Look Into"
+ },
+ "quote": {
+  "en": "What’s in a name? that which we call a rose / By any other name would smell as sweet.",
+  "zh": "名字算什麼？我們叫做玫瑰的那個東西，換個名字，聞起來還是一樣香。",
+  "author": "William Shakespeare",
+  "source": "Romeo and Juliet, Act 2, Scene 2",
+  "url": "https://en.wikiquote.org/wiki/Romeo_and_Juliet"
+ },
+ "quiz": [
+  {
+   "q": "The school has a ______ guard at the gate.",
+   "answers": [
+    "security"
+   ],
+   "word": "security",
+   "explain": "security 安全、保全：security guard（保全人員）、online security（網路安全）。"
+  },
+  {
+   "q": "What is the ______ of your order? Has it been sent yet?",
+   "answers": [
+    "status"
+   ],
+   "word": "status",
+   "explain": "status 身分、狀態：the status of an order（訂單狀態）。"
+  },
+  {
+   "q": "My cousin is a ______ in high school. She will graduate next year.",
+   "answers": [
+    "senior"
+   ],
+   "word": "senior",
+   "explain": "senior 年長的、資深的；在學校指最高年級的學生。反義 junior。"
+  },
+  {
+   "q": "Please write your ______ at the bottom of the form.",
+   "answers": [
+    "signature"
+   ],
+   "word": "signature",
+   "explain": "signature 簽名（名詞）；sign 是動詞。注意 signature 的 g 要發音。"
+  },
+  {
+   "q": "Can you give me a short ______ of the movie?",
+   "answers": [
+    "summary"
+   ],
+   "word": "summary",
+   "explain": "summary 摘要；in summary（總之）；動詞 summarize。"
+  }
+ ]
+}

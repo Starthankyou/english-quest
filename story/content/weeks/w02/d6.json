@@ -1,0 +1,60 @@
+{
+ "id": "w02-d6",
+ "week": "w02",
+ "day": 6,
+ "level": "B1",
+ "title": {"en": "What Strong People Do", "zh": "強者會做的事"},
+ "words": ["strength", "steady", "struggle", "shiny", "splendid"],
+ "review": ["sting", "severe", "suffer", "surround", "suspend"],
+ "blocks": [
+  {"en": "Little Mushroom worked all night. He crushed leaves, boiled roots, and mixed them in a small cup, humming as if he were making soup. “Mushrooms and poison are old neighbours,” he explained. “If you know how a poison works, you know how to stop it.”",
+   "zh": "小蘑菇忙了一整夜。他搗碎葉子、熬煮樹根，在一個小杯子裡把它們混在一起，一邊哼著歌，好像在煮湯。「蘑菇和毒是老鄰居了，」他解釋，「只要知道一種毒怎麼作用，就知道怎麼阻止它。」"},
+  {"en": "A quiet man held the cup to Bao’s lips. His hand did not shake even a little, and not one drop fell. “I’m [[Steady|steady]],” he said. “Slowly. One sip at a time.” By morning, the burning in Bao’s arm had faded to a dull ache. [[Severe|severe]] checked him and finally stopped frowning. “Much better,” she said, which for her was practically a party.",
+   "zh": "一個安靜的男人把杯子遞到小寶嘴邊。他的手一點都沒抖，一滴都沒灑。「我是 Steady，」他說，「慢慢來，一次喝一口。」到了早上，小寶手臂上的灼燒感已經退成了隱隱的痠痛。Severe 檢查了他，終於不再皺眉。「好多了。」她說——對她來說，這幾乎等於開派對了。"},
+  {"en": "As soon as Bao could sit up, he made a fist. “I’m going to find Venom,” he said. “And I’m going to [[sting]] him back. Twice.”",
+   "zh": "小寶一能坐起來，就握緊了拳頭。「我要去找 Venom，」他說，「然後螫回去。螫兩次。」"},
+  {"en": "A woman walked over and, without a word, lifted Bao high into the air — gently, the way you lift a small child to see over a crowd. From up there, Bao could see the whole hall: the Elder, the letters, the pale boy [[Suffer|suffer]] still sitting by his empty bed. “I am [[Strength|strength]],” said the woman, setting him down. “Here is what I have learned. Strong people don’t push others down. They lift them up.”",
+   "zh": "一位女士走過來，一句話也沒說，就把小寶高高舉起——很輕柔，就像大人把小孩舉高讓他看過人群一樣。從上面，小寶能看見整個大廳：長老、字母們，還有蒼白的男孩 Suffer，仍然坐在他空了的床邊。「我是 Strength，」那位女士說著把他放下來，「這是我學到的事：強者不會把別人壓下去，而是把別人舉起來。」"},
+  {"choice": {
+    "prompt": {"en": "What does Bao say to Strength?", "zh": "小寶對 Strength 說什麼？"},
+    "options": [
+     {"id": "revenge", "label": {"en": "“But Venom hurt me. He deserves it.”", "zh": "「可是 Venom 傷了我，他活該。」"},
+      "en": "“Perhaps,” said Strength. “But if you hurt him back, who protects the Resident Book while you are busy being angry?” Bao opened his mouth, and found he had no answer.",
+      "zh": "「也許吧，」Strength 說，「但如果你忙著生氣、忙著報復，誰來保護居民名冊呢？」小寶張開嘴，發現自己答不出來。"},
+     {"id": "how", "label": {"en": "“Then how do I stop him?”", "zh": "「那我要怎麼阻止他？」"},
+      "en": "“Now that,” said Strength, smiling, “is a question a strong person asks.”",
+      "zh": "「這個嘛，」Strength 笑著說，「才是強者會問的問題。」"}
+    ],
+    "after": {"en": "Either way, they needed to find Venom first. And Venom hid in the dark.", "zh": "不管怎樣，他們得先找到 Venom。而 Venom 躲在黑暗裡。"}
+  }},
+  {"en": "Outside the hall, a girl was climbing a hill. Every time she got near the top, the hill grew a little taller. She kept going anyway, breathing hard. “That’s [[Struggle|struggle]],” said Master Mu. “She has never reached the top. But look how far she has climbed.” Bao looked at his own sore arm, and then at her, and stood up a little straighter.",
+   "zh": "大廳外，一個女孩正在爬一座山坡。每當她快到山頂，山坡就又長高一點。她還是繼續爬，喘得很厲害。「那是 Struggle，」木大人說，「她從來沒爬到過山頂。但你看，她已經爬了多遠。」小寶看看自己痠痛的手臂，再看看她，站得更挺了一點。"},
+  {"en": "Venom’s crack in the floor led down into a forest so dark that even Search’s thousand hands could find nothing. Then two figures arrived, glowing. One was a girl covered in sparkles: [[Shiny|shiny]]. The other was her older brother, whose coat flashed like fireworks: [[Splendid|splendid]].",
+   "zh": "Venom 鑽進去的那道地板裂縫，通往一座暗到連 Search 的千手都什麼也找不到的森林。這時，兩個發著光的身影來了。一個是全身亮晶晶的女孩：Shiny；另一個是她哥哥，外套像煙火一樣閃耀：Splendid。"},
+  {"en": "They stopped when they saw Little Mushroom. Even after a whole night of work, his cap was glowing softly. Splendid frowned. “How is anyone shinier than me?” he muttered. Little Mushroom laughed. “I’m not shinier. I’m just tired in a nice colour.” Shiny giggled. Splendid tried not to, and failed.",
+   "zh": "他們看到小蘑菇時停了下來。就算忙了一整夜，小蘑菇的帽子仍然發著柔和的光。Splendid 皺起眉頭：「怎麼會有人比我還閃亮？」他嘀咕著。小蘑菇笑了：「我沒有比較亮，我只是累得很好看而已。」Shiny 咯咯笑了起來。Splendid 努力忍住，結果失敗了。"},
+  {"en": "Together, the two of them lit up the dark forest like a festival. And there, on a branch, the light caught a thin silver trail — the kind a snake leaves behind. The Elder’s thousand hands began to [[surround|surround]] the forest, gently, from every side.",
+   "zh": "兩人一起把漆黑的森林照得像節慶一樣明亮。就在那裡，一根樹枝上，光映出了一道細細的銀色痕跡——像蛇爬過留下的那種。長老的千手開始從四面八方，輕輕地把森林包圍起來。"},
+  {"en": "“Tomorrow,” said the Elder, “the meeting that was [[suspended|suspend]] will begin again. And this time, everyone will be there.”",
+   "zh": "「明天，」長老說，「被中止的會議會重新開始。而這一次，所有人都會到場。」"}
+ ],
+ "insight": {
+  "en": "Strong people don’t push others down. They lift them up.",
+  "zh": "強者不會把別人壓下去，而是把別人舉起來。",
+  "by": "Strength (an idea from PE’s original manuscript)"
+ },
+ "quote": {
+  "en": "He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city.",
+  "zh": "不輕易發怒的，勝過勇士；治服己心的，強如取城。",
+  "author": "Proverbs 16:32",
+  "source": "King James Bible (1611)",
+  "url": "https://www.gutenberg.org/ebooks/10"
+ },
+ "quiz": [
+  {"q": "It takes a lot of ______ to say sorry first.", "answers": ["strength"], "word": "strength", "explain": "strength 力量（名詞）；strong 是形容詞。strengths and weaknesses（優缺點）。"},
+  {"q": "Hold the ladder ______ while I climb up.", "answers": ["steady"], "word": "steady", "explain": "steady 穩定的、穩固的；這裡當副詞用 hold it steady（拿穩）。"},
+  {"q": "Many students ______ to wake up early on Monday.", "answers": ["struggle"], "word": "struggle", "explain": "struggle to + V：很辛苦地努力做某事；struggle with sth。"},
+  {"q": "She wore a pair of ______ red shoes to the party.", "answers": ["shiny"], "word": "shiny", "explain": "shiny 閃亮的；shine（發光）的形容詞。"},
+  {"q": "We had a ______ view of the mountains from our window.", "answers": ["splendid"], "word": "splendid", "explain": "splendid 壯麗的、極好的，比 good、nice 更強烈。"}
+ ]
+}

@@ -152,6 +152,135 @@
      "kk": "ˋsɪgn!"
     }
    ]
+  },
+  {
+   "day": 4,
+   "level": "A2",
+   "plot": "新字委員會開會：Security 守門、Z 爺爺坐第一排、主席 Look Into；新字 Selfie 通過審核，用 Signature 簽名登入居民名冊",
+   "episode": "d4",
+   "words": [
+    {
+     "word": "security",
+     "level": 3,
+     "pos": "n.",
+     "zh": "安全；保安；證券",
+     "kk": "sɪˋkjʊrətɪ"
+    },
+    {
+     "word": "status",
+     "level": 4,
+     "pos": "n.",
+     "zh": "地位，身分；情形，狀況",
+     "kk": "ˋstetəs"
+    },
+    {
+     "word": "senior",
+     "level": 3,
+     "pos": "adj./n.",
+     "zh": "a.年長的，前輩的；四年級生",
+     "kk": "ˋsinjɚ"
+    },
+    {
+     "word": "signature",
+     "level": 4,
+     "pos": "n./adj.",
+     "zh": "簽名，簽署；(人物)",
+     "kk": "ˋsɪgnətʃɚ"
+    },
+    {
+     "word": "summary",
+     "level": 3,
+     "pos": "n.",
+     "zh": "總結，摘要",
+     "kk": "ˋsʌmərɪ"
+    }
+   ]
+  },
+  {
+   "day": 5,
+   "level": "B2",
+   "plot": "Venom 闖入：小寶探頭探腦被 Sting 螫傷、會議被 Suspend 中止、三個假字被偷偷登記；長老的千手包圍卻讓 Venom 溜走",
+   "episode": "d5",
+   "words": [
+    {
+     "word": "sting",
+     "level": 3,
+     "pos": "n./v.",
+     "zh": "刺，螫，叮",
+     "kk": "stɪŋ"
+    },
+    {
+     "word": "severe",
+     "level": 4,
+     "pos": "adj.",
+     "zh": "a. 嚴重的；劇烈的；嚴厲的",
+     "kk": "səˋvɪr"
+    },
+    {
+     "word": "suffer",
+     "level": 3,
+     "pos": "v.",
+     "zh": "遭受  vi.受苦；患病",
+     "kk": "ˋsʌfɚ"
+    },
+    {
+     "word": "surround",
+     "level": 3,
+     "pos": "v.",
+     "zh": "圍繞；包圍",
+     "kk": "səˋraʊnd"
+    },
+    {
+     "word": "suspend",
+     "level": 5,
+     "pos": "v.",
+     "zh": "懸掛；使…中止",
+     "kk": "sə`spɛnd"
+    }
+   ]
+  },
+  {
+   "day": 6,
+   "level": "B1",
+   "plot": "小蘑菇解毒（蘑菇最懂毒）；小寶想報仇，Strength 說「強者把人舉起來」；Shiny 和 Splendid 照亮黑森林找到 Venom 的蹤跡",
+   "episode": "d6",
+   "words": [
+    {
+     "word": "strength",
+     "level": 3,
+     "pos": "n.",
+     "zh": "力，力量",
+     "kk": "strɛŋθ"
+    },
+    {
+     "word": "steady",
+     "level": 3,
+     "pos": "adj./v./adv./n.",
+     "zh": "a.穩固的，平穩的",
+     "kk": "ˋstɛdɪ"
+    },
+    {
+     "word": "struggle",
+     "level": 4,
+     "pos": "v./n.",
+     "zh": "掙扎；努力奮鬥",
+     "kk": "ˋstrʌg!"
+    },
+    {
+     "word": "shiny",
+     "level": 3,
+     "pos": "adj.",
+     "zh": "a.發光的；晴朗的；擦亮的",
+     "kk": "ˋʃaɪnɪ"
+    },
+    {
+     "word": "splendid",
+     "level": 4,
+     "pos": "adj.",
+     "zh": "a.有光彩的；燦爛的；極",
+     "kk": "ˋsplɛndɪd"
+    }
+   ]
   }
  ],
  "lab": [
@@ -182,5 +311,12 @@
    },
    "basis": "Kruger 等人（2005）研究：寫信的人高估了自己的語氣能被讀懂"
   }
- ]
+ ],
+ "big_story": {
+  "day": 7,
+  "level": "B2",
+  "episode": "d7",
+  "plot": "會議恢復：假字被字首先生抓出、Venom 說出被拒於門外的往事並獲得試用身分；小寶的書讓 Sooth 重新登記成居民；A 家族來信",
+  "new_words": []
+ }
 }

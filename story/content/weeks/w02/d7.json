@@ -1,0 +1,78 @@
+{
+ "id": "w02-d7",
+ "week": "w02",
+ "day": 7,
+ "level": "B2",
+ "big": true,
+ "title": {"en": "The Name in the Book", "zh": "名冊上的名字"},
+ "words": [],
+ "review": ["scholar", "superior", "sympathy", "sensible", "stubborn", "shelter", "suspicious", "sorrow", "sigh", "scatter", "sophisticated", "subtle", "scold", "swear", "signal", "security", "status", "senior", "signature", "summary", "sting", "severe", "suffer", "surround", "suspend", "strength", "steady", "struggle", "shiny", "splendid"],
+ "blocks": [
+  {"en": "The Hall of New Words had never been so full. [[Security|security]] stood at the door with two extra guards, checking every badge twice. [[Signal|signal]] had flown her flags from every tower: ALL RESIDENTS — MEETING RESUMES — NOON. And at noon exactly, the man who had hung in the air the day before drifted down to the floor. [[Suspend|suspend]] bowed. The meeting was no longer on hold.",
+   "zh": "新字大廳從來沒有這麼擠過。Security 帶著兩位加派的保全站在門口，每一枚徽章都檢查兩次。Signal 在每一座塔上掛滿了旗子：全體居民——會議恢復——中午。中午一到，前一天懸在半空中的那個男人飄落到地上。Suspend 鞠了個躬。會議不再暫停了。"},
+  {"en": "Chairman Look Into rose. “First,” he said, “we look into the fake words.” [[Status|status]] laid three cards on the table, each one signed in golden ink. To most eyes, they looked perfectly real.",
+   "zh": "主席 Look Into 站了起來。「首先，」他說，「我們來調查那些假字。」Status 把三張卡片放在桌上，每一張都用金色墨水簽了名。在大多數人眼裡，它們看起來完全是真的。"},
+  {"en": "Not to Prefix. He pushed his thick glasses up his nose and frowned at the first card. “‘Misfriend’,” he read. “The prefix mis- means ‘wrongly’. To misread is to read wrongly. To misfriend would be to friend wrongly — which is not a thing. Fake.” He flicked the second card. “‘Unhate’? Fake. Nobody has ever needed it.”",
+   "zh": "但字首先生不這麼認為。他把粗框眼鏡往鼻樑上推，皺眉看著第一張卡。「Misfriend，」他念道，「字首 mis- 的意思是『錯誤地』。misread 是讀錯，那 misfriend 就是『錯誤地交朋友』——根本沒有這回事。假的。」他彈了彈第二張卡。「Unhate？假的，從來沒有人需要過這個字。」"},
+  {"en": "[[Scholar|scholar]], reading three books at once, confirmed it: none of the three words appeared in any book she had ever read. And [[Subtle|subtle]], who noticed what others missed, pointed to the golden ink. “Look closely,” she said softly. “The real [[signature|signature]]s are smooth. These ones shake.”",
+   "zh": "同時讀著三本書的 Scholar 確認了：這三個字沒有出現在她讀過的任何一本書裡。而能察覺別人忽略之處的 Subtle 指著金色墨水。「仔細看，」她輕聲說，「真正的簽名很平順，這幾個在發抖。」"},
+  {"en": "[[Sophisticated|sophisticated]] crossed the three words out of the Resident Book with a single elegant line. “Recorded,” he said. Everyone let out a [[sigh]] of relief, and outside, the leaves danced.",
+   "zh": "Sophisticated 用一條優雅的線，把那三個字從居民名冊上劃掉。「已記錄。」他說。大家都鬆了一口氣，窗外的葉子跳起舞來。"},
+  {"en": "Then the doors opened, and the hall went silent. Venom walked in — not by choice. He was [[surround|surround]]ed on every side by a ring of the Elder’s hands, and lit up so brightly by [[Shiny|shiny]] and [[Splendid|splendid]] that there was not a single shadow left for him to hide in. Behind him, looking miserable, came [[Sting|sting]].",
+   "zh": "接著大門打開，大廳一片寂靜。Venom 走了進來——不是自願的。他四面八方都被長老的手圍成的圓包圍著，Shiny 和 Splendid 把他照得通亮，讓他連一點可以躲藏的影子都沒有。在他身後，一臉悲慘地跟著的是 Sting。"},
+  {"en": "“Throw him out!” cried [[Superior|superior]], climbing onto his tallest box yet. “Our kind is far superior to his kind!” A few voices agreed. Grandpa Z, the most [[senior]] member of the committee, raised his hand for silence. “When I was young,” he said slowly, “I heard many people say that about many others. It was almost never true.”",
+   "zh": "「把他趕出去！」Superior 大喊，爬上了他到目前為止最高的一個箱子，「我們這種人比他那種人優越多了！」有幾個聲音附和。委員會裡資歷最深的 Z 爺爺舉手要大家安靜。「我年輕的時候，」他慢慢地說，「聽過很多人這樣說別人。幾乎沒有一次是真的。」"},
+  {"en": "[[Sympathy|sympathy]] stepped forward and looked at Venom for a long moment. “Why did you do it?” she asked. “Why steal a pen?”",
+   "zh": "Sympathy 走上前，看著 Venom 很久。「你為什麼這樣做？」她問，「為什麼要偷一支筆？」"},
+  {"en": "Venom’s sweet smile flickered and went out. Without it, he looked surprisingly young. “Long ago, I asked to be a resident,” he said. “They took one look at me and said no. Too dangerous. I never got a card. I never got a [[status]]. So I thought — if I can’t have a real name in the book, I’ll make some fake ones. At least then the book would have something of mine in it.”",
+   "zh": "Venom 甜甜的笑容閃了一下，熄滅了。沒有了那個笑容，他看起來年輕得令人驚訝。「很久以前，我申請過成為居民，」他說，「他們看了我一眼就說不行，太危險了。我從來沒拿到卡片，從來沒有身分。所以我想——如果我不能在名冊上有一個真名字，那我就造幾個假的。至少這樣，名冊上會有一點屬於我的東西。」"},
+  {"en": "Nobody spoke. Somewhere, [[Sorrow|sorrow]] sat down quietly in an empty seat. Bao felt the old ache in his arm. He remembered the cup that [[Steady|steady]] had held for him, and Strength lifting him up so he could see the whole room. Then he did something nobody expected.",
+   "zh": "沒有人說話。不知在哪裡，Sorrow 靜靜地在一個空位上坐下。小寶感覺到手臂上那股舊舊的痠痛。他想起 Steady 為他端著的那杯藥，想起 Strength 把他舉高、讓他看見整個房間。接著，他做了一件誰都沒想到的事。"},
+  {"choice": {
+    "prompt": {"en": "Bao stands up. What does he say?", "zh": "小寶站了起來。他說了什麼？"},
+    "options": [
+     {"id": "chance", "label": {"en": "“Give him a chance — with rules.”", "zh": "「給他一次機會——但要有規則。」"},
+      "en": "“He hurt me,” Bao said. “That’s true. But we kept him outside, and he got worse out there. Maybe he can be a resident on trial — with Security watching, and no pens.” Venom stared at him as if he were speaking a language he had never heard.",
+      "zh": "「他傷了我，」小寶說，「這是真的。但我們把他擋在外面，他在外面只會變得更糟。也許他可以當試用期的居民——由 Security 看著，而且不准碰筆。」Venom 盯著他，好像他說的是一種從來沒聽過的語言。"},
+     {"id": "ask-mushroom", "label": {"en": "“Little Mushroom, is poison always bad?”", "zh": "「小蘑菇，毒一定是壞的嗎？」"},
+      "en": "Little Mushroom grinned, as if he had been waiting all week for someone to ask. “Not always. In small amounts, poison can be medicine. In the human world, some medicines were first discovered by studying snake venom. It depends on who is holding the cup.”",
+      "zh": "小蘑菇咧嘴一笑，好像整個星期都在等有人這樣問。「不一定。少量的毒可以是藥。在人類世界，有些藥物最早就是從研究蛇毒發現的。關鍵在於，是誰拿著那個杯子。」"}
+    ],
+    "after": {"en": "The Chairman looked around the circle. “Shall we vote?”", "zh": "主席環顧一圈座位。「我們來投票吧？」"}
+  }},
+  {"en": "[[Stubborn|stubborn]] voted no, of course. [[Suspicious|suspicious]] voted no and then checked everyone’s pockets. But [[Sensible|sensible]] voted yes, pointing out that a guard can watch one resident far more easily than a whole dark forest. And when the votes were counted, Venom had a new card: RESIDENT — ON TRIAL. Sting, freed from his orders, chose to stay beside him anyway. “Someone should keep an eye on him,” Sting said. “And someone should keep him company.”",
+   "zh": "Stubborn 當然投反對票。Suspicious 也投反對，然後又去檢查每個人的口袋。但 Sensible 投贊成，他指出：保全看住一位居民，比看住一整座黑森林容易太多了。票數算完，Venom 拿到了一張新卡：居民——試用中。不再聽命於任何人的 Sting，還是選擇留在他身邊。「總得有人看著他，」Sting 說，「也總得有人陪著他。」"},
+  {"en": "Then the Chairman cleared his throat. “One more item. A guest has submitted something.” Bao’s face turned red as Sophisticated held up his notebook — the chapter he had written about Sooth. “The rules say,” the Chairman continued, “that a word lives when people use it. This book has been read by every resident in this hall. I would call that use.”",
+   "zh": "主席清了清喉嚨。「還有一個議題。一位客人提交了一份東西。」Sophisticated 舉起小寶的筆記本——他寫 Sooth 的那一章——小寶的臉一下子紅了。「規則說，」主席繼續，「有人使用，字才會活著。這本書，大廳裡每一位居民都讀過了。我認為這就算是使用。」"},
+  {"en": "The golden pen flew down from the ceiling and wrote, steadily and clearly, in the Resident Book: SOOTH. Sooth, who had been hiding under a leaf [[shelter|shelter]] at the back, stood up. His letters, which had been pale for years, grew darker and darker until they were as clear as anyone’s. [[Scatter|scatter]], who usually burst into pieces at loud noises, cheered so hard she almost did — and stayed whole.",
+   "zh": "金筆從天花板飛下來，在居民名冊上穩穩地、清清楚楚地寫下：SOOTH。一直躲在後排落葉小屋底下的 Sooth 站了起來。他那褪色了好多年的字母，越來越深、越來越深，直到跟任何人一樣清楚。平常一聽到大聲就會碎掉的 Scatter，用力歡呼到差點碎掉——結果沒有散開。"},
+  {"en": "Sarcastic, at the back, said, “Oh, wonderful.” And this time Bao could hear it in his voice: he meant it. [[Scold|scold]] blew her whistle at Scamp for climbing the pillars to see better, and then let him stay up there. [[Swear|swear]], in his white hat, swore in the new residents. [[Struggle|struggle]], who had climbed all night, finally sat down to rest — not at the top of her hill, but high enough to see everything. And [[Severe|severe]], watching Bao laugh, declared him fully recovered, which made [[Suffer|suffer]] smile for the first time all week.",
+   "zh": "後排的 Sarcastic 說：「喔，真是太好了。」這一次小寶從他的語氣聽得出來：他是真心的。Scold 對爬到柱子上看熱鬧的 Scamp 吹哨子，然後還是讓他待在上面。戴著白帽子的 Swear 主持新居民的宣誓。爬了一整夜的 Struggle 終於坐下來休息——不在山頂，但已經高到可以看見一切。而 Severe 看著小寶大笑，宣布他完全康復，讓 Suffer 露出這星期第一個微笑。"},
+  {"en": "When it was over, a man folded the whole week into one small piece of paper and handed it to Bao. It was [[Summary|summary]]. It said: Three fake words removed. One poisoner given a second chance. One fading word saved by a book. One guest who learned that being strong is not the same as hitting back.",
+   "zh": "會議結束後，一個男人把整個星期摺成一張小紙條，遞給小寶。那是 Summary。上面寫著：移除三個假字。一個下毒者得到第二次機會。一個快消失的字被一本書救回來。一位客人學到：強大不等於反擊。"},
+  {"en": "Elder Search took off his black-rimmed glasses and cleaned them. “You know what [[Strength|strength]] told you,” he said. “Strong people lift others up. Today you lifted two — one you loved, and one who hurt you. The second is harder.”",
+   "zh": "Search 長老摘下黑框眼鏡擦了擦。「你知道 Strength 跟你說過什麼，」他說，「強者會把別人舉起來。今天你舉起了兩個——一個是你喜歡的，一個是傷害過你的。第二個比較難。」"},
+  {"en": "That evening, as they packed to leave the S family’s land, a messenger arrived — a very grand young man in a gold-trimmed coat, who paused at the door as if waiting for applause. When none came, he cleared his throat and clapped for himself. “The A family,” he announced, “requests the pleasure of your company.”",
+   "zh": "那天傍晚，他們收拾行李準備離開 S 家族的地盤時，來了一位信差——一位穿著金邊外套、非常氣派的年輕人。他在門口停了一下，好像在等大家鼓掌。沒人鼓掌，他清清喉嚨，自己給自己拍了拍手。「A 家族，」他宣布，「誠摯邀請各位光臨。」"}
+ ],
+ "insight": {
+  "en": "Strong people lift others up. Lifting someone who hurt you is the hardest — and the strongest.",
+  "zh": "強者會把別人舉起來。舉起一個傷害過你的人，最難——也最強大。",
+  "by": "Elder Search"
+ },
+ "quote": {
+  "en": "He who overcomes others is strong; he who overcomes himself is mighty.",
+  "zh": "勝人者有力，自勝者強。",
+  "author": "Laozi",
+  "source": "Tao Te Ching, Chapter 33, tr. James Legge",
+  "url": "https://www.gutenberg.org/ebooks/216"
+ },
+ "quiz": [
+  {"q": "The ______ guard asked to see our tickets.", "answers": ["security"], "word": "security", "explain": "security guard 保全。"},
+  {"q": "It was a ______ difference, but she noticed it immediately.", "answers": ["subtle"], "word": "subtle", "explain": "subtle 細微的；b 不發音。"},
+  {"q": "He is ______ to everyone in his class, or at least he thinks so.", "answers": ["superior"], "word": "superior", "explain": "superior to sb；不說 superior than。"},
+  {"q": "The tennis match was ______ because of lightning.", "answers": ["suspended"], "word": "suspend", "explain": "suspend 暫停、中止。"},
+  {"q": "She felt great ______ when her old dog died.", "answers": ["sorrow"], "word": "sorrow", "explain": "sorrow 深沉的悲傷。"},
+  {"q": "Please put your ______ here to show you agree.", "answers": ["signature"], "word": "signature", "explain": "signature 簽名（名詞）；sign 是動詞。"}
+ ]
+}

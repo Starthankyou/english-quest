@@ -1,0 +1,152 @@
+{
+ "id": "w02-d5",
+ "week": "w02",
+ "day": 5,
+ "level": "B2",
+ "title": {
+  "en": "The Uninvited Guest",
+  "zh": "不速之客"
+ },
+ "words": [
+  "sting",
+  "severe",
+  "suffer",
+  "surround",
+  "suspend"
+ ],
+ "review": [
+  "security",
+  "status",
+  "senior",
+  "signature",
+  "summary"
+ ],
+ "blocks": [
+  {
+   "en": "Bao should have shouted for [[Security|security]]. Instead, being Bao, he wanted a closer look. Even Grandpa Z, the most [[senior]] member, was busy reading the [[summary]]. He tiptoed towards the Resident Book, peering around a pillar, telling himself he was only gathering information. That, Little Mushroom would later say, is exactly what every curious person tells himself right before something goes wrong.",
+   "zh": "小寶應該大喊叫 Security 的。可是小寶就是小寶，他想湊近一點看。就連資歷最深的 Z 爺爺都在忙著讀會議摘要。他踮著腳走向居民名冊，從柱子後面探頭探腦，告訴自己只是在蒐集情報。小蘑菇後來說，每個好奇的人在出事之前，都是這樣告訴自己的。"
+  },
+  {
+   "en": "The shadow by the book turned around. It had the sweetest smile Bao had ever seen, and eyes that did not smile at all. “Hello, little guest,” it said. “Would you help me? I only want to borrow the pen for a moment.” Beside it stood a thin figure whose fingers were as fine as needles.",
+   "zh": "名冊旁的影子轉過身來。它有著小寶見過最甜的微笑，眼睛卻完全沒有在笑。「你好啊，小客人，」它說，「可以幫我個忙嗎？我只是想借那支筆一下。」它身旁站著一個瘦瘦的身影，手指細得像針。"
+  },
+  {
+   "en": "Before Bao could answer, one needle-thin finger brushed his arm. A sharp, burning pain shot from his wrist to his shoulder. “Sorry,” whispered the thin figure, and he did look sorry. “I’m [[Sting|sting]]. I only do what my name says. But he” — Sting glanced at the smiling shadow — “decides where I go.”",
+   "zh": "小寶還來不及回答，一根細如針的手指就擦過了他的手臂。一陣尖銳、灼熱的痛從手腕竄到肩膀。「對不起，」那個瘦小的身影小聲說，他看起來真的很抱歉，「我是 Sting。我只是做我名字說的事。但是他——」Sting 瞄了那個微笑的影子一眼，「決定我去哪裡。」"
+  },
+  {
+   "en": "The smiling shadow was [[Venom|venom]]. And while Bao stumbled backwards, Venom seized the golden pen and began writing names into the Resident Book — names that belonged to no one. Fake words, with fake signatures.",
+   "zh": "那個微笑的影子就是 Venom。趁小寶踉蹌後退的時候，Venom 抓起那支金筆，開始在居民名冊上寫名字——不屬於任何人的名字。假字，配上假簽名。"
+  },
+  {
+   "en": "Then the hall went quiet. A man was floating high above the circle of seats, hanging in the air as if from an invisible thread. Wherever he hovered, everything below him froze in place. “[[Suspend|suspend]],” Master Mu murmured. “Two meanings, one man. He hangs in the air — and while he does, the meeting is stopped.” The Chairman’s voice rang out: “This meeting is suspended! Any word added from this moment is fake!”",
+   "zh": "接著，大廳安靜了下來。一個男人飄在座位圓圈的高處，像是被一條看不見的線吊在半空中。他飄到哪裡，下方的一切就停在原地。「Suspend，」木大人低聲說，「兩個意思，一個人。他懸掛在空中——而他懸著的時候，會議就暫停了。」主席的聲音響起：「本次會議中止！從現在起加入的任何字，都是假的！」"
+  },
+  {
+   "choice": {
+    "prompt": {
+     "en": "Venom is trying to escape with the pen. What happens next?",
+     "zh": "Venom 想帶著筆逃走。接下來呢？"
+    },
+    "options": [
+     {
+      "id": "chase",
+      "label": {
+       "en": "Bao tries to chase Venom",
+       "zh": "小寶想去追 Venom"
+      },
+      "en": "Bao took two steps, and his legs gave way. The pain in his arm had spread to his chest. He could only watch.",
+      "zh": "小寶才走了兩步，腿就軟了。手臂上的痛已經蔓延到胸口。他只能眼睜睜看著。"
+     },
+     {
+      "id": "call",
+      "label": {
+       "en": "Bao calls for the Elder",
+       "zh": "小寶大喊長老"
+      },
+      "en": "“Elder!” Bao shouted, which was the most sensible thing he had done all morning. It was also the last thing he managed before the pain made him sit down.",
+      "zh": "「長老！」小寶大喊——這是他整個早上做過最明智的一件事，也是他被痛到坐下之前，最後能做的事。"
+     }
+    ],
+    "after": {
+     "en": "The Elder was already moving.",
+     "zh": "長老早已經行動了。"
+    }
+   }
+  },
+  {
+   "en": "Elder Search raised one hand, and it became a thousand hands. They spread out in a perfect ring until Venom was enclosed on every side. “[[Surround|surround]] him,” the Elder said quietly, and the ring of hands — which was itself a resident named Surround — closed in. Venom dropped the golden pen. But just as the circle tightened, he slipped through a crack in the floor and was gone.",
+   "zh": "Search 長老舉起一隻手，那隻手變成了千手。它們向外展開，圍成一個完美的圓，把 Venom 四面八方都包住了。「包圍他。」長老輕聲說，而那個由手圍成的圓——它本身就是一位叫 Surround 的居民——開始收緊。Venom 丟下了金筆。但就在圓圈收緊的那一刻，他從地板的一道裂縫溜走了。"
+  },
+  {
+   "en": "Bao’s face had turned the colour of old paper. A grey-haired nurse with a stern expression knelt beside him, took one look at his arm and frowned deeply. “[[Severe|severe]],” she said — not as a description, but as a name and a diagnosis at once. “This is not a small sting. This is serious.”",
+   "zh": "小寶的臉色變得像舊紙一樣。一位表情嚴肅的灰髮護理長在他身邊跪下，看了他的手臂一眼，眉頭深深皺起。「Severe，」她說——這既是她的名字，也是她的診斷，「這不是小小的螫傷，這很嚴重。」"
+  },
+  {
+   "en": "A pale boy came and sat quietly at Bao’s other side, holding his hand. Wherever someone was in pain, this boy appeared. “I’m [[Suffer|suffer]],” he said. “I won’t make it go away. But you don’t have to suffer alone.”",
+   "zh": "一個蒼白的男孩走過來，安靜地坐在小寶另一邊，握住他的手。只要有人在痛，這個男孩就會出現。「我是 Suffer，」他說，「我沒辦法讓痛消失，但你不必一個人受苦。」"
+  },
+  {
+   "en": "[[Status|status]] hurried over with her stack of cards. Three new cards had appeared during the chaos: three fake words, signed with stolen [[signature|signature]]s. And the Chairman’s own card now read: LOGIN STOLEN.",
+   "zh": "Status 抱著她那疊卡片匆匆跑來。混亂中多出了三張新卡：三個假字，用偷來的簽名登記的。而主席自己的卡上，現在寫著：登入已被盜用。"
+  },
+  {
+   "en": "Little Mushroom bent over Bao, unusually serious. “Poison,” he said. “Well. I’m a mushroom. If anyone in English World knows about poison, it’s me.”",
+   "zh": "小蘑菇彎下腰看著小寶，難得這麼嚴肅。「毒啊，」他說，「嗯。我是蘑菇。如果英語世界裡有誰懂毒，那就是我了。」"
+  }
+ ],
+ "insight": {
+  "en": "Danger rarely arrives looking dangerous. It usually arrives with a sweet smile, asking for something small.",
+  "zh": "危險很少看起來就像危險。它通常帶著甜甜的微笑來，只跟你要一點小東西。",
+  "by": "Master Mu"
+ },
+ "quote": {
+  "en": "Who steals my purse steals trash; … / But he that filches from me my good name / Robs me of that which not enriches him, / And makes me poor indeed.",
+  "zh": "偷走我錢包的人，偷的是垃圾……但偷走我好名聲的人，奪走的東西對他毫無用處，卻讓我真正變得貧窮。",
+  "author": "William Shakespeare (spoken by Iago, the play’s villain)",
+  "source": "Othello, Act 3, Scene 3",
+  "url": "https://en.wikiquote.org/wiki/Othello"
+ },
+ "quiz": [
+  {
+   "q": "A bee ______ me on the hand, and it still hurts.",
+   "answers": [
+    "stung"
+   ],
+   "word": "sting",
+   "explain": "sting 螫、刺痛；三態 sting–stung–stung。"
+  },
+  {
+   "q": "The storm caused ______ damage to the old bridge.",
+   "answers": [
+    "severe"
+   ],
+   "word": "severe",
+   "explain": "severe 嚴重的：severe damage／pain／weather。"
+  },
+  {
+   "q": "My grandmother ______ from back pain every winter.",
+   "answers": [
+    "suffers"
+   ],
+   "word": "suffer",
+   "explain": "suffer from + 病痛：長期受某病痛所苦。主詞第三人稱單數加 s。"
+  },
+  {
+   "q": "The house is ______ by tall trees.",
+   "answers": [
+    "surrounded"
+   ],
+   "word": "surround",
+   "explain": "be surrounded by／with：被……圍繞。名詞 surroundings 是「環境」。"
+  },
+  {
+   "q": "The game was ______ because of the heavy rain.",
+   "answers": [
+    "suspended"
+   ],
+   "word": "suspend",
+   "explain": "suspend 暫停、中止；也有「懸掛」的意思。名詞 suspension。"
+  }
+ ]
+}

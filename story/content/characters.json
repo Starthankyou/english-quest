@@ -459,6 +459,156 @@
    "look": "全身插滿小旗子的燈塔女孩",
    "trait": "不用說話也能傳訊息；手稿說字都有能量",
    "usage": "a signal of／to V；也可當動詞：signal sb to V"
+  },
+  "look into": {
+   "badge": "verb",
+   "first": "w02-d4",
+   "look": "新字委員會主席，全場唯一長得像片語的人：兩個字手牽手",
+   "trait": "主席輪流當，這次輪到他；什麼事都說「我們會調查」",
+   "usage": "look into sth = investigate（片語動詞，兩個字一起才是一個意思）",
+   "zh": "調查；研究",
+   "kk": "lʊk ˋɪntu"
+  },
+  "omniscient": {
+   "badge": "adjective",
+   "first": "w02-d4",
+   "look": "戴金色徽章的委員會初代會長",
+   "trait": "什麼都知道——奇怪的是，就是不知道今天發生了什麼",
+   "usage": "omniscient narrator（全知觀點的敘事者）",
+   "zh": "無所不知的",
+   "kk": "ɑmˋnɪʃənt"
+  },
+  "prefix": {
+   "badge": "noun",
+   "first": "w02-d4",
+   "look": "戴粗框眼鏡、非常規矩的字首先生",
+   "trait": "社團管理人：加了字首的新字，都要經過他審核",
+   "usage": "un-、re-、mis- 都是 prefix；字尾叫 suffix",
+   "zh": "字首",
+   "kk": "ˋpriˌfɪks"
+  },
+  "venom": {
+   "badge": "noun",
+   "first": "w02-d5",
+   "look": "笑起來很甜、一碰就有毒的闖入者",
+   "trait": "專挑別人不注意時下手；想偷登入、塞假字",
+   "usage": "snake venom；比喻惡毒的話：words full of venom",
+   "zh": "毒液；惡意",
+   "kk": "ˋvɛnəm"
+  },
+  "selfie": {
+   "badge": "noun",
+   "first": "w02-d4",
+   "look": "拿著手機、永遠在找最佳角度的年輕新字",
+   "trait": "2013 年才被字典收錄的新居民；字尾 -ie 讓他要通過字首先生的審核",
+   "usage": "take a selfie",
+   "zh": "自拍照",
+   "kk": "ˋsɛlfi"
+  },
+  "security": {
+   "badge": "noun",
+   "first": "w02-d4",
+   "look": "站在會議廳門口、高大又冷靜的保全",
+   "trait": "檢查每個人的徽章；手稿說 S 家族有保全、安全、尋找",
+   "usage": "security guard；online security；形容詞 secure"
+  },
+  "status": {
+   "badge": "noun",
+   "first": "w02-d4",
+   "look": "手上拿著一大疊身分卡的櫃台小姐",
+   "trait": "知道每個居民的身分和狀態：正式居民、候補、快消失",
+   "usage": "social status；the status of sth（狀況）"
+  },
+  "senior": {
+   "badge": "adjective",
+   "first": "w02-d4",
+   "look": "坐在第一排的 Z 爺爺（手稿裡因為喜歡小蘑菇而自己現身的那位）",
+   "trait": "年紀最大、資歷最深",
+   "usage": "senior TO sb；senior high school；反義 junior"
+  },
+  "signature": {
+   "badge": "noun",
+   "first": "w02-d4",
+   "look": "一支會自己寫字的金色羽毛筆",
+   "trait": "每個新字都要用它簽名登入居民庫，才不會被盜用",
+   "usage": "sign（動詞）→ signature（名詞）；注意 sign 的 g 不發音，signature 的 g 要發音"
+  },
+  "summary": {
+   "badge": "noun",
+   "first": "w02-d4",
+   "look": "把三小時的會議摺成一張小紙條的人",
+   "trait": "只留最重要的部分",
+   "usage": "in summary；動詞 summarize"
+  },
+  "sting": {
+   "badge": "verb",
+   "first": "w02-d5",
+   "look": "手指細得像針的瘦小傢伙，被 Venom 利用",
+   "trait": "本身不壞，只是做他名字說的事；被他碰到會刺痛",
+   "usage": "a bee sting；sting–stung–stung"
+  },
+  "severe": {
+   "badge": "adjective",
+   "first": "w02-d5",
+   "look": "灰髮、嚴肅的護理長",
+   "trait": "一眼就能判斷事情有多嚴重",
+   "usage": "severe pain／weather／punishment"
+  },
+  "suffer": {
+   "badge": "verb",
+   "first": "w02-d5",
+   "look": "總是替別人承擔痛苦的蒼白男孩",
+   "trait": "哪裡有人難受，他就會出現在旁邊",
+   "usage": "suffer from + 病痛；suffer a loss"
+  },
+  "surround": {
+   "badge": "verb",
+   "first": "w02-d5",
+   "look": "Search 長老的千手圍成的一個圓",
+   "trait": "把要保護或要抓的東西團團圍住",
+   "usage": "be surrounded by／with；名詞 surroundings（環境）"
+  },
+  "suspend": {
+   "badge": "verb",
+   "first": "w02-d5",
+   "look": "永遠懸在半空中的男人",
+   "trait": "他飄到哪個會議上方，那個會議就暫停；suspend 也有「懸掛」的意思",
+   "usage": "suspend a meeting／a student；名詞 suspension"
+  },
+  "strength": {
+   "badge": "noun",
+   "first": "w02-d6",
+   "look": "把別人舉起來、而不是壓下去的女士",
+   "trait": "她說：強者不是把人壓低，而是把人舉起",
+   "usage": "strong（形容詞）→ strength（名詞）；strengths and weaknesses"
+  },
+  "steady": {
+   "badge": "adjective",
+   "first": "w02-d6",
+   "look": "手從來不會抖的安靜男人",
+   "trait": "端著湯也一滴都不灑；穩定、不慌",
+   "usage": "steady progress；a steady hand"
+  },
+  "struggle": {
+   "badge": "verb",
+   "first": "w02-d6",
+   "look": "在一座越爬越高的山坡上往上爬的女孩",
+   "trait": "很辛苦，但一直在努力",
+   "usage": "struggle to + V；struggle with sth"
+  },
+  "shiny": {
+   "badge": "adjective",
+   "first": "w02-d6",
+   "look": "全身亮晶晶的 S 家族女孩",
+   "trait": "手稿說：S 家族會被閃亮的東西吸引",
+   "usage": "shiny shoes／hair；shine（動詞）"
+  },
+  "splendid": {
+   "badge": "adjective",
+   "first": "w02-d6",
+   "look": "Shiny 的哥哥，穿著像煙火一樣燦爛的外套",
+   "trait": "看到比自己還亮的小蘑菇，會忍不住想「怎麼有人比我閃亮」",
+   "usage": "a splendid view／idea；比 good 更強烈"
   }
  }
 }
