@@ -1,0 +1,457 @@
+{
+ "id": "tell-tale-heart",
+ "category": "文學",
+ "title": "Can You Trust the Person Telling the Story?",
+ "subtitle": "你能相信說故事的人嗎？愛倫坡〈告密的心〉與不可靠的敘事者",
+ "source": "原創導讀；小說原文依 Project Gutenberg《The Works of Edgar Allan Poe, Volume 2》（公版），背景依 Wikipedia〈The Tell-Tale Heart〉，2026-10-22 核對",
+ "sources": [
+  {
+   "title": "Edgar Allan Poe, The Works of Edgar Allan Poe, Volume 2, Project Gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/2148",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Wikipedia: The Tell-Tale Heart",
+   "url": "https://en.wikipedia.org/wiki/The_Tell-Tale_Heart",
+   "accessed": "2026-10-22"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "“I Am Not Mad!”",
+   "paras": [
+    [
+     "“True! — nervous — very, very dreadfully nervous I had been and am; but why will you say that I am mad?” This is how Edgar Allan Poe’s famous short story “The Tell-Tale Heart” begins. It was first published in 1843. From the first line, the speaker is trying to make us believe him. (Poe never says if the speaker is a man or a woman, but many readers say “he”.)",
+     "「沒錯！——緊張——我以前非常、非常可怕地緊張，現在也是；但你為什麼要說我瘋了？」這是愛倫坡的著名短篇小說〈告密的心〉的開頭。它在 1843 年首次發表。從第一句話開始，說話的人就在努力讓我們相信他。（愛倫坡從沒說過說話者是男是女，不過許多讀者會用「他」來稱呼。）"
+    ],
+    [
+     "The speaker lives with an old man. He says he loves the old man, who has never done anything wrong to him. But the old man has a strange pale blue eye, like the eye of a vulture. The speaker cannot stand this eye, so he decides to kill the old man.",
+     "說話者和一位老人住在一起。他說他愛這位老人，老人也從沒對他做過任何壞事。但老人有一隻奇怪的淡藍色眼睛，像禿鷹的眼睛。說話者受不了這隻眼睛，於是決定殺死老人。"
+    ],
+    [
+     "He says a madman could never plan so carefully. For seven nights, he opens the old man’s door very slowly at midnight. On the eighth night, he kills him and hides the body under the floor. When the police come, he is calm and friendly.",
+     "他說，瘋子絕不可能計畫得這麼周密。連續七個晚上，他在午夜時分慢慢地打開老人的房門。第八個晚上，他殺了老人，把屍體藏在地板下。警察來的時候，他表現得冷靜又友善。"
+    ],
+    [
+     "But then he starts to hear a sound: a low, dull beating, like a heart. It gets louder and louder. The police do not seem to hear it. Finally, he screams, “I admit the deed! — tear up the planks! — here, here! — It is the beating of his hideous heart!”",
+     "但接著他開始聽到一個聲音：低沉、模糊的跳動聲，像是心跳。聲音越來越大，警察卻好像沒聽到。最後，他尖叫：「我承認是我幹的！——把地板撬開！——這裡，這裡！——是他那可怕的心臟在跳！」"
+    ],
+    [
+     "Was the heart really beating? Probably not. The story is told by an “unreliable narrator” — a storyteller we cannot fully trust. The more he says he is not mad, the more we doubt him. Poe teaches us to listen carefully to how people tell their stories.",
+     "那顆心臟真的在跳嗎？大概沒有。這個故事是由一位「不可靠的敘事者」講述的——一個我們無法完全信任的說故事者。他越說自己沒瘋，我們就越懷疑他。愛倫坡教我們仔細聆聽別人是怎麼講述自己的故事的。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "Can You Trust the Person Telling the Story?",
+   "paras": [
+    [
+     "“True! — nervous — very, very dreadfully nervous I had been and am; but why will you say that I am mad?” With this breathless opening, Edgar Allan Poe’s “The Tell-Tale Heart”, first published in January 1843, pulls the reader into the mind of its narrator. The speaker insists that a mysterious disease has sharpened his senses, especially his hearing, rather than destroyed them. Interestingly, Poe never reveals whether the narrator is a man or a woman, although readers usually say “he”.",
+     "「沒錯！——緊張——我以前非常、非常可怕地緊張，現在也是；但你為什麼要說我瘋了？」愛倫坡的〈告密的心〉在 1843 年 1 月首次發表，它用這段令人喘不過氣的開頭，把讀者拉進敘事者的內心。說話者堅稱，一種神祕的疾病讓他的感官，尤其是聽覺，變得更敏銳，而不是遭到破壞。有趣的是，愛倫坡從未透露敘事者是男是女，不過讀者通常用「他」來稱呼。"
+    ],
+    [
+     "What follows is a confession that constantly undermines itself. The narrator admits he had no reason to harm the old man he lives with: “I loved the old man. He had never wronged me.” He did not want his gold. Yet he became obsessed with the old man’s pale blue “vulture” eye and decided to kill him to be rid of it forever.",
+     "接下來是一段不斷自我拆台的告白。敘事者承認他沒有任何理由傷害同住的老人：「我愛那位老人。他從未虧待過我。」他也不想要老人的金子。然而，他對老人那隻淡藍色的「禿鷹眼」越來越著迷，決定殺了他，好永遠擺脫那隻眼睛。"
+    ],
+    [
+     "The narrator presents his careful planning as proof of his sanity. “You fancy me mad,” he says. “Madmen know nothing. But you should have seen me.” For seven nights he slowly opens the old man’s door at midnight. On the eighth, he commits the crime and hides the remains beneath the floorboards. When police officers arrive, he confidently invites them in and even places his chair over the very spot. It took him an hour, he says, just to put his head inside the room.",
+     "敘事者把自己周密的計畫，當成自己神智正常的證明。「你以為我瘋了，」他說，「瘋子什麼都不懂。可是你真該看看我。」連續七個晚上，他在午夜慢慢打開老人的房門。第八晚，他犯下罪行，把遺體藏在地板底下。警察到來時，他自信地請他們進門，甚至把自己的椅子放在藏屍的那個位置上。他說，光是把頭伸進房間裡就花了他一個小時。"
+    ],
+    [
+     "Then he hears a low, dull, quick sound that grows louder and louder. The officers chat calmly, apparently hearing nothing. Convinced that they know the truth and are mocking him, he finally breaks down: “Villains! dissemble no more! I admit the deed! — tear up the planks! — here, here! — It is the beating of his hideous heart!” He compares it to the sound a watch makes when it is wrapped in cotton.",
+     "接著，他聽到一個低沉、模糊、急促的聲音，越來越響。警察們平靜地聊著天，顯然什麼也沒聽到。他認定警察知道真相、正在嘲弄他，終於崩潰了：「惡棍！別再裝了！我承認是我幹的！——把地板撬開！——這裡，這裡！——是他那可怕的心臟在跳！」他把這個聲音比作手錶被棉花包住時發出的聲音。"
+    ],
+    [
+     "The story is a classic example of an unreliable narrator: a storyteller whose account we cannot fully trust. Readers have offered several explanations for the sound — the narrator’s imagination, his own racing heart, or even insects in the walls. Poe never tells us. Instead, he trains us to read like detectives, noticing when a speaker’s words reveal more than he intends.",
+     "這個故事是「不可靠敘事者」的經典例子：一個我們無法完全信任其說法的說故事者。讀者對那個聲音提出了好幾種解釋——敘事者的想像、他自己狂跳的心臟，甚至是牆裡的昆蟲。愛倫坡從未告訴我們答案。相反地，他訓練我們像偵探一樣閱讀，注意說話者的話何時透露了比他本意更多的東西。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "The Unreliable Narrator and the Sound of Guilt",
+   "paras": [
+    [
+     "Edgar Allan Poe’s “The Tell-Tale Heart”, first published in the Boston magazine The Pioneer in January 1843, is barely a few pages long, yet it remains one of the most studied short stories in American literature. Its power derives less from its plot than from its voice. From the opening line — “True! — nervous — very, very dreadfully nervous I had been and am; but why will you say that I am mad?” — the narrator is on the defensive, arguing with an accuser who never speaks.",
+     "愛倫坡的〈告密的心〉在 1843 年 1 月首次刊登於波士頓的《先驅》雜誌，篇幅只有短短幾頁，至今卻仍是美國文學中被研究最多的短篇小說之一。它的力量與其說來自情節，不如說來自聲音。從第一句話——「沒錯！——緊張——我以前非常、非常可怕地緊張，現在也是；但你為什麼要說我瘋了？」——敘事者就處於防衛狀態，與一個從未開口的指控者爭辯。"
+    ],
+    [
+     "The narrator’s argument is self-defeating. He claims that his disease has made his senses more acute rather than dulled them, and that the calm precision with which he can tell the story proves his sanity. Yet he also admits that the crime had no rational motive: “Object there was none. Passion there was none. I loved the old man.” The only explanation he can offer is the old man’s pale blue eye, “the eye of a vulture”. The gap between his insistence on reason and the irrationality of his motive is where the reader’s doubt begins.",
+     "敘事者的論證是自我挫敗的。他聲稱疾病讓他的感官變得更敏銳而非遲鈍，而他能冷靜精準地講述這個故事，就證明了他神智正常。然而他也承認，這樁罪行沒有任何理性動機：「目的是沒有的。激情也是沒有的。我愛那位老人。」他唯一能提出的解釋，是老人那隻淡藍色的眼睛——「禿鷹的眼睛」。他對理性的堅持與動機的非理性之間的落差，正是讀者懷疑的起點。"
+    ],
+    [
+     "Poe constructs the story so that the narrator’s evidence for his sanity becomes evidence against it. He boasts of his caution and foresight, describing how for seven nights he opened the old man’s door so slowly that it took an hour to put his head through. After the murder, he conceals the remains beneath the floorboards and, when police arrive, invites them to sit in the very room, placing his own chair above the hiding place. Each detail, offered as proof of control, instead reveals obsession.",
+     "愛倫坡把故事建構成：敘事者證明自己神智正常的證據，反而變成了反證。他誇耀自己的謹慎與遠見，描述連續七個晚上他如何極其緩慢地打開老人的房門，慢到把頭伸進去要花上一個小時。殺人之後，他把遺體藏在地板下，警察到來時，還請他們坐在同一個房間裡，並把自己的椅子放在藏屍處的正上方。每一個被拿來證明他能掌控局面的細節，反而揭露了他的執迷。"
+    ],
+    [
+     "The climax turns on sound. As the officers chat, the narrator hears a low, dull, quick noise that grows steadily louder until he can bear it no longer and confesses. What he hears is deliberately left unclear. It may be a product of his imagination, the pounding of his own heart, or the deathwatch beetles he earlier claims to have heard in the wall — insects associated by superstition with approaching death. Critics have also noted that the narrator’s motive, his relationship to the old man and even his gender are never specified, leaving the reader to construct an interpretation from an untrustworthy source.",
+     "高潮取決於聲音。警察們聊天時，敘事者聽到一個低沉、模糊、急促的聲音，越來越響，直到他再也無法忍受而坦白。他聽到的究竟是什麼，被刻意留白。那可能是他想像的產物、他自己狂跳的心臟，或是他稍早聲稱在牆裡聽到的報死蟲——一種在迷信中與死亡將至有關的昆蟲。評論者也指出，敘事者的動機、他與老人的關係，甚至他的性別都從未被交代，讓讀者只能從一個不可信的來源中建構詮釋。"
+    ],
+    [
+     "This is the essence of the unreliable narrator: a voice whose account the reader must test rather than accept. Poe’s achievement is to make that testing thrilling. We are placed in the position of the police, listening to a confident explanation while noticing what it inadvertently reveals. The skill transfers well beyond fiction. Whenever someone insists too loudly on their own reasonableness, Poe’s story suggests, it is worth listening not only to what they say, but to what their way of saying it gives away.",
+     "這就是不可靠敘事者的本質：一個讀者必須檢驗、而非照單全收的聲音。愛倫坡的成就，在於讓這種檢驗變得驚心動魄。我們被放在警察的位置上，一邊聽著一段自信的解釋，一邊注意它不經意透露的東西。這種能力的用處遠遠超出小說。愛倫坡的故事暗示：每當有人太大聲地堅持自己很理性時，值得聆聽的不只是他們說了什麼，還有他們說話的方式洩露了什麼。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "opening",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "motive",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "planning",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "heartbeat",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "unreliable",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "nervous",
+   "pos": "adj.",
+   "meaning": "緊張的",
+   "example": "I feel nervous before exams.",
+   "family": "nerve (n.), nervousness (n.)"
+  },
+  {
+   "w": "calm",
+   "pos": "adj.",
+   "meaning": "冷靜的",
+   "example": "Stay calm in an emergency.",
+   "family": "calmly (adv.)"
+  },
+  {
+   "w": "admit",
+   "pos": "v.",
+   "meaning": "承認",
+   "example": "He admitted his mistake.",
+   "family": "admission (n.)"
+  },
+  {
+   "w": "narrator",
+   "pos": "n.",
+   "meaning": "敘事者",
+   "example": "The narrator of the novel is a child.",
+   "family": "narrate (v.), narrative (n.)"
+  },
+  {
+   "w": "confession",
+   "pos": "n.",
+   "meaning": "坦白、自白",
+   "example": "The thief made a full confession.",
+   "family": "confess (v.)"
+  },
+  {
+   "w": "obsessed",
+   "pos": "adj.",
+   "meaning": "著迷的、執迷的",
+   "example": "He is obsessed with video games.",
+   "family": "obsession (n.)"
+  },
+  {
+   "w": "sanity",
+   "pos": "n.",
+   "meaning": "神智正常",
+   "example": "She began to question his sanity.",
+   "family": "sane (adj.), insane (反義)"
+  },
+  {
+   "w": "mocking",
+   "pos": "v.",
+   "meaning": "嘲弄（V-ing）",
+   "example": "Stop mocking your little brother.",
+   "family": "mock (v.), mockery (n.)"
+  },
+  {
+   "w": "acute",
+   "pos": "adj.",
+   "meaning": "敏銳的；急性的",
+   "example": "Dogs have an acute sense of smell.",
+   "family": "acutely (adv.)"
+  },
+  {
+   "w": "self-defeating",
+   "pos": "adj.",
+   "meaning": "自我挫敗的",
+   "example": "Lying is often self-defeating.",
+   "family": "defeat (v.)"
+  },
+  {
+   "w": "conceals",
+   "pos": "v.",
+   "meaning": "隱藏（第三人稱）",
+   "example": "He conceals his feelings well.",
+   "family": "concealment (n.)"
+  },
+  {
+   "w": "superstition",
+   "pos": "n.",
+   "meaning": "迷信",
+   "example": "Breaking a mirror is bad luck, says a superstition.",
+   "family": "superstitious (adj.)"
+  },
+  {
+   "w": "inadvertently",
+   "pos": "adv.",
+   "meaning": "不經意地",
+   "example": "She inadvertently deleted the file.",
+   "family": "inadvertent (adj.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "cannot stand",
+   "type": "phrase",
+   "meaning": "無法忍受",
+   "usage": "cannot stand + N／V-ing。",
+   "example": "I cannot stand loud music.",
+   "writing": "S + cannot stand + N"
+  },
+  {
+   "phrase": "louder and louder",
+   "type": "phrase",
+   "meaning": "越來越大聲",
+   "usage": "比較級 and 比較級：越來越……。",
+   "example": "The music got louder and louder.",
+   "writing": "It gets louder and louder."
+  },
+  {
+   "phrase": "breaks down",
+   "type": "phrase",
+   "meaning": "崩潰（break down 的第三人稱）",
+   "usage": "情緒或機器崩潰。",
+   "example": "She broke down in tears.",
+   "writing": "he finally breaks down"
+  },
+  {
+   "phrase": "gives away",
+   "type": "phrase",
+   "meaning": "洩露",
+   "usage": "give away a secret/oneself。",
+   "example": "His face gave away his feelings.",
+   "writing": "what their way of saying it gives away"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "The more A, the more B",
+   "meaning": "越 A，就越 B",
+   "example": "The more he says he is not mad, the more we doubt him.",
+   "tip": "學測常考比較句型。"
+  },
+  {
+   "frame": "A, offered as proof of B, instead reveals C",
+   "meaning": "被拿來證明 B 的 A，反而揭露了 C",
+   "example": "Each detail, offered as proof of control, instead reveals obsession.",
+   "tip": "分詞片語插入，表達反諷。"
+  },
+  {
+   "frame": "It is worth V-ing not only A, but B",
+   "meaning": "值得……的不只是 A，還有 B",
+   "example": "It is worth listening not only to what they say, but to what their way of saying it gives away.",
+   "tip": "結論常用句型。"
+  }
+ ],
+ "quote": {
+  "text": "True!—nervous—very, very dreadfully nervous I had been and am; but why will you say that I am mad?",
+  "author": "Edgar Allan Poe",
+  "work": "“The Tell-Tale Heart” (1843)",
+  "url": "https://www.gutenberg.org/ebooks/2148"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "When was the story first published?",
+    "options": [
+     "1743",
+     "1843",
+     "1943",
+     "2003"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "It was first published in 1843."
+   },
+   {
+    "q": "What does the speaker hate about the old man?",
+    "options": [
+     "His money",
+     "His pale blue eye",
+     "His voice",
+     "His house"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "the old man has a strange pale blue eye, like the eye of a vulture"
+   },
+   {
+    "q": "How does the speaker act when the police come?",
+    "options": [
+     "He runs away",
+     "He is calm and friendly",
+     "He hides",
+     "He cries"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "When the police come, he is calm and friendly."
+   },
+   {
+    "q": "What is an “unreliable narrator”?",
+    "options": [
+     "A storyteller we cannot fully trust",
+     "A police officer",
+     "A narrator who is always right",
+     "A writer who is late"
+    ],
+    "a": 0,
+    "why": "最後一段。",
+    "evidence": "a storyteller we cannot fully trust"
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "What does the narrator say his disease did to his senses?",
+    "options": [
+     "Destroyed them",
+     "Sharpened them",
+     "Made them normal",
+     "Nothing"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "a mysterious disease has sharpened his senses, especially his hearing"
+   },
+   {
+    "q": "Why does the narrator say he is not mad?",
+    "options": [
+     "Because a doctor said so",
+     "Because he planned so carefully",
+     "Because the police believed him",
+     "Because he loved the old man"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "The narrator presents his careful planning as proof of his sanity."
+   },
+   {
+    "q": "Why does the narrator finally confess?",
+    "options": [
+     "He feels sorry",
+     "He is convinced the officers know the truth and are mocking him",
+     "The police find the body",
+     "The old man returns"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "Convinced that they know the truth and are mocking him"
+   },
+   {
+    "q": "Which is NOT one of the explanations for the sound?",
+    "options": [
+     "The narrator’s imagination",
+     "His own racing heart",
+     "Insects in the walls",
+     "A radio"
+    ],
+    "a": 3,
+    "why": "最後一段沒有提到收音機。",
+    "evidence": "the narrator’s imagination, his own racing heart, or even insects in the walls"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "Where does the story’s power mainly come from, according to the writer?",
+    "options": [
+     "Its plot",
+     "Its voice",
+     "Its length",
+     "Its setting"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "Its power derives less from its plot than from its voice."
+   },
+   {
+    "q": "Where does the reader’s doubt begin?",
+    "options": [
+     "In the gap between the narrator’s insistence on reason and his irrational motive",
+     "When the police arrive",
+     "In the title",
+     "At the very end"
+    ],
+    "a": 0,
+    "why": "第二段。",
+    "evidence": "The gap between his insistence on reason and the irrationality of his motive is where the reader’s doubt begins."
+   },
+   {
+    "q": "What are deathwatch beetles associated with?",
+    "options": [
+     "Good luck",
+     "Approaching death, by superstition",
+     "Heartbeats",
+     "Police"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "insects associated by superstition with approaching death"
+   },
+   {
+    "q": "What skill does the writer say “transfers well beyond fiction”?",
+    "options": [
+     "Writing horror stories",
+     "Testing a confident account and noticing what it reveals",
+     "Hiding evidence",
+     "Hearing heartbeats"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "listening to a confident explanation while noticing what it inadvertently reveals"
+   }
+  ]
+ },
+ "reflections": [
+  "Think of a time someone kept saying “I’m fine!” or “I’m not angry!” too strongly. What did their way of speaking tell you?",
+  "Retell one scene of the story from the point of view of a police officer. What would the officer notice?"
+ ],
+ "videos": [
+  {
+   "title": "Why should you read Edgar Allan Poe?",
+   "channel": "TED-Ed · Scott Peeples",
+   "url": "https://www.youtube.com/watch?v=8lgg-pVjOok",
+   "kind": "TED-Ed",
+   "desc": "An animated introduction to Poe’s life and stories. (5 min)",
+   "zh": "動畫介紹愛倫坡的生平與作品。（5 分鐘）",
+   "question": "Which features of Poe’s writing in the video can you find in “The Tell-Tale Heart”?"
+  },
+  {
+   "title": "The Tell-Tale Heart | Summary & Analysis",
+   "channel": "YouTube · Course Hero",
+   "url": "https://www.youtube.com/watch?v=WkH0YO7FSFE",
+   "kind": "YouTube",
+   "desc": "A summary and analysis of the story’s themes and narrator. (7 min)",
+   "zh": "故事主題與敘事者的摘要和分析。（7 分鐘）",
+   "question": "Does the video agree that the narrator is unreliable? What evidence does it use?"
+  }
+ ]
+}

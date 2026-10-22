@@ -1,0 +1,125 @@
+{
+ "id": "tom-sawyer-fence",
+ "category": "文學",
+ "title": "How Tom Sawyer Turned Work into Play",
+ "subtitle": "湯姆如何把工作變成遊戲：馬克．吐溫的刷籬笆與說服術",
+ "source": "原創導讀；小說原文依 Project Gutenberg《The Adventures of Tom Sawyer》（1876，公版）第二章，心理學背景依 Wikipedia〈Overjustification effect〉，2026-10-22 核對",
+ "sources": [
+  {"title": "Mark Twain, The Adventures of Tom Sawyer (1876), Project Gutenberg", "url": "https://www.gutenberg.org/ebooks/74", "accessed": "2026-10-22"},
+  {"title": "Wikipedia: Overjustification effect", "url": "https://en.wikipedia.org/wiki/Overjustification_effect", "accessed": "2026-10-22"}
+ ],
+ "levels": {
+  "beginner": {
+   "title": "The Fence",
+   "paras": [
+    ["It is a sunny Saturday morning. Tom Sawyer wants to play, but his Aunt Polly has given him a job: he must paint a long wooden fence white. The fence is thirty yards long and nine feet high. Tom feels very sad. Soon his friends will walk by and laugh at him.",
+     "這是個陽光明媚的星期六早上。湯姆．索亞想去玩，但他的波莉阿姨給了他一份工作：他必須把一道長長的木籬笆刷成白色。籬笆有三十碼長、九英尺高。湯姆非常沮喪。很快他的朋友們就會經過，還會嘲笑他。"],
+    ["Then Tom has a great idea. When his friend Ben comes by, eating an apple, Tom does not look sad at all. He paints slowly and carefully, as if it is the most interesting thing in the world. “Does a boy get a chance to whitewash a fence every day?” he asks.",
+     "接著湯姆想到一個好主意。當他的朋友班吃著蘋果經過時，湯姆一點也不顯得難過。他慢慢地、仔細地刷著，好像這是世界上最有趣的事。「一個男孩可不是每天都有機會刷籬笆的，對吧？」他問。"],
+    ["Ben becomes interested and asks to try. Tom says no — the job is too important! Ben begs and finally gives Tom his apple. Soon other boys come and pay Tom to paint: a kite, a dead rat, marbles and other treasures. By the afternoon, the fence has three coats of paint.",
+     "班開始感興趣，要求試試看。湯姆說不行——這份工作太重要了！班苦苦哀求，最後把蘋果給了湯姆。很快地，其他男孩也來了，付東西給湯姆換取刷籬笆的機會：一個風箏、一隻死老鼠、彈珠和其他寶貝。到了下午，籬笆已經刷了三層漆。"],
+    ["Mark Twain, who wrote this story in 1876, explains the lesson with a smile. Tom has discovered that if you want someone to want something, you just need to make it hard to get. Twain also says that work is what we must do, and play is what we do not have to do.",
+     "寫下這個故事的馬克．吐溫，在 1876 年帶著微笑說明了其中的道理。湯姆發現：如果你想讓別人想要某樣東西，只要讓它很難得到就行了。吐溫還說，工作是我們必須做的事，而遊戲是我們不必做的事。"],
+    ["Today, psychologists study similar ideas. Some studies suggest that if we are paid for something we already enjoy, we may start to enjoy it less. So the next time you have a boring job, ask yourself: is it really boring, or does it only feel that way because you have to do it?",
+     "今天，心理學家研究類似的概念。一些研究顯示，如果我們做一件本來就喜歡的事卻開始拿到報酬，我們可能會變得沒那麼喜歡它。所以下次你遇到一份無聊的工作時，問問自己：它真的很無聊嗎？還是只是因為你「必須」做，才覺得無聊？"]
+   ]
+  },
+  "intermediate": {
+   "title": "How Tom Sawyer Turned Work into Play",
+   "paras": [
+    ["On a bright Saturday morning, Tom Sawyer appears with a bucket of whitewash and a long-handled brush. Before him stands thirty yards of board fence, nine feet high, which Aunt Polly has ordered him to whitewash. All his happiness disappears. Soon the other boys will pass on their way to fun, and they will laugh at him for having to work.",
+     "一個晴朗的星期六早上，湯姆．索亞拿著一桶白漆和一把長柄刷子出現了。他面前是一道三十碼長、九英尺高的木板籬笆，波莉阿姨命令他把它刷白。他所有的快樂都消失了。很快地，其他男孩會在去玩的路上經過，還會嘲笑他得工作。"],
+    ["Tom considers paying someone to help, but his possessions — bits of toys, marbles and rubbish — are not enough to buy even half an hour of freedom. Then, as Mark Twain writes, “an inspiration burst upon him”. When his friend Ben Rogers comes along eating an apple, Tom pretends to be absorbed in his work. Asked whether he is really working, he replies: “Does a boy get a chance to whitewash a fence every day?”",
+     "湯姆考慮過付錢請人幫忙，但他的家當——一些玩具碎片、彈珠和破爛——連買半小時的自由都不夠。接著，正如馬克．吐溫所寫，「一個靈感突然湧上他的心頭」。當他的朋友班．羅傑斯吃著蘋果走過來時，湯姆假裝全神貫注於工作。被問到他是不是真的在工作時，他回答：「一個男孩可不是每天都有機會刷籬笆的，對吧？」"],
+    ["The question changes everything. Ben stops eating his apple and watches Tom’s careful brushstrokes with growing interest. When Ben asks to try, Tom refuses, explaining that Aunt Polly is “awful particular about this fence” and that hardly one boy in a thousand could do it properly. Ben offers the core of his apple, then the whole apple. Other boys follow, trading a kite, a dead rat and many other treasures for a turn.",
+     "這個問題改變了一切。班停止吃蘋果，越來越感興趣地看著湯姆仔細的每一刷。班要求試試時，湯姆拒絕了，解釋說波莉阿姨對這道籬笆「挑剔得要命」，一千個男孩裡大概找不到一個能把它刷好。班先拿出蘋果核，接著是整顆蘋果。其他男孩也接踵而來，用一個風箏、一隻死老鼠和許多其他寶貝來換一次刷籬笆的機會。"],
+    ["By mid-afternoon, Tom has spent an idle, pleasant day, the fence has three coats of whitewash, and he is “literally rolling in wealth”. Twain then states the lesson with gentle irony. Tom has discovered “a great law of human action”: to make someone want a thing, “it is only necessary to make the thing difficult to attain.” Work, Twain adds, is whatever we are obliged to do; play is whatever we are not obliged to do.",
+     "到了午後，湯姆悠閒愉快地度過了一天，籬笆刷了三層白漆，而他「簡直富得流油」。吐溫接著以溫和的反諷點出教訓：湯姆發現了「人類行為的一條偉大法則」——要讓人想要一樣東西，「只要讓那樣東西難以得到就行了」。吐溫補充說，工作就是我們不得不做的事；遊戲就是我們不必做的事。"],
+    ["Modern psychology has explored ideas that echo Twain’s joke. Research on the “overjustification effect” suggests that offering expected rewards, such as money or prizes, for an activity people already enjoy can sometimes reduce their own interest in it. Tom’s trick works the other way round: by making the task seem like a privilege, he turns a chore into something the boys want to pay for.",
+     "現代心理學探討了一些與吐溫的玩笑相呼應的觀念。關於「過度辯證效應」的研究顯示，對人們本來就喜歡的活動提供預期中的獎勵，例如金錢或獎品，有時反而會降低他們自己的興趣。湯姆的把戲正好反過來運作：他把這項任務包裝成一種特權，把一份苦差事變成男孩們願意付錢來做的事。"]
+   ]
+  },
+  "advanced": {
+   "title": "The Great Law of Human Action",
+   "paras": [
+    ["The second chapter of Mark Twain’s The Adventures of Tom Sawyer, published in 1876, contains one of the most famous lessons in persuasion in American literature. On a glorious Saturday morning, Tom confronts “thirty yards of board fence nine feet high” that he has been ordered to whitewash. Twain renders his despair with comic grandeur: life seems “hollow, and existence but a burden”, and the small whitewashed streak looks insignificant beside “the far-reaching continent of unwhitewashed fence”.",
+     "馬克．吐溫 1876 年出版的《湯姆歷險記》第二章，包含了美國文學中最著名的說服課之一。在一個燦爛的星期六早上，湯姆面對著「三十碼長、九英尺高的木板籬笆」，他被命令把它刷白。吐溫以滑稽的誇張筆法描寫他的絕望：生活似乎「空洞，存在不過是負擔」，而那一小道刷白的痕跡，在「一望無際、尚未刷白的籬笆大陸」旁邊顯得微不足道。"],
+    ["Tom first contemplates bribery, but his worldly wealth — “bits of toys, marbles, and trash” — could not buy “so much as half an hour of pure freedom”. His solution is subtler: he changes not the task but its meaning. When Ben Rogers, the boy “whose ridicule he had been dreading”, arrives impersonating a steamboat, Tom ignores him and works with the absorption of an artist. The decisive line reframes the situation entirely: “Does a boy get a chance to whitewash a fence every day?”",
+     "湯姆一開始考慮賄賂，但他的全部財產——「玩具碎片、彈珠和破爛」——連「半小時純粹的自由」都買不起。他的解決辦法更巧妙：他改變的不是任務本身，而是任務的意義。當班．羅傑斯——那個「他一直害怕被他嘲笑」的男孩——模仿著汽船出現時，湯姆不理會他，以藝術家般的專注工作著。關鍵的一句話徹底重新框定了情境：「一個男孩可不是每天都有機會刷籬笆的，對吧？」"],
+    ["What follows is a masterclass in manufactured scarcity. Tom steps back to admire his brushwork, adds “a touch here and there” and, when Ben asks to try, refuses on the grounds that Aunt Polly is “awful particular about this fence” and that perhaps not one boy in a thousand could do it properly. Exclusivity transforms drudgery into a prize. Ben surrenders his apple, and a procession of boys who “came to jeer, but remained to whitewash” pays Tom in kites, marbles and a dead rat, until he has become, from a poor boy in the morning, one “literally rolling in wealth”.",
+     "接下來是一堂製造稀缺性的大師課。湯姆退後一步欣賞自己的筆觸，「這裡那裡補上一筆」，當班要求試試時，他以波莉阿姨對這道籬笆「挑剔得要命」、一千個男孩裡也許找不到一個能刷好為由拒絕了。排他性把苦差事變成了獎品。班交出了他的蘋果，一群「來嘲笑、卻留下來刷籬笆」的男孩接連用風箏、彈珠和一隻死老鼠付給湯姆，直到他從早上那個窮小子，變成了一個「簡直富得流油」的人。"],
+    ["Twain then steps forward as narrator to draw the moral, with characteristic irony. Tom “had discovered a great law of human action, without knowing it—namely, that in order to make a man or a boy covet a thing, it is only necessary to make the thing difficult to attain.” A wiser philosopher, Twain adds, would have understood that work “consists of whatever a body is obliged to do”, and play of whatever a body is not obliged to do. He offers a final example: wealthy English gentlemen pay to drive passenger coaches for pleasure, but if they were offered wages, “that would turn it into work and then they would resign.”",
+     "接著，吐溫以敘事者身分站出來點出寓意，帶著他一貫的反諷。湯姆「在不知不覺中發現了一條人類行為的偉大法則——那就是，要讓一個男人或男孩渴望一樣東西，只要讓那樣東西難以得到就行了」。吐溫補充說，一位更有智慧的哲學家會明白，工作「就是一個人不得不做的任何事」，而遊戲就是一個人不必做的任何事。他舉了最後一個例子：富有的英國紳士花錢駕駛載客馬車取樂，但如果付他們工資，「那就會把它變成工作，然後他們就會辭職」。"],
+    ["That last observation anticipates a theme later studied by psychologists under the name of the overjustification effect: offering expected external rewards for an activity that is already intrinsically enjoyable can, in some circumstances, reduce people’s motivation to do it. Researchers continue to debate how strongly such laboratory findings apply to real life. Twain’s chapter, however, captures the core insight with remarkable economy. How we frame an activity — as obligation or opportunity, chore or privilege — can matter as much as the activity itself.",
+     "最後這個觀察，預示了後來心理學家以「過度辯證效應」之名研究的主題：對一項本身就令人愉快的活動提供預期中的外在獎勵，在某些情況下，反而會降低人們從事它的動機。研究者至今仍在爭論，這類實驗室發現在多大程度上適用於現實生活。然而，吐溫的這一章以驚人的精簡捕捉了核心洞見：我們如何框定一項活動——是義務還是機會，是苦差事還是特權——可能和活動本身一樣重要。"]
+   ]
+  }
+ },
+ "sections": [
+  {"sectionId": "the-fence", "beginnerParagraph": 0, "intermediateParagraph": 0, "advancedParagraph": 0},
+  {"sectionId": "inspiration", "beginnerParagraph": 1, "intermediateParagraph": 1, "advancedParagraph": 1},
+  {"sectionId": "scarcity", "beginnerParagraph": 2, "intermediateParagraph": 2, "advancedParagraph": 2},
+  {"sectionId": "the-law", "beginnerParagraph": 3, "intermediateParagraph": 3, "advancedParagraph": 3},
+  {"sectionId": "psychology", "beginnerParagraph": 4, "intermediateParagraph": 4, "advancedParagraph": 4}
+ ],
+ "vocab": [
+  {"w": "fence", "pos": "n.", "meaning": "籬笆、圍欄", "example": "The dog jumped over the fence.", "family": "fence (v.)"},
+  {"w": "interested", "pos": "adj.", "meaning": "感興趣的", "example": "I am interested in science.", "family": "interest (n.), interesting (adj.)"},
+  {"w": "treasures", "pos": "n.", "meaning": "寶物（複數）", "example": "The box was full of treasures.", "family": "treasure (v.)"},
+  {"w": "boring", "pos": "adj.", "meaning": "無聊的", "example": "The film was boring.", "family": "bored (adj.), bore (v.)"},
+  {"w": "possessions", "pos": "n.", "meaning": "所有物、財產", "example": "He sold all his possessions.", "family": "possess (v.)"},
+  {"w": "inspiration", "pos": "n.", "meaning": "靈感", "example": "She found inspiration in nature.", "family": "inspire (v.)"},
+  {"w": "absorbed", "pos": "adj.", "meaning": "全神貫注的", "example": "He was absorbed in his book.", "family": "absorb (v.)"},
+  {"w": "privilege", "pos": "n.", "meaning": "特權、殊榮", "example": "It is a privilege to meet you.", "family": "privileged (adj.)"},
+  {"w": "persuasion", "pos": "n.", "meaning": "說服", "example": "She used gentle persuasion.", "family": "persuade (v.)"},
+  {"w": "ridicule", "pos": "n.", "meaning": "嘲笑", "example": "He was afraid of ridicule.", "family": "ridiculous (adj.)"},
+  {"w": "scarcity", "pos": "n.", "meaning": "稀缺", "example": "Scarcity makes things seem valuable.", "family": "scarce (adj.)"},
+  {"w": "drudgery", "pos": "n.", "meaning": "苦差事", "example": "Housework can feel like drudgery.", "family": "drudge (n.)"},
+  {"w": "intrinsically", "pos": "adv.", "meaning": "本質上、內在地", "example": "Learning is intrinsically rewarding.", "family": "intrinsic (adj.)"}
+ ],
+ "phrases": [
+  {"phrase": "laugh at", "type": "phrase", "meaning": "嘲笑", "usage": "laugh at sb/sth。", "example": "Don’t laugh at other people’s mistakes.", "writing": "S + will laugh at + sb"},
+  {"phrase": "comes along", "type": "phrase", "meaning": "出現、過來（come along 的第三人稱）", "usage": "come along：偶然出現。", "example": "A bus comes along every ten minutes.", "writing": "When + sb + comes along"},
+  {"phrase": "the other way round", "type": "phrase", "meaning": "反過來", "usage": "表示方向或關係相反。", "example": "It’s not my fault — it’s the other way round.", "writing": "S + works the other way round"},
+  {"phrase": "on the grounds that", "type": "phrase", "meaning": "以……為由", "usage": "on the grounds that + 子句。", "example": "He refused on the grounds that he was busy.", "writing": "S + refuses on the grounds that + 子句"}
+ ],
+ "patterns": [
+  {"frame": "In order to + V, it is only necessary to + V", "meaning": "要……，只需要……", "example": "In order to make a man or a boy covet a thing, it is only necessary to make the thing difficult to attain.", "tip": "吐溫原文句型，適合寫議論文。"},
+  {"frame": "S + changes not A but B", "meaning": "……改變的不是 A，而是 B", "example": "He changes not the task but its meaning.", "tip": "not…but… 精確對比。"},
+  {"frame": "How we + V + can matter as much as + N", "meaning": "我們如何……可能和……一樣重要", "example": "How we frame an activity can matter as much as the activity itself.", "tip": "名詞子句當主詞的結論句。"}
+ ],
+ "quote": {
+  "text": "In order to make a man or a boy covet a thing, it is only necessary to make the thing difficult to attain.",
+  "author": "Mark Twain",
+  "work": "The Adventures of Tom Sawyer (1876), Chapter 2",
+  "url": "https://www.gutenberg.org/ebooks/74"
+ },
+ "quiz": {
+  "beginner": [
+   {"q": "Why does Tom feel sad?", "options": ["He lost his apple", "He must paint a long fence instead of playing", "His aunt is sick", "It is raining"], "a": 1, "why": "第一段。", "evidence": "he must paint a long wooden fence white"},
+   {"q": "What does Ben give Tom first?", "options": ["A kite", "His apple", "A dead rat", "Money"], "a": 1, "why": "第三段。", "evidence": "Ben begs and finally gives Tom his apple."},
+   {"q": "According to Tom’s discovery, how can you make someone want something?", "options": ["Make it hard to get", "Make it free", "Make it boring", "Hide it"], "a": 0, "why": "第四段。", "evidence": "you just need to make it hard to get"},
+   {"q": "What do some studies suggest about being paid for something we enjoy?", "options": ["We enjoy it more", "We may start to enjoy it less", "Nothing changes", "We do it faster"], "a": 1, "why": "最後一段。", "evidence": "we may start to enjoy it less"}
+  ],
+  "intermediate": [
+   {"q": "Why can’t Tom pay someone to help?", "options": ["He has no friends", "His possessions are not enough", "Aunt Polly forbids it", "Nobody wants money"], "a": 1, "why": "第二段。", "evidence": "are not enough to buy even half an hour of freedom"},
+   {"q": "Why does Tom first refuse to let Ben try?", "options": ["He says Aunt Polly is very particular about the fence", "He wants to finish alone", "Ben is too young", "There is no more paint"], "a": 0, "why": "第三段。", "evidence": "Aunt Polly is “awful particular about this fence”"},
+   {"q": "How does Twain define work?", "options": ["Whatever we enjoy", "Whatever we are obliged to do", "Whatever pays money", "Whatever is hard"], "a": 1, "why": "第四段。", "evidence": "Work, Twain adds, is whatever we are obliged to do"},
+   {"q": "How does Tom’s trick work “the other way round”?", "options": ["He makes a chore seem like a privilege", "He pays the boys", "He tells the truth", "He asks his aunt for help"], "a": 0, "why": "最後一段。", "evidence": "by making the task seem like a privilege, he turns a chore into something the boys want to pay for"}
+  ],
+  "advanced": [
+   {"q": "How does Twain describe Tom’s despair?", "options": ["With comic grandeur", "With serious tragedy", "Without any emotion", "Through Aunt Polly’s eyes"], "a": 0, "why": "第一段。", "evidence": "Twain renders his despair with comic grandeur"},
+   {"q": "What does Tom change, according to the writer?", "options": ["The task itself", "The meaning of the task", "The colour of the paint", "The fence’s length"], "a": 1, "why": "第二段。", "evidence": "he changes not the task but its meaning"},
+   {"q": "What turns drudgery into a prize?", "options": ["Money", "Exclusivity", "Speed", "Aunt Polly"], "a": 1, "why": "第三段。", "evidence": "Exclusivity transforms drudgery into a prize."},
+   {"q": "What does the writer say about the overjustification research?", "options": ["It is fully settled", "Researchers continue to debate how strongly it applies to real life", "It proves Twain wrong", "It only applies to fences"], "a": 1, "why": "最後一段。", "evidence": "Researchers continue to debate how strongly such laboratory findings apply to real life."}
+  ]
+ },
+ "reflections": [
+  "Think of an activity you love doing for fun. Would you still enjoy it if you were paid or graded for it? Why or why not?",
+  "Is Tom clever, dishonest, or both? Give reasons for your answer."
+ ],
+ "videos": [
+  {"title": "The Adventures of Tom Sawyer 2", "channel": "YouTube · Little Fox", "url": "https://www.youtube.com/watch?v=6ykeQHsQlZA", "kind": "YouTube", "desc": "Part 2 of an animated, simplified retelling of the novel for English learners. (6 min)", "zh": "為英語學習者改編的小說動畫第二集。（6 分鐘）", "question": "Does this part include the fence scene? If so, which details from Twain’s original text are missing?"},
+  {"title": "The puzzle of motivation", "channel": "TEDGlobal 2009 · Dan Pink", "url": "https://www.ted.com/talks/dan_pink_the_puzzle_of_motivation", "kind": "TED", "desc": "A talk on why rewards do not always increase motivation.", "zh": "一場關於為什麼獎勵不一定能提高動機的演講。", "question": "How does Pink’s argument connect to Twain’s idea that wages can “turn it into work”?"}
+ ]
+}
