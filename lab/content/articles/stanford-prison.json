@@ -1,0 +1,457 @@
+{
+ "id": "stanford-prison",
+ "category": "社會心理學",
+ "title": "What Really Happened in the Stanford Prison Experiment?",
+ "subtitle": "史丹佛監獄實驗到底發生了什麼？一個經典研究的重新檢視",
+ "source": "原創議題文章；依 Wikipedia〈Stanford prison experiment〉（含 Le Texier 2019、Banuazizi & Movahedi 1975、Carnahan & McFarland 2007、Haslam & Reicher BBC Prison Study 之整理），2026-10-22 核對",
+ "sources": [
+  {
+   "title": "Wikipedia: Stanford prison experiment",
+   "url": "https://en.wikipedia.org/wiki/Stanford_prison_experiment",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Le Texier, T. (2019). Debunking the Stanford Prison Experiment. American Psychologist, 74(7), 823–839.",
+   "url": "https://doi.org/10.1037/amp0000401",
+   "accessed": "2026-10-22"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "Guards and Prisoners",
+   "paras": [
+    [
+     "In August 1971, a professor called Philip Zimbardo built a pretend prison in the basement of a building at Stanford University in the United States. He paid 24 male college students $15 a day. Some students became “guards” and others became “prisoners”. The pretend prison was in Jordan Hall, the university’s psychology building. Real police officers even “arrested” the prisoners at the start.",
+     "1971 年 8 月，一位名叫菲利普．津巴多的教授，在美國史丹佛大學一棟大樓的地下室裡，搭建了一座假監獄。他付錢給 24 名男大學生，每天 15 美元。有些學生扮演「獄警」，有些扮演「囚犯」。這座假監獄位於大學的心理學大樓喬丹館。實驗一開始，還有真正的警察來「逮捕」這些囚犯。"
+    ],
+    [
+     "The study was planned to last two weeks. But very quickly, some guards began to treat the prisoners badly. They shouted at them and made them do push-ups. One prisoner seemed to have a breakdown after just 36 hours. Zimbardo stopped the study after only six days. A visiting psychologist was shocked by what she saw.",
+     "這項研究原本計畫進行兩週。但很快地，有些獄警開始虐待囚犯，對他們大吼，還要他們做伏地挺身。一名囚犯在短短 36 小時後似乎精神崩潰了。津巴多只進行了六天就停止了研究。一位來訪的心理學家對眼前所見感到震驚。"
+    ],
+    [
+     "For many years, people used this study to teach one lesson: put good people in a bad situation, and they will do bad things. The study appeared in many school textbooks and films. It seemed to show how powerful a situation can be.",
+     "很多年來，人們用這項研究來教一個道理：把好人放進壞的情境裡，他們就會做壞事。這項研究出現在許多教科書和電影裡，它似乎證明了情境的力量有多強大。"
+    ],
+    [
+     "But later, people looked more closely. Recordings show that one of the researchers told a guard to be more “tough”. Many guards later said they were just acting. And in 2017, the prisoner who “broke down” said he had faked it so that he could leave and study for an exam.",
+     "但後來，人們更仔細地檢視。錄音顯示，其中一位研究人員曾叫一名獄警要更「兇」一點。許多獄警後來說他們只是在演戲。而在 2017 年，那位「崩潰」的囚犯說，他是裝的，這樣才能離開去準備考試。"
+    ],
+    [
+     "So what does this famous study really tell us? Maybe it shows less about human nature and more about how easily people follow what they think others expect. It also teaches us something important: even famous studies need to be checked carefully.",
+     "那麼，這項著名的研究到底告訴了我們什麼？也許它揭示的，與其說是人性，不如說是人們多麼容易照著自己認為別人期望的方式去做。它也教了我們一件重要的事：即使是有名的研究，也需要仔細檢驗。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "What Really Happened in the Stanford Prison Experiment?",
+   "paras": [
+    [
+     "In August 1971, Stanford psychology professor Philip Zimbardo turned a university basement into a mock prison. A newspaper advertisement offered male college students $15 a day to take part in a “psychological study of prison life”. Twenty-four were selected after tests of psychological stability and randomly assigned to be guards or prisoners. The study was planned to last two weeks. To make it feel real, the “prisoners” were arrested at the start by real police officers from Palo Alto.",
+     "1971 年 8 月，史丹佛大學心理學教授菲利普．津巴多，把大學的地下室改造成一座模擬監獄。一則報紙廣告以每天 15 美元，招募男大學生參加一項「監獄生活心理研究」。經過心理穩定度測試後，有 24 人被選中，並被隨機分配擔任獄警或囚犯。研究原本預計進行兩週。為了讓一切感覺逼真，「囚犯」們在一開始是被帕羅奧圖的真正警察逮捕的。"
+    ],
+    [
+     "Events escalated quickly. Guards made prisoners count off and do push-ups, restricted their use of the bathroom and forced them to use buckets in their cells. After 36 hours, prisoner 8612, Douglas Korpi, appeared to break down and was released. When the psychologist Christina Maslach visited and challenged Zimbardo about the conditions, he ended the experiment on the sixth day.",
+     "情況迅速升級。獄警要囚犯報數、做伏地挺身，限制他們上廁所，還強迫他們在牢房裡用水桶解決。36 小時後，8612 號囚犯道格拉斯．科爾皮似乎崩潰了，因而被釋放。心理學家克莉絲汀娜．馬斯拉赫來訪時，對這些情況提出質疑，津巴多於是在第六天結束了實驗。"
+    ],
+    [
+     "For decades, the study was presented in textbooks as powerful evidence that situations can turn ordinary people cruel. Zimbardo himself compared the guards’ behaviour to the abuse of prisoners by American soldiers at Abu Ghraib. The message was simple and memorable: it is not bad people but bad situations that produce bad behaviour.",
+     "幾十年來，這項研究在教科書中被當成有力的證據，證明情境能讓普通人變得殘忍。津巴多本人也把獄警的行為，比作美軍在阿布格萊布監獄虐待囚犯的事件。這個訊息簡單又好記：造成惡行的不是壞人，而是壞的情境。"
+    ],
+    [
+     "Critics, however, have raised serious doubts. Recordings released in 2017 show the “warden”, a research assistant, urging a guard to be tougher for the benefit of the experiment. Most guards later said they had been acting, and one said he had modelled his behaviour on a character from a film. In a 2017 interview, Korpi said his breakdown had been faked so he could leave and study for an exam, a claim Zimbardo disputed. The researcher Thibault Le Texier argued that Zimbardo had shaped the guards’ behaviour to confirm his expectations.",
+     "然而，批評者提出了嚴重的質疑。2017 年公開的錄音顯示，由研究助理擔任的「典獄長」，催促一名獄警為了實驗要更強硬。大多數獄警後來說他們是在演戲，其中一人說他是以電影裡的角色為範本。在 2017 年的一次訪談中，科爾皮說他的崩潰是裝出來的，好讓自己能離開去準備考試，但津巴多對此提出異議。研究者蒂博．勒泰西耶則主張，津巴多為了證實自己的預期，左右了獄警的行為。"
+    ],
+    [
+     "Other studies point in a different direction. In the 2002 BBC Prison Study, guards were not told how to behave, and participants did not simply slip into cruel roles. The researchers concluded that leadership and group identity mattered more than the uniform. The Stanford experiment may therefore teach a different lesson from the one in many textbooks: even famous findings must be questioned, especially when they tell a story we find easy to believe.",
+     "其他研究指向不同的方向。在 2002 年的 BBC 監獄研究中，獄警並沒有被告知該怎麼做，參與者也沒有就這樣陷入殘忍的角色。研究人員的結論是：領導和群體認同比制服更重要。因此，史丹佛實驗教給我們的，可能和許多教科書不同：即使是著名的研究發現也必須被質疑，尤其當它講的是一個我們很容易相信的故事時。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "A Classic Under Cross-Examination",
+   "paras": [
+    [
+     "Few psychological studies have achieved the cultural reach of the Stanford prison experiment. Conducted in August 1971 and funded by the US Office of Naval Research, it was designed as a two-week simulation of prison life. Participants were recruited through a newspaper advertisement offering male college students $15 a day; twenty-four were selected after screening for psychological stability and assigned at random to the roles of guard or prisoner. Philip Zimbardo, the Stanford professor leading the project, cast himself as superintendent, while an undergraduate research assistant, David Jaffe, served as warden.",
+     "很少有心理學研究像史丹佛監獄實驗一樣，擁有如此廣泛的文化影響力。它於 1971 年 8 月進行，由美國海軍研究辦公室資助，原本設計為為期兩週的監獄生活模擬。參與者是透過一則報紙廣告招募的，廣告以每天 15 美元徵求男大學生；經過心理穩定度篩選後，選出二十四人，並隨機分配為獄警或囚犯。主持計畫的史丹佛教授菲利普．津巴多自任監獄主管，而大學部研究助理大衛．賈菲則擔任典獄長。"
+    ],
+    [
+     "The study’s conventional narrative is dramatic. Guards subjected prisoners to arbitrary counts and push-ups, restricted their access to bathrooms and forced them to use buckets in their cells. After 36 hours, prisoner 8612, Douglas Korpi, appeared to suffer a breakdown and was released. When the psychologist Christina Maslach visited and confronted Zimbardo about the treatment of participants, he terminated the study on the sixth day, later saying he had been surprised by how deeply he had internalised his own role. The episode became a textbook illustration of the power of situations over individual character.",
+     "這項研究的傳統敘事十分戲劇化。獄警讓囚犯接受隨意的點名和伏地挺身，限制他們上廁所，並強迫他們在牢房裡使用水桶。36 小時後，8612 號囚犯道格拉斯．科爾皮似乎精神崩潰，因而被釋放。心理學家克莉絲汀娜．馬斯拉赫來訪時，就參與者受到的對待與津巴多當面對質，他在第六天終止了研究，後來表示自己很驚訝竟如此深入地內化了自己的角色。這段經過成為教科書中說明「情境凌駕個人性格」的經典例子。"
+    ],
+    [
+     "That interpretation has faced sustained criticism. As early as 1975, Ali Banuazizi and Siamak Movahedi argued that participants were responding to demand characteristics — doing what they believed the researchers wanted — rather than to the prison environment itself. In 2007, Thomas Carnahan and Sam McFarland suggested that advertising a study of “prison life” may have attracted applicants already inclined towards aggression, a form of selection bias. Recordings that circulated widely in 2017 show the warden encouraging a reluctant guard to be “tough” for the sake of the experiment, and most guards have since said they were deliberately acting.",
+     "這種詮釋一直受到批評。早在 1975 年，阿里．巴努阿濟齊和西亞馬克．莫瓦赫迪就主張，參與者是在回應「需求特徵」——做他們認為研究者想要的事——而不是回應監獄環境本身。2007 年，湯瑪斯．卡納漢和山姆．麥克法蘭認為，以「監獄生活」為號召的廣告，可能吸引了原本就傾向攻擊性的應徵者，這是一種選擇偏誤。2017 年廣為流傳的錄音顯示，典獄長鼓勵一名不情願的獄警「為了實驗」要表現得「兇一點」，而大多數獄警事後也說他們是刻意在演戲。"
+    ],
+    [
+     "The most pointed critique came in 2019, when Thibault Le Texier argued in American Psychologist that Zimbardo had instructed the guards to behave in certain ways in order to confirm conclusions largely formed in advance. Even the study’s most famous moment has been questioned: in a 2017 interview, Korpi claimed his breakdown had been faked so that he could leave and study for his graduate entrance exam. Zimbardo rejected these criticisms, maintaining that he had to treat the breakdown as genuine and that other guards behaved cruelly without any such encouragement.",
+     "最尖銳的批評出現在 2019 年：蒂博．勒泰西耶在《美國心理學家》期刊中主張，津巴多曾指示獄警以特定方式行事，以證實他大致早已形成的結論。就連研究中最著名的時刻也受到質疑：在 2017 年的一次訪談中，科爾皮聲稱他的崩潰是裝出來的，為的是能離開去準備研究所入學考試。津巴多駁斥這些批評，堅稱他必須把那次崩潰當真，而且其他獄警在沒有任何鼓勵的情況下也表現得很殘忍。"
+    ],
+    [
+     "A partial replication offers a revealing contrast. In the 2002 BBC Prison Study, Alex Haslam and Steve Reicher gave guards no instructions on how to behave. Participants did not slip mindlessly into their roles, and the researchers concluded that tyranny emerged, when it did, through leadership and shared group identity rather than automatic conformity to a uniform. The lesson of the Stanford experiment may therefore be less about the darkness of human nature than about the fragility of scientific stories. A finding that is dramatic, memorable and morally satisfying deserves more scrutiny, not less.",
+     "一項部分重製的研究提供了鮮明的對照。在 2002 年的 BBC 監獄研究中，亞歷克斯．哈斯勒姆和史蒂夫．雷徹沒有告訴獄警該如何行事。參與者並沒有不假思索地陷入角色，研究者的結論是：暴政若真的出現，是透過領導與共享的群體認同，而不是自動服從於一身制服。因此，史丹佛實驗的教訓，與其說是關於人性的黑暗，不如說是關於科學故事的脆弱。一個戲劇化、令人難忘、又在道德上令人滿意的研究發現，值得更多的檢驗，而不是更少。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "setup",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "six-days",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "textbook-lesson",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "criticism",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "bbc-study",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "pretend",
+   "pos": "adj.",
+   "meaning": "假裝的、模擬的",
+   "example": "The children played in a pretend shop.",
+   "family": "pretend (v.)"
+  },
+  {
+   "w": "breakdown",
+   "pos": "n.",
+   "meaning": "（精神）崩潰；故障",
+   "example": "She had a nervous breakdown.",
+   "family": "break down (v.)"
+  },
+  {
+   "w": "situation",
+   "pos": "n.",
+   "meaning": "情境、處境",
+   "example": "It was a difficult situation.",
+   "family": "situational (adj.)"
+  },
+  {
+   "w": "recordings",
+   "pos": "n.",
+   "meaning": "錄音（複數）",
+   "example": "We listened to old recordings.",
+   "family": "record (v.)"
+  },
+  {
+   "w": "randomly",
+   "pos": "adv.",
+   "meaning": "隨機地",
+   "example": "Students were randomly chosen.",
+   "family": "random (adj.)"
+  },
+  {
+   "w": "escalated",
+   "pos": "v.",
+   "meaning": "升級、惡化（過去式）",
+   "example": "The argument escalated quickly.",
+   "family": "escalation (n.)"
+  },
+  {
+   "w": "cruel",
+   "pos": "adj.",
+   "meaning": "殘忍的",
+   "example": "It is cruel to hurt animals.",
+   "family": "cruelty (n.)"
+  },
+  {
+   "w": "disputed",
+   "pos": "v.",
+   "meaning": "提出異議（過去式）",
+   "example": "He disputed the result.",
+   "family": "dispute (n.)"
+  },
+  {
+   "w": "arbitrary",
+   "pos": "adj.",
+   "meaning": "任意的、武斷的",
+   "example": "The rules seemed arbitrary.",
+   "family": "arbitrarily (adv.)"
+  },
+  {
+   "w": "internalised",
+   "pos": "v.",
+   "meaning": "內化（p.p.）",
+   "example": "She had internalised her parents’ values.",
+   "family": "internal (adj.)"
+  },
+  {
+   "w": "replication",
+   "pos": "n.",
+   "meaning": "重複實驗、重製",
+   "example": "Replication is important in science.",
+   "family": "replicate (v.)"
+  },
+  {
+   "w": "conformity",
+   "pos": "n.",
+   "meaning": "從眾、順從",
+   "example": "Teenagers often feel pressure towards conformity.",
+   "family": "conform (v.)"
+  },
+  {
+   "w": "scrutiny",
+   "pos": "n.",
+   "meaning": "仔細檢查",
+   "example": "The plan came under scrutiny.",
+   "family": "scrutinise (v.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "take part in",
+   "type": "phrase",
+   "meaning": "參加",
+   "usage": "take part in + 活動。",
+   "example": "She took part in the debate.",
+   "writing": "to take part in + N"
+  },
+  {
+   "phrase": "slip into",
+   "type": "phrase",
+   "meaning": "不知不覺陷入",
+   "usage": "slip into a role/habit。",
+   "example": "It is easy to slip into bad habits.",
+   "writing": "S + did not simply slip into + N"
+  },
+  {
+   "phrase": "point in a different direction",
+   "type": "phrase",
+   "meaning": "指向不同的方向（結論不同）",
+   "usage": "evidence points in a direction。",
+   "example": "The new data point in a different direction.",
+   "writing": "Other studies point in a different direction."
+  },
+  {
+   "phrase": "for the sake of",
+   "type": "phrase",
+   "meaning": "為了……",
+   "usage": "for the sake of + N。",
+   "example": "He moved for the sake of his health.",
+   "writing": "for the sake of the experiment"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "It is not A but B that + V",
+   "meaning": "造成……的不是 A，而是 B",
+   "example": "It is not bad people but bad situations that produce bad behaviour.",
+   "tip": "分裂句強調主詞。"
+  },
+  {
+   "frame": "S + may teach a different lesson from the one in + N",
+   "meaning": "……可能教給我們與……不同的教訓",
+   "example": "The Stanford experiment may teach a different lesson from the one in many textbooks.",
+   "tip": "提出不同詮釋。"
+  },
+  {
+   "frame": "A deserves more scrutiny, not less",
+   "meaning": "A 值得更多而不是更少的檢驗",
+   "example": "A finding that is dramatic, memorable and morally satisfying deserves more scrutiny, not less.",
+   "tip": "結論段的有力短句。"
+  }
+ ],
+ "quote": {
+  "text": "Male college students needed for psychological study of prison life. $15 per day for 1–2 weeks beginning Aug 15.",
+  "author": "Recruitment advertisement for the Stanford prison experiment",
+  "work": "Palo Alto Times / The Stanford Daily, 1971, as shown in the Wikipedia article “Stanford prison experiment”",
+  "url": "https://en.wikipedia.org/wiki/Stanford_prison_experiment"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "How much were the students paid?",
+    "options": [
+     "$5 a day",
+     "$15 a day",
+     "$50 a day",
+     "Nothing"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "He paid 24 male college students $15 a day."
+   },
+   {
+    "q": "How long did the study actually last?",
+    "options": [
+     "Two weeks",
+     "Six days",
+     "One month",
+     "36 hours"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "Zimbardo stopped the study after only six days."
+   },
+   {
+    "q": "What did many guards later say?",
+    "options": [
+     "They were just acting",
+     "They were real prison guards",
+     "They enjoyed it",
+     "They were forced to stay"
+    ],
+    "a": 0,
+    "why": "第四段。",
+    "evidence": "Many guards later said they were just acting."
+   },
+   {
+    "q": "What important lesson does the article end with?",
+    "options": [
+     "Prisons are bad",
+     "Even famous studies need to be checked carefully",
+     "Never become a guard",
+     "Psychology is useless"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "even famous studies need to be checked carefully"
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "How were students assigned to be guards or prisoners?",
+    "options": [
+     "They chose",
+     "Randomly",
+     "By height",
+     "By grades"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "randomly assigned to be guards or prisoners"
+   },
+   {
+    "q": "Who challenged Zimbardo about the conditions?",
+    "options": [
+     "Douglas Korpi",
+     "Christina Maslach",
+     "Thibault Le Texier",
+     "David Jaffe"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "When the psychologist Christina Maslach visited and challenged Zimbardo about the conditions"
+   },
+   {
+    "q": "What did the 2017 recordings show?",
+    "options": [
+     "The warden urging a guard to be tougher",
+     "Prisoners escaping",
+     "Zimbardo apologising",
+     "Nothing important"
+    ],
+    "a": 0,
+    "why": "第四段。",
+    "evidence": "the “warden”, a research assistant, urging a guard to be tougher"
+   },
+   {
+    "q": "What did the BBC Prison Study conclude mattered more than the uniform?",
+    "options": [
+     "Money",
+     "Leadership and group identity",
+     "Age",
+     "The building"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "leadership and group identity mattered more than the uniform"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "Who funded the Stanford prison experiment?",
+    "options": [
+     "Stanford University only",
+     "The US Office of Naval Research",
+     "The BBC",
+     "A newspaper"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "funded by the US Office of Naval Research"
+   },
+   {
+    "q": "What are “demand characteristics”?",
+    "options": [
+     "Doing what participants believe the researchers want",
+     "Prison rules",
+     "Payment demands",
+     "Personality tests"
+    ],
+    "a": 0,
+    "why": "第三段。",
+    "evidence": "doing what they believed the researchers wanted"
+   },
+   {
+    "q": "Why might the advertisement have caused selection bias?",
+    "options": [
+     "It offered too little money",
+     "Advertising a study of “prison life” may have attracted applicants inclined towards aggression",
+     "It was only in one newspaper",
+     "It was written badly"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "may have attracted applicants already inclined towards aggression, a form of selection bias"
+   },
+   {
+    "q": "According to the writer, what kind of finding deserves more scrutiny?",
+    "options": [
+     "One that is boring",
+     "One that is dramatic, memorable and morally satisfying",
+     "One that is old",
+     "One that uses animals"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "A finding that is dramatic, memorable and morally satisfying deserves more scrutiny, not less."
+   }
+  ]
+ },
+ "reflections": [
+  "Have you ever behaved differently because you thought someone expected you to? What happened?",
+  "Why do you think the original story of the Stanford experiment was so popular for so long?"
+ ],
+ "videos": [
+  {
+   "title": "Revealing the Secrets | The Stanford Prison Experiment: Unlocking the Truth",
+   "channel": "YouTube · National Geographic UK",
+   "url": "https://www.youtube.com/watch?v=n8zQ1j4wKqI",
+   "kind": "YouTube",
+   "desc": "A clip from a 2024 documentary that re-examines the experiment. (4 min)",
+   "zh": "2024 年重新檢視這項實驗的紀錄片片段。（4 分鐘）",
+   "question": "Which criticism from this article appears in the clip?"
+  },
+  {
+   "title": "Behind the Scenes with Prisoner 416",
+   "channel": "YouTube · National Geographic",
+   "url": "https://www.youtube.com/watch?v=jEB6RQE8wp4",
+   "kind": "YouTube",
+   "desc": "A former participant describes his experience, including a hunger strike. (4 min)",
+   "zh": "一位當年的參與者講述他的經歷，包括一次絕食抗議。（4 分鐘）",
+   "question": "Does his account support the “acting” explanation or the “power of situations” explanation?"
+  }
+ ]
+}

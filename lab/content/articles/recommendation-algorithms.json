@@ -1,0 +1,476 @@
+{
+ "id": "recommendation-algorithms",
+ "category": "心理與數位生活",
+ "title": "Are Algorithms Trapping You in a Bubble?",
+ "subtitle": "演算法把你困在泡泡裡了嗎？同溫層的證據檢驗",
+ "source": "原創議題文章；依 Wikipedia〈Filter bubble〉、Bakshy et al.（Science, 2015）、Hosseinmardi et al.（PNAS, 2021）、Guess et al.（Science, 2023）摘要核對，2026-10-22",
+ "sources": [
+  {
+   "title": "Wikipedia: Filter bubble",
+   "url": "https://en.wikipedia.org/wiki/Filter_bubble",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Bakshy, E., Messing, S. & Adamic, L. A. (2015). Exposure to ideologically diverse news and opinion on Facebook. Science 348, 1130–1132.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25953820/",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Hosseinmardi, H. et al. (2021). Examining the consumption of radical content on YouTube. PNAS 118(32).",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34341121/",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Guess, A. M. et al. (2023). How do social media feed algorithms affect attitudes and behavior in an election campaign? Science 381, 398–404.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37498999/",
+   "accessed": "2026-10-22"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "Who Chooses What You See?",
+   "paras": [
+    [
+     "When you open a video app, the first videos you see are not random. A computer program called an algorithm chooses them for you. It looks at what you watched, liked and skipped before, and it guesses what you will want to watch next.",
+     "你打開影片 App 時，最先看到的影片並不是隨機的。一個叫作演算法的電腦程式幫你選好了。它會看你以前看了什麼、按讚了什麼、跳過了什麼，然後猜你接下來想看什麼。"
+    ],
+    [
+     "Around 2010, a writer called Eli Pariser worried about this. He said that algorithms might put each of us in a “filter bubble”. Inside the bubble, we only see things we already agree with, and we stop seeing different opinions. Many people believe this today.",
+     "大約在 2010 年，一位名叫伊萊．帕里澤的作家開始擔心這件事。他說，演算法可能會把我們每個人放進一個「過濾泡泡」裡。在泡泡裡，我們只看到自己原本就同意的東西，再也看不到不同的意見。今天很多人都相信這個說法。"
+    ],
+    [
+     "But scientists have tested this idea. In 2015, a study of 10.1 million Facebook users found that people’s own choices — what they clicked on — limited different opinions more than the algorithm did. In other words, the bubble was partly made by the users themselves. Another study of more than 300,000 Americans found no clear evidence that YouTube’s suggestions pushed people towards extreme political videos.",
+     "但科學家檢驗了這個想法。2015 年，一項針對 1,010 萬名 Facebook 用戶的研究發現，人們自己的選擇——他們點了什麼——比演算法更限制了他們接觸不同意見。換句話說，這個泡泡有一部分是使用者自己造成的。另一項針對 30 多萬名美國人的研究，也沒有找到明確證據顯示 YouTube 的推薦會把人推向極端的政治影片。"
+    ],
+    [
+     "In 2020, researchers tried an experiment. Some Facebook and Instagram users saw posts in time order instead of the algorithm’s order. These users spent less time on the apps. But after three months, their political opinions did not change much. They also saw more political posts and more posts from untrustworthy sources.",
+     "2020 年，研究人員做了一個實驗。一些 Facebook 和 Instagram 的使用者，改成依照時間順序看貼文，而不是演算法排列的順序。這些人花在 App 上的時間變少了。但三個月後，他們的政治觀點並沒有太大的改變。他們也看到更多政治貼文，以及更多來自不可信來源的貼文。"
+    ],
+    [
+     "So are algorithms bad? The answer is not simple. Algorithms do decide much of what we see, and they can keep us on our phones longer. But our own choices matter too. The best way out of a bubble may be to choose, on purpose, to look at different ideas.",
+     "那麼，演算法是壞的嗎？答案並不簡單。演算法確實決定了我們看到的許多內容，也可能讓我們滑手機滑得更久。但我們自己的選擇也很重要。走出泡泡最好的方法，也許是刻意選擇去看不同的想法。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "Are Algorithms Trapping You in a Bubble?",
+   "paras": [
+    [
+     "Every time you scroll through a social media feed, an algorithm is making decisions for you. It ranks posts and videos based on what you have watched, liked, shared and ignored before, trying to predict what will keep you engaged. Because each person’s feed is different, two friends using the same app may see very different versions of the world.",
+     "每次你滑社群媒體的動態時，演算法都在替你做決定。它根據你過去看了什麼、按讚、分享和忽略了什麼，為貼文和影片排序，試圖預測什麼能讓你持續投入。因為每個人的動態都不一樣，兩個用同一個 App 的朋友，可能看到截然不同的世界。"
+    ],
+    [
+     "Around 2010, the internet activist Eli Pariser coined the term “filter bubble” to describe this effect. In his 2011 book, he predicted that personalisation would lead to intellectual isolation: people would see mainly information that confirmed their existing views. In one example, he asked friends to search Google for “Egypt”. One friend’s first page featured news about the revolution then taking place; another’s did not.",
+     "大約在 2010 年，網路行動者伊萊．帕里澤創造了「過濾泡泡」一詞來描述這種效應。他在 2011 年的書中預測，個人化會導致知識上的孤立：人們主要只會看到證實自己既有觀點的資訊。在一個例子中，他請朋友們用 Google 搜尋「埃及」。一位朋友的第一頁出現了當時正在發生的革命新聞，另一位的卻沒有。"
+    ],
+    [
+     "The idea is convincing, but research has complicated it. A 2015 study of 10.1 million US Facebook users, published in Science, measured how much people encountered news from the other side of politics. It found that, compared with the algorithm’s ranking, people’s own choices about what to click played a stronger role in limiting their exposure to different views. A 2021 study of more than 300,000 Americans found no evidence that YouTube recommendations systematically pushed viewers towards far-right content.",
+     "這個想法很有說服力，但研究讓它變得更複雜。2015 年發表在《科學》期刊、針對 1,010 萬名美國 Facebook 用戶的研究，測量了人們接觸到政治光譜另一端新聞的程度。研究發現，和演算法的排序相比，人們自己選擇點擊什麼，對限制他們接觸不同觀點的影響更大。2021 年一項針對 30 多萬名美國人的研究，也沒有發現 YouTube 的推薦會系統性地把觀眾推向極右派內容。"
+    ],
+    [
+     "The most direct test came during the 2020 US election. Researchers moved a sample of consenting Facebook and Instagram users from algorithmic feeds to feeds showing posts in reverse time order. These users spent substantially less time on the platforms and saw a different mix of content — including, on both platforms, more political and untrustworthy content. Yet over three months, the change did not significantly alter their levels of political polarisation or other key attitudes. On Facebook, they also saw less content containing insults.",
+     "最直接的檢驗出現在 2020 年美國大選期間。研究人員把一群同意參加的 Facebook 和 Instagram 使用者，從演算法動態改成依時間倒序顯示貼文的動態。這些使用者花在平台上的時間大幅減少，看到的內容組合也不同了——包括在兩個平台上都看到更多政治內容和不可信的內容。然而在三個月內，這個改變並沒有顯著影響他們的政治極化程度或其他關鍵態度。在 Facebook 上，他們看到的辱罵內容也變少了。"
+    ],
+    [
+     "None of this means algorithms are harmless. They clearly shape how long we stay online and what we see. But the evidence suggests that the simple story — algorithms trap innocent users in bubbles — is incomplete. Our own habits help build the walls. Escaping a bubble, then, may depend less on changing the code than on deliberately seeking out sources we would not normally choose.",
+     "這一切並不代表演算法是無害的。它們顯然影響了我們上網多久、看到什麼。但證據顯示，「演算法把無辜的使用者困在泡泡裡」這個簡單的故事並不完整。我們自己的習慣也在幫忙築牆。因此，要走出泡泡，與其說取決於修改程式碼，不如說取決於刻意去尋找我們平常不會選擇的資訊來源。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "Filter Bubbles, Choices and the Limits of Algorithmic Blame",
+   "paras": [
+    [
+     "Recommendation algorithms now mediate much of what people read, watch and hear. By ranking content according to past behaviour — what we have viewed, liked, shared or skipped — they attempt to predict what will hold our attention. The resulting feeds are personalised to a degree that would have been impossible a generation ago, so that two people using the same platform may encounter strikingly different information environments.",
+     "推薦演算法如今左右了人們所讀、所看、所聽的大部分內容。它們根據過去的行為——我們看過、按讚、分享或略過了什麼——為內容排序，試圖預測什麼能抓住我們的注意力。由此產生的動態，個人化的程度是一個世代以前無法想像的，以至於兩個使用同一平台的人，可能面對截然不同的資訊環境。"
+    ],
+    [
+     "The most influential critique of this development came from the internet activist Eli Pariser, who coined the term “filter bubble” around 2010. In his 2011 book, he predicted that algorithmic personalisation would produce intellectual isolation and social fragmentation, as users were shown mainly material that confirmed their existing beliefs. His illustrations were vivid: when friends searched Google for “Egypt”, one received prominent coverage of the revolution then under way, while another did not. The metaphor proved so intuitive that it quickly became conventional wisdom. Few metaphors in recent media criticism have travelled so far.",
+     "對這種發展最具影響力的批評，來自網路行動者伊萊．帕里澤，他在 2010 年左右創造了「過濾泡泡」一詞。他在 2011 年的書中預測，演算法個人化會造成知識孤立與社會分裂，因為使用者主要只會看到證實自己既有信念的內容。他的例子很生動：朋友們用 Google 搜尋「埃及」時，其中一人得到當時正在進行的革命的大幅報導，另一人卻沒有。這個比喻直觀到很快就成為普遍的共識。近年的媒體批評中，很少有比喻傳播得這麼廣。"
+    ],
+    [
+     "Empirical research, however, has repeatedly complicated the picture. In 2015, researchers at Facebook analysed de-identified data from 10.1 million US users and concluded that, compared with algorithmic ranking, individuals’ own choices played a stronger role in limiting exposure to ideologically cross-cutting content. A 2021 study using the browsing records of a representative panel of more than 300,000 Americans found that political news consumption on YouTube was dominated by mainstream sources, and reported no evidence that engagement with far-right content was systematically caused by recommendations. Instead, consumption appeared to reflect individual preferences extending across the web as a whole.",
+     "然而，實證研究一再讓這幅圖像變得更複雜。2015 年，Facebook 的研究人員分析了 1,010 萬名美國用戶的去識別化資料，結論是：與演算法排序相比，個人自己的選擇對限制接觸跨意識形態內容的影響更大。2021 年一項研究，使用了一個具代表性、超過 30 萬名美國人的樣本的瀏覽紀錄，發現 YouTube 上的政治新聞消費以主流來源為主，也沒有證據顯示對極右派內容的投入是推薦系統性造成的。相反地，這種消費似乎反映了延伸到整個網路的個人偏好。"
+    ],
+    [
+     "The most rigorous test was a field experiment conducted during the 2020 US election. Researchers assigned consenting Facebook and Instagram users to reverse-chronological feeds instead of the default algorithms. The intervention substantially reduced the time users spent on the platforms and altered what they saw: exposure to political and untrustworthy content increased on both platforms, while exposure to uncivil content decreased on Facebook. Despite these substantial changes, the chronological feed did not significantly alter issue polarisation, affective polarisation or political knowledge over the three-month study period.",
+     "最嚴謹的檢驗，是 2020 年美國大選期間進行的一項田野實驗。研究人員把同意參加的 Facebook 和 Instagram 使用者，從預設演算法改成依時間倒序排列的動態。這項介入大幅減少了使用者花在平台上的時間，也改變了他們看到的內容：兩個平台上接觸政治與不可信內容的比例都增加了，而 Facebook 上接觸不文明內容的比例則減少了。儘管有這些實質變化，在三個月的研究期間，時間序動態並沒有顯著改變議題極化、情感極化或政治知識。"
+    ],
+    [
+     "These findings do not exonerate algorithms. They plainly influence attention, time spent online and the composition of what people encounter, and short experiments cannot capture effects that may accumulate over years. Several of the studies also involved researchers employed by the platforms themselves, a fact that readers may reasonably keep in mind. Nevertheless, the evidence undermines the simplest version of the filter-bubble story, in which passive users are imprisoned by code. The walls of our information environments appear to be built jointly, by algorithms and by our own preferences, which suggests that the most reliable way out is a deliberate habit of seeking perspectives we would not choose by default.",
+     "這些發現並沒有為演算法開脫。它們明顯影響了注意力、上網時間，以及人們接觸到的內容組成，而短期實驗也無法捕捉到可能經年累積的效應。其中幾項研究也有平台本身聘雇的研究人員參與，讀者理應把這一點放在心上。儘管如此，這些證據削弱了過濾泡泡故事最簡化的版本——被動的使用者被程式碼囚禁。我們資訊環境的牆，似乎是由演算法和我們自己的偏好共同築起的；這意味著最可靠的出路，是養成刻意尋找我們預設不會選擇的觀點的習慣。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "how-it-works",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "filter-bubble",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "choices",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "experiment",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "conclusion",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "algorithm",
+   "pos": "n.",
+   "meaning": "演算法",
+   "example": "The algorithm decides the order of posts.",
+   "family": "algorithmic (adj.)"
+  },
+  {
+   "w": "random",
+   "pos": "adj.",
+   "meaning": "隨機的",
+   "example": "The winner was chosen at random.",
+   "family": "randomly (adv.)"
+  },
+  {
+   "w": "opinions",
+   "pos": "n.",
+   "meaning": "意見、觀點（複數）",
+   "example": "Everyone has different opinions.",
+   "family": "opinion (sing.)"
+  },
+  {
+   "w": "political",
+   "pos": "adj.",
+   "meaning": "政治的",
+   "example": "They discussed political issues.",
+   "family": "politics (n.)"
+  },
+  {
+   "w": "engaged",
+   "pos": "adj.",
+   "meaning": "投入的",
+   "example": "The students were engaged in the lesson.",
+   "family": "engage (v.), engagement (n.)"
+  },
+  {
+   "w": "personalisation",
+   "pos": "n.",
+   "meaning": "個人化",
+   "example": "Personalisation makes ads more effective.",
+   "family": "personal (adj.)"
+  },
+  {
+   "w": "isolation",
+   "pos": "n.",
+   "meaning": "孤立",
+   "example": "Isolation can be harmful.",
+   "family": "isolate (v.)"
+  },
+  {
+   "w": "untrustworthy",
+   "pos": "adj.",
+   "meaning": "不可信的",
+   "example": "That website is untrustworthy.",
+   "family": "trust (n./v.)"
+  },
+  {
+   "w": "polarisation",
+   "pos": "n.",
+   "meaning": "極化、兩極分化",
+   "example": "Political polarisation is increasing.",
+   "family": "polarise (v.)"
+  },
+  {
+   "w": "mediate",
+   "pos": "v.",
+   "meaning": "居中影響、作為媒介",
+   "example": "Teachers mediate between students and knowledge.",
+   "family": "media (n.)"
+  },
+  {
+   "w": "empirical",
+   "pos": "adj.",
+   "meaning": "實證的",
+   "example": "We need empirical evidence.",
+   "family": "empirically (adv.)"
+  },
+  {
+   "w": "exonerate",
+   "pos": "v.",
+   "meaning": "開脫、證明無罪",
+   "example": "The new evidence exonerated him.",
+   "family": "exoneration (n.)"
+  },
+  {
+   "w": "accumulate",
+   "pos": "v.",
+   "meaning": "累積",
+   "example": "Dust accumulates quickly.",
+   "family": "accumulation (n.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "in other words",
+   "type": "phrase",
+   "meaning": "換句話說",
+   "usage": "換個方式說明。",
+   "example": "He failed — in other words, he must try again.",
+   "writing": "In other words, S + V"
+  },
+  {
+   "phrase": "on purpose",
+   "type": "phrase",
+   "meaning": "刻意地",
+   "usage": "= deliberately。",
+   "example": "She left the door open on purpose.",
+   "writing": "S + choose, on purpose, to + V"
+  },
+  {
+   "phrase": "seeking out",
+   "type": "phrase",
+   "meaning": "主動尋找（seek out 的 V-ing）",
+   "usage": "seek out + N。",
+   "example": "He enjoys seeking out new restaurants.",
+   "writing": "by deliberately seeking out + N"
+  },
+  {
+   "phrase": "under way",
+   "type": "phrase",
+   "meaning": "正在進行中",
+   "usage": "be under way。",
+   "example": "The project is already under way.",
+   "writing": "the revolution then under way"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "S + depends less on A than on B",
+   "meaning": "……與其說取決於 A，不如說取決於 B",
+   "example": "Escaping a bubble may depend less on changing the code than on deliberately seeking out sources.",
+   "tip": "less…than… 比較兩種因素。"
+  },
+  {
+   "frame": "None of this means A. But the evidence suggests that B",
+   "meaning": "這一切不代表 A，但證據顯示 B",
+   "example": "None of this means algorithms are harmless. But the evidence suggests that the simple story is incomplete.",
+   "tip": "避免過度推論的平衡句型。"
+  },
+  {
+   "frame": "Despite A, S + did not significantly + V",
+   "meaning": "儘管 A，……並沒有顯著……",
+   "example": "Despite these substantial changes, the chronological feed did not significantly alter polarisation.",
+   "tip": "描述出人意料的研究結果。"
+  }
+ ],
+ "quote": {
+  "text": "Compared with algorithmic ranking, individuals’ choices played a stronger role in limiting exposure to cross-cutting content.",
+  "author": "Bakshy, Messing & Adamic",
+  "work": "“Exposure to ideologically diverse news and opinion on Facebook”, Science (2015)",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25953820/"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "What does an algorithm use to choose videos for you?",
+    "options": [
+     "Your age only",
+     "What you watched, liked and skipped before",
+     "Random numbers",
+     "Your teacher’s choices"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "It looks at what you watched, liked and skipped before"
+   },
+   {
+    "q": "What is a “filter bubble”?",
+    "options": [
+     "A kind of soap",
+     "A place where we only see things we already agree with",
+     "A new app",
+     "A computer virus"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "Inside the bubble, we only see things we already agree with"
+   },
+   {
+    "q": "What did the 2015 study find?",
+    "options": [
+     "The algorithm did everything",
+     "People’s own choices limited different opinions more than the algorithm did",
+     "Facebook has no algorithm",
+     "People read everything"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "people’s own choices — what they clicked on — limited different opinions more than the algorithm did"
+   },
+   {
+    "q": "What happened to users who saw posts in time order?",
+    "options": [
+     "They spent less time on the apps",
+     "They changed all their opinions",
+     "They left the apps forever",
+     "Nothing changed at all"
+    ],
+    "a": 0,
+    "why": "第四段。",
+    "evidence": "These users spent less time on the apps."
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "What did Pariser’s “Egypt” example show?",
+    "options": [
+     "Google is always the same for everyone",
+     "Different people got different search results",
+     "Egypt was not in the news",
+     "Google was blocked"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "One friend’s first page featured news about the revolution then taking place; another’s did not."
+   },
+   {
+    "q": "What did the 2021 YouTube study find?",
+    "options": [
+     "Recommendations systematically pushed viewers to far-right content",
+     "No evidence that recommendations systematically pushed viewers to far-right content",
+     "YouTube has no political content",
+     "Everyone became radical"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "found no evidence that YouTube recommendations systematically pushed viewers towards far-right content"
+   },
+   {
+    "q": "What did users with time-ordered feeds see more of?",
+    "options": [
+     "Political and untrustworthy content",
+     "Only friends’ photos",
+     "Fewer posts",
+     "Only advertisements"
+    ],
+    "a": 0,
+    "why": "第四段。",
+    "evidence": "more political and untrustworthy content"
+   },
+   {
+    "q": "According to the writer, what may help us escape a bubble?",
+    "options": [
+     "Changing the code",
+     "Deliberately seeking out sources we would not normally choose",
+     "Deleting all apps",
+     "Following more friends who agree with us"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "deliberately seeking out sources we would not normally choose"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "What did Pariser predict personalisation would produce?",
+    "options": [
+     "Intellectual isolation and social fragmentation",
+     "More diverse news",
+     "Faster internet",
+     "Better search results"
+    ],
+    "a": 0,
+    "why": "第二段。",
+    "evidence": "would produce intellectual isolation and social fragmentation"
+   },
+   {
+    "q": "According to the 2021 study, what did YouTube political consumption appear to reflect?",
+    "options": [
+     "Recommendations alone",
+     "Individual preferences extending across the web",
+     "Government control",
+     "Random chance"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "consumption appeared to reflect individual preferences extending across the web as a whole"
+   },
+   {
+    "q": "What did the 2020 experiment NOT significantly change?",
+    "options": [
+     "Time spent on platforms",
+     "Exposure to political content",
+     "Polarisation and political knowledge",
+     "Exposure to uncivil content"
+    ],
+    "a": 2,
+    "why": "第四段。",
+    "evidence": "did not significantly alter issue polarisation, affective polarisation or political knowledge"
+   },
+   {
+    "q": "Which limitation of the studies does the writer mention?",
+    "options": [
+     "Several involved researchers employed by the platforms",
+     "They used too few people",
+     "They were done in Egypt",
+     "They ignored algorithms"
+    ],
+    "a": 0,
+    "why": "最後一段。",
+    "evidence": "Several of the studies also involved researchers employed by the platforms themselves"
+   }
+  ]
+ },
+ "reflections": [
+  "Look at the first ten videos or posts recommended to you today. How many show a view you disagree with? Is that the algorithm’s fault, your own choices, or both?",
+  "Should platforms let users choose between an algorithmic feed and a time-ordered feed? Explain your view."
+ ],
+ "videos": [
+  {
+   "title": "Beware online “filter bubbles”",
+   "channel": "TED2011 · Eli Pariser",
+   "url": "https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles",
+   "kind": "TED",
+   "desc": "The talk that made the term “filter bubble” famous.",
+   "zh": "讓「過濾泡泡」一詞聞名的演講。",
+   "question": "Which of Pariser’s predictions has later research supported, and which has it questioned?"
+  },
+  {
+   "title": "What exactly is an algorithm? Algorithms explained",
+   "channel": "YouTube · BBC Ideas",
+   "url": "https://www.youtube.com/watch?v=ZnBF2GeAKbo",
+   "kind": "YouTube",
+   "desc": "A clear introduction to what algorithms are and how they shape our lives. (8 min)",
+   "zh": "清楚介紹演算法是什麼，以及它如何影響我們的生活。（8 分鐘）",
+   "question": "According to the video, who is responsible for the decisions algorithms make?"
+  },
+  {
+   "title": "What's an algorithm?",
+   "channel": "TED-Ed · David J. Malan",
+   "url": "https://www.youtube.com/watch?v=6hfOvs8pY1k",
+   "kind": "TED-Ed",
+   "desc": "A simple explanation of how algorithms solve problems step by step. (5 min)",
+   "zh": "簡單說明演算法如何一步步解決問題。（5 分鐘）",
+   "question": "How is a recommendation algorithm different from the simple examples in the video?"
+  }
+ ]
+}

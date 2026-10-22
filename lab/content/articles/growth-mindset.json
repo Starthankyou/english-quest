@@ -1,0 +1,467 @@
+{
+ "id": "growth-mindset",
+ "category": "學習科學",
+ "title": "Does a Growth Mindset Really Work?",
+ "subtitle": "成長型思維真的有用嗎？一個熱門理論的證據檢驗",
+ "source": "原創議題文章；依 Mueller & Dweck（1998）、Sisk et al.（2018）、Yeager et al.（Nature, 2019）、Macnamara & Burgoyne（2023）論文摘要核對，2026-10-22",
+ "sources": [
+  {
+   "title": "Mueller, C. M. & Dweck, C. S. (1998). Praise for intelligence can undermine children's motivation and performance. Journal of Personality and Social Psychology 75(1), 33–52.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9686450/",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Sisk, V. F. et al. (2018). To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses. Psychological Science 29(4), 549–571.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29505339/",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Yeager, D. S. et al. (2019). A national experiment reveals where a growth mindset improves achievement. Nature 573, 364–369.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31391586/",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Macnamara, B. N. & Burgoyne, A. P. (2023). Do growth mindset interventions impact students' academic achievement? Psychological Bulletin 149(3–4), 133–173.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36326645/",
+   "accessed": "2026-10-22"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "Can You Grow Your Brain?",
+   "paras": [
+    [
+     "Do you think intelligence is something you are born with, or something you can develop? The psychologist Carol Dweck says people have different “mindsets”. People with a fixed mindset think ability cannot change. People with a growth mindset think ability can grow with effort.",
+     "你認為聰明才智是天生的，還是可以培養的？心理學家卡蘿．杜維克說，人們有不同的「心態」。抱持定型心態的人認為能力無法改變；抱持成長型思維的人則認為，只要努力，能力就能成長。"
+    ],
+    [
+     "In a famous study in 1998, Dweck and a colleague gave children puzzles. Some children were praised for being smart. Others were praised for working hard. Later, when the puzzles became difficult, the children praised for effort kept trying longer and enjoyed the work more. Children praised for being smart were also more likely to say that intelligence cannot change.",
+     "在 1998 年一項著名的研究中，杜維克和一位同事讓孩子們做謎題。有些孩子被稱讚很聰明，另一些則被稱讚很努力。後來謎題變難時，被稱讚努力的孩子堅持得更久，也更喜歡這項任務。被稱讚聰明的孩子，也比較容易說智力是無法改變的。"
+    ],
+    [
+     "The idea became very popular. Many schools around the world started teaching students about growth mindset. Posters on classroom walls say things like “Mistakes help me learn!” But does teaching this idea really help students get better grades?",
+     "這個概念變得非常熱門。世界各地許多學校開始教學生成長型思維。教室牆上的海報寫著「錯誤幫助我學習！」之類的話。但是，教這個概念真的能幫助學生考得更好嗎？"
+    ],
+    [
+     "Some large studies found only small effects. A 2023 review of 63 studies found that the best studies showed almost no effect on grades. However, a large study in 2019 found that a short online lesson did help lower-achieving students a little, especially in schools where friends supported the message. In the 2019 study, the lesson also made more students choose harder math classes. Scientists still argue about how much growth mindset really helps.",
+     "一些大型研究只發現很小的效果。2023 年一篇整理了 63 項研究的回顧發現，品質最好的研究幾乎沒有顯示對成績的影響。不過，2019 年的一項大型研究發現，一堂簡短的線上課程確實對成績較落後的學生有一點幫助，尤其是在同學們支持這個觀念的學校裡。在 2019 年的研究中，這堂課也讓更多學生選修較難的數學課。科學家們至今仍在爭論，成長型思維到底有多大幫助。"
+    ],
+    [
+     "So what should we believe? Growth mindset is probably not magic. A poster alone will not change your grades. But believing you can improve may still help, especially when it comes with good teaching, real practice and friends who also try hard.",
+     "那麼，我們該相信什麼？成長型思維大概不是魔法。光靠一張海報不會改變你的成績。但相信自己能進步，也許還是有幫助的，尤其是搭配好的教學、真正的練習，以及同樣努力的朋友。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "Does a Growth Mindset Really Work?",
+   "paras": [
+    [
+     "Few ideas from psychology have spread through schools as quickly as the “growth mindset”. Developed by Stanford psychologist Carol Dweck, the theory holds that people with a growth mindset — who believe abilities such as intelligence can be developed through effort — achieve more than people with a fixed mindset, who believe those abilities cannot change. Posters, lessons and teacher-training programmes based on the idea now appear around the world.",
+     "很少有心理學概念能像「成長型思維」一樣，在學校裡傳播得這麼快。這個理論由史丹佛心理學家卡蘿．杜維克提出，主張抱持成長型思維的人——相信智力等能力可以透過努力培養——會比抱持定型心態、認為這些能力無法改變的人成就更高。以此為基礎的海報、課程和教師培訓計畫，如今遍布全世界。"
+    ],
+    [
+     "Early evidence was striking. In a 1998 series of six studies, Mueller and Dweck found that fifth graders praised for their intelligence cared more about looking good than about learning. After failing, they showed less persistence, enjoyed the task less and performed worse than children praised for their effort. Those praised for intelligence were also more likely to describe it as a fixed trait.",
+     "早期的證據相當驚人。在 1998 年的一系列共六項研究中，穆勒和杜維克發現，被稱讚聰明的五年級學生，比較在乎表現得好看，而不是學到東西。失敗之後，他們比被稱讚努力的孩子更沒有毅力、更不喜歡這項任務，表現也更差。被稱讚聰明的孩子，也更傾向把智力描述成固定不變的特質。"
+    ],
+    [
+     "However, larger reviews have produced more modest results. A 2018 pair of meta-analyses covering hundreds of thousands of students found that the overall effects of mindset on achievement, and of mindset interventions on achievement, were weak. A 2023 review went further: after examining study quality and correcting for possible publication bias, it found that the highest-quality studies showed no significant effect on grades. In fact, even when the review looked only at studies in which the lessons had successfully changed students’ mindsets, the effect on grades was still not significant.",
+     "然而，規模更大的回顧研究得出的結果較為溫和。2018 年的兩篇統合分析涵蓋了數十萬名學生，發現心態對學業成就的整體影響，以及心態介入對學業成就的影響，都很微弱。2023 年的一篇回顧更進一步：在檢視研究品質並修正可能的發表偏誤後，發現品質最高的研究對成績沒有顯著影響。事實上，即使只看那些成功改變了學生心態的研究，對成績的影響仍然不顯著。"
+    ],
+    [
+     "Supporters point to a different kind of evidence. In 2019, a team including Dweck tested a short online lesson, lasting less than an hour, on a nationally representative sample of American secondary-school students. The lesson improved grades among lower-achieving students, but mainly in schools where the peer norms matched its message. The researchers also pre-registered their analyses to reduce the risk of bias. It also increased the number of students who signed up for advanced mathematics courses.",
+     "支持者則提出另一種證據。2019 年，一個包括杜維克在內的團隊，在具全國代表性的美國中學生樣本中，測試了一堂不到一小時的線上課程。這堂課提升了成績較落後學生的成績，但主要發生在同儕風氣與課程訊息一致的學校裡。研究人員也事先登記了分析方法，以降低偏誤的風險。它也讓報名進階數學課的學生人數增加了。"
+    ],
+    [
+     "The debate offers a useful lesson in itself. A theory can contain real insight and still be oversold. Praising effort rather than talent may be wise, and some students may benefit from learning that ability can grow. But a short lesson or a poster is unlikely to transform achievement on its own. As with most ideas in education, context, quality and honest measurement matter.",
+     "這場爭論本身就提供了有用的教訓：一個理論可以包含真正的洞見，同時也被過度推銷。稱讚努力而非天分或許是明智的，有些學生也可能因為學到「能力可以成長」而受益。但一堂簡短的課或一張海報，不太可能單獨改變學業成就。就像教育中大多數的觀念一樣，情境、品質和誠實的測量都很重要。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "Insight, Hype and the Evidence on Mindsets",
+   "paras": [
+    [
+     "Mindset theory, developed by the psychologist Carol Dweck, makes an appealing claim. People who hold a growth mindset — the belief that attributes such as intelligence are malleable with effort — are said to enjoy better outcomes, including higher achievement, than those with a fixed mindset. Because beliefs seem easier to change than circumstances, the theory has inspired interventions in schools around the world. Its popularity makes it an ideal case study in how educational ideas should be evaluated.",
+     "由心理學家卡蘿．杜維克提出的心態理論，提出了一個吸引人的主張：抱持成長型思維——相信智力等特質可以透過努力改變——的人，據說會比抱持定型心態的人有更好的結果，包括更高的學業成就。因為改變信念似乎比改變處境容易，這個理論啟發了世界各地學校的介入措施。它的熱門程度，使它成為檢驗教育觀念應如何被評估的理想案例。"
+    ],
+    [
+     "The foundational evidence was compelling. In six studies published in 1998, Mueller and Dweck found that fifth graders praised for intelligence subsequently prioritised performance goals over learning goals. After failure, they displayed less persistence and enjoyment, attributed difficulty to low ability and performed worse than peers praised for effort. They were also more likely to describe intelligence as fixed. The implication seemed clear: how we talk about ability shapes how children respond to challenge.",
+     "奠基性的證據相當有說服力。在 1998 年發表的六項研究中，穆勒和杜維克發現，被稱讚聰明的五年級學生，之後會把表現目標看得比學習目標重要。失敗後，他們表現出較少的毅力和樂趣，把困難歸因於能力不足，表現也比被稱讚努力的同儕差。他們也更傾向把智力描述為固定不變。其意涵似乎很清楚：我們如何談論能力，會影響孩子如何面對挑戰。"
+    ],
+    [
+     "Subsequent syntheses, however, have tempered expectations. In 2018, Sisk and colleagues published two meta-analyses: one examining the link between mindset and achievement across 273 studies and more than 365,000 participants, and another assessing mindset interventions across 43 studies. Overall effects in both were weak, though some results suggested that students from low socioeconomic backgrounds or at academic risk might benefit. A 2023 review by Macnamara and Burgoyne was sharper still. Examining 63 studies, it reported major shortcomings in design and reporting, found that authors with a financial incentive reported larger effects, and observed that the small overall effect became nonsignificant after correction for publication bias. Even among the thirteen studies in which the intervention demonstrably changed students’ mindsets as intended, the effect on achievement was not significant.",
+     "然而，後續的綜合研究降低了期望。2018 年，西斯克與同事發表了兩篇統合分析：一篇檢視 273 項研究、超過 36.5 萬名參與者中心態與學業成就的關聯；另一篇評估 43 項研究中的心態介入。兩者的整體效果都很微弱，不過部分結果顯示，社經背景較低或學業高風險的學生可能受益。2023 年，麥克納瑪拉和伯戈因的回顧更加尖銳。他們檢視了 63 項研究，指出設計與報告上的重大缺陷，發現有經濟誘因的作者報告的效果較大，並觀察到微小的整體效果在修正發表偏誤後變得不顯著。即使在那十三項介入確實如預期改變了學生心態的研究中，對學業成就的影響也不顯著。"
+    ],
+    [
+     "Proponents respond that averages can hide important differences. In 2019, a large team including Dweck reported a national experiment in the United States in which a growth mindset lesson lasting less than an hour, delivered online, improved grades among lower-achieving students and increased enrolment in advanced mathematics. Crucially, the effects depended on context: grades improved where peer norms aligned with the intervention’s message. The study’s credibility was strengthened by independent data collection and pre-registered analyses. Its conclusions were further checked with a blinded Bayesian analysis.",
+     "支持者回應說，平均值可能掩蓋重要的差異。2019 年，一個包括杜維克在內的大型團隊，發表了一項美國全國性實驗：一堂不到一小時、以線上方式進行的成長型思維課程，提升了成績較落後學生的成績，並增加了選修進階數學的人數。關鍵在於，效果取決於情境：只有在同儕風氣與介入訊息一致的地方，成績才會提升。獨立的資料蒐集和事先登記的分析，強化了這項研究的可信度。它的結論還經過了盲化的貝氏分析進一步檢驗。"
+    ],
+    [
+     "The mindset debate illustrates a recurring pattern in applied psychology. A genuine insight from small, carefully controlled studies is scaled up, simplified and marketed, and its effects shrink under rigorous testing. That does not make the original insight worthless; it suggests that effects may be smaller, more conditional and more dependent on implementation than early enthusiasm implied. For teachers and students, the most defensible conclusion is modest: praising effort and strategy is reasonable, but no brief intervention substitutes for good teaching, sustained practice and supportive environments. The debate remains open.",
+     "心態理論的爭論，說明了應用心理學中反覆出現的模式：一個來自小型、嚴格控制研究的真實洞見，被擴大、簡化並包裝推銷，而在嚴謹檢驗下，它的效果就縮小了。這不代表原本的洞見毫無價值；它顯示效果可能比早期熱潮所暗示的更小、更有條件，也更取決於執行方式。對老師和學生來說，最站得住腳的結論是溫和的：稱讚努力和策略是合理的，但沒有任何短暫的介入能取代好的教學、持續的練習和支持性的環境。這場爭論仍未結束。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "theory",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "praise-study",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "meta-analyses",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "national-study",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "conclusion",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "intelligence",
+   "pos": "n.",
+   "meaning": "智力",
+   "example": "Intelligence is hard to measure.",
+   "family": "intelligent (adj.)"
+  },
+  {
+   "w": "praised",
+   "pos": "v.",
+   "meaning": "稱讚（p.p.）",
+   "example": "She was praised for her hard work.",
+   "family": "praise (n.)"
+  },
+  {
+   "w": "effort",
+   "pos": "n.",
+   "meaning": "努力",
+   "example": "Learning a language takes effort.",
+   "family": "effortless (adj.)"
+  },
+  {
+   "w": "effects",
+   "pos": "n.",
+   "meaning": "效果、影響（複數）",
+   "example": "The medicine had no side effects.",
+   "family": "effective (adj.)"
+  },
+  {
+   "w": "persistence",
+   "pos": "n.",
+   "meaning": "毅力、堅持",
+   "example": "Persistence is the key to success.",
+   "family": "persist (v.)"
+  },
+  {
+   "w": "modest",
+   "pos": "adj.",
+   "meaning": "溫和的、不大的",
+   "example": "The results were modest.",
+   "family": "modesty (n.)"
+  },
+  {
+   "w": "representative",
+   "pos": "adj.",
+   "meaning": "具代表性的",
+   "example": "We need a representative sample.",
+   "family": "represent (v.)"
+  },
+  {
+   "w": "oversold",
+   "pos": "v.",
+   "meaning": "過度推銷、誇大（p.p.）",
+   "example": "The new phone was oversold.",
+   "family": "oversell (v.)"
+  },
+  {
+   "w": "malleable",
+   "pos": "adj.",
+   "meaning": "可塑的",
+   "example": "Young minds are malleable.",
+   "family": "malleability (n.)"
+  },
+  {
+   "w": "tempered",
+   "pos": "v.",
+   "meaning": "緩和、降低（過去式）",
+   "example": "The news tempered our excitement.",
+   "family": "temper (v./n.)"
+  },
+  {
+   "w": "incentive",
+   "pos": "n.",
+   "meaning": "誘因",
+   "example": "Money is a strong incentive.",
+   "family": "—"
+  },
+  {
+   "w": "proponents",
+   "pos": "n.",
+   "meaning": "支持者、提倡者（複數）",
+   "example": "Proponents of the plan say it will save money.",
+   "family": "propose (v.)"
+  },
+  {
+   "w": "conditional",
+   "pos": "adj.",
+   "meaning": "有條件的",
+   "example": "The offer is conditional on your grades.",
+   "family": "condition (n.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "kept trying",
+   "type": "phrase",
+   "meaning": "持續嘗試（keep V-ing 的過去式）",
+   "usage": "keep + V-ing：持續做某事。",
+   "example": "She kept trying until she succeeded.",
+   "writing": "S + kept trying longer"
+  },
+  {
+   "phrase": "on its own",
+   "type": "phrase",
+   "meaning": "單獨、靠它自己",
+   "usage": "強調不靠其他因素。",
+   "example": "Money on its own cannot make you happy.",
+   "writing": "N + is unlikely to + V + on its own"
+  },
+  {
+   "phrase": "point to",
+   "type": "phrase",
+   "meaning": "指出、提出（作為證據）",
+   "usage": "point to + 證據。",
+   "example": "Scientists point to rising temperatures.",
+   "writing": "Supporters point to + N"
+  },
+  {
+   "phrase": "scaled up",
+   "type": "phrase",
+   "meaning": "擴大規模（scale up 的 p.p.）",
+   "usage": "scale up a project/idea。",
+   "example": "The program was scaled up to 100 schools.",
+   "writing": "N + is scaled up"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "A theory can contain real insight and still be oversold",
+   "meaning": "一個理論可以包含真正的洞見，同時也被過度推銷",
+   "example": "A theory can contain real insight and still be oversold.",
+   "tip": "批判思考的平衡句型。"
+  },
+  {
+   "frame": "That does not make A worthless; it suggests that B",
+   "meaning": "這不代表 A 毫無價值；它顯示 B",
+   "example": "That does not make the original insight worthless; it suggests that effects may be smaller.",
+   "tip": "避免從「效果小」跳到「完全沒用」。"
+  },
+  {
+   "frame": "No N substitutes for A, B and C",
+   "meaning": "沒有任何……能取代 A、B 和 C",
+   "example": "No brief intervention substitutes for good teaching, sustained practice and supportive environments.",
+   "tip": "結論常用句型。"
+  }
+ ],
+ "quote": {
+  "text": "We conclude that apparent effects of growth mindset interventions on academic achievement are likely attributable to inadequate study design, reporting flaws, and bias.",
+  "author": "Macnamara & Burgoyne",
+  "work": "Psychological Bulletin (2023), abstract — one side of an ongoing scientific debate",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36326645/"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "What do people with a growth mindset believe?",
+    "options": [
+     "Ability cannot change",
+     "Ability can grow with effort",
+     "Only geniuses succeed",
+     "Grades are not important"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "People with a growth mindset think ability can grow with effort."
+   },
+   {
+    "q": "In the 1998 study, which children kept trying longer?",
+    "options": [
+     "Children praised for being smart",
+     "Children praised for working hard",
+     "Children who were not praised",
+     "All children equally"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "the children praised for effort kept trying longer"
+   },
+   {
+    "q": "What did the 2023 review find about the best studies?",
+    "options": [
+     "Huge effects",
+     "Almost no effect on grades",
+     "Negative effects",
+     "They were not finished"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "the best studies showed almost no effect on grades"
+   },
+   {
+    "q": "What does the writer say about posters?",
+    "options": [
+     "They change grades",
+     "A poster alone will not change your grades",
+     "They are banned",
+     "They are the best method"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "A poster alone will not change your grades."
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "What did children praised for intelligence care more about?",
+    "options": [
+     "Learning",
+     "Looking good",
+     "Helping others",
+     "Playing"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "cared more about looking good than about learning"
+   },
+   {
+    "q": "What did the 2018 meta-analyses find?",
+    "options": [
+     "Strong effects",
+     "Weak overall effects",
+     "No students took part",
+     "Mindset harms learning"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "were weak"
+   },
+   {
+    "q": "Where did the 2019 online lesson improve grades most?",
+    "options": [
+     "In all schools equally",
+     "In schools where peer norms matched its message",
+     "Only in private schools",
+     "Only for top students"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "mainly in schools where the peer norms matched its message"
+   },
+   {
+    "q": "What “useful lesson” does the debate offer?",
+    "options": [
+     "Psychology is useless",
+     "A theory can contain real insight and still be oversold",
+     "Praise is harmful",
+     "Grades never change"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "A theory can contain real insight and still be oversold."
+   }
+  ],
+  "advanced": [
+   {
+    "q": "Why has mindset theory inspired so many school interventions?",
+    "options": [
+     "Beliefs seem easier to change than circumstances",
+     "It is required by law",
+     "It costs nothing",
+     "It was proven in 1998"
+    ],
+    "a": 0,
+    "why": "第一段。",
+    "evidence": "Because beliefs seem easier to change than circumstances"
+   },
+   {
+    "q": "Which students might benefit, according to Sisk and colleagues?",
+    "options": [
+     "Top students",
+     "Students from low socioeconomic backgrounds or at academic risk",
+     "University students only",
+     "No students"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "students from low socioeconomic backgrounds or at academic risk might benefit"
+   },
+   {
+    "q": "What did Macnamara and Burgoyne find about authors with a financial incentive?",
+    "options": [
+     "They reported smaller effects",
+     "They reported larger effects",
+     "They did no studies",
+     "They agreed with critics"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "authors with a financial incentive reported larger effects"
+   },
+   {
+    "q": "What is the writer’s “most defensible conclusion”?",
+    "options": [
+     "Mindset theory is completely false",
+     "Praising effort is reasonable, but no brief intervention replaces good teaching and practice",
+     "Every school should use posters",
+     "Intelligence is fixed"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "praising effort and strategy is reasonable, but no brief intervention substitutes for good teaching"
+   }
+  ]
+ },
+ "reflections": [
+  "When a teacher praises you, do you prefer to hear “You’re smart” or “You worked hard”? Why?",
+  "Why do you think popular ideas in education sometimes spread faster than the evidence for them?"
+ ],
+ "videos": [
+  {
+   "title": "The power of believing that you can improve",
+   "channel": "TEDxNorrkoping · Carol Dweck",
+   "url": "https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve",
+   "kind": "TED",
+   "desc": "Dweck explains growth mindset in her own words.",
+   "zh": "杜維克親自說明成長型思維。",
+   "question": "Which claims in the talk would you want to check against the meta-analyses in this article?"
+  },
+  {
+   "title": "Growth mindset: don't believe the hype!",
+   "channel": "YouTube · Presenting Psychology",
+   "url": "https://www.youtube.com/watch?v=I1-HPm-YA6M",
+   "kind": "YouTube",
+   "desc": "A psychology educator reviews criticisms of growth mindset research. (10 min)",
+   "zh": "一位心理學教育者整理成長型思維研究受到的批評。（10 分鐘）",
+   "question": "Is the video fair to both sides of the debate?"
+  }
+ ]
+}

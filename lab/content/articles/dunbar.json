@@ -1,0 +1,457 @@
+{
+ "id": "dunbar",
+ "category": "社會心理學",
+ "title": "Can You Really Only Have 150 Friends?",
+ "subtitle": "你真的只能有 150 個朋友嗎？鄧巴數的由來與爭議",
+ "source": "原創議題文章；依 Wikipedia〈Dunbar's number〉與 Lindenfors, Wartel & Lind（Biology Letters, 2021）摘要核對，2026-10-22",
+ "sources": [
+  {
+   "title": "Wikipedia: Dunbar's number",
+   "url": "https://en.wikipedia.org/wiki/Dunbar%27s_number",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Lindenfors, P., Wartel, A. & Lind, J. (2021). 'Dunbar's number' deconstructed. Biology Letters 17(5): 20210158.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33947220/",
+   "accessed": "2026-10-22"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "The Magic Number 150",
+   "paras": [
+    [
+     "How many friends do you have? Maybe you have hundreds of followers online. But how many people do you really know? A British scientist called Robin Dunbar said that most people can keep about 150 stable relationships. This idea is called “Dunbar’s number”.",
+     "你有多少朋友？也許你在網路上有幾百個追蹤者。但你真正認識的有幾個人？英國科學家羅賓．鄧巴說，大多數人能維持大約 150 段穩定的關係。這個想法叫作「鄧巴數」。"
+    ],
+    [
+     "Where does 150 come from? Dunbar studied monkeys and apes. He found that animals with bigger brains — especially a part called the neocortex — usually lived in bigger groups. Then he used the size of the human brain to guess the size of a human group. His answer was about 150.",
+     "150 這個數字是從哪裡來的？鄧巴研究猴子和猿類。他發現，大腦比較大——尤其是一個叫新皮質的部分——的動物，通常生活在比較大的群體裡。接著，他用人類大腦的大小來推測人類群體的大小，答案大約是 150。"
+    ],
+    [
+     "Dunbar explained it in a fun way. These 150 people are the ones you would not feel embarrassed about joining for a drink if you met them by chance. He also found that some villages and army units had about 150 people. One company even built offices for no more than 150 workers. In 2007, Sweden’s tax office also planned offices with up to 150 workers.",
+     "鄧巴用一個有趣的方式解釋：這 150 個人，是你如果偶然遇到，就算不請自來加入他們喝一杯也不會覺得尷尬的人。他也發現，有些村莊和軍隊單位大約是 150 人。甚至有一家公司，把辦公室設計成最多只容納 150 名員工。2007 年，瑞典稅務機關也規劃了最多 150 名員工的辦公室。"
+    ],
+    [
+     "But in 2021, a group of scientists in Sweden checked the numbers again. They used new methods and got very different answers. Some answers were as low as 16 to 42 people. The possible range was huge — from 2 to more than 500. They said that no single number can be trusted.",
+     "但在 2021 年，一群瑞典的科學家重新檢查了這些數字。他們用新的方法，得到了非常不同的答案。有些答案低到只有 16 到 42 人。可能的範圍非常大——從 2 人到 500 多人。他們說，沒有任何單一數字是可信的。"
+    ],
+    [
+     "So is 150 real? Maybe not exactly. But the main idea is still useful: we have limited time and energy for friends. Having a few close friends may matter more than having many followers. How many people are in your real circle?",
+     "那麼，150 是真的嗎？也許不是那麼精確。但主要的觀念還是很有用：我們能給朋友的時間和精力是有限的。擁有幾個知心朋友，可能比擁有很多追蹤者更重要。你真正的朋友圈裡有幾個人？"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "Can You Really Only Have 150 Friends?",
+   "paras": [
+    [
+     "You may have hundreds of contacts on your phone and thousands of followers online, but how many people do you genuinely know? According to the British anthropologist Robin Dunbar, the answer for most humans is about 150. This figure, known as Dunbar’s number, has become one of the most popular ideas in social science, quoted by businesses, governments and social media researchers. In 2010, Dunbar himself even studied friendship on Facebook.",
+     "你的手機裡可能有幾百個聯絡人，網路上可能有幾千個追蹤者，但你真正認識的有幾個人？根據英國人類學家羅賓．鄧巴的說法，對大多數人來說，答案大約是 150。這個數字被稱為鄧巴數，已成為社會科學中最熱門的觀念之一，被企業、政府和社群媒體研究者廣泛引用。2010 年，鄧巴本人甚至研究了 Facebook 上的友誼。"
+    ],
+    [
+     "The number comes from the study of primates. Monkeys and apes maintain their social groups through close contact, such as grooming one another. Dunbar noticed that species with a larger neocortex, relative to the rest of the brain, tended to live in larger groups. In 1992 he used data from 38 groups of primates to predict a group size for humans based on our brain size. The result was 148, which was rounded to 150.",
+     "這個數字來自對靈長類的研究。猴子和猿類透過密切接觸——例如互相理毛——來維繫社會群體。鄧巴注意到，新皮質相對於腦部其他部分較大的物種，往往生活在較大的群體中。1992 年，他用 38 個靈長類屬的資料，根據人類的大腦大小預測人類的群體規模。結果是 148，後來四捨五入為 150。"
+    ],
+    [
+     "Dunbar then looked for real human groups of a similar size. He suggested that 150 matched the estimated size of Neolithic farming villages, the point at which Hutterite communities tend to split, and the basic unit of some armies. In his book The Tipping Point, Malcolm Gladwell described how the company W. L. Gore and Associates built offices for no more than 150 employees after finding that larger groups caused social problems.",
+     "鄧巴接著尋找規模相近的真實人類群體。他認為，150 符合新石器時代農村的估計規模、哈特派社群傾向分裂的人數，以及某些軍隊的基本單位。麥爾坎．葛拉威爾在《引爆趨勢》一書中描述，戈爾公司發現人數更多的群體會引發社交問題後，便把辦公室設計成最多容納 150 名員工。"
+    ],
+    [
+     "However, the number has been seriously questioned. Dunbar himself described his original estimate as exploratory, because its 95% confidence interval ran from 100 to 230. In 2021, researchers at Stockholm University tested the idea using newer statistical methods. Their estimates ranged from 16 to 109 depending on the method, and the uncertainty was enormous — in one analysis, anywhere from 2 to 336. They concluded that a cognitive limit on human group size cannot be calculated in this way.",
+     "然而，這個數字受到了嚴重的質疑。鄧巴自己也把最初的估計描述為探索性的，因為它的 95% 信賴區間從 100 到 230。2021 年，斯德哥爾摩大學的研究人員用較新的統計方法檢驗這個想法。依方法不同，他們的估計值從 16 到 109 不等，而且不確定性極大——在其中一項分析中，範圍從 2 到 336 都有可能。他們的結論是：人類群體規模的認知上限，無法用這種方式計算出來。"
+    ],
+    [
+     "Even so, the idea behind Dunbar’s number remains thought-provoking. Relationships require time and attention, and both are limited. Whether the true limit is 50, 150 or something else, the number reminds us that a long list of online contacts is not the same as a network of people we actually know and care for.",
+     "即便如此，鄧巴數背後的觀念仍然發人深省。人際關係需要時間和注意力，而這兩者都是有限的。不管真正的上限是 50、150 還是別的數字，它都提醒我們：一長串網路聯絡人，並不等於一群我們真正認識並關心的人。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "A Famous Number Under Statistical Scrutiny",
+   "paras": [
+    [
+     "Few numbers from the social sciences have escaped into popular culture as successfully as 150. Proposed by the British anthropologist Robin Dunbar in the early 1990s, it is said to represent the number of stable relationships a person can comfortably maintain. Dunbar described it informally as the number of people “you would not feel embarrassed about joining uninvited for a drink if you happened to bump into them in a bar.” The figure has been cited in debates about company structure, online communities and even the reorganisation of a national tax agency. In 2007, for instance, the Swedish Tax Agency planned to limit its offices to 150 employees, citing Dunbar’s research.",
+     "很少有社會科學的數字能像 150 一樣成功地進入大眾文化。它由英國人類學家羅賓．鄧巴在 1990 年代初提出，據說代表一個人能輕鬆維持的穩定關係數量。鄧巴非正式地把它形容為「如果你剛好在酒吧碰到他們，就算不請自來加入喝一杯也不會覺得尷尬的人數」。這個數字曾被引用在公司結構、網路社群，甚至一個國家稅務機關的組織重整等討論中。例如，2007 年瑞典稅務局就計畫把各辦公室限制在 150 名員工以內，並引用了鄧巴的研究。"
+    ],
+    [
+     "The argument begins with primates. Monkeys and apes maintain group cohesion through social grooming, and the number of companions an individual can track appears to correlate with the size of the neocortex relative to the rest of the brain. In 1992, using a regression equation based on 38 primate genera, Dunbar extrapolated a human mean group size of 148, casually rounded to 150. He considered the result exploratory, since its 95% confidence interval spanned 100 to 230.",
+     "這個論證從靈長類開始。猴子和猿類透過社會性理毛維持群體凝聚力，而一個個體能追蹤的同伴數量，似乎與新皮質相對於腦部其他部分的大小相關。1992 年，鄧巴根據 38 個靈長類屬建立的迴歸方程式，外推出人類的平均群體規模為 148，隨意四捨五入為 150。他認為這個結果是探索性的，因為其 95% 信賴區間橫跨 100 到 230。"
+    ],
+    [
+     "Dunbar then sought corroboration in human societies. He pointed to the estimated size of Neolithic farming villages, the threshold at which Hutterite settlements tend to divide, and the basic unit size of professional armies from Roman antiquity onward. He also argued that groups of this size would require intense social investment: to remain cohesive, as much as 42 per cent of a group’s time might have to be devoted to social grooming, which is why only groups under strong pressure to stay together typically reach the 150 mark.",
+     "鄧巴接著在人類社會中尋找佐證。他指出新石器時代農村的估計規模、哈特派聚落傾向分裂的門檻，以及從古羅馬以來職業軍隊的基本單位規模。他也主張，這種規模的群體需要大量的社交投入：為了維持凝聚力，一個群體可能需要把多達 42% 的時間花在社會性理毛上，這也是為什麼通常只有在強大壓力下必須團結的群體，才會達到 150 人。"
+    ],
+    [
+     "The statistical foundation, however, has been challenged directly. In 2021, Lindenfors, Wartel and Lind of Stockholm University re-examined the relationship between neocortex size and group size using updated datasets and phylogenetic methods. Their analyses yielded “wildly different numbers”: Bayesian methods suggested an average of 69 to 109, while generalised least-squares methods suggested 16 to 42. The 95% confidence intervals were enormous — 4 to 520 and 2 to 336 respectively — leading the authors to conclude that specifying any single number is futile and that a cognitive limit on human group size cannot be derived in this manner.",
+     "然而，其統計基礎受到了直接的挑戰。2021 年，斯德哥爾摩大學的林登佛斯、瓦特爾和林德，用更新的資料集和親緣分析方法，重新檢視新皮質大小與群體規模的關係。他們的分析得出「天差地遠的數字」：貝氏方法顯示平均為 69 到 109，廣義最小平方法則顯示 16 到 42。95% 信賴區間大得驚人——分別是 4 到 520 和 2 到 336——作者因此認為，指定任何單一數字都是徒勞的，人類群體規模的認知上限無法用這種方式推導出來。"
+    ],
+    [
+     "The controversy illustrates how a tentative estimate can harden into an apparent law once it becomes popular. Dunbar himself presented his figure with caution, yet the confidence interval largely disappeared in public retelling, leaving a single memorable number. None of this disproves the underlying intuition that social relationships demand finite time and attention. It does suggest, however, that we should treat precise-sounding numbers about human nature with the same scepticism we would apply to any extrapolation far beyond its data.",
+     "這場爭議說明了一個暫定的估計，一旦變得熱門，如何可能僵化成一條看似的定律。鄧巴自己提出這個數字時相當謹慎，但在大眾的轉述中，信賴區間大多消失了，只留下一個好記的數字。這一切都沒有推翻那個基本直覺：人際關係需要有限的時間與注意力。不過它確實顯示，對於聽起來很精確的人性數字，我們應該抱持懷疑——就像我們對待任何遠遠超出資料範圍的外推一樣。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "the-number",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "primates",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "human-groups",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "challenge",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "lesson",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "relationships",
+   "pos": "n.",
+   "meaning": "關係（複數）",
+   "example": "Good relationships take time.",
+   "family": "relate (v.)"
+  },
+  {
+   "w": "followers",
+   "pos": "n.",
+   "meaning": "追蹤者（複數）",
+   "example": "She has many followers online.",
+   "family": "follow (v.)"
+  },
+  {
+   "w": "embarrassed",
+   "pos": "adj.",
+   "meaning": "尷尬的",
+   "example": "I felt embarrassed when I fell.",
+   "family": "embarrass (v.), embarrassing (adj.)"
+  },
+  {
+   "w": "limited",
+   "pos": "adj.",
+   "meaning": "有限的",
+   "example": "We have limited time.",
+   "family": "limit (n./v.)"
+  },
+  {
+   "w": "anthropologist",
+   "pos": "n.",
+   "meaning": "人類學家",
+   "example": "The anthropologist studied village life.",
+   "family": "anthropology (n.)"
+  },
+  {
+   "w": "primates",
+   "pos": "n.",
+   "meaning": "靈長類（複數）",
+   "example": "Humans and apes are primates.",
+   "family": "primate (sing.)"
+  },
+  {
+   "w": "uncertainty",
+   "pos": "n.",
+   "meaning": "不確定性",
+   "example": "There is a lot of uncertainty about the future.",
+   "family": "uncertain (adj.)"
+  },
+  {
+   "w": "thought-provoking",
+   "pos": "adj.",
+   "meaning": "發人深省的",
+   "example": "It was a thought-provoking film.",
+   "family": "provoke (v.)"
+  },
+  {
+   "w": "cohesion",
+   "pos": "n.",
+   "meaning": "凝聚力",
+   "example": "Team cohesion is important.",
+   "family": "cohesive (adj.)"
+  },
+  {
+   "w": "extrapolated",
+   "pos": "v.",
+   "meaning": "外推（過去式）",
+   "example": "They extrapolated future sales from past data.",
+   "family": "extrapolation (n.)"
+  },
+  {
+   "w": "corroboration",
+   "pos": "n.",
+   "meaning": "佐證",
+   "example": "The story needs corroboration.",
+   "family": "corroborate (v.)"
+  },
+  {
+   "w": "futile",
+   "pos": "adj.",
+   "meaning": "徒勞的",
+   "example": "It was futile to argue with him.",
+   "family": "futility (n.)"
+  },
+  {
+   "w": "tentative",
+   "pos": "adj.",
+   "meaning": "暫定的、試探性的",
+   "example": "We made a tentative plan.",
+   "family": "tentatively (adv.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "by chance",
+   "type": "phrase",
+   "meaning": "偶然地",
+   "usage": "= accidentally。",
+   "example": "I met her by chance at the station.",
+   "writing": "if you met them by chance"
+  },
+  {
+   "phrase": "no more than",
+   "type": "phrase",
+   "meaning": "不超過",
+   "usage": "no more than + 數量。",
+   "example": "The room holds no more than 30 people.",
+   "writing": "for no more than 150 employees"
+  },
+  {
+   "phrase": "bump into",
+   "type": "phrase",
+   "meaning": "偶然遇到",
+   "usage": "bump into sb。",
+   "example": "I bumped into my teacher at the mall.",
+   "writing": "if you happened to bump into them"
+  },
+  {
+   "phrase": "rounded to",
+   "type": "phrase",
+   "meaning": "四捨五入為",
+   "usage": "round sth (up/down) to + 數字。",
+   "example": "3.7 is rounded to 4.",
+   "writing": "N + was rounded to + 數字"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "A is not the same as B",
+   "meaning": "A 不等於 B",
+   "example": "A long list of online contacts is not the same as a network of people we actually know.",
+   "tip": "區分兩個容易混淆的概念。"
+  },
+  {
+   "frame": "Whether A, B or C, S + V",
+   "meaning": "不管是 A、B 還是 C，……",
+   "example": "Whether the true limit is 50, 150 or something else, the number reminds us that relationships take time.",
+   "tip": "讓步句型，強調結論不受細節影響。"
+  },
+  {
+   "frame": "None of this disproves A. It does suggest, however, that B",
+   "meaning": "這一切並未推翻 A，但確實顯示 B",
+   "example": "None of this disproves the underlying intuition. It does suggest, however, that we should treat precise-sounding numbers with scepticism.",
+   "tip": "平衡的批判性結論。"
+  }
+ ],
+ "quote": {
+  "text": "Specifying any one number is futile. A cognitive limit on human group size cannot be derived in this manner.",
+  "author": "Lindenfors, Wartel & Lind",
+  "work": "“‘Dunbar’s number’ deconstructed”, Biology Letters (2021)",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33947220/"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "How many stable relationships did Dunbar say most people can keep?",
+    "options": [
+     "About 15",
+     "About 50",
+     "About 150",
+     "About 1,500"
+    ],
+    "a": 2,
+    "why": "第一段。",
+    "evidence": "most people can keep about 150 stable relationships"
+   },
+   {
+    "q": "What did Dunbar find about animals with bigger brains?",
+    "options": [
+     "They lived alone",
+     "They usually lived in bigger groups",
+     "They were smaller",
+     "They lived longer"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "animals with bigger brains — especially a part called the neocortex — usually lived in bigger groups"
+   },
+   {
+    "q": "What did the Swedish scientists say in 2021?",
+    "options": [
+     "150 is exactly right",
+     "No single number can be trusted",
+     "Humans have no friends",
+     "Monkeys are smarter"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "They said that no single number can be trusted."
+   },
+   {
+    "q": "What main idea is still useful?",
+    "options": [
+     "Everyone needs 150 friends",
+     "We have limited time and energy for friends",
+     "Followers are more important than friends",
+     "Brains are getting bigger"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "we have limited time and energy for friends"
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "How do monkeys and apes maintain their social groups?",
+    "options": [
+     "Through close contact such as grooming",
+     "Through singing",
+     "Through fighting only",
+     "Through sharing food only"
+    ],
+    "a": 0,
+    "why": "第二段。",
+    "evidence": "through close contact, such as grooming one another"
+   },
+   {
+    "q": "Why did W. L. Gore and Associates limit offices to 150 employees?",
+    "options": [
+     "To save money",
+     "Larger groups caused social problems",
+     "Because of a law",
+     "Dunbar asked them to"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "after finding that larger groups caused social problems"
+   },
+   {
+    "q": "Why did Dunbar call his estimate exploratory?",
+    "options": [
+     "Its 95% confidence interval ran from 100 to 230",
+     "He had no data",
+     "He studied only one monkey",
+     "It was a joke"
+    ],
+    "a": 0,
+    "why": "第四段。",
+    "evidence": "its 95% confidence interval ran from 100 to 230"
+   },
+   {
+    "q": "What does the number remind us, according to the writer?",
+    "options": [
+     "Online contacts are not the same as people we know and care for",
+     "Everyone should delete social media",
+     "150 is a lucky number",
+     "Brains limit followers"
+    ],
+    "a": 0,
+    "why": "最後一段。",
+    "evidence": "a long list of online contacts is not the same as a network of people we actually know and care for"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "How did Dunbar describe the number informally?",
+    "options": [
+     "The number of people you could join uninvited for a drink without embarrassment",
+     "The number of people in your family",
+     "The number of names you can remember",
+     "The number of online friends"
+    ],
+    "a": 0,
+    "why": "第一段。",
+    "evidence": "the number of people “you would not feel embarrassed about joining uninvited for a drink"
+   },
+   {
+    "q": "Why do only some human groups reach 150, according to Dunbar?",
+    "options": [
+     "They have bigger brains",
+     "Such groups require intense social investment and strong pressure to stay together",
+     "They live in cities",
+     "They use the internet"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "only groups under strong pressure to stay together typically reach the 150 mark"
+   },
+   {
+    "q": "What were the confidence intervals in the 2021 study?",
+    "options": [
+     "100 to 230",
+     "4 to 520 and 2 to 336",
+     "148 to 150",
+     "16 to 42 only"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "4 to 520 and 2 to 336 respectively"
+   },
+   {
+    "q": "What does the controversy illustrate, according to the writer?",
+    "options": [
+     "How a tentative estimate can harden into an apparent law once popular",
+     "That anthropology is useless",
+     "That primates are social",
+     "That statistics are always wrong"
+    ],
+    "a": 0,
+    "why": "最後一段。",
+    "evidence": "how a tentative estimate can harden into an apparent law once it becomes popular"
+   }
+  ]
+ },
+ "reflections": [
+  "Draw your own social circles: how many people are in your closest circle, and how many in the outer ones? Does 150 seem realistic to you?",
+  "Find another “famous number” you have heard (for example, “we use only 10% of our brains”). How could you check whether it is true?"
+ ],
+ "videos": [
+  {
+   "title": "The nature of friendship",
+   "channel": "YouTube · The British Academy · Robin Dunbar",
+   "url": "https://www.youtube.com/watch?v=Ku_aRgWg6-w",
+   "kind": "YouTube",
+   "desc": "Dunbar explains his research on friendship in a ten-minute talk. (11 min)",
+   "zh": "鄧巴在十分鐘演講中說明他的友誼研究。（11 分鐘）",
+   "question": "Does Dunbar mention any uncertainty about the number 150?"
+  },
+  {
+   "title": "Dunbar's Number: Why We Can't Have More Than 150 Friends",
+   "channel": "YouTube · FORA.tv",
+   "url": "https://www.youtube.com/watch?v=ppLFce5uZ3I",
+   "kind": "YouTube",
+   "desc": "A short clip of Dunbar explaining the idea behind the number. (5 min)",
+   "zh": "鄧巴說明這個數字背後想法的短片。（5 分鐘）",
+   "question": "After reading the 2021 study, how would you respond to the title of this video?"
+  }
+ ]
+}
