@@ -1,0 +1,471 @@
+{
+ "id": "dunning-kruger",
+ "category": "批判思考",
+ "title": "Do the Least Skilled Really Think They’re the Best?",
+ "subtitle": "能力越差越有自信？達寧─克魯格效應與統計爭議",
+ "source": "原創議題文章；依 Wikipedia〈Dunning–Kruger effect〉〈1995 Greater Pittsburgh bank robberies〉與 Ehrlinger et al.（2008）摘要核對，2026-10-22",
+ "sources": [
+  {
+   "title": "Wikipedia: Dunning–Kruger effect",
+   "url": "https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Wikipedia: 1995 Greater Pittsburgh bank robberies",
+   "url": "https://en.wikipedia.org/wiki/1995_Greater_Pittsburgh_bank_robberies",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Ehrlinger, J. et al. (2008). Why the unskilled are unaware: further explorations of (absent) self-insight among the incompetent. Organizational Behavior and Human Decision Processes.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19568317/",
+   "accessed": "2026-10-22"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "The Lemon Juice Robber",
+   "paras": [
+    [
+     "In January 1995, two men robbed two banks in Pittsburgh, in the United States. They did not wear masks. Instead, they put lemon juice on their faces. They believed lemon juice would make them invisible to security cameras. Of course, it did not, and both men were caught. One man had even tested the idea first by taking a photo of his face with lemon juice on it.",
+     "1995 年 1 月，兩名男子在美國匹茲堡搶了兩家銀行。他們沒有戴面罩，而是在臉上塗了檸檬汁。他們相信檸檬汁會讓監視攝影機拍不到他們。當然沒有這回事，兩人都被抓到了。其中一人甚至先測試過這個點子：在臉上塗了檸檬汁後拍了一張照片。"
+    ],
+    [
+     "This strange story inspired two psychologists, David Dunning and Justin Kruger. They wondered: can people be so unskilled that they do not even know they are unskilled? In 1999, they tested university students on logical reasoning, grammar and humour.",
+     "這個奇怪的故事啟發了兩位心理學家：大衛．達寧和賈斯汀．克魯格。他們很好奇：人有沒有可能能力差到連自己能力差都不知道？1999 年，他們測驗大學生的邏輯推理、文法和幽默感。"
+    ],
+    [
+     "The students with the lowest scores were around the 12th percentile — they did better than only about 12% of others. But they thought they were around the 62nd percentile, better than most people! This is now called the Dunning–Kruger effect. In 2000, the two researchers even won the Ig Nobel Prize, a funny award for research that first makes people laugh and then makes them think.",
+     "分數最低的學生大約落在第 12 百分位——只比大約 12% 的人好。但他們以為自己在第 62 百分位左右，比大多數人都強！這現在被稱為達寧─克魯格效應。2000 年，這兩位研究者甚至獲得了搞笑諾貝爾獎——一個頒給「先讓人發笑、再讓人思考」的研究的趣味獎項。"
+    ],
+    [
+     "The effect is often misunderstood. It does not say that people with low intelligence are always too confident. It says that people with low skill in one particular area often overestimate their skill in that area. And people with high skill sometimes underestimate theirs.",
+     "這個效應常被誤解。它並不是說智力低的人總是過度自信，而是說：在某個特定領域能力低的人，常常高估自己在那個領域的能力。而能力高的人有時反而會低估自己。"
+    ],
+    [
+     "Some scientists now argue that part of the effect may be a trick of statistics. Others disagree. Either way, the idea is a useful warning: when you feel very sure about something new, ask yourself whether you really know enough to judge.",
+     "現在有些科學家主張，這個效應的一部分可能是統計造成的假象，也有人不同意。不管怎樣，這個概念都是一個有用的提醒：當你對一件新事物感到非常有把握時，問問自己，是否真的懂得夠多，足以做出判斷。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "Do the Least Skilled Really Think They’re the Best?",
+   "paras": [
+    [
+     "On 6 January 1995, McArthur Wheeler and an accomplice robbed two banks near Pittsburgh without any disguise. Instead of masks, they had covered their faces with lemon juice, believing it would make them invisible to security cameras — just as lemon juice can work as invisible ink. Wheeler had even tested the idea with a Polaroid camera. He was soon identified from surveillance photographs. His partner was arrested a few days after the robberies, and both men later received prison sentences of several years.",
+     "1995 年 1 月 6 日，麥克阿瑟．惠勒和一名同夥在匹茲堡附近搶了兩家銀行，完全沒有偽裝。他們沒戴面罩，而是在臉上塗滿檸檬汁，相信這會讓監視攝影機拍不到他們——就像檸檬汁可以當隱形墨水一樣。惠勒甚至用拍立得相機測試過這個點子。他很快就從監視照片中被認了出來。他的同夥在搶案後幾天就被捕，兩人後來都被判了好幾年的徒刑。"
+    ],
+    [
+     "The robbery directly inspired the research of psychologists David Dunning and Justin Kruger. In 1999, they tested undergraduates on logical reasoning, English grammar and the appreciation of humour, and then asked them to rate their own performance. Across four studies, those who scored in the bottom quarter dramatically overestimated themselves: their scores placed them around the 12th percentile, but they ranked themselves around the 62nd.",
+     "這起搶案直接啟發了心理學家大衛．達寧和賈斯汀．克魯格的研究。1999 年，他們測驗大學生的邏輯推理、英文文法和幽默鑑賞力，再請他們評估自己的表現。在四項研究中，分數落在最後四分之一的人都大幅高估了自己：他們的分數大約落在第 12 百分位，自評卻在第 62 百分位左右。"
+    ],
+    [
+     "Dunning and Kruger proposed an explanation sometimes called a “double burden”: the skills needed to do a task well are often the same skills needed to recognise a good performance. Without them, people cannot see their own mistakes. Later research by the same team reported that poor performers lacked insight into their errors even when offered incentives to be accurate. In 2000, the pair received the satirical Ig Nobel Prize for their work.",
+     "達寧和克魯格提出一個有時被稱為「雙重負擔」的解釋：把一件事做好所需要的能力，往往也正是辨識表現好壞所需要的能力。少了這些能力，人們就看不到自己的錯誤。同一團隊後來的研究也指出，表現差的人即使在有誘因要求準確評估的情況下，仍然看不清自己的錯誤。2000 年，兩人因這項研究獲頒帶有諷刺意味的搞笑諾貝爾獎。"
+    ],
+    [
+     "The idea became hugely popular — and often misunderstood. It does not claim that people with low intelligence are generally overconfident. Rather, it describes overconfidence in a specific area where a person lacks skill. The effect has been reported in fields from medicine and driving to school examinations, and some studies show that top performers tend to underestimate themselves.",
+     "這個概念變得極為流行——也常被誤解。它並不是說智力低的人普遍過度自信，而是描述一個人在缺乏能力的特定領域中的過度自信。從醫學、駕駛到學校考試，各種領域都有關於這個效應的報告；也有些研究顯示，表現頂尖的人往往會低估自己。"
+    ],
+    [
+     "However, some researchers argue that much of the pattern may be a statistical artefact. Because self-ratings and actual scores are not perfectly related, the lowest scorers will almost automatically appear to overestimate themselves — an effect called regression toward the mean — especially since most people believe they are better than average. Dunning has replied that this relabels the problem rather than explaining it. The debate itself is a good lesson: even a famous psychological finding deserves careful questioning.",
+     "然而，有些研究者主張，這個模式很大一部分可能是統計假象。由於自評和實際分數並非完全相關，分數最低的人幾乎會自動顯得高估自己——這叫作「回歸平均值」——尤其大多數人本來就相信自己比一般人好。達寧則回應說，這只是給問題換了個名稱，並沒有解釋它。這場爭論本身就是很好的一課：即使是著名的心理學發現，也值得仔細質疑。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "Unskilled, Unaware — or Just Regressing to the Mean?",
+   "paras": [
+    [
+     "The story is almost too perfect. On 6 January 1995, McArthur Wheeler and Clifton Earl Johnson robbed two banks in the Pittsburgh area at gunpoint without disguising themselves, having applied lemon juice to their faces in the belief that it would render them invisible to security cameras, much as lemon juice functions as invisible ink. Wheeler had reportedly tested the method with a Polaroid camera and, finding himself absent from the photograph, concluded that it worked. He was arrested after being identified from surveillance images. The case directly inspired one of the most famous findings in modern psychology.",
+     "這個故事幾乎完美得不像真的。1995 年 1 月 6 日，麥克阿瑟．惠勒和克利夫頓．厄爾．強森在匹茲堡地區持槍搶了兩家銀行，完全沒有偽裝，因為他們在臉上塗了檸檬汁，相信這會讓監視攝影機拍不到他們，就像檸檬汁可以當隱形墨水一樣。據報導，惠勒曾用拍立得相機測試這個方法，發現照片裡沒有自己，便斷定方法有效。他後來從監視影像中被認出而遭逮捕。這起案件直接啟發了現代心理學最著名的發現之一。"
+    ],
+    [
+     "In 1999, David Dunning and Justin Kruger tested undergraduates on logical reasoning, English grammar and the appreciation of humour, then asked them to estimate their performance relative to their peers. Across four studies, participants in the bottom quartile substantially overestimated themselves: their scores placed them, on average, in the 12th percentile, yet they ranked themselves in the 62nd. Their proposed explanation was metacognitive. The competence required to perform well in a domain is often the same competence required to judge performance in it, so the unskilled are doubly disadvantaged: they make errors and cannot recognise them.",
+     "1999 年，大衛．達寧和賈斯汀．克魯格測驗大學生的邏輯推理、英文文法與幽默鑑賞力，再請他們估計自己相對於同儕的表現。在四項研究中，位於最低四分位的參與者大幅高估了自己：他們的分數平均落在第 12 百分位，自評卻在第 62 百分位。他們提出的解釋與後設認知有關：在某個領域表現良好所需的能力，往往也正是判斷該領域表現好壞所需的能力，因此能力不足的人承受雙重劣勢——他們會犯錯，而且認不出自己的錯。"
+    ],
+    [
+     "The finding was extended and widely popularised. Subsequent work by Dunning’s group reported that poor performers lacked insight into their shortcomings even in real-world settings and when given incentives to be accurate, and that their optimism stemmed from failing to recognise their own errors rather than from misjudging their peers. Similar patterns have been reported in domains ranging from medicine and aviation to driving and school examinations. In popular culture, however, the effect is frequently distorted into the claim that unintelligent people are generally overconfident — a generalisation the research does not support.",
+     "這個發現後來被延伸並廣為流傳。達寧團隊後續的研究指出，表現差的人即使在真實情境中、在有誘因要求準確評估時，仍然缺乏對自身不足的洞察；而他們的樂觀，源自無法認出自己的錯誤，而不是錯估了同儕。從醫學、航空到駕駛和學校考試，各種領域都有類似模式的報告。然而在大眾文化中，這個效應常被扭曲成「不聰明的人普遍過度自信」——研究並不支持這種概括。"
+    ],
+    [
+     "More fundamentally, some researchers argue that much of the classic pattern is a statistical artefact. Whenever two measures are imperfectly correlated, selecting people with extreme scores on one will tend to produce less extreme scores on the other — regression toward the mean. Combined with the widespread better-than-average effect, this alone can generate a graph in which low scorers seem to overestimate and high scorers to underestimate. Simulations using random data can reproduce much of the familiar shape, and some analysts conclude that the label “unskilled and unaware” applies to relatively few people.",
+     "更根本的是，有些研究者主張，經典模式很大一部分是統計假象。只要兩個測量並非完全相關，在其中一項上挑出分數極端的人，他們在另一項上的分數往往就沒那麼極端——也就是回歸平均值。再加上普遍存在的「優於平均效應」，光是這兩者就能產生一張圖：分數低的人看似高估自己，分數高的人看似低估自己。用隨機資料進行的模擬可以重現這個熟悉圖形的大部分，有些分析者因此認為，「能力不足又不自知」這個標籤只適用於相對少數人。"
+    ],
+    [
+     "Dunning has responded that describing the effect as regression toward the mean merely relabels the phenomenon without explaining the mechanism behind it, and the debate continues. Perhaps fittingly, the controversy illustrates the very virtue the original research recommends: intellectual humility. A finding that seems to confirm what we already suspect about other people — that the ignorant are oblivious — deserves especially careful scrutiny. And the most useful application of the idea may be personal rather than accusatory: when we feel most certain in an unfamiliar area, that may be precisely the moment to seek feedback.",
+     "達寧回應說，把這個效應描述為回歸平均值，只是替現象換了個標籤，並沒有解釋背後的機制，而這場爭論仍在持續。也許恰如其分的是，這場爭議正好示範了原始研究所推崇的美德：知識上的謙遜。一個看似證實了我們對別人早有懷疑的發現——無知的人渾然不覺——更值得特別仔細的檢驗。而這個概念最有用的應用，或許是用在自己身上，而不是拿來指責別人：當我們在不熟悉的領域感到最篤定時，那可能正是該尋求回饋的時刻。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "lemon-juice",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "the-study",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "results",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "misunderstood",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "statistics",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 3
+  }
+ ],
+ "vocab": [
+  {
+   "w": "invisible",
+   "pos": "adj.",
+   "meaning": "看不見的",
+   "example": "The ink is invisible until heated.",
+   "family": "visible (反義)"
+  },
+  {
+   "w": "unskilled",
+   "pos": "adj.",
+   "meaning": "不熟練的",
+   "example": "He was unskilled at cooking.",
+   "family": "skill (n.), skilled (adj.)"
+  },
+  {
+   "w": "overestimate",
+   "pos": "v.",
+   "meaning": "高估",
+   "example": "Don’t overestimate your speed.",
+   "family": "underestimate (反義)"
+  },
+  {
+   "w": "misunderstood",
+   "pos": "adj.",
+   "meaning": "被誤解的",
+   "example": "The film was misunderstood.",
+   "family": "misunderstand (v.)"
+  },
+  {
+   "w": "disguise",
+   "pos": "n.",
+   "meaning": "偽裝",
+   "example": "He wore a disguise.",
+   "family": "disguise (v.)"
+  },
+  {
+   "w": "incentives",
+   "pos": "n.",
+   "meaning": "誘因（複數）",
+   "example": "Bonuses are incentives to work harder.",
+   "family": "incentive (sing.)"
+  },
+  {
+   "w": "overconfident",
+   "pos": "adj.",
+   "meaning": "過度自信的",
+   "example": "He was overconfident before the test.",
+   "family": "confidence (n.)"
+  },
+  {
+   "w": "artefact",
+   "pos": "n.",
+   "meaning": "（統計上的）假象；人工製品",
+   "example": "The pattern may be a statistical artefact.",
+   "family": "美式 artifact"
+  },
+  {
+   "w": "metacognitive",
+   "pos": "adj.",
+   "meaning": "後設認知的",
+   "example": "Metacognitive skills help students plan.",
+   "family": "metacognition (n.)"
+  },
+  {
+   "w": "quartile",
+   "pos": "n.",
+   "meaning": "四分位",
+   "example": "She scored in the top quartile.",
+   "family": "quarter (n.)"
+  },
+  {
+   "w": "humility",
+   "pos": "n.",
+   "meaning": "謙遜",
+   "example": "Great scientists show humility.",
+   "family": "humble (adj.)"
+  },
+  {
+   "w": "oblivious",
+   "pos": "adj.",
+   "meaning": "渾然不覺的",
+   "example": "He was oblivious to the danger.",
+   "family": "oblivion (n.)"
+  },
+  {
+   "w": "accusatory",
+   "pos": "adj.",
+   "meaning": "指責的",
+   "example": "Her tone was accusatory.",
+   "family": "accuse (v.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "Of course",
+   "type": "phrase",
+   "meaning": "當然",
+   "usage": "表示理所當然。",
+   "example": "Of course I’ll help you.",
+   "writing": "Of course, S + V"
+  },
+  {
+   "phrase": "Either way",
+   "type": "phrase",
+   "meaning": "不管怎樣",
+   "usage": "兩種情況結論相同。",
+   "example": "Either way, we need to leave now.",
+   "writing": "Either way, S + V"
+  },
+  {
+   "phrase": "stemmed from",
+   "type": "phrase",
+   "meaning": "源自（stem from 的過去式）",
+   "usage": "A stems from B。",
+   "example": "His fear stemmed from a bad experience.",
+   "writing": "N + stemmed from + N"
+  },
+  {
+   "phrase": "rather than",
+   "type": "phrase",
+   "meaning": "而不是",
+   "usage": "連接對等結構。",
+   "example": "Ask for help rather than give up.",
+   "writing": "A rather than B"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "The skills needed to A are often the same skills needed to B",
+   "meaning": "做 A 所需的能力，往往也正是做 B 所需的能力",
+   "example": "The skills needed to do a task well are often the same skills needed to recognise a good performance.",
+   "tip": "說明雙重負擔的關鍵句。"
+  },
+  {
+   "frame": "It does not claim that A. Rather, it describes B",
+   "meaning": "它並不是說 A，而是描述 B",
+   "example": "It does not claim that people with low intelligence are generally overconfident. Rather, it describes overconfidence in a specific area.",
+   "tip": "修正誤解的常用結構。"
+  },
+  {
+   "frame": "Whenever A, B will tend to + V",
+   "meaning": "每當 A，B 往往就會……",
+   "example": "Whenever two measures are imperfectly correlated, selecting extreme scores on one will tend to produce less extreme scores on the other.",
+   "tip": "描述普遍規律。"
+  }
+ ],
+ "quote": {
+  "text": "Poor performers grossly overestimate their performances because their incompetence deprives them of the skills needed to recognize their deficits.",
+  "author": "Ehrlinger, Johnson, Banner, Dunning & Kruger",
+  "work": "Organizational Behavior and Human Decision Processes (2008), abstract",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19568317/"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "What did the robbers put on their faces?",
+    "options": [
+     "Masks",
+     "Lemon juice",
+     "Paint",
+     "Sunglasses"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "they put lemon juice on their faces"
+   },
+   {
+    "q": "What did Dunning and Kruger test students on?",
+    "options": [
+     "Maths and science",
+     "Logical reasoning, grammar and humour",
+     "Sports",
+     "Driving"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "they tested university students on logical reasoning, grammar and humour"
+   },
+   {
+    "q": "Where did the lowest scorers think they were?",
+    "options": [
+     "12th percentile",
+     "Around the 62nd percentile",
+     "The bottom",
+     "Exactly average"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "they thought they were around the 62nd percentile"
+   },
+   {
+    "q": "What does the effect NOT say?",
+    "options": [
+     "Low skill in one area leads to overestimating that skill",
+     "People with low intelligence are always too confident",
+     "High-skill people may underestimate themselves",
+     "People can misjudge their ability"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "It does not say that people with low intelligence are always too confident."
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "Why did Wheeler believe lemon juice would work?",
+    "options": [
+     "Lemon juice can work as invisible ink",
+     "A doctor told him",
+     "He saw it on TV",
+     "It smells strong"
+    ],
+    "a": 0,
+    "why": "第一段。",
+    "evidence": "just as lemon juice can work as invisible ink"
+   },
+   {
+    "q": "What is the “double burden”?",
+    "options": [
+     "Having two jobs",
+     "The skills to do a task well are the same skills needed to recognise good performance",
+     "Being tested twice",
+     "Paying double"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "the skills needed to do a task well are often the same skills needed to recognise a good performance"
+   },
+   {
+    "q": "What do some studies show about top performers?",
+    "options": [
+     "They overestimate themselves",
+     "They tend to underestimate themselves",
+     "They never take tests",
+     "They cheat"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "top performers tend to underestimate themselves"
+   },
+   {
+    "q": "How did Dunning reply to the statistical criticism?",
+    "options": [
+     "He agreed completely",
+     "He said it relabels the problem rather than explaining it",
+     "He withdrew the study",
+     "He ignored it"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "Dunning has replied that this relabels the problem rather than explaining it."
+   }
+  ],
+  "advanced": [
+   {
+    "q": "How did Wheeler “test” the lemon juice method?",
+    "options": [
+     "With a Polaroid camera",
+     "With a security camera",
+     "By asking a friend",
+     "He did not test it"
+    ],
+    "a": 0,
+    "why": "第一段。",
+    "evidence": "Wheeler had reportedly tested the method with a Polaroid camera"
+   },
+   {
+    "q": "What kind of explanation did Dunning and Kruger propose?",
+    "options": [
+     "Metacognitive",
+     "Genetic",
+     "Economic",
+     "Cultural"
+    ],
+    "a": 0,
+    "why": "第二段。",
+    "evidence": "Their proposed explanation was metacognitive."
+   },
+   {
+    "q": "Which two factors can produce the classic graph without any psychological cause, according to critics?",
+    "options": [
+     "Regression toward the mean and the better-than-average effect",
+     "Lemon juice and cameras",
+     "Grammar and humour",
+     "Age and gender"
+    ],
+    "a": 0,
+    "why": "第四段。",
+    "evidence": "Combined with the widespread better-than-average effect, this alone can generate a graph"
+   },
+   {
+    "q": "What is the most useful application of the idea, according to the writer?",
+    "options": [
+     "Accusing others of ignorance",
+     "Applying it to ourselves and seeking feedback when we feel most certain",
+     "Avoiding new subjects",
+     "Trusting first impressions"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "the most useful application of the idea may be personal rather than accusatory"
+   }
+  ]
+ },
+ "reflections": [
+  "Think of a skill you were once very confident about but later realised you were not good at. What helped you see your mistakes?",
+  "Why might people enjoy using the Dunning–Kruger effect to describe others rather than themselves?"
+ ],
+ "videos": [
+  {
+   "title": "Why incompetent people think they're amazing",
+   "channel": "TED-Ed · David Dunning",
+   "url": "https://www.youtube.com/watch?v=pOLmD_WVY-E",
+   "kind": "TED-Ed",
+   "desc": "One of the original researchers explains the effect. (5 min)",
+   "zh": "原始研究者之一親自解說這個效應。（5 分鐘）",
+   "question": "Does Dunning mention the statistical criticism discussed in this article?"
+  },
+  {
+   "title": "Why we all fall victim to the Dunning-Kruger effect",
+   "channel": "YouTube · BBC REEL",
+   "url": "https://www.youtube.com/watch?v=JTRQ8iyga6Q",
+   "kind": "YouTube",
+   "desc": "A short film on how the effect may apply to everyone, not just “other people”. (7 min)",
+   "zh": "短片：這個效應可能適用於每個人，而不只是「別人」。（7 分鐘）",
+   "question": "Why does the video say “we all” fall victim to the effect?"
+  },
+  {
+   "title": "Why People Are So Confident When They're Wrong",
+   "channel": "YouTube · Veritasium",
+   "url": "https://www.youtube.com/watch?v=9M_QK4stCJU",
+   "kind": "YouTube",
+   "desc": "A longer investigation into overconfidence and the debate around the effect. (24 min)",
+   "zh": "較長的影片，深入探討過度自信與相關爭議。（24 分鐘）",
+   "question": "Which side of the statistical debate does the video find more convincing?"
+  }
+ ]
+}

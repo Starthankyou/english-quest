@@ -1,0 +1,467 @@
+{
+ "id": "contagious-yawning",
+ "category": "大腦科學",
+ "title": "Why Are Yawns Contagious?",
+ "subtitle": "為什麼打哈欠會傳染？一個簡單問題背後的科學爭議",
+ "source": "原創議題文章；依 Wikipedia〈Yawn〉、Platek et al.（2004）、Gallup & Gallup（2008）、Bartholomew & Cirulli（PLoS ONE, 2014）摘要核對，2026-10-22",
+ "sources": [
+  {
+   "title": "Wikipedia: Yawn",
+   "url": "https://en.wikipedia.org/wiki/Yawn",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Platek, S. M. et al. (2004). Contagious yawning: the role of self-awareness and mental state attribution. Cognitive Brain Research.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12880893/",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Gallup, A. C. & Gallup, G. G. (2008). Yawning and thermoregulation. Physiology & Behavior.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/18550130/",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Bartholomew, A. J. & Cirulli, E. T. (2014). Individual variation in contagious yawning susceptibility is highly stable and largely unexplained by empathy or other known factors. PLoS ONE.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24632594/",
+   "accessed": "2026-10-22"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "Did You Just Yawn?",
+   "paras": [
+    [
+     "Are you yawning right now? Just reading about yawning can make some people yawn! A yawn usually lasts about six seconds. You open your mouth wide, breathe in deeply, and stretch. Even babies yawn before they are born.",
+     "你現在在打哈欠嗎？光是讀到關於打哈欠的文字，就可能讓某些人打起哈欠！一個哈欠通常持續大約六秒。你把嘴巴張得大大的、深深吸一口氣，然後伸展身體。連還沒出生的寶寶都會打哈欠。"
+    ],
+    [
+     "Yawns are also “contagious”. When you see someone yawn, hear someone yawn on the phone, or even think about yawning, you may yawn too. This happens not only in people but also in chimpanzees, dogs and some other animals. There is even an old French saying: “One good yawner makes seven others yawn.”",
+     "打哈欠還會「傳染」。當你看到別人打哈欠、在電話裡聽到別人打哈欠，甚至只是想到打哈欠，你也可能跟著打。這不只發生在人類身上，黑猩猩、狗和其他一些動物也會。法國甚至有一句老話：「一個人打哈欠，會讓七個人跟著打。」"
+    ],
+    [
+     "Why do we yawn at all? Scientists do not fully agree. One idea is that yawning helps to cool the brain, a bit like a computer fan. Scholars have suggested about twenty possible reasons for yawning, but no one reason has won. Feeling sleepy is also linked to yawning.",
+     "我們究竟為什麼要打哈欠？科學家們並沒有完全的共識。有一種說法是，打哈欠能幫助大腦降溫，有點像電腦的風扇。學者們提出了大約二十種可能的原因，但沒有任何一種勝出。想睡覺也和打哈欠有關。"
+    ],
+    [
+     "Many people say that contagious yawning shows empathy — the ability to understand how others feel. Some early studies supported this idea. But in 2014, a study of 328 people found that empathy did not explain who yawned and who did not. In that study, people watched a three-minute video of other people yawning, and the scientists counted their yawns.",
+     "許多人說，被傳染打哈欠代表有同理心——也就是能理解別人感受的能力。一些早期研究支持這個想法。但在 2014 年，一項針對 328 人的研究發現，同理心並不能解釋誰會打哈欠、誰不會。在那項研究中，人們觀看一段三分鐘的影片，內容是其他人在打哈欠，科學家則計算他們打了幾次哈欠。"
+    ],
+    [
+     "In that study, older people yawned less. But age explained only a small part of the differences. Most of the reasons are still a mystery. So the next time you yawn, remember: even a simple, everyday action can still puzzle scientists. Interestingly, people who did not yawn said they did not even feel like yawning.",
+     "在那項研究中，年紀較大的人比較少打哈欠。但年齡只能解釋差異中的一小部分，大部分原因至今仍是個謎。所以下次你打哈欠時，記得：即使是簡單的日常動作，也可能讓科學家們傷透腦筋。有趣的是，沒有打哈欠的人說，他們連想打的感覺都沒有。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "Why Are Yawns Contagious?",
+   "paras": [
+    [
+     "Yawning is one of the most familiar human behaviours. A typical yawn lasts around six seconds: the mouth opens wide, we take a long breath in, our muscles stretch, and then we breathe out quickly. Ultrasound images even show babies yawning before birth. Yet despite how common it is, scientists still disagree about why we do it.",
+     "打哈欠是人類最熟悉的行為之一。一個典型的哈欠大約持續六秒：嘴巴張大，深深吸一口氣，肌肉伸展，接著快速吐氣。超音波影像甚至顯示，寶寶在出生前就會打哈欠。然而，儘管這麼常見，科學家們對我們為什麼會打哈欠仍然意見分歧。"
+    ],
+    [
+     "Even stranger is the fact that yawns spread. Seeing someone yawn, hearing a yawn on the phone, or simply reading or thinking about yawning can trigger one. Contagious yawning has been observed in chimpanzees, dogs, cats, birds and reptiles, and it can even pass between members of different species. An old French proverb puts it simply: “One good gaper makes seven others gape.”",
+     "更奇怪的是，打哈欠會擴散。看到別人打哈欠、在電話裡聽到哈欠聲，或只是讀到或想到打哈欠，都可能引發一個哈欠。傳染性打哈欠在黑猩猩、狗、貓、鳥類和爬蟲類身上都曾被觀察到，甚至可能在不同物種之間傳遞。一句古老的法國諺語說得簡單：「一個人張嘴打哈欠，會讓七個人跟著張嘴。」"
+    ],
+    [
+     "Researchers have proposed around twenty reasons for yawning, with little agreement on which is most important. One influential idea, reviewed by Gallup and Gallup in 2008, is that yawning helps to regulate temperature by cooling the brain. They pointed out that excessive yawning often appears in conditions that raise brain or body temperature. Other researchers have proposed different ideas, and some scientists suggest that cells called mirror neurons, which are linked to imitation, may help explain why yawns spread.",
+     "研究者已提出大約二十種打哈欠的原因，但對於哪一種最重要幾乎沒有共識。蓋洛普與蓋洛普在 2008 年的回顧中整理了一個頗具影響力的想法：打哈欠能透過替大腦降溫來調節體溫。他們指出，過度打哈欠常出現在會使大腦或身體溫度升高的情況中。其他研究者提出了不同的想法；有些科學家認為，一種與模仿有關、叫作鏡像神經元的細胞，或許能幫助解釋哈欠為什麼會擴散。"
+    ],
+    [
+     "Why yawns are contagious is another puzzle. A popular explanation links them to empathy. In a 2004 study, people who were more susceptible to contagious yawning performed better on tasks involving understanding other people’s minds. However, a larger 2014 study of 328 participants found that, once age was taken into account, empathy did not predict who caught yawns. A 2007 study also found that young children with autism did not yawn more after watching videos of other people yawning.",
+     "打哈欠為什麼會傳染，是另一個謎。一種流行的解釋把它與同理心連結在一起。在 2004 年的一項研究中，比較容易被傳染打哈欠的人，在理解他人心智的任務上表現較好。然而，2014 年一項規模更大、有 328 名參與者的研究發現，把年齡因素考慮進去之後，同理心並不能預測誰會被傳染。一項 2007 年的研究也發現，自閉症幼童在觀看別人打哈欠的影片後，並沒有更常打哈欠。"
+    ],
+    [
+     "The 2014 study did find that individual differences were very stable: people who rarely caught yawns did so consistently, and most did not even feel the urge. Older participants yawned less, but age explained only 8% of the variation. The rest remains unexplained. The story of yawning is a good reminder that a popular explanation is not the same as a proven one. These results were the same whether people were tested in a laboratory or online.",
+     "2014 年的研究確實發現，個人差異非常穩定：很少被傳染的人一直都是如此，而且大多數人甚至沒有想打哈欠的衝動。年紀較大的參與者比較少打哈欠，但年齡只解釋了 8% 的差異，其餘的至今仍無法解釋。打哈欠的故事提醒我們：一個流行的解釋，並不等於一個被證實的解釋。無論是在實驗室還是線上測試，結果都一樣。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "A Familiar Reflex, an Unsettled Science",
+   "paras": [
+    [
+     "Few behaviours are as universal, or as poorly understood, as the yawn. Typically lasting about six seconds, it consists of a long inspiratory phase with gradual mouth gaping, a brief climax with muscle stretching, and a rapid exhalation. It appears in vertebrates of many kinds and has been observed in human fetuses before birth. Yet scholars have proposed roughly twenty psychological explanations for yawning, with little agreement on the primacy of any one. A French proverb captures its sociable quality: one good gaper makes seven others gape.",
+     "很少有行為像打哈欠一樣普遍，卻又如此鮮為人知。它通常持續約六秒，包括一個嘴巴逐漸張大的長吸氣階段、一個伴隨肌肉伸展的短暫高峰，以及一次快速的吐氣。它出現在許多種類的脊椎動物身上，也曾在出生前的人類胎兒身上被觀察到。然而，學者們已提出大約二十種心理學解釋，對於哪一種最主要卻幾乎沒有共識。一句法國諺語道出了它的社交特性：一個人打哈欠，會讓七個人跟著打。"
+    ],
+    [
+     "One physiological hypothesis has attracted particular attention. In a 2008 review, Gallup and Gallup argued that yawning may function as a thermoregulatory mechanism, providing compensatory cooling for the brain when other mechanisms fail. They noted that excessive yawning tends to accompany conditions that raise brain or core temperature, such as sleep deprivation and certain kinds of nervous-system damage, and that drowsiness, which is associated with yawning, correlates with increases in body temperature.",
+     "有一個生理學假說特別受到關注。在 2008 年的一篇回顧中，蓋洛普與蓋洛普主張，打哈欠可能是一種體溫調節機制，在其他機制失靈時為大腦提供補償性的降溫。他們指出，過度打哈欠往往伴隨著會使大腦或核心溫度升高的情況，例如睡眠不足和某些神經系統損傷；而與打哈欠相關的睏倦感，也與體溫上升有關。"
+    ],
+    [
+     "Contagious yawning poses a separate question. It can be triggered by seeing, hearing, reading about or merely thinking about a yawn, and it has been documented in chimpanzees, dogs and other animals, sometimes across species. A widely cited 2004 study by Platek and colleagues found that susceptibility to contagious yawning was positively related to self-face recognition and to performance on theory-of-mind tasks, suggesting a link with the empathic aspects of understanding others’ mental states. Related research reported that young children with autism did not increase their yawning after watching videos of others yawning. Some researchers have proposed that mirror neurons in the frontal cortex, which respond both when an action is performed and when it is observed, may provide the underlying mechanism.",
+     "傳染性打哈欠則帶來另一個問題。看到、聽到、讀到甚至只是想到哈欠，都可能引發它；它在黑猩猩、狗和其他動物身上都有紀錄，有時還會跨物種發生。一項廣被引用、由普拉特克與同事在 2004 年發表的研究發現，容易被傳染打哈欠的程度，與辨識自己臉孔的能力及心智理論任務的表現呈正相關，顯示它可能與理解他人心理狀態的同理面向有關。相關研究也指出，自閉症幼童在觀看他人打哈欠的影片後，並沒有增加打哈欠的次數。有些研究者認為，額葉皮質中的鏡像神經元——無論是執行動作還是觀察動作都會產生反應——可能是背後的機制。"
+    ],
+    [
+     "The empathy hypothesis, however, has not survived larger tests unscathed. In 2014, Bartholomew and Cirulli administered a three-minute yawning video, cognitive tests and questionnaires to 328 participants. Individual susceptibility proved highly stable across sessions, whether tested in the laboratory or online, and most people who did not yawn reported not even feeling the urge. Yet once the participants’ age was accounted for, empathy, time of day and intelligence had no measurable influence. Age itself mattered — susceptibility declined as people grew older — but it explained only 8% of the variation.",
+     "然而，同理心假說在規模更大的檢驗中並未全身而退。2014 年，巴索洛繆和奇魯利讓 328 名參與者觀看一段三分鐘的打哈欠影片，並進行認知測驗和問卷。個人的易感程度在不同場次中都高度穩定，無論是在實驗室還是線上施測；而大多數沒有打哈欠的人表示，他們甚至沒有想打的衝動。然而，一旦把參與者的年齡考慮進去，同理心、一天中的時間和智力都沒有可測量的影響。年齡本身有影響——年紀越大越不容易被傳染——但它只解釋了 8% 的差異。"
+    ],
+    [
+     "The authors concluded that the vast majority of variability in this remarkably stable trait remains unexplained. The yawn thus offers an instructive case in how scientific stories form. An appealing explanation, supported by early and relatively small studies, can spread widely — becoming the “fact” that yawning reflects empathy — before larger investigations reveal a more uncertain picture. For curious students, it is also a reminder that unanswered questions are not confined to distant galaxies or the deep ocean; some are as close as the next yawn.",
+     "作者的結論是：這個極為穩定的特質，其絕大部分的變異至今仍無法解釋。因此，打哈欠提供了一個關於科學故事如何形成的啟發性案例：一個吸引人的解釋，在早期相對小型研究的支持下，可能廣泛流傳——變成「打哈欠反映同理心」這樣的「事實」——直到更大規模的調查揭露出更不確定的圖像。對好奇的學生來說，它也提醒我們：尚未解答的問題，不只存在於遙遠的星系或深海；有些就近在下一個哈欠之中。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "what-is-a-yawn",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "contagious",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "why-yawn",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "empathy",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "mystery",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "contagious",
+   "pos": "adj.",
+   "meaning": "會傳染的",
+   "example": "Her laughter was contagious.",
+   "family": "contagion (n.)"
+  },
+  {
+   "w": "stretch",
+   "pos": "v.",
+   "meaning": "伸展",
+   "example": "Stretch your arms before running.",
+   "family": "stretch (n.)"
+  },
+  {
+   "w": "empathy",
+   "pos": "n.",
+   "meaning": "同理心",
+   "example": "Good doctors show empathy.",
+   "family": "empathetic (adj.)"
+  },
+  {
+   "w": "mystery",
+   "pos": "n.",
+   "meaning": "謎",
+   "example": "How it happened is still a mystery.",
+   "family": "mysterious (adj.)"
+  },
+  {
+   "w": "regulate",
+   "pos": "v.",
+   "meaning": "調節",
+   "example": "Sweat helps regulate body temperature.",
+   "family": "regulation (n.)"
+  },
+  {
+   "w": "susceptible",
+   "pos": "adj.",
+   "meaning": "易受影響的",
+   "example": "Children are susceptible to colds.",
+   "family": "susceptibility (n.)"
+  },
+  {
+   "w": "participants",
+   "pos": "n.",
+   "meaning": "參與者（複數）",
+   "example": "The study had 200 participants.",
+   "family": "participate (v.)"
+  },
+  {
+   "w": "variation",
+   "pos": "n.",
+   "meaning": "差異、變異",
+   "example": "There is a lot of variation in prices.",
+   "family": "vary (v.)"
+  },
+  {
+   "w": "universal",
+   "pos": "adj.",
+   "meaning": "普遍的",
+   "example": "Music is a universal language.",
+   "family": "universe (n.)"
+  },
+  {
+   "w": "compensatory",
+   "pos": "adj.",
+   "meaning": "補償的",
+   "example": "He received compensatory payments.",
+   "family": "compensate (v.)"
+  },
+  {
+   "w": "deprivation",
+   "pos": "n.",
+   "meaning": "剝奪、不足",
+   "example": "Sleep deprivation affects memory.",
+   "family": "deprive (v.)"
+  },
+  {
+   "w": "unscathed",
+   "pos": "adj.",
+   "meaning": "未受損傷的",
+   "example": "She walked away from the accident unscathed.",
+   "family": "—"
+  },
+  {
+   "w": "variability",
+   "pos": "n.",
+   "meaning": "變異性",
+   "example": "Weather has high variability.",
+   "family": "variable (adj./n.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "at all",
+   "type": "phrase",
+   "meaning": "究竟、到底（用於疑問或否定）",
+   "usage": "用來加強語氣。",
+   "example": "Why did you come at all?",
+   "writing": "Why do we + V + at all?"
+  },
+  {
+   "phrase": "taken into account",
+   "type": "phrase",
+   "meaning": "把……考慮進去",
+   "usage": "take sth into account／be taken into account。",
+   "example": "Age was taken into account.",
+   "writing": "once age was taken into account"
+  },
+  {
+   "phrase": "pointed out",
+   "type": "phrase",
+   "meaning": "指出",
+   "usage": "point out that + 子句。",
+   "example": "She pointed out a mistake.",
+   "writing": "S + pointed out that + 子句"
+  },
+  {
+   "phrase": "accounted for",
+   "type": "phrase",
+   "meaning": "被考慮在內；解釋（account for 的 p.p.）",
+   "usage": "once X was accounted for。",
+   "example": "Once costs were accounted for, the profit was small.",
+   "writing": "once + N + was accounted for"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "Just + V-ing + can make + sb + V",
+   "meaning": "光是……就能讓某人……",
+   "example": "Just reading about yawning can make some people yawn!",
+   "tip": "動名詞作主詞＋使役動詞 make。"
+  },
+  {
+   "frame": "A popular explanation is not the same as a proven one",
+   "meaning": "流行的解釋不等於被證實的解釋",
+   "example": "A popular explanation is not the same as a proven one.",
+   "tip": "批判思考常用句。"
+  },
+  {
+   "frame": "S + has not survived + N + unscathed",
+   "meaning": "……在……中並未全身而退",
+   "example": "The empathy hypothesis has not survived larger tests unscathed.",
+   "tip": "正式寫作中描述理論受挑戰。"
+  }
+ ],
+ "quote": {
+  "text": "The vast majority of the variability in this extremely stable trait remained unexplained.",
+  "author": "Bartholomew & Cirulli",
+  "work": "PLoS ONE (2014), abstract",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24632594/"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "How long does a yawn usually last?",
+    "options": [
+     "About one second",
+     "About six seconds",
+     "About one minute",
+     "About ten minutes"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "A yawn usually lasts about six seconds."
+   },
+   {
+    "q": "Which animals also show contagious yawning?",
+    "options": [
+     "Only humans",
+     "Chimpanzees, dogs and some other animals",
+     "Only fish",
+     "Only insects"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "This happens not only in people but also in chimpanzees, dogs and some other animals."
+   },
+   {
+    "q": "What is one idea about why we yawn?",
+    "options": [
+     "It helps to cool the brain",
+     "It makes us taller",
+     "It helps us see better",
+     "It cleans our teeth"
+    ],
+    "a": 0,
+    "why": "第三段。",
+    "evidence": "One idea is that yawning helps to cool the brain"
+   },
+   {
+    "q": "What did the 2014 study find about empathy?",
+    "options": [
+     "Empathy explained everything",
+     "Empathy did not explain who yawned and who did not",
+     "Only kind people yawn",
+     "Empathy makes people yawn less"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "empathy did not explain who yawned and who did not"
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "What do ultrasound images show?",
+    "options": [
+     "Babies yawning before birth",
+     "Dogs yawning",
+     "The brain cooling",
+     "Six-second yawns"
+    ],
+    "a": 0,
+    "why": "第一段。",
+    "evidence": "Ultrasound images even show babies yawning before birth."
+   },
+   {
+    "q": "What did the Gallups point out about excessive yawning?",
+    "options": [
+     "It is caused by boredom",
+     "It often appears in conditions that raise brain or body temperature",
+     "It only happens at night",
+     "It is contagious"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "excessive yawning often appears in conditions that raise brain or body temperature"
+   },
+   {
+    "q": "In the 2004 study, people more susceptible to contagious yawning…",
+    "options": [
+     "were older",
+     "performed better on tasks involving understanding other minds",
+     "were sleepier",
+     "were less intelligent"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "performed better on tasks involving understanding other people’s minds"
+   },
+   {
+    "q": "How much of the variation did age explain in the 2014 study?",
+    "options": [
+     "8%",
+     "28%",
+     "50%",
+     "80%"
+    ],
+    "a": 0,
+    "why": "最後一段。",
+    "evidence": "age explained only 8% of the variation"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "How many psychological explanations for yawning have scholars proposed?",
+    "options": [
+     "About two",
+     "About twenty",
+     "About two hundred",
+     "None"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "scholars have proposed roughly twenty psychological explanations for yawning"
+   },
+   {
+    "q": "What is the thermoregulatory hypothesis?",
+    "options": [
+     "Yawning provides compensatory cooling for the brain",
+     "Yawning warms the body",
+     "Yawning increases oxygen only",
+     "Yawning shows boredom"
+    ],
+    "a": 0,
+    "why": "第二段。",
+    "evidence": "providing compensatory cooling for the brain when other mechanisms fail"
+   },
+   {
+    "q": "Which factor DID matter in the 2014 study?",
+    "options": [
+     "Empathy",
+     "Time of day",
+     "Intelligence",
+     "Age"
+    ],
+    "a": 3,
+    "why": "第四段。",
+    "evidence": "Age itself mattered"
+   },
+   {
+    "q": "What does the yawn illustrate, according to the writer?",
+    "options": [
+     "How an appealing explanation from small studies can spread before larger studies show more uncertainty",
+     "That empathy is fake",
+     "That science is useless",
+     "That galaxies are mysterious"
+    ],
+    "a": 0,
+    "why": "最後一段。",
+    "evidence": "An appealing explanation, supported by early and relatively small studies, can spread widely"
+   }
+  ]
+ },
+ "reflections": [
+  "Try an experiment: yawn in front of three friends (without telling them why). How many yawn back? What could explain the results?",
+  "Have you ever heard a “scientific fact” that later turned out to be uncertain? How did you find out?"
+ ],
+ "videos": [
+  {
+   "title": "Why is yawning contagious?",
+   "channel": "TED-Ed · Claudia Aguirre",
+   "url": "https://www.youtube.com/watch?v=4NpG4F9yq00",
+   "kind": "TED-Ed",
+   "desc": "An animated look at physiological and psychological explanations for yawning. (4 min)",
+   "zh": "動畫介紹打哈欠的生理與心理解釋。（4 分鐘）",
+   "question": "The video was made in 2013. Which claim in it might need updating after the 2014 study?"
+  },
+  {
+   "title": "Why Is Yawning Contagious?",
+   "channel": "YouTube · Vsauce",
+   "url": "https://www.youtube.com/watch?v=jGIbUK4nw00",
+   "kind": "YouTube",
+   "desc": "A fast, curious tour of yawning facts and theories. (6 min)",
+   "zh": "快速又有趣地介紹打哈欠的事實與理論。（6 分鐘）",
+   "question": "How many times did you yawn while watching?"
+  }
+ ]
+}

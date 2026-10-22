@@ -1,0 +1,466 @@
+{
+ "id": "john-snow",
+ "category": "歷史與科學",
+ "title": "The Map That Stopped a Killer",
+ "subtitle": "一張阻止殺手的地圖：約翰．斯諾與 1854 年倫敦霍亂",
+ "source": "原創議題文章；依 Wikipedia〈1854 Broad Street cholera outbreak〉（含 Snow 1855 原著引文）核對，2026-10-22",
+ "sources": [
+  {
+   "title": "Wikipedia: 1854 Broad Street cholera outbreak",
+   "url": "https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "John Snow, On the Mode of Communication of Cholera (2nd ed., 1855)",
+   "url": "https://en.wikipedia.org/wiki/John_Snow",
+   "accessed": "2026-10-22"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "A Pump on Broad Street",
+   "paras": [
+    [
+     "In the summer of 1854, a terrible disease called cholera hit Soho, an area of London. On 31 August, people near Broad Street began to get sick. In just three days, 127 people died. Many others ran away from the area in fear. Many sick people were taken to a hospital where the famous nurse Florence Nightingale helped to care for them.",
+     "1854 年夏天，一種叫霍亂的可怕疾病襲擊了倫敦的蘇活區。8 月 31 日，寬街附近的人開始生病。短短三天內，就有 127 人死亡。許多人因為害怕而逃離了這個地區。許多病人被送到一家醫院，著名的護士南丁格爾也在那裡協助照顧他們。"
+    ],
+    [
+     "At that time, most doctors believed cholera spread through “bad air”, a dirty smell from rubbish and sewage. But a doctor called John Snow had a different idea. He thought the disease spread through dirty drinking water.",
+     "當時，大多數醫生相信霍亂是透過「壞空氣」——垃圾和汙水發出的髒臭味——傳播的。但一位名叫約翰．斯諾的醫生有不同的想法。他認為這種疾病是透過骯髒的飲用水傳播的。"
+    ],
+    [
+     "Snow talked to the people living there and found out where each sick person got their water. Most of them had used the same public water pump on Broad Street. Later, he drew a map with a mark for each death. Many marks were close to the pump. A local priest helped him.",
+     "斯諾和當地居民談話，查出每個病人是從哪裡取水的。他們大多數都用過寬街上同一個公共抽水機。後來，他畫了一張地圖，每有一人死亡就做一個記號。許多記號都集中在抽水機附近。一位當地的牧師協助了他。"
+    ],
+    [
+     "There was one strange clue. Workers at a nearby brewery did not get sick. Why? They drank beer, not water from the pump! On 7 September, Snow spoke to the local leaders. The next day, they removed the pump’s handle so nobody could use it.",
+     "還有一條奇怪的線索：附近一家啤酒廠的工人都沒有生病。為什麼？因為他們喝啤酒，不喝抽水機的水！9 月 7 日，斯諾向地方官員說明。隔天，官員們拆掉了抽水機的把手，讓沒有人能再使用它。"
+    ],
+    [
+     "In total, 420 people died. Later, people found that the pump’s well was very close to an old toilet pit that was leaking. Snow’s careful detective work helped start a new science that studies how diseases spread. It is called epidemiology. Water used to wash a sick baby’s nappies had drained into that pit.",
+     "這次疫情總共造成 420 人死亡。後來人們發現，抽水機的水井離一個正在滲漏的舊糞坑非常近。斯諾細心的偵探工作，幫助開創了一門研究疾病如何傳播的新科學，叫作流行病學。清洗一個生病嬰兒尿布的水，流進了那個糞坑。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "The Map That Stopped a Killer",
+   "paras": [
+    [
+     "On 31 August 1854, cholera exploded in Soho, a crowded district of London. Over the next three days, 127 people on or near Broad Street died, and within a week three quarters of the residents had fled. The physician John Snow later called it “the most terrible outbreak of cholera which ever occurred in this kingdom.” By the end, 420 people had died. Many victims were taken to the Middlesex Hospital, where Florence Nightingale helped to nurse them.",
+     "1854 年 8 月 31 日，霍亂在倫敦擁擠的蘇活區爆發。接下來三天，寬街上及附近有 127 人死亡；一週內，四分之三的居民逃離了。醫師約翰．斯諾後來稱之為「這個王國有史以來最可怕的霍亂爆發」。到疫情結束時，共有 420 人死亡。許多病患被送往米德塞克斯醫院，南丁格爾也在那裡協助照護。"
+    ],
+    [
+     "At the time, most experts accepted the miasma theory: the idea that diseases like cholera were caused by “bad air” rising from filth and rotting matter. London already suffered from overflowing cesspools and polluted water, and earlier outbreaks in 1832 and 1849 had killed thousands. Snow, however, suspected something different. He believed cholera was spread through contaminated water.",
+     "當時，大多數專家都接受瘴氣理論：認為霍亂這類疾病，是由污物和腐爛物質散發的「壞空氣」引起的。倫敦早已飽受糞坑滿溢和水源汙染之苦，1832 年和 1849 年的疫情更奪走了數千條人命。然而，斯諾懷疑另有原因。他相信霍亂是透過受汙染的水傳播的。"
+    ],
+    [
+     "To test his idea, Snow investigated case by case, with help from a local clergyman, Henry Whitehead. Talking to residents, he found that most victims had drunk water from the public pump on Broad Street. One clue was especially revealing: none of the workers at a nearby brewery caught cholera. They received a daily allowance of beer and did not drink water from the pump.",
+     "為了檢驗自己的想法，斯諾在當地牧師亨利．懷海德的協助下，一個病例一個病例地調查。和居民談話後，他發現大多數死者都喝過寬街公共抽水機的水。有一條線索特別能說明問題：附近啤酒廠的工人沒有一個得到霍亂。他們每天都配給啤酒，並不喝抽水機的水。"
+    ],
+    [
+     "On the evening of 7 September, Snow presented his evidence to the parish Board of Guardians, and the pump handle was removed the next day. Snow later drew a famous dot map showing how deaths clustered around the pump. Interestingly, he admitted that the outbreak was already declining when the handle was removed, partly because so many people had fled.",
+     "9 月 7 日晚上，斯諾向教區的濟貧委員會提出證據，隔天抽水機的把手就被拆除了。斯諾後來畫了一張著名的點狀地圖，顯示死亡案例如何聚集在抽水機周圍。有趣的是，他也承認，把手被拆除時疫情已經在下降，部分原因是太多人已經逃離。"
+    ],
+    [
+     "It was later discovered that the well had been dug just a few feet from an old cesspit that was leaking. Yet once the crisis passed, officials replaced the handle and rejected Snow’s theory. Accepting it meant admitting that disease spread through human waste, which most people found too unpleasant to consider. Today, Snow is remembered as a founder of epidemiology — proof that careful evidence can matter even when the experts are not yet ready to listen. Water from washing the nappies of a baby who had caught cholera elsewhere had drained into it.",
+     "後來人們發現，這口井離一個正在滲漏的舊糞坑只有幾英尺遠。然而危機一過，官員們就把把手裝了回去，並否定了斯諾的理論。接受它，就等於承認疾病是透過人類排泄物傳播的，而大多數人覺得這太噁心，不願去想。今天，斯諾被尊為流行病學的奠基者之一——這證明了：即使專家還沒準備好傾聽，嚴謹的證據仍然重要。一個在別處染上霍亂的嬰兒，其尿布的洗滌水流進了那個糞坑。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "Shoe-Leather Epidemiology on Broad Street",
+   "paras": [
+    [
+     "The cholera outbreak that struck Soho on 31 August 1854 was, in the words of the physician John Snow, “the most terrible outbreak of cholera which ever occurred in this kingdom.” Within three days, 127 people on or near Broad Street had died; within a week, three quarters of residents had fled; and by the time it subsided, 420 people were dead. The episode is remembered less for its toll, however, than for the investigation it provoked, which is often cited as a founding moment of modern epidemiology.",
+     "1854 年 8 月 31 日襲擊蘇活區的霍亂，用醫師約翰．斯諾的話來說，是「這個王國有史以來最可怕的霍亂爆發」。三天內，寬街上及附近有 127 人死亡；一週內，四分之三的居民逃離；疫情平息時，共有 420 人喪生。然而，人們記住這段歷史，與其說是因為死亡人數，不如說是因為它引發的調查——這項調查常被視為現代流行病學的奠基時刻。"
+    ],
+    [
+     "The intellectual context matters. Most physicians at the time favoured the miasma theory, according to which diseases arose from foul air emanating from decaying matter. London provided ample evidence for anyone inclined to believe it: cesspools overflowed into cellars, waste was dumped into the Thames, and earlier epidemics in 1832 and 1849 had killed thousands. Snow, who had already argued that cholera was transmitted through contaminated water, saw the Soho outbreak as an opportunity to test his hypothesis against a dominant consensus.",
+     "當時的思想背景很重要。那時大多數醫師偏好瘴氣理論，認為疾病源自腐爛物散發的惡臭空氣。對任何傾向相信這套理論的人來說，倫敦處處都是證據：糞坑滿溢進地下室，廢物被傾倒進泰晤士河，而 1832 和 1849 年的疫情已奪走數千條人命。斯諾先前就主張霍亂是透過受汙染的水傳播的，他把蘇活區的疫情視為一個機會，用來對抗主流共識、檢驗自己的假說。"
+    ],
+    [
+     "His method was painstaking fieldwork. Assisted by the Reverend Henry Whitehead, he interviewed residents and traced where victims had obtained their water, concluding that most had drawn it from the public pump on Broad Street. Anomalies proved as instructive as patterns. Workers at a nearby brewery, who received a daily beer allowance and did not drink from the pump, escaped the disease entirely. Notably, Snow’s chemical and microscopic examination of the water did not conclusively prove its danger; it was the pattern of illness and death that persuaded the parish authorities, after he addressed the Board of Guardians on 7 September, to remove the pump handle the following day.",
+     "他的方法是費盡心力的實地調查。在亨利．懷海德牧師的協助下，他訪談居民，追查死者從哪裡取水，結論是大多數人都從寬街的公共抽水機取水。例外和規律一樣具有啟發性：附近啤酒廠的工人每天配給啤酒、不喝抽水機的水，結果完全沒有染病。值得注意的是，斯諾對水進行的化學與顯微鏡檢驗，並未能確切證明它的危險；真正說服教區當局的，是疾病與死亡的分布模式——9 月 7 日他向濟貧委員會說明後，隔天抽水機的把手就被拆除了。"
+    ],
+    [
+     "Snow was also admirably candid about the limits of his intervention. He acknowledged that the outbreak had diminished substantially before the handle was removed, partly because of the population’s flight, making it impossible to say whether the well was still dangerous at that point. His subsequent dot map, which showed deaths clustering around the pump, became one of the most famous visualisations in the history of science, and his approach of relating cases to their nearest water source anticipates what is now called a Voronoi diagram.",
+     "斯諾對自己介入措施的局限也坦白得令人欽佩。他承認，在把手被拆除之前，疫情已經大幅減緩，部分原因是居民紛紛逃離，因此無法斷定那口井在當時是否仍然危險。他之後畫的點狀地圖，顯示死亡案例聚集在抽水機周圍，成為科學史上最著名的視覺化圖表之一；而他把病例與最近水源連結起來的方法，也預示了今天所謂的沃羅諾伊圖。"
+    ],
+    [
+     "Later investigation revealed that the well had been dug only about three feet from an old cesspit that had begun to leak. Yet vindication was slow. Once the immediate crisis passed, officials replaced the pump handle and rejected Snow’s theory, in part because accepting it meant acknowledging the faecal-oral transmission of disease, an idea most people found too distasteful to contemplate. The story offers a lasting lesson: careful observation, attention to anomalies and honesty about uncertainty can establish the truth even before institutions are ready to accept it.",
+     "後來的調查發現，這口井距離一個已開始滲漏的舊糞坑只有大約三英尺。然而平反來得很慢。一旦眼前的危機過去，官員們就把抽水機的把手裝回去，並否定了斯諾的理論，部分原因是接受它就等於承認疾病經由糞口途徑傳播——一個大多數人覺得太噁心而不願去想的觀念。這個故事留下了一個長久的教訓：細心的觀察、對例外的重視，以及對不確定性的誠實，能夠在體制準備好接受之前，就確立真相。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "outbreak",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "miasma",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "investigation",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "handle",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "legacy",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "disease",
+   "pos": "n.",
+   "meaning": "疾病",
+   "example": "Cholera is a dangerous disease.",
+   "family": "diseases (pl.)"
+  },
+  {
+   "w": "sewage",
+   "pos": "n.",
+   "meaning": "汙水",
+   "example": "Sewage must be treated before it reaches rivers.",
+   "family": "sewer (n.)"
+  },
+  {
+   "w": "pump",
+   "pos": "n.",
+   "meaning": "抽水機",
+   "example": "They got water from the village pump.",
+   "family": "pump (v.)"
+  },
+  {
+   "w": "clue",
+   "pos": "n.",
+   "meaning": "線索",
+   "example": "The detective found an important clue.",
+   "family": "clueless (adj.)"
+  },
+  {
+   "w": "contaminated",
+   "pos": "adj.",
+   "meaning": "受汙染的",
+   "example": "Don’t drink contaminated water.",
+   "family": "contaminate (v.)"
+  },
+  {
+   "w": "residents",
+   "pos": "n.",
+   "meaning": "居民（複數）",
+   "example": "Residents complained about the noise.",
+   "family": "reside (v.), residence (n.)"
+  },
+  {
+   "w": "victims",
+   "pos": "n.",
+   "meaning": "受害者（複數）",
+   "example": "The victims received help.",
+   "family": "victimise (v.)"
+  },
+  {
+   "w": "epidemiology",
+   "pos": "n.",
+   "meaning": "流行病學",
+   "example": "Epidemiology studies how diseases spread.",
+   "family": "epidemic (n.)"
+  },
+  {
+   "w": "consensus",
+   "pos": "n.",
+   "meaning": "共識",
+   "example": "There is a consensus on the plan.",
+   "family": "—"
+  },
+  {
+   "w": "painstaking",
+   "pos": "adj.",
+   "meaning": "費盡心力的",
+   "example": "It was painstaking work.",
+   "family": "pains (n.)"
+  },
+  {
+   "w": "anomalies",
+   "pos": "n.",
+   "meaning": "異常、例外（複數）",
+   "example": "Scientists study anomalies in the data.",
+   "family": "anomaly (sing.), anomalous (adj.)"
+  },
+  {
+   "w": "candid",
+   "pos": "adj.",
+   "meaning": "坦白的",
+   "example": "She was candid about her mistakes.",
+   "family": "candour (n.)"
+  },
+  {
+   "w": "distasteful",
+   "pos": "adj.",
+   "meaning": "令人不悅的、噁心的",
+   "example": "He found the joke distasteful.",
+   "family": "taste (n.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "found out",
+   "type": "phrase",
+   "meaning": "查出、發現（find out 的過去式）",
+   "usage": "find out + wh-子句／that 子句。",
+   "example": "We found out where he lived.",
+   "writing": "S + found out where + S + V"
+  },
+  {
+   "phrase": "case by case",
+   "type": "phrase",
+   "meaning": "逐一個案地",
+   "usage": "N by N：逐一地。",
+   "example": "The teacher checked the answers case by case.",
+   "writing": "S + investigated case by case"
+  },
+  {
+   "phrase": "in the words of",
+   "type": "phrase",
+   "meaning": "用……的話來說",
+   "usage": "in the words of + 人。",
+   "example": "In the words of my coach, “Never give up.”",
+   "writing": "in the words of + 人, S + V"
+  },
+  {
+   "phrase": "in part",
+   "type": "phrase",
+   "meaning": "部分地",
+   "usage": "= partly。",
+   "example": "The delay was in part my fault.",
+   "writing": "in part because + 子句"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "One clue was especially revealing: + 子句",
+   "meaning": "有一條線索特別有啟發性：……",
+   "example": "One clue was especially revealing: none of the workers at a nearby brewery caught cholera.",
+   "tip": "用冒號帶出關鍵證據。"
+  },
+  {
+   "frame": "S + is remembered less for A than for B",
+   "meaning": "人們記住……與其說因為 A，不如說因為 B",
+   "example": "The episode is remembered less for its toll than for the investigation it provoked.",
+   "tip": "less…than… 比較兩種原因。"
+  },
+  {
+   "frame": "A proved as instructive as B",
+   "meaning": "A 和 B 一樣具有啟發性",
+   "example": "Anomalies proved as instructive as patterns.",
+   "tip": "as…as… 平衡比較。"
+  }
+ ],
+ "quote": {
+  "text": "In consequence of what I said, the handle of the pump was removed on the following day.",
+  "author": "John Snow",
+  "work": "On the Mode of Communication of Cholera (1855), as quoted in the Wikipedia article “1854 Broad Street cholera outbreak”",
+  "url": "https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "How many people died in the first three days?",
+    "options": [
+     "31",
+     "127",
+     "420",
+     "1,854"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "In just three days, 127 people died."
+   },
+   {
+    "q": "What did most doctors believe caused cholera?",
+    "options": [
+     "Dirty water",
+     "Bad air",
+     "Beer",
+     "Insects"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "most doctors believed cholera spread through “bad air”"
+   },
+   {
+    "q": "Why didn’t the brewery workers get sick?",
+    "options": [
+     "They were young",
+     "They drank beer, not water from the pump",
+     "They lived far away",
+     "They had medicine"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "They drank beer, not water from the pump!"
+   },
+   {
+    "q": "What was the pump’s well close to?",
+    "options": [
+     "A river",
+     "An old toilet pit that was leaking",
+     "A hospital",
+     "A brewery"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "the pump’s well was very close to an old toilet pit that was leaking"
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "What is the miasma theory?",
+    "options": [
+     "Disease spreads through water",
+     "Disease is caused by bad air from filth",
+     "Disease comes from beer",
+     "Disease is caused by maps"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "diseases like cholera were caused by “bad air” rising from filth and rotting matter"
+   },
+   {
+    "q": "Who helped Snow with his investigation?",
+    "options": [
+     "Florence Nightingale",
+     "A local clergyman, Henry Whitehead",
+     "The Mayor",
+     "A brewer"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "with help from a local clergyman, Henry Whitehead"
+   },
+   {
+    "q": "What did Snow admit about the outbreak?",
+    "options": [
+     "It was already declining when the handle was removed",
+     "It started at the brewery",
+     "It was caused by bad air",
+     "It killed no one"
+    ],
+    "a": 0,
+    "why": "第四段。",
+    "evidence": "he admitted that the outbreak was already declining when the handle was removed"
+   },
+   {
+    "q": "Why did officials reject Snow’s theory after the crisis?",
+    "options": [
+     "It was too expensive",
+     "Accepting it meant admitting disease spread through human waste",
+     "Snow had no map",
+     "The pump was new"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "Accepting it meant admitting that disease spread through human waste"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "Why is the episode mainly remembered, according to the writer?",
+    "options": [
+     "Its death toll",
+     "The investigation it provoked",
+     "Florence Nightingale",
+     "The brewery"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "remembered less for its toll, however, than for the investigation it provoked"
+   },
+   {
+    "q": "What did NOT conclusively prove the water’s danger?",
+    "options": [
+     "The pattern of illness and death",
+     "Snow’s chemical and microscopic examination",
+     "The dot map",
+     "Interviews"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "Snow’s chemical and microscopic examination of the water did not conclusively prove its danger"
+   },
+   {
+    "q": "What does Snow’s method of relating cases to their nearest water source anticipate?",
+    "options": [
+     "A Voronoi diagram",
+     "A pie chart",
+     "A family tree",
+     "A timeline"
+    ],
+    "a": 0,
+    "why": "第四段。",
+    "evidence": "anticipates what is now called a Voronoi diagram"
+   },
+   {
+    "q": "What “lasting lesson” does the story offer?",
+    "options": [
+     "Experts are always right",
+     "Careful observation, attention to anomalies and honesty about uncertainty can establish the truth",
+     "Maps are useless",
+     "Beer prevents disease"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "careful observation, attention to anomalies and honesty about uncertainty can establish the truth"
+   }
+  ]
+ },
+ "reflections": [
+  "The brewery workers were an “anomaly”. Why can exceptions be just as useful as patterns when solving a problem?",
+  "Snow was right, but officials rejected his idea because it was unpleasant. Can you think of a modern truth that people resist because it is uncomfortable?"
+ ],
+ "videos": [
+  {
+   "title": "The 1850s map that changed how we fight outbreaks",
+   "channel": "YouTube · Vox",
+   "url": "https://www.youtube.com/watch?v=VJ86D_DtyWg",
+   "kind": "YouTube",
+   "desc": "How Snow’s map changed the way we track disease. (7 min)",
+   "zh": "斯諾的地圖如何改變了我們追蹤疾病的方式。（7 分鐘）",
+   "question": "How is Snow’s map similar to the maps used during modern outbreaks?"
+  },
+  {
+   "title": "The Real Story of John Snow",
+   "channel": "YouTube · SciShow",
+   "url": "https://www.youtube.com/watch?v=_Uwwhudc-CQ",
+   "kind": "YouTube",
+   "desc": "A closer look at what Snow did — and did not — prove. (6 min)",
+   "zh": "仔細檢視斯諾證明了什麼、又沒有證明什麼。（6 分鐘）",
+   "question": "Which popular myth about Snow does the video correct?"
+  },
+  {
+   "title": "John Snow and the 1854 Broad Street cholera outbreak",
+   "channel": "YouTube · Harvard Online",
+   "url": "https://www.youtube.com/watch?v=lNjrAXGRda4",
+   "kind": "YouTube",
+   "desc": "A course video on Snow’s investigation and its importance for public health. (8 min)",
+   "zh": "哈佛線上課程影片：斯諾的調查及其對公共衛生的意義。（8 分鐘）",
+   "question": "What does the video say about why Snow’s ideas were resisted?"
+  }
+ ]
+}

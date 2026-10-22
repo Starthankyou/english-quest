@@ -1,0 +1,467 @@
+{
+ "id": "multitasking",
+ "category": "學習科學",
+ "title": "Can You Really Do Two Things at Once?",
+ "subtitle": "你真的能一心多用嗎？任務切換的代價",
+ "source": "原創議題文章；依 Rubinstein, Meyer & Evans（2001）、Strayer & Johnston（2001）、Ophir, Nass & Wagner（PNAS, 2009）、Uncapher & Wagner（PNAS, 2018）摘要核對，2026-10-22",
+ "sources": [
+  {
+   "title": "Rubinstein, J. S., Meyer, D. E. & Evans, J. E. (2001). Executive control of cognitive processes in task switching. JEP: Human Perception and Performance.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11518143/",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Strayer, D. L. & Johnston, W. A. (2001). Driven to distraction: dual-task studies of simulated driving and conversing on a cellular telephone. Psychological Science.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11760132/",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Ophir, E., Nass, C. & Wagner, A. D. (2009). Cognitive control in media multitaskers. PNAS 106(37).",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19706386/",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Uncapher, M. R. & Wagner, A. D. (2018). Minds and brains of media multitaskers: current findings and future directions. PNAS 115(40).",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30275312/",
+   "accessed": "2026-10-22"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "Switching, Not Doing Both",
+   "paras": [
+    [
+     "You are doing your homework. Your phone buzzes, so you check a message. Then you go back to your homework. Then you watch a short video. Many students do this every day and call it “multitasking”. They believe they are doing two things at once. But are they?",
+     "你正在寫作業。手機震動了，你看了一下訊息，然後回到作業上，接著又看了一支短影片。很多學生每天都這樣做，還稱之為「一心多用」。他們相信自己同時在做兩件事。但真的是這樣嗎？"
+    ],
+    [
+     "Scientists say that, for most tasks that need thinking, our brains do not really do two things at the same time. Instead, they switch quickly from one task to the other. Each switch takes a little time, and the time is longer when the tasks are difficult. Switching to a new, unfamiliar task takes even longer.",
+     "科學家說，對大多數需要思考的任務來說，大腦其實並不是同時做兩件事，而是在兩件事之間快速切換。每次切換都要花一點時間；任務越難，花的時間越長。切換到一個陌生的新任務，花的時間更長。"
+    ],
+    [
+     "Talking on the phone while driving is a dangerous example. In one study, people used a driving simulator. When they talked on a phone, they missed twice as many traffic signals. It did not matter if they held the phone or used a hands-free one. But listening to the radio or an audiobook did not cause this problem. The trouble came from having a real conversation.",
+     "邊開車邊講電話是一個危險的例子。在一項研究中，人們使用駕駛模擬器。當他們講電話時，漏看交通號誌的次數變成兩倍。不管是手持電話還是使用免持裝置，結果都一樣。但聽廣播或有聲書並不會造成這個問題。麻煩來自真正的對話。"
+    ],
+    [
+     "In 2009, researchers at Stanford compared people who often use many kinds of media at once with people who rarely do. Surprisingly, the heavy multitaskers were worse at ignoring things that did not matter. They were even worse at switching between tasks.",
+     "2009 年，史丹佛的研究人員比較了常常同時使用多種媒體的人和很少這樣做的人。出人意料的是，常一心多用的人比較不會忽略不重要的東西，連在任務之間切換的能力也比較差。"
+    ],
+    [
+     "Scientists are still studying whether multitasking causes these problems, or whether easily distracted people simply multitask more. But the advice is simple: when you study, put your phone away and focus on one thing at a time.",
+     "科學家仍在研究，是一心多用造成這些問題，還是容易分心的人本來就比較常一心多用。但建議很簡單：讀書時，把手機收起來，一次只專心做一件事。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "Can You Really Do Two Things at Once?",
+   "paras": [
+    [
+     "Homework on the laptop, messages on the phone, a video playing in another tab: for many students, this is simply what studying looks like. People often describe it as multitasking and assume they are doing several things at once. Psychological research suggests that, for tasks that require attention and thought, what we actually do is something different.",
+     "筆電上寫作業、手機上回訊息、另一個分頁播著影片：對許多學生來說，這就是讀書的樣子。人們常把這稱為一心多用，並以為自己同時在做好幾件事。心理學研究顯示，對於需要注意力和思考的任務，我們實際上做的是另一回事。"
+    ],
+    [
+     "Instead of doing tasks simultaneously, the brain usually switches between them, and each switch has a cost. In a 2001 series of experiments, participants alternated between tasks such as classifying shapes or solving arithmetic problems. Switching took extra time, and these “switching costs” increased when the rules were more complex. Clear cues about which task to do next reduced the cost, but did not remove it. Switching from a familiar task to an unfamiliar one took longer than switching in the opposite direction.",
+     "大腦通常不是同時做多件事，而是在它們之間切換，而每次切換都有代價。在 2001 年的一系列實驗中，參與者在分類圖形或解算術題等任務之間交替。切換需要額外的時間，而且規則越複雜，這種「切換成本」就越高。清楚提示下一個要做的任務，能降低成本，卻無法消除它。從熟悉的任務切換到陌生的任務，比反方向切換花的時間更長。"
+    ],
+    [
+     "The consequences can be serious. In a driving-simulator study published in 2001, conversations on a mobile phone doubled the number of simulated traffic signals that drivers failed to notice, and slowed their reactions to the signals they did see. Importantly, hands-free phones were no safer. Listening to the radio or an audiobook did not cause the same problem; the trouble came from being engaged in a conversation. Simply repeating words heard on the phone did not disrupt driving, but a task that required thinking of new words did — and the effect grew when the driving was harder.",
+     "後果可能很嚴重。在 2001 年發表的一項駕駛模擬研究中，用手機通話讓駕駛人漏看的模擬交通號誌數量變成兩倍，對看到的號誌反應也變慢了。重要的是，免持電話並沒有比較安全。聽廣播或有聲書不會造成同樣的問題；麻煩來自投入一場對話。只是複述電話裡聽到的字詞，並不會干擾駕駛；但需要想出新字詞的任務就會——而且駕駛難度越高，影響越大。"
+    ],
+    [
+     "What about people who multitask all the time — do they get better at it? A 2009 Stanford study compared heavy and light media multitaskers. The heavy multitaskers were more easily distracted by irrelevant information around them and in their memory. Surprisingly, they also performed worse on a test of switching between tasks — the very skill they practised most.",
+     "那些一天到晚一心多用的人呢——他們會因此變得更厲害嗎？2009 年一項史丹佛的研究比較了重度與輕度的媒體多工者。重度多工者更容易被周遭和記憶中不相關的資訊分心。令人意外的是，他們在任務切換的測驗上表現也更差——而那正是他們最常練習的技能。"
+    ],
+    [
+     "A 2018 review of later research urged caution: many studies have found no differences, and it is not yet clear whether multitasking causes weaker attention or whether people with weaker attention multitask more. Still, the balance of evidence points in one direction. If you want to learn something well, protecting your attention may matter more than trying to do everything at once.",
+     "2018 年一篇整理後續研究的回顧則提醒要謹慎：許多研究並沒有發現差異，而且目前還不清楚，是一心多用造成注意力變弱，還是注意力較弱的人本來就比較常一心多用。儘管如此，整體證據仍指向同一個方向：如果你想把東西學好，保護你的注意力，可能比試圖同時做完所有事更重要。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "The Hidden Costs of Task Switching",
+   "paras": [
+    [
+     "Contemporary students rarely study without interruption. Assignments compete with messages, notifications and videos, and many young people describe themselves as skilled multitaskers. The concept, however, rests on an assumption that psychological research has repeatedly challenged: that the mind can perform several demanding tasks in parallel. For tasks that require attention and executive control, the evidence suggests that what feels like simultaneous activity is usually rapid alternation, and that alternation is never free.",
+     "當代學生很少能不受打擾地讀書。作業與訊息、通知和影片互相競爭，許多年輕人也自認擅長一心多用。然而，這個概念建立在一個心理學研究一再挑戰的假設上：心智能平行執行好幾項高要求的任務。對於需要注意力與執行控制的任務，證據顯示，那種感覺像是同時進行的活動，通常是快速的交替，而交替從來都不是免費的。"
+    ],
+    [
+     "Laboratory studies have measured these costs directly. In a 2001 set of four experiments, Rubinstein, Meyer and Evans asked participants either to alternate between tasks — classifying geometric objects by different rules, or solving arithmetic problems using different operations — or to repeat the same task. Alternation produced switching-time costs that grew with rule complexity and shrank when visual cues indicated the next task. The researchers proposed a model in which executive control involves distinct stages of shifting goals and activating new rules, each of which consumes time.",
+     "實驗室研究直接測量了這些成本。在 2001 年的四項實驗中，魯賓斯坦、邁爾與埃文斯讓參與者在任務之間交替——依不同規則分類幾何物體，或用不同運算解算術題——或重複同一項任務。交替產生了切換時間成本，規則越複雜成本越高，而有視覺提示指出下一項任務時成本則會降低。研究者提出一個模型：執行控制包含「轉換目標」與「啟動新規則」兩個不同階段，每一個階段都會耗費時間。"
+    ],
+    [
+     "The real-world implications are starkest on the road. In dual-task studies of simulated driving, Strayer and Johnston found that unconstrained mobile-phone conversations, whether handheld or hands-free, doubled the rate at which drivers failed to detect simulated traffic signals and slowed reactions to signals they did detect. Listening to the radio or to a book on tape caused no such disruption. The authors concluded that the danger lies not in holding the phone but in diverting attention to an engaging cognitive context other than driving. Simply repeating words heard over a handheld phone did not impair driving, whereas a task requiring participants to generate words did, and the deficit grew as driving became more difficult.",
+     "真實世界的影響在道路上最為明顯。在模擬駕駛的雙重任務研究中，斯特雷耶和約翰斯頓發現，不受限制的手機通話——無論手持或免持——都讓駕駛人漏看模擬交通號誌的比例加倍，對看到的號誌反應也變慢。聽廣播或錄音書則沒有造成這種干擾。作者的結論是：危險不在於拿著手機，而在於把注意力轉移到駕駛以外、另一個引人投入的認知情境中。只是複述手持電話中聽到的字詞，並不會影響駕駛；但要求參與者自己想出字詞的任務則會，而且駕駛越困難，表現下降得越多。"
+    ],
+    [
+     "A natural assumption is that practice improves multitasking. In 2009, however, Ophir, Nass and Wagner at Stanford developed an index to identify heavy and light media multitaskers and compared them on standard measures of cognitive control. Heavy multitaskers were more susceptible to interference from irrelevant stimuli and from irrelevant representations in memory. Paradoxically, they also performed worse on a test of task-switching ability, apparently because they were less able to filter out the task they were no longer supposed to be doing.",
+     "一個自然的假設是：練習會讓一心多用變得更厲害。然而在 2009 年，史丹佛的奧菲爾、納斯與華格納設計了一套指標來區分重度與輕度媒體多工者，並用標準的認知控制測量加以比較。重度多工者更容易受到不相關刺激以及記憶中不相關表徵的干擾。弔詭的是，他們在任務切換能力的測驗上表現也更差，似乎是因為他們比較無法過濾掉已經不該再做的那項任務。"
+    ],
+    [
+     "Subsequent research has complicated, though not overturned, this picture. A 2018 review by Uncapher and Wagner noted that the literature remains sparse and mixed, that many studies find no differences between groups, and that the direction of causality is unknown: multitasking might weaken attention, or people with weaker sustained attention might simply multitask more. Even so, where differences appear, heavier multitaskers tend to perform worse on tasks requiring sustained, goal-directed attention. For learners, the practical conclusion is modest but robust: deep understanding depends on attention, and attention is easier to protect than to recover once it has been divided.",
+     "後續研究讓這幅圖像變得更複雜，但並沒有推翻它。烏恩卡弗與華格納在 2018 年的回顧中指出，相關文獻仍然稀少且結果不一，許多研究並未發現兩組之間有差異，而且因果方向未明：可能是一心多用削弱了注意力，也可能只是持續注意力較弱的人比較常一心多用。即便如此，在出現差異的研究中，重度多工者在需要持續、目標導向注意力的任務上，往往表現較差。對學習者而言，實際的結論溫和卻穩固：深度理解有賴於注意力，而注意力一旦被分散，要找回來遠比事先保護它困難。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "the-habit",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "switching-costs",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "driving",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "heavy-multitaskers",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "caution",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "multitasking",
+   "pos": "n.",
+   "meaning": "一心多用、多工",
+   "example": "Multitasking can slow you down.",
+   "family": "multitask (v.)"
+  },
+  {
+   "w": "switch",
+   "pos": "v.",
+   "meaning": "切換",
+   "example": "Switch off your phone.",
+   "family": "switch (n.)"
+  },
+  {
+   "w": "simulator",
+   "pos": "n.",
+   "meaning": "模擬器",
+   "example": "Pilots train in a flight simulator.",
+   "family": "simulate (v.)"
+  },
+  {
+   "w": "focus",
+   "pos": "v.",
+   "meaning": "專注",
+   "example": "Focus on your work.",
+   "family": "focus (n.)"
+  },
+  {
+   "w": "simultaneously",
+   "pos": "adv.",
+   "meaning": "同時地",
+   "example": "Two events happened simultaneously.",
+   "family": "simultaneous (adj.)"
+  },
+  {
+   "w": "irrelevant",
+   "pos": "adj.",
+   "meaning": "不相關的",
+   "example": "Ignore irrelevant details.",
+   "family": "relevant (反義)"
+  },
+  {
+   "w": "distracted",
+   "pos": "adj.",
+   "meaning": "分心的",
+   "example": "He was distracted by the noise.",
+   "family": "distract (v.), distraction (n.)"
+  },
+  {
+   "w": "consequences",
+   "pos": "n.",
+   "meaning": "後果（複數）",
+   "example": "Think about the consequences.",
+   "family": "consequent (adj.)"
+  },
+  {
+   "w": "executive",
+   "pos": "adj.",
+   "meaning": "執行的",
+   "example": "Executive control helps us plan.",
+   "family": "execute (v.)"
+  },
+  {
+   "w": "alternation",
+   "pos": "n.",
+   "meaning": "交替",
+   "example": "The alternation of day and night.",
+   "family": "alternate (v.)"
+  },
+  {
+   "w": "interference",
+   "pos": "n.",
+   "meaning": "干擾",
+   "example": "Phones cause interference with radios.",
+   "family": "interfere (v.)"
+  },
+  {
+   "w": "paradoxically",
+   "pos": "adv.",
+   "meaning": "弔詭地、矛盾地",
+   "example": "Paradoxically, the more he slept, the more tired he felt.",
+   "family": "paradox (n.)"
+  },
+  {
+   "w": "causality",
+   "pos": "n.",
+   "meaning": "因果關係",
+   "example": "Correlation does not prove causality.",
+   "family": "cause (n./v.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "at once",
+   "type": "phrase",
+   "meaning": "同時；立刻",
+   "usage": "do two things at once：同時做兩件事。",
+   "example": "I can’t listen to two people at once.",
+   "writing": "S + do + N + at once"
+  },
+  {
+   "phrase": "put your phone away",
+   "type": "phrase",
+   "meaning": "把手機收起來",
+   "usage": "put sth away：收好某物。",
+   "example": "Please put your books away.",
+   "writing": "put your phone away and + V"
+  },
+  {
+   "phrase": "filter out",
+   "type": "phrase",
+   "meaning": "過濾掉",
+   "usage": "filter out + 不需要的東西。",
+   "example": "This app filters out spam.",
+   "writing": "S + filter out + N"
+  },
+  {
+   "phrase": "points in one direction",
+   "type": "phrase",
+   "meaning": "指向同一方向（結論一致）",
+   "usage": "evidence points in a direction。",
+   "example": "All the clues point in one direction.",
+   "writing": "the evidence points in one direction"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "Instead of V-ing, S + V",
+   "meaning": "……不是……，而是……",
+   "example": "Instead of doing tasks simultaneously, the brain usually switches between them.",
+   "tip": "對比兩種做法。"
+  },
+  {
+   "frame": "S + performed worse on A — the very skill they practised most",
+   "meaning": "……在 A 表現更差——而那正是他們最常練習的技能",
+   "example": "They performed worse on a test of switching between tasks — the very skill they practised most.",
+   "tip": "用破折號強調反諷。"
+  },
+  {
+   "frame": "A is easier to protect than to recover",
+   "meaning": "A 保護起來比找回來容易",
+   "example": "Attention is easier to protect than to recover once it has been divided.",
+   "tip": "形容詞＋to V 的比較結構。"
+  }
+ ],
+ "quote": {
+  "text": "Heavy media multitaskers performed worse on a test of task-switching ability, likely due to reduced ability to filter out interference from the irrelevant task set.",
+  "author": "Ophir, Nass & Wagner",
+  "work": "“Cognitive control in media multitaskers”, PNAS (2009)",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19706386/"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "What do our brains usually do with tasks that need thinking?",
+    "options": [
+     "Do them at the same time",
+     "Switch quickly from one to the other",
+     "Ignore them",
+     "Sleep"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "Instead, they switch quickly from one task to the other."
+   },
+   {
+    "q": "What happened when drivers talked on the phone?",
+    "options": [
+     "They drove better",
+     "They missed twice as many traffic signals",
+     "Nothing changed",
+     "They stopped the car"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "they missed twice as many traffic signals"
+   },
+   {
+    "q": "What were heavy multitaskers worse at?",
+    "options": [
+     "Running",
+     "Ignoring things that did not matter",
+     "Using phones",
+     "Watching videos"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "the heavy multitaskers were worse at ignoring things that did not matter"
+   },
+   {
+    "q": "What does the article advise when you study?",
+    "options": [
+     "Watch videos",
+     "Put your phone away and focus on one thing",
+     "Study with music videos",
+     "Use two screens"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "put your phone away and focus on one thing at a time"
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "When did switching costs increase?",
+    "options": [
+     "When the rules were more complex",
+     "When people were tired",
+     "In the morning",
+     "When tasks were easy"
+    ],
+    "a": 0,
+    "why": "第二段。",
+    "evidence": "these “switching costs” increased when the rules were more complex"
+   },
+   {
+    "q": "Were hands-free phones safer while driving?",
+    "options": [
+     "Yes, much safer",
+     "No, they were no safer",
+     "Only for young drivers",
+     "The study did not test them"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "Importantly, hands-free phones were no safer."
+   },
+   {
+    "q": "Why was the 2009 result surprising?",
+    "options": [
+     "Heavy multitaskers were worse at the skill they practised most",
+     "Light multitaskers were faster",
+     "Nobody used media",
+     "Phones were banned"
+    ],
+    "a": 0,
+    "why": "第四段。",
+    "evidence": "the very skill they practised most"
+   },
+   {
+    "q": "What is still unclear, according to the 2018 review?",
+    "options": [
+     "Whether phones exist",
+     "Whether multitasking causes weaker attention or the reverse",
+     "Whether driving is dangerous",
+     "Whether students study"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "it is not yet clear whether multitasking causes weaker attention or whether people with weaker attention multitask more"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "What does feel-like-simultaneous activity usually turn out to be?",
+    "options": [
+     "True parallel processing",
+     "Rapid alternation",
+     "Sleep",
+     "Memory"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "what feels like simultaneous activity is usually rapid alternation"
+   },
+   {
+    "q": "What two stages of executive control did Rubinstein and colleagues propose?",
+    "options": [
+     "Shifting goals and activating new rules",
+     "Seeing and hearing",
+     "Reading and writing",
+     "Sleeping and waking"
+    ],
+    "a": 0,
+    "why": "第二段。",
+    "evidence": "distinct stages of shifting goals and activating new rules"
+   },
+   {
+    "q": "Where does the danger of phone use while driving lie, according to Strayer and Johnston?",
+    "options": [
+     "Holding the phone",
+     "Diverting attention to an engaging cognitive context",
+     "The radio",
+     "Bad roads"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "the danger lies not in holding the phone but in diverting attention to an engaging cognitive context other than driving"
+   },
+   {
+    "q": "What is the writer’s practical conclusion?",
+    "options": [
+     "Multitasking is harmless",
+     "Attention is easier to protect than to recover once divided",
+     "Phones improve learning",
+     "The research is useless"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "attention is easier to protect than to recover once it has been divided"
+   }
+  ]
+ },
+ "reflections": [
+  "For one evening, record how many times you switch tasks while studying. Were you surprised by the number?",
+  "The 2018 review says we do not know the direction of cause and effect. Design a simple experiment that could help find out."
+ ],
+ "videos": [
+  {
+   "title": "What multitasking does to your brain",
+   "channel": "YouTube · BBC Ideas",
+   "url": "https://www.youtube.com/watch?v=tMiyzuO1qMs",
+   "kind": "YouTube",
+   "desc": "A short animated explanation of task switching. (3 min)",
+   "zh": "簡短動畫說明任務切換。（3 分鐘）",
+   "question": "Which idea in the video matches the “switching costs” in this article?"
+  },
+  {
+   "title": "Multitasking Is a Myth, and to Attempt It Comes at a Neurobiological Cost",
+   "channel": "YouTube · Big Think",
+   "url": "https://www.youtube.com/watch?v=iM4u-7Z5URk",
+   "kind": "YouTube",
+   "desc": "A neuroscientist explains why trying to multitask has costs. (3 min)",
+   "zh": "一位神經科學家說明為什麼一心多用要付出代價。（3 分鐘）",
+   "question": "Does the video mention any uncertainty, as the 2018 review does?"
+  }
+ ]
+}
