@@ -1,0 +1,481 @@
+{
+ "id": "music-chills",
+ "category": "大腦科學",
+ "title": "Why Does Music Give You Chills?",
+ "subtitle": "音樂為什麼讓人起雞皮疙瘩？大腦的獎賞系統",
+ "source": "原創議題文章；依 Blood & Zatorre（PNAS, 2001）、Salimpoor et al.（Nature Neuroscience, 2011）、Sachs et al.（SCAN, 2016）摘要與 Wikipedia〈Frisson〉核對，2026-10-22",
+ "sources": [
+  {
+   "title": "Blood, A. J. & Zatorre, R. J. (2001). Intensely pleasurable responses to music correlate with activity in brain regions implicated in reward and emotion. PNAS 98(20), 11818–11823.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11573015/",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Salimpoor, V. N. et al. (2011). Anatomically distinct dopamine release during anticipation and experience of peak emotion to music. Nature Neuroscience 14, 257–262.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21217764/",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Sachs, M. E. et al. (2016). Brain connectivity reflects human aesthetic responses to music. Social Cognitive and Affective Neuroscience 11(6), 884–891.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26966157/",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Wikipedia: Frisson",
+   "url": "https://en.wikipedia.org/wiki/Frisson",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Charles Darwin, The Descent of Man (1871), Project Gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/2300",
+   "accessed": "2026-10-22"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "A Shiver Down Your Spine",
+   "paras": [
+    [
+     "You are listening to your favourite song. The music builds up, the singer hits a high note, and suddenly you feel a shiver down your back. The hair on your arms stands up. You have goosebumps! Many people have felt this. But why does music do this to us?",
+     "你正在聽最喜歡的歌。音樂漸漸堆高，歌手唱到一個高音，突然你感到背脊一陣發涼，手臂上的寒毛都豎了起來。你起雞皮疙瘩了！很多人都有過這種感覺。但為什麼音樂會讓我們這樣？"
+    ],
+    [
+     "Scientists call this feeling “frisson”, a French word that means “shiver”. People can also feel it when they watch a film, hear a story or see something beautiful. Music is one of the most common causes. It often happens when something in the music surprises us.",
+     "科學家把這種感覺叫作 frisson，這是法文，意思是「顫抖」。人們在看電影、聽故事或看到美麗的事物時，也可能有這種感覺。音樂是最常見的原因之一。它常常發生在音樂裡有某個東西讓我們驚喜的時候。"
+    ],
+    [
+     "In 2001, two scientists in Canada scanned people’s brains while they listened to music that gave them chills. The stronger the chills, the more active certain brain areas became. These areas are part of the brain’s “reward system”. They also become active when we eat good food. When people felt chills, their heart rate and breathing also changed.",
+     "2001 年，加拿大的兩位科學家在人們聆聽會讓他們起雞皮疙瘩的音樂時，掃描他們的大腦。雞皮疙瘩越強烈，某些腦區就越活躍。這些區域屬於大腦的「獎賞系統」，我們吃到美食時，它們也會活躍起來。人們起雞皮疙瘩時，心跳和呼吸也會改變。"
+    ],
+    [
+     "Ten years later, another study found that the brain releases dopamine, a chemical linked to pleasure, during the best moments of a song. Amazingly, dopamine was also released just before those moments, while people were waiting for them. This may explain why we love waiting for our favourite part of a song.",
+     "十年後，另一項研究發現，在一首歌最精彩的時刻，大腦會釋放多巴胺——一種與愉悅感有關的化學物質。令人驚訝的是，在那些時刻來臨之前、人們正在期待的時候，大腦也會釋放多巴胺。這或許能解釋，為什麼我們那麼喜歡等待一首歌裡最愛的段落。"
+    ],
+    [
+     "Not everyone gets chills from music. Some people get them often, and others almost never. One study found that people who get chills may have stronger connections between brain areas for hearing and areas for emotion. Do you get chills? Which song gives them to you?",
+     "不是每個人聽音樂都會起雞皮疙瘩。有些人常常有，有些人幾乎從來沒有。一項研究發現，會起雞皮疙瘩的人，大腦中負責聽覺的區域和負責情緒的區域之間，連結可能比較強。你會起雞皮疙瘩嗎？哪一首歌會讓你這樣？"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "Why Does Music Give You Chills?",
+   "paras": [
+    [
+     "A melody rises, the drums drop out, a voice soars — and a shiver runs down your spine. The skin on your arms turns to goosebumps. This experience has a name: frisson, from the French word for “shiver”. It is also called “aesthetic chills”, because it can be triggered by films, stories, rituals and beautiful scenes as well as by music.",
+     "旋律升高、鼓聲忽然停下、歌聲直衝雲霄——一股寒意沿著背脊竄下，手臂上的皮膚冒出雞皮疙瘩。這種經驗有個名字：frisson，源自法文的「顫抖」。它也被稱為「美感寒顫」，因為除了音樂，電影、故事、儀式和美麗的景色也都能引發它。"
+    ],
+    [
+     "Researchers have found that chills are often linked to moments when music breaks our expectations. A sudden change in loudness, an unexpected harmony, a shift to a new key or a note that is unusually high or low can all activate the autonomic nervous system, which controls automatic body responses such as heart rate and breathing.",
+     "研究者發現，寒顫常與音樂打破我們預期的時刻有關。音量突然改變、意料之外的和聲、轉到新的調，或是一個特別高或特別低的音，都可能啟動自律神經系統——負責心跳、呼吸等自動身體反應的系統。"
+    ],
+    [
+     "In 2001, Anne Blood and Robert Zatorre at McGill University used brain scanning to study listeners who had chosen music that gave them chills. As the chills grew stronger, activity changed in brain regions involved in reward, emotion and arousal — the same circuits that respond to food and other powerful rewards. In other words, the brain seems to treat a great piece of music almost like something it needs. The listeners’ bodies changed too: their heart rate, muscle activity and breathing all shifted as the chills came.",
+     "2001 年，麥基爾大學的安妮．布拉德和羅伯特．札托雷用腦部掃描，研究那些自選了會讓他們起雞皮疙瘩的音樂的聆聽者。隨著寒顫越來越強，與獎賞、情緒和激發有關的腦區活動也隨之改變——這些正是會對食物等強烈獎賞產生反應的迴路。換句話說，大腦似乎把一首好音樂，當成幾乎像是它需要的東西。聆聽者的身體也有變化：寒顫出現時，他們的心跳、肌肉活動和呼吸都改變了。"
+    ],
+    [
+     "A 2011 study from the same university went further. Using two kinds of scans, the researchers found that dopamine was released in the brain at moments of peak emotion during music. Different parts of the brain were active in two stages: one during the anticipation of a favourite moment, and another when the moment actually arrived. The waiting itself, it seems, is part of the pleasure. The researchers suggested that this helps explain why music is so highly valued in every human society.",
+     "同一所大學 2011 年的一項研究更進一步。研究人員用兩種掃描方式發現，在聆聽音樂情緒達到高峰的時刻，大腦會釋放多巴胺。大腦的不同部位分兩個階段活躍：一個在期待最愛段落的時候，另一個在那一刻真正到來的時候。看來，等待本身就是愉悅的一部分。研究人員認為，這有助於解釋為什麼音樂在每個人類社會中都備受重視。"
+    ],
+    [
+     "Yet people differ greatly. A 2016 study found that those who often experience chills tend to have stronger white matter connections between brain areas for processing sound and areas for emotion and social processing. Chills are also associated with the personality trait of openness to experience. So if music rarely gives you goosebumps, there is nothing wrong with you — your brain may simply be wired a little differently.",
+     "然而，人與人之間的差異很大。2016 年的一項研究發現，常起寒顫的人，大腦中處理聲音的區域與處理情緒、社交的區域之間，白質連結往往比較強。寒顫也與「對經驗開放」這種人格特質有關。所以，如果音樂很少讓你起雞皮疙瘩，你並沒有什麼問題——你的大腦只是接線方式稍有不同。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "Anticipation, Reward and the Puzzle of Musical Pleasure",
+   "paras": [
+    [
+     "Music presents an evolutionary puzzle. It provides no food, shelter or obvious survival advantage, yet it is found in every human society and can produce responses as intense as those triggered by tangible rewards. Charles Darwin, writing in The Descent of Man, ranked the enjoyment and production of music among the most mysterious faculties with which humans are endowed. One of its most vivid effects is frisson, or aesthetic chills: a shiver down the spine, often accompanied by goosebumps, in response to a powerful piece of music.",
+     "音樂是一個演化之謎。它不提供食物、居所或明顯的生存優勢，卻存在於每一個人類社會，而且能引發與有形獎賞一樣強烈的反應。查爾斯．達爾文在《人類的由來》中，把享受與創作音樂列為人類所具備的最神祕的能力之一。音樂最鮮明的效應之一，是 frisson，也就是美感寒顫：聽到一段動人的音樂時，背脊竄過一陣顫慄，常伴隨雞皮疙瘩。"
+    ],
+    [
+     "Chills are frequently associated with violations of musical expectation. Sudden changes in dynamics, unexpected harmonies, modulations to new keys and notes at the extremes of pitch have all been shown to arouse the autonomic nervous system, and activation of that system correlates strongly with frisson. The phenomenon thus appears to depend on prediction: the brain constantly anticipates what will come next, and a well-placed surprise produces a physical response.",
+     "寒顫常與違反音樂預期有關。力度的突然變化、意料之外的和聲、轉調，以及音高位於極端的音符，都已被證明會激發自律神經系統，而這個系統的活化與寒顫高度相關。因此，這個現象似乎取決於預測：大腦不斷預期接下來會發生什麼，而一個恰到好處的驚喜，就會引發生理反應。"
+    ],
+    [
+     "The neural basis of this pleasure was first mapped in 2001 by Anne Blood and Robert Zatorre at McGill University. Using positron emission tomography, they measured changes in cerebral blood flow while participants listened to self-selected music that reliably gave them chills. As the intensity of the chills increased, activity rose or fell in regions associated with reward, emotion and arousal, including the ventral striatum, midbrain, amygdala and orbitofrontal cortex — structures also engaged by food and other euphoria-inducing stimuli. Subjective reports of chills were accompanied by measurable changes in heart rate, muscle activity and respiration, confirming that the experience was physiological as well as emotional.",
+     "這種愉悅的神經基礎，最早在 2001 年由麥基爾大學的安妮．布拉德和羅伯特．札托雷描繪出來。他們用正子斷層掃描，在參與者聆聽自選、總能讓他們起寒顫的音樂時，測量腦血流的變化。隨著寒顫強度增加，與獎賞、情緒和激發相關的區域——包括腹側紋狀體、中腦、杏仁核和眼眶額葉皮質——活動隨之升高或降低；這些結構同樣會被食物等引發欣快感的刺激所啟動。受試者回報寒顫的同時，心跳、肌肉活動和呼吸也出現了可測量的變化，證實這種經驗不只是情緒上的，也是生理上的。"
+    ],
+    [
+     "A decade later, Valorie Salimpoor and colleagues provided chemical evidence. Combining a PET technique sensitive to dopamine with functional MRI, they found that dopamine was released in the striatum at moments of peak emotional arousal. Crucially, they observed a functional dissociation: the caudate was more involved during the anticipation of a peak, and the nucleus accumbens during the experience of the peak itself. Pleasure in music, in other words, comes in two stages — the craving and the reward — each with its own neural pathway. An earlier preliminary study had even found that blocking the brain’s opioid receptors reduced or prevented chills in some listeners.",
+     "十年後，瓦萊麗．薩林普爾與同事提供了化學證據。他們結合對多巴胺敏感的正子掃描技術與功能性磁振造影，發現在情緒激發達到高峰的時刻，紋狀體會釋放多巴胺。關鍵在於，他們觀察到一種功能上的分離：尾狀核在期待高峰時較活躍，而依核則在體驗高峰本身時較活躍。換句話說，音樂帶來的愉悅分成兩個階段——渴望與獎賞——各有自己的神經路徑。更早的一項初步研究甚至發現，阻斷大腦的鴉片類受體，會讓部分聆聽者的寒顫減弱或消失。"
+    ],
+    [
+     "Individual differences remain striking. Some listeners experience chills frequently; others rarely or never. In 2016, Sachs and colleagues reported that white matter connectivity between auditory regions in the superior temporal gyrus and emotional and social processing regions in the insula and medial prefrontal cortex helped explain these differences. The authors suggested that music’s power may derive from its role in social and emotional communication through sound. If so, Darwin’s mystery may have a partial answer: music moves us because it speaks to the parts of the brain built for connecting with others.",
+     "個體差異仍然非常明顯。有些聆聽者常起寒顫，有些很少甚至從不。2016 年，薩克斯與同事指出，位於顳上回的聽覺區，與位於腦島和內側前額葉皮質的情緒及社交處理區之間的白質連結，有助於解釋這些差異。作者認為，音樂的力量可能來自它透過聲音進行社交與情感溝通的角色。若是如此，達爾文的謎題或許有了部分答案：音樂之所以打動我們，是因為它對大腦中為了與他人連結而生的部分說話。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "frisson",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "surprise",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "reward",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "dopamine",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "differences",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "favourite",
+   "pos": "adj.",
+   "meaning": "最喜愛的",
+   "example": "What is your favourite song?",
+   "family": "favour (n.)"
+  },
+  {
+   "w": "surprises",
+   "pos": "v.",
+   "meaning": "使驚訝（第三人稱）",
+   "example": "The ending always surprises me.",
+   "family": "surprise (n.), surprising (adj.)"
+  },
+  {
+   "w": "active",
+   "pos": "adj.",
+   "meaning": "活躍的",
+   "example": "My grandmother is still very active.",
+   "family": "activity (n.)"
+  },
+  {
+   "w": "connections",
+   "pos": "n.",
+   "meaning": "連結（複數）",
+   "example": "The internet creates connections.",
+   "family": "connect (v.)"
+  },
+  {
+   "w": "triggered",
+   "pos": "v.",
+   "meaning": "引發（p.p.）",
+   "example": "The alarm was triggered by smoke.",
+   "family": "trigger (n.)"
+  },
+  {
+   "w": "expectations",
+   "pos": "n.",
+   "meaning": "預期（複數）",
+   "example": "The film met my expectations.",
+   "family": "expect (v.)"
+  },
+  {
+   "w": "anticipation",
+   "pos": "n.",
+   "meaning": "期待",
+   "example": "We waited in anticipation.",
+   "family": "anticipate (v.)"
+  },
+  {
+   "w": "personality",
+   "pos": "n.",
+   "meaning": "個性、人格",
+   "example": "She has a friendly personality.",
+   "family": "personal (adj.)"
+  },
+  {
+   "w": "evolutionary",
+   "pos": "adj.",
+   "meaning": "演化的",
+   "example": "It is an evolutionary advantage.",
+   "family": "evolution (n.)"
+  },
+  {
+   "w": "tangible",
+   "pos": "adj.",
+   "meaning": "有形的、實質的",
+   "example": "We need tangible results.",
+   "family": "intangible (反義)"
+  },
+  {
+   "w": "dissociation",
+   "pos": "n.",
+   "meaning": "分離",
+   "example": "There is a dissociation between the two processes.",
+   "family": "dissociate (v.)"
+  },
+  {
+   "w": "craving",
+   "pos": "n.",
+   "meaning": "渴望",
+   "example": "I have a craving for chocolate.",
+   "family": "crave (v.)"
+  },
+  {
+   "w": "striking",
+   "pos": "adj.",
+   "meaning": "顯著的、引人注目的",
+   "example": "There is a striking difference.",
+   "family": "strike (v.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "builds up",
+   "type": "phrase",
+   "meaning": "逐漸增強、累積",
+   "usage": "build up：情緒、張力、音樂慢慢增強。",
+   "example": "Tension builds up before the exam.",
+   "writing": "The music builds up"
+  },
+  {
+   "phrase": "stands up",
+   "type": "phrase",
+   "meaning": "豎立、站起來",
+   "usage": "hair stands up：寒毛豎起。",
+   "example": "The cat’s fur stands up when it is scared.",
+   "writing": "The hair on your arms stands up."
+  },
+  {
+   "phrase": "in other words",
+   "type": "phrase",
+   "meaning": "換句話說",
+   "usage": "換個方式說明前句。",
+   "example": "He is the boss — in other words, he decides.",
+   "writing": "In other words, S + V"
+  },
+  {
+   "phrase": "nothing wrong with",
+   "type": "phrase",
+   "meaning": "……沒有問題",
+   "usage": "There is nothing wrong with sb/sth。",
+   "example": "There is nothing wrong with asking for help.",
+   "writing": "there is nothing wrong with you"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "The + 比較級 + A, the + 比較級 + B",
+   "meaning": "A 越……，B 就越……",
+   "example": "The stronger the chills, the more active certain brain areas became.",
+   "tip": "學測常考的比較句型。"
+  },
+  {
+   "frame": "S + seems to treat A almost like B",
+   "meaning": "……似乎把 A 當成幾乎像 B",
+   "example": "The brain seems to treat a great piece of music almost like something it needs.",
+   "tip": "用類比說明研究的意義。"
+  },
+  {
+   "frame": "If so, S + may have a partial answer",
+   "meaning": "若是如此，……或許有了部分答案",
+   "example": "If so, Darwin’s mystery may have a partial answer.",
+   "tip": "審慎地提出結論。"
+  }
+ ],
+ "quote": {
+  "text": "As neither the enjoyment nor the capacity of producing musical notes are faculties of the least use to man in reference to his daily habits of life, they must be ranked amongst the most mysterious with which he is endowed.",
+  "author": "Charles Darwin",
+  "work": "The Descent of Man (1871)",
+  "url": "https://www.gutenberg.org/ebooks/2300"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "What does “frisson” mean in French?",
+    "options": [
+     "Music",
+     "Shiver",
+     "Song",
+     "Brain"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "a French word that means “shiver”"
+   },
+   {
+    "q": "When do the brain areas linked to music chills also become active?",
+    "options": [
+     "When we sleep",
+     "When we eat good food",
+     "When we run",
+     "When we are angry"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "They also become active when we eat good food."
+   },
+   {
+    "q": "When else was dopamine released?",
+    "options": [
+     "After the song ended",
+     "Just before the best moments, while people were waiting",
+     "Only at night",
+     "Never"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "dopamine was also released just before those moments, while people were waiting for them"
+   },
+   {
+    "q": "What might people who get chills have?",
+    "options": [
+     "Better ears",
+     "Stronger connections between hearing and emotion areas",
+     "More money",
+     "Longer hair"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "stronger connections between brain areas for hearing and areas for emotion"
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "Why is frisson also called “aesthetic chills”?",
+    "options": [
+     "It only happens with music",
+     "It can be triggered by films, stories and beautiful scenes too",
+     "It is cold",
+     "It is a disease"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "because it can be triggered by films, stories, rituals and beautiful scenes as well as by music"
+   },
+   {
+    "q": "What kind of musical moment often causes chills?",
+    "options": [
+     "When music breaks our expectations",
+     "When the music is quiet and boring",
+     "When the song is very short",
+     "When there are no instruments"
+    ],
+    "a": 0,
+    "why": "第二段。",
+    "evidence": "chills are often linked to moments when music breaks our expectations"
+   },
+   {
+    "q": "What did the 2011 study find about anticipation?",
+    "options": [
+     "It reduces pleasure",
+     "The waiting itself seems to be part of the pleasure",
+     "It is not linked to the brain",
+     "It only happens with food"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "The waiting itself, it seems, is part of the pleasure."
+   },
+   {
+    "q": "Which personality trait is associated with chills?",
+    "options": [
+     "Shyness",
+     "Openness to experience",
+     "Anger",
+     "Laziness"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "Chills are also associated with the personality trait of openness to experience."
+   }
+  ],
+  "advanced": [
+   {
+    "q": "Why does music present “an evolutionary puzzle”?",
+    "options": [
+     "It provides no obvious survival advantage yet is found in every society",
+     "It is very new",
+     "Animals make better music",
+     "It harms survival"
+    ],
+    "a": 0,
+    "why": "第一段。",
+    "evidence": "It provides no food, shelter or obvious survival advantage, yet it is found in every human society"
+   },
+   {
+    "q": "According to the writer, what does frisson appear to depend on?",
+    "options": [
+     "Volume alone",
+     "Prediction and well-placed surprise",
+     "The singer’s fame",
+     "The listener’s age"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "The phenomenon thus appears to depend on prediction"
+   },
+   {
+    "q": "What “functional dissociation” did Salimpoor’s team observe?",
+    "options": [
+     "The caudate was more involved in anticipation, the nucleus accumbens in the peak",
+     "Music and food use different chemicals",
+     "Left and right ears differ",
+     "Dopamine was not released"
+    ],
+    "a": 0,
+    "why": "第四段。",
+    "evidence": "the caudate was more involved during the anticipation of a peak, and the nucleus accumbens during the experience of the peak itself"
+   },
+   {
+    "q": "What partial answer to Darwin’s mystery does the writer suggest?",
+    "options": [
+     "Music helps us find food",
+     "Music speaks to brain parts built for connecting with others",
+     "Music is useless",
+     "Music is only learned"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "it speaks to the parts of the brain built for connecting with others"
+   }
+  ]
+ },
+ "reflections": [
+  "Choose a song that gives you chills. At what exact moment does it happen? Can you explain it using the idea of “broken expectations”?",
+  "Darwin thought music was mysterious because it seems useless for survival. Do you agree? What might music be “for”?"
+ ],
+ "videos": [
+  {
+   "title": "Frisson: Why music gives you chills",
+   "channel": "YouTube · BBC REEL",
+   "url": "https://www.youtube.com/watch?v=TF06nUzToNk",
+   "kind": "YouTube",
+   "desc": "A short BBC film on the science of musical chills. (5 min)",
+   "zh": "BBC 短片：音樂寒顫背後的科學。（5 分鐘）",
+   "question": "Which explanation in the video matches the idea of broken expectations?"
+  },
+  {
+   "title": "How playing an instrument benefits your brain",
+   "channel": "TED-Ed · Anita Collins",
+   "url": "https://www.youtube.com/watch?v=R0JKCYZ8hng",
+   "kind": "TED-Ed",
+   "desc": "What happens in the brain when we listen to and play music. (5 min)",
+   "zh": "聆聽與演奏音樂時，大腦裡發生了什麼。（5 分鐘）",
+   "question": "How is playing music different from listening to it, according to the video?"
+  },
+  {
+   "title": "Can Music Transform Your Brain?",
+   "channel": "YouTube · Museum of Science · Daniel J. Levitin",
+   "url": "https://www.youtube.com/watch?v=2bJMTtAgpb4",
+   "kind": "YouTube",
+   "desc": "A neuroscientist and musician talks about music and the brain. (10 min)",
+   "zh": "一位神經科學家兼音樂人談音樂與大腦。（10 分鐘）",
+   "question": "Which claim in the talk would you want to check with a scientific study?"
+  }
+ ]
+}

@@ -1,0 +1,467 @@
+{
+ "id": "penicillin",
+ "category": "歷史與科學",
+ "title": "The Lucky Mould That Almost Went Nowhere",
+ "subtitle": "差點被遺忘的幸運黴菌：青黴素的真實故事",
+ "source": "原創議題文章；依 Wikipedia〈Alexander Fleming〉〈Penicillin〉〈History of penicillin〉〈Norman Heatley〉核對，2026-10-22",
+ "sources": [
+  {
+   "title": "Wikipedia: Alexander Fleming",
+   "url": "https://en.wikipedia.org/wiki/Alexander_Fleming",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Wikipedia: History of penicillin",
+   "url": "https://en.wikipedia.org/wiki/History_of_penicillin",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Wikipedia: Penicillin",
+   "url": "https://en.wikipedia.org/wiki/Penicillin",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Wikipedia: Norman Heatley",
+   "url": "https://en.wikipedia.org/wiki/Norman_Heatley",
+   "accessed": "2026-10-22"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "Mould on a Dish",
+   "paras": [
+    [
+     "In September 1928, a Scottish scientist called Alexander Fleming came back to his laboratory in London after a holiday. Before he left, he had put some bacteria on small dishes. Now he saw something strange: mould was growing on one dish, and the bacteria around the mould were dead.",
+     "1928 年 9 月，蘇格蘭科學家亞歷山大．弗萊明度假回來，回到他在倫敦的實驗室。出發前，他在幾個小培養皿上放了一些細菌。現在他看到一件奇怪的事：其中一個培養皿長了黴菌，而黴菌周圍的細菌都死了。"
+    ],
+    [
+     "Fleming realised that the mould made something that could kill bacteria. In 1929 he named it penicillin. He wrote about it in a science journal, but few people paid attention. He also could not make enough pure penicillin to use as a medicine.",
+     "弗萊明意識到，這種黴菌會產生能殺死細菌的東西。1929 年，他把它命名為青黴素（盤尼西林）。他把發現寫成論文發表在科學期刊上，卻沒什麼人注意。他也沒辦法製造出足夠的純青黴素來當藥用。"
+    ],
+    [
+     "About ten years later, a team at the University of Oxford, led by Howard Florey and Ernst Chain, started working on penicillin. In May 1940 they tested it on eight sick mice. The four mice without penicillin died. The four mice with penicillin were still alive the next day. Florey called it “a miracle”.",
+     "大約十年後，牛津大學一個由霍華德．弗洛里和恩斯特．柴恩帶領的團隊，開始研究青黴素。1940 年 5 月，他們用八隻生病的老鼠做測試。沒打青黴素的四隻老鼠死了，打了青黴素的四隻隔天都還活著。弗洛里稱之為「奇蹟」。"
+    ],
+    [
+     "Making penicillin was very hard. The team grew mould in special pots shaped like hospital bedpans. In 1941 they treated a policeman with a terrible infection. He started to get better, but they ran out of penicillin, and he died. Later, factories learned to make much more. In 1942, one of the first American patients treated with penicillin used half of all the penicillin made in the country at that time.",
+     "製造青黴素非常困難。團隊用形狀像醫院便盆的特製陶罐培養黴菌。1941 年，他們治療了一位嚴重感染的警察。他開始好轉，但青黴素用完了，他還是過世了。後來，工廠學會了大量生產青黴素。1942 年，美國最早接受青黴素治療的病人之一，就用掉了當時全國生產的青黴素的一半。"
+    ],
+    [
+     "In 1945, Fleming, Florey and Chain shared the Nobel Prize. Today, many people remember only Fleming’s lucky discovery. But penicillin became a medicine because a whole team worked hard for years. Great discoveries often need both luck and teamwork.",
+     "1945 年，弗萊明、弗洛里和柴恩共同獲得諾貝爾獎。今天，很多人只記得弗萊明的幸運發現。但青黴素之所以能成為藥物，是因為整個團隊努力了好幾年。偉大的發現，往往同時需要運氣和團隊合作。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "The Lucky Mould That Almost Went Nowhere",
+   "paras": [
+    [
+     "On 3 September 1928, Alexander Fleming returned to his laboratory at St Mary’s Hospital in London after a family holiday. Before leaving, he had left some dishes of staphylococcus bacteria on a bench. One had become contaminated with a mould, and the bacteria immediately around it had been destroyed. It is one of the most famous accidents in the history of science.",
+     "1928 年 9 月 3 日，亞歷山大．弗萊明結束家庭度假，回到倫敦聖瑪麗醫院的實驗室。出發前，他把幾個培養葡萄球菌的培養皿留在實驗桌上。其中一個被黴菌污染了，而黴菌周圍的細菌都被消滅了。這是科學史上最有名的意外之一。"
+    ],
+    [
+     "Fleming investigated the “mould juice” and, on 7 March 1929, named its active substance penicillin. Yet the discovery nearly stalled. His paper in the British Journal of Experimental Pathology attracted little attention, and he was unsure about its medical use. Fleming did not abandon the work, as is sometimes claimed, but neither he nor his assistants managed to purify the substance in useful amounts.",
+     "弗萊明研究了這種「黴菌汁」，並在 1929 年 3 月 7 日把其中的有效物質命名為青黴素。然而，這項發現幾乎停滯不前。他發表在《英國實驗病理學期刊》的論文沒有引起太多注意，他自己也不確定它的醫療用途。弗萊明並沒有像某些說法那樣放棄這項研究，但他和助手都沒能把這種物質純化到可用的分量。"
+    ],
+    [
+     "The breakthrough came from Oxford. From 1939, a team led by Howard Florey and Ernst Chain developed ways to grow the mould, extract penicillin and measure its purity. On 25 May 1940, Florey infected eight mice with dangerous bacteria and gave penicillin to four of them. By the next morning, all four untreated mice were dead, while the treated mice were still alive. Florey described the result as “a miracle”. The team was also lucky in its choice of animals: penicillin is toxic to guinea pigs, so testing on them might have stopped the research.",
+     "突破來自牛津。從 1939 年起，由霍華德．弗洛里和恩斯特．柴恩帶領的團隊，發展出培養黴菌、萃取青黴素和測量純度的方法。1940 年 5 月 25 日，弗洛里讓八隻老鼠感染危險的細菌，再給其中四隻注射青黴素。到了隔天早上，四隻未治療的老鼠全死了，接受治療的老鼠卻都還活著。弗洛里形容這個結果是「奇蹟」。團隊在實驗動物的選擇上也很幸運：青黴素對天竺鼠有毒，如果拿天竺鼠測試，研究可能就此中斷。"
+    ],
+    [
+     "Producing enough for humans was the next problem. The biochemist Norman Heatley realised that vessels shaped like hospital bedpans worked well and designed special pots for growing the mould. In 1941 the team treated a policeman, Albert Alexander, whose face was badly infected. He began to recover, but the supply ran out, and he died. Only after large-scale production began in Britain and the United States did penicillin become widely available.",
+     "下一個難題，是製造足夠給人用的分量。生化學家諾曼．希特利發現，形狀像醫院便盆的容器效果很好，於是設計了專門培養黴菌的陶罐。1941 年，團隊治療了臉部嚴重感染的警察艾伯特．亞歷山大。他開始康復，但藥用完了，他最後還是過世。直到英國和美國開始大規模生產之後，青黴素才得以普及。"
+    ],
+    [
+     "In 1945, Fleming, Florey and Chain shared the Nobel Prize in Physiology or Medicine. Popular memory, however, often reduces the story to a single lucky moment. In reality, the mould on Fleming’s dish became a medicine only through more than a decade of patient work by many people. Chance may start a discovery, but it rarely finishes one.",
+     "1945 年，弗萊明、弗洛里和柴恩共同獲得諾貝爾生理學或醫學獎。然而，大眾記憶常把這個故事簡化成一個幸運的瞬間。實際上，弗萊明培養皿上的黴菌，是靠許多人十多年耐心的努力，才變成了藥物。機緣或許能開啟一項發現，卻很少能完成它。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "Serendipity Is Only the Beginning",
+   "paras": [
+    [
+     "The discovery of penicillin is usually told as a parable of serendipity. On 3 September 1928, Alexander Fleming returned from a holiday in Suffolk to his laboratory at St Mary’s Hospital, London, and noticed that a culture plate of staphylococci had been contaminated by a fungus; the bacterial colonies immediately surrounding it had been destroyed. Fleming himself later reflected that “one sometimes finds what one is not looking for”. The anecdote is accurate as far as it goes. What it omits is how close the discovery came to having no practical consequence at all.",
+     "青黴素的發現，通常被講成一則關於機緣巧合的寓言。1928 年 9 月 3 日，亞歷山大．弗萊明從薩福克度假回到倫敦聖瑪麗醫院的實驗室，注意到一個葡萄球菌培養皿被真菌污染了；緊鄰真菌的細菌菌落都被消滅了。弗萊明後來回想道：「人有時會找到自己並沒有在找的東西。」這則軼事就其本身而言是準確的。它遺漏的是：這項發現差一點就完全沒有實際影響。"
+    ],
+    [
+     "Fleming named the active substance penicillin on 7 March 1929 and reported his findings in the British Journal of Experimental Pathology, but the article attracted little notice. He was uncertain about the substance’s therapeutic potential and more interested in its use for isolating bacteria in the laboratory. Contrary to a persistent claim, he did not abandon the work — his notebooks show attempts to improve production as late as 1939 — but neither he nor his collaborators succeeded in isolating and purifying penicillin in usable quantities.",
+     "弗萊明在 1929 年 3 月 7 日把這種有效物質命名為青黴素，並在《英國實驗病理學期刊》發表研究結果，但文章幾乎沒有引起注意。他不確定這種物質的治療潛力，反而更關心它在實驗室分離細菌上的用途。與一個流傳已久的說法相反，他並沒有放棄這項研究——他的筆記顯示，直到 1939 年他仍在嘗試改進生產——但他和合作者都未能把青黴素分離、純化到可用的分量。"
+    ],
+    [
+     "The transformation began in 1939 at the Sir William Dunn School of Pathology in Oxford, where a team led by Howard Florey and Ernst Chain, including Norman Heatley, Edward Abraham and Margaret Jennings, developed methods to cultivate the mould, extract and store penicillin, and assay its purity. On 25 May 1940, Florey injected eight mice with a virulent strain of Streptococcus and treated four of them. By the early hours of the next day all four untreated mice were dead, while all four treated mice were alive. Florey called it “a miracle”.",
+     "轉變始於 1939 年牛津的威廉．鄧恩爵士病理學院。由霍華德．弗洛里和恩斯特．柴恩帶領、成員包括諾曼．希特利、愛德華．亞伯拉罕和瑪格麗特．詹寧斯的團隊，發展出培養黴菌、萃取並保存青黴素，以及檢測其純度的方法。1940 年 5 月 25 日，弗洛里給八隻老鼠注射強毒性的鏈球菌，再治療其中四隻。到了隔天凌晨，四隻未治療的老鼠全部死亡，四隻接受治療的則都還活著。弗洛里稱之為「奇蹟」。"
+    ],
+    [
+     "Scaling up proved far harder than proving efficacy. Heatley, realising that vessels shaped like hospital bedpans were ideal for culturing the mould, designed ceramic versions that turned the Oxford laboratory into the first penicillin factory. Even so, supplies were desperately limited. In 1941 an Oxford policeman, Albert Alexander, who was suffering from a severe facial infection, improved dramatically under treatment; penicillin was even recovered from his urine to be reused, yet it was not enough, and he relapsed and died. Industrial production in Britain and the United States, driven by the demands of the Second World War, eventually made the drug widely available.",
+     "擴大生產遠比證明療效困難。希特利發現，形狀像醫院便盆的容器最適合培養黴菌，於是設計了陶瓷版本，把牛津實驗室變成了第一座青黴素工廠。即便如此，供應依然極度短缺。1941 年，一位臉部嚴重感染的牛津警察艾伯特．亞歷山大在治療下大幅好轉；研究人員甚至從他的尿液中回收青黴素重複使用，卻仍然不夠，他病情復發而過世。在第二次世界大戰需求的推動下，英國和美國的工業化生產最終讓這種藥物普及開來。"
+    ],
+    [
+     "The 1945 Nobel Prize in Physiology or Medicine was shared by Fleming, Florey and Chain, yet public memory has largely preserved only the first chapter. That selective memory distorts how discovery works. Fleming’s observation was necessary, but it was the patient, collaborative and often unglamorous labour of chemists, pathologists and technicians that converted a curiosity on a culture plate into what has been called the “single greatest victory ever achieved over disease”. Serendipity can open a door; it takes sustained effort to walk through it.",
+     "1945 年的諾貝爾生理學或醫學獎由弗萊明、弗洛里和柴恩共享，然而大眾記憶大多只保留了第一章。這種選擇性的記憶，扭曲了我們對「發現」如何發生的理解。弗萊明的觀察是必要的，但真正把培養皿上的一個奇特現象，轉化成被稱為「人類戰勝疾病最偉大的一場勝利」的，是化學家、病理學家和技術人員耐心、合作，而且往往毫不光鮮的勞動。機緣能打開一扇門；要走過去，靠的是持續的努力。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "accident",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "stalled",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "oxford-mice",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "production",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "memory",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "laboratory",
+   "pos": "n.",
+   "meaning": "實驗室",
+   "example": "The students worked in the laboratory.",
+   "family": "lab (n.)"
+  },
+  {
+   "w": "bacteria",
+   "pos": "n.",
+   "meaning": "細菌（複數）",
+   "example": "Wash your hands to remove bacteria.",
+   "family": "bacterium (sing.)"
+  },
+  {
+   "w": "mould",
+   "pos": "n.",
+   "meaning": "黴菌",
+   "example": "There is mould on the bread.",
+   "family": "mouldy (adj.)；美式 mold"
+  },
+  {
+   "w": "infection",
+   "pos": "n.",
+   "meaning": "感染",
+   "example": "The cut became an infection.",
+   "family": "infect (v.), infectious (adj.)"
+  },
+  {
+   "w": "contaminated",
+   "pos": "adj.",
+   "meaning": "受污染的",
+   "example": "The water was contaminated.",
+   "family": "contaminate (v.)"
+  },
+  {
+   "w": "purify",
+   "pos": "v.",
+   "meaning": "純化、淨化",
+   "example": "This filter can purify water.",
+   "family": "pure (adj.), purity (n.)"
+  },
+  {
+   "w": "breakthrough",
+   "pos": "n.",
+   "meaning": "突破",
+   "example": "It was a medical breakthrough.",
+   "family": "break through (v.)"
+  },
+  {
+   "w": "supply",
+   "pos": "n.",
+   "meaning": "供應",
+   "example": "The supply of water is limited.",
+   "family": "supplier (n.)"
+  },
+  {
+   "w": "serendipity",
+   "pos": "n.",
+   "meaning": "意外的幸運發現",
+   "example": "Meeting her was pure serendipity.",
+   "family": "serendipitous (adj.)"
+  },
+  {
+   "w": "therapeutic",
+   "pos": "adj.",
+   "meaning": "治療的",
+   "example": "Music can have therapeutic effects.",
+   "family": "therapy (n.)"
+  },
+  {
+   "w": "efficacy",
+   "pos": "n.",
+   "meaning": "療效",
+   "example": "The efficacy of the drug was tested.",
+   "family": "effective (adj.)"
+  },
+  {
+   "w": "relapsed",
+   "pos": "v.",
+   "meaning": "（病情）復發（過去式）",
+   "example": "He relapsed after a week.",
+   "family": "relapse (n.)"
+  },
+  {
+   "w": "collaborative",
+   "pos": "adj.",
+   "meaning": "合作的",
+   "example": "It was a collaborative project.",
+   "family": "collaborate (v.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "paid attention",
+   "type": "phrase",
+   "meaning": "注意（pay attention 的過去式）",
+   "usage": "pay attention (to sth)。",
+   "example": "Nobody paid attention to the warning.",
+   "writing": "few people paid attention"
+  },
+  {
+   "phrase": "ran out of",
+   "type": "phrase",
+   "meaning": "用完（run out of 的過去式）",
+   "usage": "run out of + N。",
+   "example": "We ran out of milk.",
+   "writing": "S + ran out of + N"
+  },
+  {
+   "phrase": "as far as it goes",
+   "type": "phrase",
+   "meaning": "就其本身而言",
+   "usage": "表示說法本身沒錯，但不完整。",
+   "example": "The plan is fine as far as it goes.",
+   "writing": "N + is accurate as far as it goes"
+  },
+  {
+   "phrase": "contrary to",
+   "type": "phrase",
+   "meaning": "與……相反",
+   "usage": "contrary to + 說法／預期。",
+   "example": "Contrary to popular belief, bats are not blind.",
+   "writing": "Contrary to a persistent claim, S + V"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "Only after A did B",
+   "meaning": "直到 A 之後，B 才……（倒裝）",
+   "example": "Only after large-scale production began did penicillin become widely available.",
+   "tip": "Only after 放句首，主句倒裝。"
+  },
+  {
+   "frame": "A may start N, but it rarely finishes one",
+   "meaning": "A 或許能開啟……，卻很少能完成它",
+   "example": "Chance may start a discovery, but it rarely finishes one.",
+   "tip": "對比句，適合結論。"
+  },
+  {
+   "frame": "What it omits is + N",
+   "meaning": "它遺漏的是……",
+   "example": "What it omits is how close the discovery came to having no practical consequence at all.",
+   "tip": "What 名詞子句當主詞，強調被忽略的重點。"
+  }
+ ],
+ "quote": {
+  "text": "One sometimes finds what one is not looking for.",
+  "author": "Alexander Fleming",
+  "work": "As quoted in the Wikipedia article “Alexander Fleming”",
+  "url": "https://en.wikipedia.org/wiki/Alexander_Fleming"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "What did Fleming see on one dish?",
+    "options": [
+     "New bacteria",
+     "Mould, with dead bacteria around it",
+     "Nothing",
+     "A crack"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "mould was growing on one dish, and the bacteria around the mould were dead"
+   },
+   {
+    "q": "What happened to Fleming’s article?",
+    "options": [
+     "It won a prize",
+     "Few people paid attention",
+     "It was banned",
+     "It was lost"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "few people paid attention"
+   },
+   {
+    "q": "What happened to the mice with penicillin?",
+    "options": [
+     "They died",
+     "They were still alive the next day",
+     "They got sicker",
+     "They ran away"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "The four mice with penicillin were still alive the next day."
+   },
+   {
+    "q": "What does the article say great discoveries often need?",
+    "options": [
+     "Only luck",
+     "Both luck and teamwork",
+     "Lots of money",
+     "A Nobel Prize"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "Great discoveries often need both luck and teamwork."
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "When did Fleming name penicillin?",
+    "options": [
+     "3 September 1928",
+     "7 March 1929",
+     "25 May 1940",
+     "1945"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "on 7 March 1929, named its active substance penicillin"
+   },
+   {
+    "q": "Is it true that Fleming abandoned the work?",
+    "options": [
+     "Yes, completely",
+     "No, but he could not purify useful amounts",
+     "He gave it to Florey in 1929",
+     "He destroyed his notes"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "Fleming did not abandon the work, as is sometimes claimed"
+   },
+   {
+    "q": "What did Norman Heatley realise?",
+    "options": [
+     "That mice were the best test animals",
+     "That vessels shaped like bedpans worked well for growing the mould",
+     "That penicillin was toxic",
+     "That Fleming was wrong"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "realised that vessels shaped like hospital bedpans worked well"
+   },
+   {
+    "q": "What is the writer’s main point about chance?",
+    "options": [
+     "Chance does everything",
+     "Chance may start a discovery, but it rarely finishes one",
+     "Chance is not important",
+     "Only teams matter"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "Chance may start a discovery, but it rarely finishes one."
+   }
+  ],
+  "advanced": [
+   {
+    "q": "What does the usual anecdote omit, according to the writer?",
+    "options": [
+     "The date of the discovery",
+     "How close the discovery came to having no practical consequence",
+     "Fleming’s holiday",
+     "The name of the mould"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "What it omits is how close the discovery came to having no practical consequence at all."
+   },
+   {
+    "q": "What was Fleming more interested in at first?",
+    "options": [
+     "Curing patients",
+     "Using penicillin to isolate bacteria in the laboratory",
+     "Selling it",
+     "Winning a prize"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "more interested in its use for isolating bacteria in the laboratory"
+   },
+   {
+    "q": "Why did Albert Alexander die?",
+    "options": [
+     "Penicillin was toxic",
+     "There was not enough penicillin",
+     "He was not treated",
+     "He had the wrong disease"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "yet it was not enough, and he relapsed and died"
+   },
+   {
+    "q": "How does the writer describe the work that turned penicillin into a medicine?",
+    "options": [
+     "Quick and lucky",
+     "Patient, collaborative and often unglamorous",
+     "Done by Fleming alone",
+     "Funded by a company"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "the patient, collaborative and often unglamorous labour"
+   }
+  ]
+ },
+ "reflections": [
+  "Why do you think people remember Fleming’s lucky moment more than the Oxford team’s years of work?",
+  "Think of a success in your own life. How much came from luck, and how much from steady effort?"
+ ],
+ "videos": [
+  {
+   "title": "The accident that changed the world",
+   "channel": "TED-Ed · Allison Ramsey and Mary Staicu",
+   "url": "https://www.youtube.com/watch?v=CNbnLgetqHs",
+   "kind": "TED-Ed",
+   "desc": "An animated history of penicillin and antibiotic resistance. (5 min)",
+   "zh": "動畫介紹青黴素的歷史與抗藥性問題。（5 分鐘）",
+   "question": "Does the video give credit to the Oxford team? How does it compare with this article?"
+  },
+  {
+   "title": "The discovery of penicillin (1964)",
+   "channel": "YouTube · Wellcome Library",
+   "url": "https://www.youtube.com/watch?v=7qeZLLhx5kU",
+   "kind": "YouTube",
+   "desc": "A historical educational film from 1964 about how penicillin was discovered and developed. (12 min)",
+   "zh": "1964 年拍攝的教育影片，介紹青黴素的發現與研發。（12 分鐘）",
+   "question": "What can you learn from a film made only twenty years after the Nobel Prize?"
+  }
+ ]
+}

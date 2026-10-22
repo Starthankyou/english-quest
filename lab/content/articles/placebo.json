@@ -1,0 +1,466 @@
+{
+ "id": "placebo",
+ "category": "健康",
+ "title": "Can a Sugar Pill Make You Feel Better?",
+ "subtitle": "糖丸能讓你好起來嗎？安慰劑效應的真相",
+ "source": "原創議題文章；依 Kaptchuk et al.（PLoS ONE, 2010）摘要與 Wikipedia〈Placebo〉所整理之 Hróbjartsson & Gøtzsche 系統性回顧，2026-10-22 核對",
+ "sources": [
+  {
+   "title": "Kaptchuk, T. J. et al. (2010). Placebos without deception: a randomized controlled trial in irritable bowel syndrome. PLoS ONE 5(12): e15591.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21203519/",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Wikipedia: Placebo (etymology, placebo response, Hróbjartsson & Gøtzsche reviews, open-label placebos)",
+   "url": "https://en.wikipedia.org/wiki/Placebo",
+   "accessed": "2026-10-22"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "The Pill with Nothing Inside",
+   "paras": [
+    [
+     "A placebo is a fake medicine. It looks like a real pill, but it has nothing useful inside — often it is just sugar. Doctors use placebos in tests of new medicines. Some people take the real medicine, and others take the placebo. Then scientists compare the two groups.",
+     "安慰劑是一種假藥。它看起來像真的藥丸，裡面卻沒有任何有用的成分——通常只是糖。醫生在測試新藥時會用到安慰劑。一些人吃真藥，另一些人吃安慰劑，然後科學家比較這兩組人。"
+    ],
+    [
+     "The word “placebo” comes from Latin and means “I shall please”. Strangely, people who take a placebo often say they feel better. This is called the placebo effect. Their brain expects the pill to help, and that expectation can change how they feel, especially how much pain they feel. There is also a “nocebo” effect: if people expect a pill to cause problems, they may really feel worse.",
+     "placebo 這個字來自拉丁文，意思是「我將取悅你」。奇怪的是，吃了安慰劑的人常常說自己感覺好多了。這叫作安慰劑效應。他們的大腦預期藥會有幫助，而這種預期會改變他們的感受，尤其是對疼痛的感覺。還有一種「反安慰劑效應」：如果人們預期藥丸會造成問題，他們可能真的會覺得更不舒服。"
+    ],
+    [
+     "But be careful. Some people feel better simply because time passes and the body heals itself. Others had a very bad day before the test and would feel better anyway. So not all “improvement” in the placebo group is really caused by the placebo.",
+     "但要小心。有些人感覺好轉，只是因為時間過去、身體自己痊癒了。也有些人在測試前剛好狀況特別差，不管怎樣都會好轉一些。所以，安慰劑組的「進步」，並不全是安慰劑造成的。"
+    ],
+    [
+     "In 2010, scientists at Harvard tried something surprising. They gave 80 patients with a stomach problem sugar pills and told them the truth: “These are placebos.” After three weeks, these patients reported feeling better than patients who got no pills at all.",
+     "2010 年，哈佛的科學家做了一個出人意料的實驗。他們給 80 位有腸胃問題的病人吃糖丸，並老實告訴他們：「這些是安慰劑。」三週後，這些病人說自己感覺比完全沒吃藥的病人更好。"
+    ],
+    [
+     "Does this mean a sugar pill can cure diseases? No. Large reviews show that placebos can help with things we feel, like pain, but they do not cure the disease itself. A placebo can change how you feel, but it cannot fight germs or shrink a tumour.",
+     "這代表糖丸能治病嗎？不能。大型回顧研究顯示，安慰劑能幫助改善我們「感受到」的東西，例如疼痛，卻無法治好疾病本身。安慰劑能改變你的感覺，但它不能對抗細菌，也不能讓腫瘤縮小。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "Can a Sugar Pill Make You Feel Better?",
+   "paras": [
+    [
+     "When a new medicine is tested, some patients receive the real drug and others receive a placebo — a pill or treatment that looks genuine but has no pharmaceutical effect. Common placebos include sugar pills, injections of salt water and even fake surgery. Only if the real drug does clearly better than the placebo can doctors be confident that it works.",
+     "測試新藥時，有些病人拿到真正的藥，有些則拿到安慰劑——一種看起來像真的、卻沒有藥效的藥丸或療法。常見的安慰劑包括糖丸、生理食鹽水注射，甚至是假手術。只有真藥的效果明顯優於安慰劑時，醫生才能確信它有效。"
+    ],
+    [
+     "The word comes from Latin and means “I shall be pleasing”. Patients who receive placebos often report feeling better, a change known as the placebo effect. Expectation seems to play a central role: if we believe a treatment will help, our perception of symptoms, especially pain, can genuinely change. The effect even appears to depend on presentation. Studies have found that capsules seem more powerful than tablets, and injections more powerful still. The opposite also exists. In the nocebo effect, people who expect harm from a treatment report more negative symptoms, and people with higher anxiety seem more likely to experience it.",
+     "這個字來自拉丁文，意思是「我將令人愉悅」。拿到安慰劑的病人常說自己感覺好轉，這種變化稱為安慰劑效應。預期似乎扮演核心角色：如果我們相信某種療法有幫助，我們對症狀——尤其是疼痛——的感受可能真的會改變。這種效應甚至似乎取決於呈現方式。研究發現，膠囊似乎比錠劑更有效，注射又更強。相反的情況也存在。在反安慰劑效應中，預期治療有害的人會回報更多負面症狀，而焦慮程度較高的人似乎更容易出現這種情況。"
+    ],
+    [
+     "However, not every improvement in a placebo group is a true placebo effect. Some patients recover naturally. Others joined the trial when they were feeling unusually bad and would have returned to their normal state anyway — a pattern called regression toward the mean. Scientists therefore distinguish the placebo response, which includes all these changes, from the placebo effect itself.",
+     "然而，安慰劑組的每一次好轉，並不都是真正的安慰劑效應。有些病人是自然康復；有些人在狀況特別差時加入試驗，本來就會回到平常的狀態——這種現象叫作「回歸平均值」。因此，科學家會區分包含上述所有變化的「安慰劑反應」，以及安慰劑效應本身。"
+    ],
+    [
+     "One of the most surprising experiments took place at Harvard Medical School in 2009–2010. Researchers gave 80 patients with irritable bowel syndrome pills openly described as “placebo pills made of an inert substance, like sugar pills”. Compared with patients who received no treatment but the same attention from doctors, they reported significantly greater improvement after three weeks.",
+     "最令人驚訝的實驗之一，在 2009 到 2010 年於哈佛醫學院進行。研究人員給 80 位大腸激躁症病人吃藥丸，並公開說明這是「由惰性物質製成、類似糖丸的安慰劑」。和沒有接受治療、但得到醫生同樣關注的病人相比，他們在三週後回報的改善顯著更大。"
+    ],
+    [
+     "Still, placebos are not magic. A large review by Asbjørn Hróbjartsson and Peter Gøtzsche found that placebo effects appear mainly in subjective outcomes, such as pain, rather than in the disease itself. Open-label studies are also small. The lesson is double: our minds can shape how we feel, but feeling better and being cured are not the same thing. An earlier analysis of trials covering 40 medical conditions found a significant effect for only one: pain.",
+     "不過，安慰劑並不是魔法。阿斯比約恩．赫羅布雅森和彼得．格切的大型回顧發現，安慰劑效應主要出現在主觀結果上，例如疼痛，而不是疾病本身。開放標籤研究的規模也都很小。這個教訓有兩層：我們的心智能影響我們的感受，但「感覺好一點」和「被治好」不是同一回事。一項更早的分析涵蓋了 40 種病症的試驗，結果只在其中一種發現顯著效果：疼痛。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "Expectation, Perception and the Limits of Placebo",
+   "paras": [
+    [
+     "Modern medicine rests on a simple comparison. In a placebo-controlled trial, one group receives an active treatment and another receives a placebo: an intervention designed to appear genuine but lacking any pharmaceutical effect, such as an inert tablet, a saline injection or even sham surgery. Only if the active treatment outperforms the placebo can investigators attribute its benefits to the drug rather than to the experience of being treated.",
+     "現代醫學建立在一個簡單的比較之上。在安慰劑對照試驗中，一組接受真正的治療，另一組接受安慰劑：一種設計得看似真實、卻沒有任何藥理作用的介入，例如惰性錠劑、生理食鹽水注射，甚至假手術。只有當真正的治療表現優於安慰劑時，研究者才能把它的好處歸功於藥物，而不是「被治療」這個經驗本身。"
+    ],
+    [
+     "The term derives from the Latin for “I shall be pleasing”, and by the early nineteenth century it was defined, somewhat dismissively, as a medicine “adapted more to please than to benefit the patient”. Yet patients given placebos frequently do report improvement. Expectation appears to be a key mechanism: belief that a treatment will help can alter the perception of symptoms, particularly pain. Even the form of the placebo matters. Capsules seem more influential than tablets, and injections more influential than capsules. Expectation can also work in reverse: in the nocebo effect, anticipated harm produces negative symptoms, and individuals with higher anxiety appear more susceptible to it.",
+     "這個詞源自拉丁文「我將令人愉悅」，到了十九世紀初，它被略帶貶意地定義為「與其說是為了讓病人受益，不如說是為了取悅病人」的藥物。然而，拿到安慰劑的病人確實常回報好轉。預期似乎是關鍵機制：相信某種療法會有幫助，能改變對症狀的感知，特別是疼痛。甚至安慰劑的形式也有影響：膠囊似乎比錠劑更有影響力，注射又比膠囊更有影響力。預期也可能反向運作：在反安慰劑效應中，預期中的傷害會產生負面症狀，而焦慮程度較高的人似乎更容易受影響。"
+    ],
+    [
+     "Interpreting such improvement requires care. What researchers observe in a placebo arm is the placebo response, which bundles together several phenomena: natural healing, fluctuations in disease, regression toward the mean as patients enrolled during a bad spell return to their average condition, and even errors in trial records. The placebo effect, strictly defined, is only the difference between this response and no treatment at all. Many popular claims about the “power” of placebos fail to make this distinction.",
+     "詮釋這類好轉需要謹慎。研究者在安慰劑組觀察到的是「安慰劑反應」，它把好幾種現象綁在一起：自然痊癒、病情起伏、在狀況不佳時入組的病人回到平均狀態的回歸平均值，甚至試驗紀錄的錯誤。嚴格定義的安慰劑效應，只是這種反應與完全不治療之間的差距。許多關於安慰劑「威力」的流行說法，都沒有做出這個區分。"
+    ],
+    [
+     "Recent research has nevertheless challenged the assumption that placebos work only through deception. In a randomised trial published in 2010, Ted Kaptchuk and colleagues at Harvard gave 80 patients with irritable bowel syndrome pills honestly described as inert placebos. Compared with a no-treatment group receiving equal attention from clinicians, the open-label group reported significantly greater global improvement at both eleven and twenty-one days. Reviews of open-label trials, however, caution that such studies have been small and should be interpreted carefully until larger, better-controlled trials are available.",
+     "然而，近年的研究挑戰了「安慰劑只能靠欺騙才有效」的假設。在 2010 年發表的一項隨機試驗中，哈佛的泰德．卡普丘克與同事，給 80 位大腸激躁症病人吃明白告知是惰性安慰劑的藥丸。與得到臨床人員同等關注、但未接受治療的組別相比，開放標籤組在第 11 天和第 21 天都回報了顯著更大的整體改善。不過，針對開放標籤試驗的回顧也提醒，這類研究規模都很小，在有更大型、對照更嚴謹的試驗之前，應謹慎解讀。"
+    ],
+    [
+     "The broader evidence sets clear limits. Systematic reviews by Asbjørn Hróbjartsson and Peter Gøtzsche concluded that placebo effects are apparent mainly in subjective, continuous measures such as pain, and that placebos do not appear to affect the underlying disease. In their words, they “did not find that placebo interventions have important clinical effects in general”, a conclusion some researchers have disputed on methodological grounds. The resulting picture is nuanced: expectation can genuinely change experience, but changing how illness feels is not the same as changing what illness is. An earlier meta-analysis spanning trials in 40 conditions had found a significant effect only for pain.",
+     "更全面的證據劃出了清楚的界線。阿斯比約恩．赫羅布雅森和彼得．格切的系統性回顧認為，安慰劑效應主要出現在疼痛這類主觀、連續的測量上，而安慰劑似乎不會影響根本的疾病。用他們的話說，他們「並未發現安慰劑介入在整體上具有重要的臨床效果」，不過也有研究者從方法學角度質疑這個結論。由此得出的圖像很細緻：預期能真實地改變經驗，但改變疾病的「感覺」，並不等於改變疾病「本身」。更早一項涵蓋 40 種病症試驗的統合分析，也只在疼痛上發現顯著效果。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "what-is",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "expectation",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "response-vs-effect",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "open-label",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "limits",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "medicine",
+   "pos": "n.",
+   "meaning": "藥；醫學",
+   "example": "Take this medicine twice a day.",
+   "family": "medical (adj.)"
+  },
+  {
+   "w": "expects",
+   "pos": "v.",
+   "meaning": "預期（第三人稱）",
+   "example": "She expects to win.",
+   "family": "expectation (n.)"
+  },
+  {
+   "w": "patients",
+   "pos": "n.",
+   "meaning": "病人（複數）",
+   "example": "The doctor sees thirty patients a day.",
+   "family": "patient (adj.) 有耐心的"
+  },
+  {
+   "w": "genuine",
+   "pos": "adj.",
+   "meaning": "真正的",
+   "example": "Is this a genuine diamond?",
+   "family": "genuinely (adv.)"
+  },
+  {
+   "w": "perception",
+   "pos": "n.",
+   "meaning": "感知、認知",
+   "example": "Music can change our perception of time.",
+   "family": "perceive (v.)"
+  },
+  {
+   "w": "significantly",
+   "pos": "adv.",
+   "meaning": "顯著地",
+   "example": "Prices rose significantly.",
+   "family": "significant (adj.)"
+  },
+  {
+   "w": "subjective",
+   "pos": "adj.",
+   "meaning": "主觀的",
+   "example": "Taste is subjective.",
+   "family": "objective (反義)"
+  },
+  {
+   "w": "pharmaceutical",
+   "pos": "adj.",
+   "meaning": "藥物的、製藥的",
+   "example": "She works for a pharmaceutical company.",
+   "family": "pharmacy (n.)"
+  },
+  {
+   "w": "inert",
+   "pos": "adj.",
+   "meaning": "惰性的、無作用的",
+   "example": "The pill contains an inert substance.",
+   "family": "inertia (n.)"
+  },
+  {
+   "w": "dismissively",
+   "pos": "adv.",
+   "meaning": "輕視地",
+   "example": "He waved his hand dismissively.",
+   "family": "dismiss (v.)"
+  },
+  {
+   "w": "fluctuations",
+   "pos": "n.",
+   "meaning": "起伏、波動",
+   "example": "There are daily fluctuations in temperature.",
+   "family": "fluctuate (v.)"
+  },
+  {
+   "w": "systematic",
+   "pos": "adj.",
+   "meaning": "系統性的",
+   "example": "We need a systematic approach.",
+   "family": "system (n.)"
+  },
+  {
+   "w": "nuanced",
+   "pos": "adj.",
+   "meaning": "細緻的、有層次的",
+   "example": "She gave a nuanced answer.",
+   "family": "nuance (n.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "comes from",
+   "type": "phrase",
+   "meaning": "來自",
+   "usage": "A comes from B：字源、出處。",
+   "example": "The word “kindergarten” comes from German.",
+   "writing": "The word + comes from + 語言"
+  },
+  {
+   "phrase": "play a central role",
+   "type": "phrase",
+   "meaning": "扮演核心角色",
+   "usage": "play a central/key role in sth。",
+   "example": "Sleep plays a central role in learning.",
+   "writing": "N + seems to play a central role"
+  },
+  {
+   "phrase": "the same thing",
+   "type": "phrase",
+   "meaning": "同一回事",
+   "usage": "A and B are not the same thing。",
+   "example": "Hearing and listening are not the same thing.",
+   "writing": "A and B are not the same thing"
+  },
+  {
+   "phrase": "rests on",
+   "type": "phrase",
+   "meaning": "建立在……之上",
+   "usage": "A rests on B：以 B 為基礎。",
+   "example": "The theory rests on two ideas.",
+   "writing": "S + rests on + N"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "Only if A can B",
+   "meaning": "只有在 A 的情況下，B 才能……（倒裝）",
+   "example": "Only if the real drug does clearly better than the placebo can doctors be confident that it works.",
+   "tip": "Only if 子句放句首，主句倒裝。"
+  },
+  {
+   "frame": "Not every A is B",
+   "meaning": "並非每個 A 都是 B",
+   "example": "Not every improvement in a placebo group is a true placebo effect.",
+   "tip": "部分否定，比 every…is not 更清楚。"
+  },
+  {
+   "frame": "Changing A is not the same as changing B",
+   "meaning": "改變 A 不等於改變 B",
+   "example": "Changing how illness feels is not the same as changing what illness is.",
+   "tip": "用動名詞作主詞，寫出有力的結論句。"
+  }
+ ],
+ "quote": {
+  "text": "We did not find that placebo interventions have important clinical effects in general.",
+  "author": "Asbjørn Hróbjartsson & Peter C. Gøtzsche",
+  "work": "Conclusion of their systematic review, as quoted in the Wikipedia article “Placebo”",
+  "url": "https://en.wikipedia.org/wiki/Placebo"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "What is often inside a placebo pill?",
+    "options": [
+     "Strong medicine",
+     "Just sugar",
+     "Vitamins",
+     "Germs"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "often it is just sugar"
+   },
+   {
+    "q": "What does the word “placebo” mean in Latin?",
+    "options": [
+     "I shall cure",
+     "I shall please",
+     "Fake pill",
+     "Sugar"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "means “I shall please”"
+   },
+   {
+    "q": "What did the Harvard scientists tell their patients?",
+    "options": [
+     "Nothing",
+     "That the pills were strong medicine",
+     "That the pills were placebos",
+     "That they would be cured"
+    ],
+    "a": 2,
+    "why": "第四段。",
+    "evidence": "told them the truth: “These are placebos.”"
+   },
+   {
+    "q": "What can a placebo NOT do?",
+    "options": [
+     "Change how you feel",
+     "Help with pain",
+     "Fight germs",
+     "Make you expect help"
+    ],
+    "a": 2,
+    "why": "最後一段。",
+    "evidence": "it cannot fight germs or shrink a tumour"
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "When can doctors be confident a new drug works?",
+    "options": [
+     "When patients like it",
+     "When it does clearly better than the placebo",
+     "When it is expensive",
+     "When it is an injection"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "Only if the real drug does clearly better than the placebo can doctors be confident that it works."
+   },
+   {
+    "q": "Which form of placebo seems most powerful?",
+    "options": [
+     "Tablets",
+     "Capsules",
+     "Injections",
+     "Sugar cubes"
+    ],
+    "a": 2,
+    "why": "第二段。",
+    "evidence": "capsules seem more powerful than tablets, and injections more powerful still"
+   },
+   {
+    "q": "What is “regression toward the mean”?",
+    "options": [
+     "Patients who felt unusually bad returning to their normal state",
+     "A type of medicine",
+     "Doctors being mean",
+     "A kind of surgery"
+    ],
+    "a": 0,
+    "why": "第三段。",
+    "evidence": "would have returned to their normal state anyway — a pattern called regression toward the mean"
+   },
+   {
+    "q": "What is the “double” lesson of the article?",
+    "options": [
+     "Placebos cure everything",
+     "Our minds shape how we feel, but feeling better is not being cured",
+     "Doctors should lie",
+     "Sugar is healthy"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "our minds can shape how we feel, but feeling better and being cured are not the same thing"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "Why is a placebo group necessary in a trial?",
+    "options": [
+     "To save money",
+     "To separate the drug’s benefits from the experience of being treated",
+     "To make patients happy",
+     "To test sugar"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "attribute its benefits to the drug rather than to the experience of being treated"
+   },
+   {
+    "q": "What is the placebo effect, “strictly defined”?",
+    "options": [
+     "All improvement in the placebo group",
+     "The difference between the placebo response and no treatment",
+     "Natural healing",
+     "Errors in trial records"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "only the difference between this response and no treatment at all"
+   },
+   {
+    "q": "What assumption did the 2010 Harvard study challenge?",
+    "options": [
+     "That placebos work only through deception",
+     "That IBS is common",
+     "That doctors are kind",
+     "That sugar is harmless"
+    ],
+    "a": 0,
+    "why": "第四段。",
+    "evidence": "challenged the assumption that placebos work only through deception"
+   },
+   {
+    "q": "According to Hróbjartsson and Gøtzsche, where do placebo effects mainly appear?",
+    "options": [
+     "In curing infections",
+     "In subjective, continuous measures such as pain",
+     "In surgery",
+     "In children only"
+    ],
+    "a": 1,
+    "why": "最後一段。",
+    "evidence": "placebo effects are apparent mainly in subjective, continuous measures such as pain"
+   }
+  ]
+ },
+ "reflections": [
+  "Have you ever felt better just because you expected to? Was it a placebo effect, or could there be another explanation?",
+  "Should doctors ever prescribe open-label placebos? List one benefit and one risk."
+ ],
+ "videos": [
+  {
+   "title": "The power of the placebo effect",
+   "channel": "TED-Ed · Emma Bryce",
+   "url": "https://ed.ted.com/lessons/the-power-of-the-placebo-effect-emma-bryce",
+   "kind": "TED-Ed",
+   "desc": "An animated introduction to how placebos work. (5 min)",
+   "zh": "動畫介紹安慰劑如何發揮作用。（5 分鐘）",
+   "question": "Does the video separate the placebo effect from natural recovery, as this article does?"
+  },
+  {
+   "title": "Placebos Work Even if You Know They’re Placebos!",
+   "channel": "YouTube · SciShow Psych",
+   "url": "https://www.youtube.com/watch?v=f_I1CrkUdEY",
+   "kind": "YouTube",
+   "desc": "A look at open-label placebo studies. (6 min)",
+   "zh": "介紹開放標籤安慰劑研究。（6 分鐘）",
+   "question": "What limitations of open-label studies does the video mention?"
+  },
+  {
+   "title": "How The Placebo Effect Tricks Your Brain",
+   "channel": "YouTube · Be Smart",
+   "url": "https://www.youtube.com/watch?v=JcPwIQ6GCj8",
+   "kind": "YouTube",
+   "desc": "What happens in the brain when we expect a treatment to work. (7 min)",
+   "zh": "當我們預期治療有效時，大腦發生了什麼事。（7 分鐘）",
+   "question": "Which brain mechanism in the video could explain why placebos help with pain?"
+  }
+ ]
+}

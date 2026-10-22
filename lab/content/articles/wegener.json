@@ -1,0 +1,462 @@
+{
+ "id": "wegener",
+ "category": "歷史與科學",
+ "title": "The Man Who Moved Continents",
+ "subtitle": "移動大陸的人：韋格納與大陸漂移說",
+ "source": "原創議題文章；依 Wikipedia〈Alfred Wegener〉〈Continental drift〉與 NASA Earth Observatory〈Alfred Wegener〉核對，2026-10-22",
+ "sources": [
+  {
+   "title": "Wikipedia: Alfred Wegener",
+   "url": "https://en.wikipedia.org/wiki/Alfred_Wegener",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "Wikipedia: Continental drift",
+   "url": "https://en.wikipedia.org/wiki/Continental_drift",
+   "accessed": "2026-10-22"
+  },
+  {
+   "title": "NASA Earth Observatory: Alfred Wegener",
+   "url": "https://science.nasa.gov/earth/earth-observatory/alfred-wegener/",
+   "accessed": "2026-10-22"
+  }
+ ],
+ "levels": {
+  "beginner": {
+   "title": "A Jigsaw Puzzle of Continents",
+   "paras": [
+    [
+     "Look at a world map. Do South America and Africa look like two pieces of a jigsaw puzzle? A German scientist called Alfred Wegener noticed this too. In 1912 he said something shocking: long ago, all the continents were joined together, and since then they have slowly moved apart.",
+     "看看世界地圖。南美洲和非洲是不是很像兩片拼圖？德國科學家阿爾弗雷德．韋格納也注意到了。1912 年，他提出一個驚人的說法：很久以前，所有大陸都連在一起，之後才慢慢分開。"
+    ],
+    [
+     "Wegener found more clues. Fossils of the same ancient animals and plants were found on continents that are now far apart. For example, fossils of a small reptile called Mesosaurus were found in both Brazil and South Africa. It could not swim across an ocean, so how did it get there?",
+     "韋格納找到了更多線索。同樣的古代動植物化石，出現在如今相隔遙遠的大陸上。例如，一種叫中龍的小型爬蟲類化石，在巴西和南非都有發現。牠不可能游過大洋，那牠是怎麼到那裡的？"
+    ],
+    [
+     "Most geologists laughed at his idea. Wegener was a weather scientist, not a geologist, so many experts saw him as an outsider. Also, he could not explain what force could move giant continents. His guesses about the force were wrong.",
+     "大多數地質學家都嘲笑他的想法。韋格納是氣象學家，不是地質學家，所以很多專家把他當成圈外人。而且，他無法解釋是什麼力量能移動巨大的大陸。他對這股力量的猜測也是錯的。"
+    ],
+    [
+     "In 1930, Wegener died on a trip across the ice in Greenland. He was 50 years old. At that time, most scientists still did not believe him. He never knew that he would one day be proved right. His companion, a young Greenlander called Rasmus Villumsen, was never seen again. Wegener’s skis, standing upright in the snow, helped searchers find his body.",
+     "1930 年，韋格納在格陵蘭的冰原旅程中過世，享年 50 歲。當時，大多數科學家仍然不相信他。他永遠不知道，自己有一天會被證明是對的。他的同伴，一位名叫拉斯穆斯．維倫森的年輕格陵蘭人，從此再也沒有出現過。韋格納直立插在雪中的滑雪板，幫助搜救人員找到了他的遺體。"
+    ],
+    [
+     "In the 1960s, scientists studied the ocean floor and found new evidence. Continents really do move, carried on huge plates. Today this is called plate tectonics. Wegener’s story shows that a new idea can be right even when experts reject it — but it also needs evidence to win.",
+     "1960 年代，科學家研究海底，找到了新的證據。大陸真的會移動，是被巨大的板塊載著走。今天這被稱為板塊構造論。韋格納的故事顯示：一個新想法即使被專家否定，也可能是對的——但它也需要證據才能獲勝。"
+    ]
+   ]
+  },
+  "intermediate": {
+   "title": "The Man Who Moved Continents",
+   "paras": [
+    [
+     "Anyone who looks at a world map may notice that the coasts of South America and Africa fit together almost like pieces of a jigsaw puzzle. On 6 January 1912, the German scientist Alfred Wegener presented a bold explanation: all the continents had once been joined in a single landmass, which later broke apart. In 1915 he set out his argument in a book, The Origin of Continents and Oceans. He was not the very first to wonder about this; the mapmaker Abraham Ortelius had suggested in 1596 that the continents might have drifted. But Wegener developed the idea far more fully.",
+     "任何看過世界地圖的人，都可能注意到南美洲和非洲的海岸線幾乎能像拼圖一樣拼在一起。1912 年 1 月 6 日，德國科學家阿爾弗雷德．韋格納提出一個大膽的解釋：所有大陸曾經連成一整塊陸地，之後才分裂開來。1915 年，他在《大陸與海洋的起源》一書中闡述了這個論點。他並不是第一個想到這件事的人；地圖學家亞伯拉罕．奧特柳斯早在 1596 年就曾提出大陸可能漂移過。但韋格納把這個想法發展得完整得多。"
+    ],
+    [
+     "His evidence went beyond the shapes of coastlines. He compared rocks, geological structures and fossils on both sides of the Atlantic and found striking similarities. Fossils of Mesosaurus, a freshwater reptile rather like a small crocodile, have been found in both Brazil and South Africa — an unlikely result if the two continents had always been separated by an ocean.",
+     "他的證據不只是海岸線的形狀。他比較了大西洋兩岸的岩石、地質構造和化石，發現了驚人的相似之處。中龍——一種有點像小鱷魚的淡水爬蟲類——的化石在巴西和南非都有發現；如果這兩塊大陸一直被大洋隔開，這幾乎不可能發生。"
+    ],
+    [
+     "Yet most experts rejected the idea, often with withering criticism. Part of the problem was who Wegener was: a meteorologist and polar researcher whom many geologists regarded as an outsider. But the critics also had a fair point. Wegener could not identify a mechanism powerful enough to move continents, and his suggestions — such as forces linked to the Earth’s rotation — were wrong.",
+     "然而，大多數專家否定了這個想法，批評往往十分尖刻。部分問題出在韋格納的身分：他是氣象學家和極地研究者，許多地質學家把他視為圈外人。但批評者也有一個合理的論點：韋格納找不到一個強大到足以移動大陸的機制，而他提出的說法——例如與地球自轉有關的力——是錯的。"
+    ],
+    [
+     "Wegener did not live to see his idea accepted. In November 1930, during an expedition across the Greenland ice sheet, he set out with a young Greenlander, Rasmus Villumsen, to return to the coast. Wegener died on the way, probably of heart failure caused by exhaustion. His body was found the following May. Sadly, it was later found that there had been enough supplies for them to stay at the central station.",
+     "韋格納沒能活著看到自己的想法被接受。1930 年 11 月，在一次橫越格陵蘭冰原的探險中，他和年輕的格陵蘭人拉斯穆斯．維倫森一起出發返回海岸。韋格納在途中過世，很可能是過度勞累引發的心臟衰竭。隔年五月，他的遺體才被發現。令人遺憾的是，後來發現中央站其實有足夠的補給讓他們留下來。"
+    ],
+    [
+     "The decisive evidence arrived decades later. In the late 1950s and 1960s, studies of the ocean floor revealed zebra-like stripes of magnetism and showed that new sea floor was being created along mid-ocean ridges. Continental drift became part of the theory of plate tectonics. Wegener’s story is a reminder that being right too early is not enough: a new idea also needs a convincing mechanism and the evidence to prove it.",
+     "決定性的證據在幾十年後才出現。1950 年代末到 1960 年代，對海底的研究揭露了斑馬紋般的磁性條帶，並顯示新的海床正沿著中洋脊不斷生成。大陸漂移成為板塊構造論的一部分。韋格納的故事提醒我們：太早說對還不夠；一個新想法也需要令人信服的機制，以及證明它的證據。"
+    ]
+   ]
+  },
+  "advanced": {
+   "title": "Right Too Early: Wegener and the Burden of Proof",
+   "paras": [
+    [
+     "The history of science is often told as a contest between brave innovators and stubborn establishments, and Alfred Wegener seems to fit the pattern perfectly. On 6 January 1912 he proposed that the continents had once formed a single landmass, later called Pangaea, which had broken apart and drifted into its present configuration. Expanded in 1915 as The Origin of Continents and Oceans, the hypothesis was not accepted by mainstream geology until the 1960s. Yet a closer look suggests that the story of Wegener’s rejection is more instructive than a simple tale of prejudice. He was not the first to speculate along these lines — the cartographer Abraham Ortelius had done so in 1596 — but he developed the idea most fully.",
+     "科學史常被講成勇敢的創新者對抗頑固體制的競賽，而阿爾弗雷德．韋格納似乎完美符合這個模式。1912 年 1 月 6 日，他提出各大陸曾構成單一陸塊——後來稱為「盤古大陸」——之後分裂、漂移成今天的樣貌。這個假說在 1915 年擴寫成《大陸與海洋的起源》，卻直到 1960 年代才被主流地質學接受。然而，仔細檢視會發現，韋格納遭到否定的故事，比一個單純的偏見故事更有啟發性。他並不是第一個這樣推測的人——地圖學家奧特柳斯早在 1596 年就提過——但他把這個想法發展得最完整。"
+    ],
+    [
+     "Wegener’s case was impressively interdisciplinary. Beyond the jigsaw-like fit of the Atlantic coastlines, he compared rock types, geological structures and fossils on opposite sides of the ocean. Fossils of Mesosaurus, a freshwater reptile, appear in both Brazil and South Africa, while remains of the land reptile Lystrosaurus occur in rocks of the same age in Africa, India and Antarctica. He offered a memorable analogy: it was as if one were to refit the torn pieces of a newspaper and check whether the lines of print ran smoothly across.",
+     "韋格納的論證具有令人印象深刻的跨領域性。除了大西洋海岸線像拼圖般的吻合，他還比較了大洋兩岸的岩石種類、地質構造和化石。淡水爬蟲類中龍的化石，同時出現在巴西和南非；陸生爬蟲類水龍獸的遺骸，則出現在非洲、印度和南極洲同年代的岩層中。他提出一個令人難忘的比喻：這就像把撕碎的報紙拼回去，再檢查印刷的字行是否能順暢地連起來。"
+    ],
+    [
+     "The response was largely hostile. Many geologists regarded Wegener, a meteorologist and polar researcher, as an outsider, and when he presented the theory at a 1926 symposium of the American Association of Petroleum Geologists in New York, it was rejected by almost everyone except the chairman. Some criticism was undoubtedly defensive. But the strongest objection was scientifically legitimate: there was no known mechanism capable of propelling continents across the globe. Wegener’s own proposals, involving centrifugal force from the Earth’s rotation and astronomical precession, were inadequate.",
+     "回應大多充滿敵意。許多地質學家把身為氣象學家和極地研究者的韋格納視為圈外人；1926 年他在紐約美國石油地質學家協會的研討會上發表這個理論時，除了主席以外幾乎所有人都否定了它。有些批評無疑是出於防衛心態。但最有力的反對意見在科學上是正當的：當時沒有已知的機制，能推動大陸在全球移動。韋格納自己提出的機制——涉及地球自轉的離心力和天文歲差——並不足以解釋。"
+    ],
+    [
+     "Ironically, the elements of a solution were already emerging. In 1931 the English geologist Arthur Holmes proposed mantle convection as a possible driving force, and Wegener himself had speculated about the role of mid-ocean ridges. He did not live to see these ideas developed. In November 1930, while leaving the central station of his Greenland expedition with Rasmus Villumsen, he died on the ice sheet, probably of heart failure brought on by overexertion. His body was not found until May 1931.",
+     "諷刺的是，解答的元素其實已經開始浮現。1931 年，英國地質學家亞瑟．霍姆斯提出地函對流可能是驅動力，而韋格納自己也曾推測中洋脊的作用。他沒能活著看到這些想法被發展出來。1930 年 11 月，他和拉斯穆斯．維倫森離開格陵蘭探險隊的中央站後，死在冰原上，很可能是過度勞累引發的心臟衰竭。他的遺體直到 1931 年 5 月才被發現。"
+    ],
+    [
+     "Vindication came from the ocean floor. Between 1959 and 1963, researchers found that the sea floor carried zebra-like stripes of alternating magnetic polarity, best explained by new crust forming at mid-ocean ridges and spreading outward. Continental drift was absorbed into the broader theory of plate tectonics. The lesson is subtler than “the experts were wrong”. Wegener’s critics were wrong about his conclusion but right to demand a mechanism. Science advanced not by deferring to authority or rewarding boldness alone, but by insisting on evidence until it finally arrived.",
+     "平反來自海底。1959 到 1963 年間，研究者發現海床上帶有磁極方向交替的斑馬紋條帶，最好的解釋是新的地殼在中洋脊生成並向外擴張。大陸漂移被納入更廣泛的板塊構造論。這個教訓比「專家錯了」更細膩：韋格納的批評者在結論上錯了，但要求提出機制卻是對的。科學之所以進步，既不是靠服從權威，也不只是獎勵大膽，而是堅持要求證據，直到證據終於出現。"
+    ]
+   ]
+  }
+ },
+ "sections": [
+  {
+   "sectionId": "jigsaw",
+   "beginnerParagraph": 0,
+   "intermediateParagraph": 0,
+   "advancedParagraph": 0
+  },
+  {
+   "sectionId": "evidence",
+   "beginnerParagraph": 1,
+   "intermediateParagraph": 1,
+   "advancedParagraph": 1
+  },
+  {
+   "sectionId": "rejection",
+   "beginnerParagraph": 2,
+   "intermediateParagraph": 2,
+   "advancedParagraph": 2
+  },
+  {
+   "sectionId": "greenland",
+   "beginnerParagraph": 3,
+   "intermediateParagraph": 3,
+   "advancedParagraph": 3
+  },
+  {
+   "sectionId": "plate-tectonics",
+   "beginnerParagraph": 4,
+   "intermediateParagraph": 4,
+   "advancedParagraph": 4
+  }
+ ],
+ "vocab": [
+  {
+   "w": "continents",
+   "pos": "n.",
+   "meaning": "大陸（複數）",
+   "example": "Asia is the largest of the continents.",
+   "family": "continental (adj.)"
+  },
+  {
+   "w": "fossils",
+   "pos": "n.",
+   "meaning": "化石（複數）",
+   "example": "We saw dinosaur fossils at the museum.",
+   "family": "fossil fuel (n.)"
+  },
+  {
+   "w": "geologists",
+   "pos": "n.",
+   "meaning": "地質學家（複數）",
+   "example": "Geologists study rocks.",
+   "family": "geology (n.)"
+  },
+  {
+   "w": "outsider",
+   "pos": "n.",
+   "meaning": "圈外人、局外人",
+   "example": "He felt like an outsider at the party.",
+   "family": "insider (反義)"
+  },
+  {
+   "w": "explanation",
+   "pos": "n.",
+   "meaning": "解釋",
+   "example": "There is a simple explanation.",
+   "family": "explain (v.)"
+  },
+  {
+   "w": "similarities",
+   "pos": "n.",
+   "meaning": "相似之處（複數）",
+   "example": "There are many similarities between the twins.",
+   "family": "similar (adj.)"
+  },
+  {
+   "w": "mechanism",
+   "pos": "n.",
+   "meaning": "機制",
+   "example": "Scientists studied the mechanism of the disease.",
+   "family": "mechanical (adj.)"
+  },
+  {
+   "w": "expedition",
+   "pos": "n.",
+   "meaning": "探險、遠征",
+   "example": "They went on an expedition to the Arctic.",
+   "family": "—"
+  },
+  {
+   "w": "interdisciplinary",
+   "pos": "adj.",
+   "meaning": "跨領域的",
+   "example": "This is an interdisciplinary course.",
+   "family": "discipline (n.)"
+  },
+  {
+   "w": "hostile",
+   "pos": "adj.",
+   "meaning": "敵意的",
+   "example": "The crowd was hostile.",
+   "family": "hostility (n.)"
+  },
+  {
+   "w": "legitimate",
+   "pos": "adj.",
+   "meaning": "正當的、合理的",
+   "example": "That is a legitimate concern.",
+   "family": "legitimacy (n.)"
+  },
+  {
+   "w": "inadequate",
+   "pos": "adj.",
+   "meaning": "不足的",
+   "example": "The explanation was inadequate.",
+   "family": "adequate (反義)"
+  },
+  {
+   "w": "vindication",
+   "pos": "n.",
+   "meaning": "平反、證明是對的",
+   "example": "The new data was a vindication of her theory.",
+   "family": "vindicate (v.)"
+  }
+ ],
+ "phrases": [
+  {
+   "phrase": "laughed at",
+   "type": "phrase",
+   "meaning": "嘲笑（laugh at 的過去式）",
+   "usage": "laugh at sb/sth。",
+   "example": "They laughed at his strange hat.",
+   "writing": "S + laughed at + N"
+  },
+  {
+   "phrase": "set out",
+   "type": "phrase",
+   "meaning": "出發；闡述",
+   "usage": "set out (for a place)／set out an argument。",
+   "example": "They set out early in the morning.",
+   "writing": "S + set out + 論點 + in + 書"
+  },
+  {
+   "phrase": "had a fair point",
+   "type": "phrase",
+   "meaning": "有合理的論點（have a fair point 的過去式）",
+   "usage": "承認對方的說法有道理。",
+   "example": "She had a fair point about the cost.",
+   "writing": "the critics also had a fair point"
+  },
+  {
+   "phrase": "fit the pattern",
+   "type": "phrase",
+   "meaning": "符合模式",
+   "usage": "fit a/the pattern。",
+   "example": "His behaviour fits the pattern.",
+   "writing": "S + seems to fit the pattern perfectly"
+  }
+ ],
+ "patterns": [
+  {
+   "frame": "Being right too early is not enough: S + also needs + N",
+   "meaning": "太早說對還不夠：還需要……",
+   "example": "Being right too early is not enough: a new idea also needs a convincing mechanism and the evidence to prove it.",
+   "tip": "動名詞當主詞，寫出有力結論。"
+  },
+  {
+   "frame": "A was wrong about B but right to C",
+   "meaning": "A 在 B 上錯了，但 C 是對的",
+   "example": "Wegener’s critics were wrong about his conclusion but right to demand a mechanism.",
+   "tip": "平衡評價雙方。"
+  },
+  {
+   "frame": "S + advanced not by A, but by B",
+   "meaning": "……之所以進步，不是靠 A，而是靠 B",
+   "example": "Science advanced not by deferring to authority, but by insisting on evidence.",
+   "tip": "not by…but by… 說明方法。"
+  }
+ ],
+ "quote": {
+  "text": "It is just as if we were to refit the torn pieces of a newspaper by matching their edges and then check whether the lines of print ran smoothly across.",
+  "author": "Alfred Wegener",
+  "work": "The Origin of Continents and Oceans, as quoted by NASA Earth Observatory",
+  "url": "https://science.nasa.gov/earth/earth-observatory/alfred-wegener/"
+ },
+ "quiz": {
+  "beginner": [
+   {
+    "q": "What did Wegener say in 1912?",
+    "options": [
+     "The Earth is flat",
+     "All the continents were once joined together",
+     "Africa is moving north",
+     "Oceans are getting smaller"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "long ago, all the continents were joined together"
+   },
+   {
+    "q": "Where were Mesosaurus fossils found?",
+    "options": [
+     "Only in Germany",
+     "In both Brazil and South Africa",
+     "In Greenland",
+     "Under the sea"
+    ],
+    "a": 1,
+    "why": "第二段。",
+    "evidence": "fossils of a small reptile called Mesosaurus were found in both Brazil and South Africa"
+   },
+   {
+    "q": "Why did many experts see Wegener as an outsider?",
+    "options": [
+     "He was not German",
+     "He was a weather scientist, not a geologist",
+     "He was too young",
+     "He never wrote a book"
+    ],
+    "a": 1,
+    "why": "第三段。",
+    "evidence": "Wegener was a weather scientist, not a geologist"
+   },
+   {
+    "q": "When did scientists find the new evidence?",
+    "options": [
+     "In 1912",
+     "In 1930",
+     "In the 1960s",
+     "Last year"
+    ],
+    "a": 2,
+    "why": "最後一段。",
+    "evidence": "In the 1960s, scientists studied the ocean floor and found new evidence."
+   }
+  ],
+  "intermediate": [
+   {
+    "q": "What was the title of Wegener’s 1915 book?",
+    "options": [
+     "Pangaea",
+     "The Origin of Continents and Oceans",
+     "Plate Tectonics",
+     "The Jigsaw Earth"
+    ],
+    "a": 1,
+    "why": "第一段。",
+    "evidence": "The Origin of Continents and Oceans"
+   },
+   {
+    "q": "What “fair point” did the critics have?",
+    "options": [
+     "Wegener could not identify a mechanism powerful enough to move continents",
+     "Wegener’s maps were wrong",
+     "Fossils were fake",
+     "Wegener was German"
+    ],
+    "a": 0,
+    "why": "第三段。",
+    "evidence": "Wegener could not identify a mechanism powerful enough to move continents"
+   },
+   {
+    "q": "How did Wegener probably die?",
+    "options": [
+     "In an accident at sea",
+     "Of heart failure caused by exhaustion",
+     "In a war",
+     "Of old age"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "probably of heart failure caused by exhaustion"
+   },
+   {
+    "q": "What did studies of the ocean floor reveal?",
+    "options": [
+     "Zebra-like stripes of magnetism and new sea floor forming at ridges",
+     "Dinosaur bones",
+     "Oil",
+     "Nothing new"
+    ],
+    "a": 0,
+    "why": "最後一段。",
+    "evidence": "revealed zebra-like stripes of magnetism and showed that new sea floor was being created along mid-ocean ridges"
+   }
+  ],
+  "advanced": [
+   {
+    "q": "Why does the writer say the story is “more instructive than a simple tale of prejudice”?",
+    "options": [
+     "Because the critics also had legitimate scientific objections",
+     "Because Wegener was wrong",
+     "Because geology is easy",
+     "Because no one opposed Wegener"
+    ],
+    "a": 0,
+    "why": "第一、三段。",
+    "evidence": "the strongest objection was scientifically legitimate"
+   },
+   {
+    "q": "What does Wegener’s newspaper analogy describe?",
+    "options": [
+     "Checking whether pieces fit and the lines of print continue across",
+     "Reading the news",
+     "Printing maps",
+     "Tearing paper"
+    ],
+    "a": 0,
+    "why": "第二段。",
+    "evidence": "refit the torn pieces of a newspaper and check whether the lines of print ran smoothly across"
+   },
+   {
+    "q": "Who proposed mantle convection as a driving force in 1931?",
+    "options": [
+     "Alfred Wegener",
+     "Arthur Holmes",
+     "Rasmus Villumsen",
+     "The chairman of the 1926 symposium"
+    ],
+    "a": 1,
+    "why": "第四段。",
+    "evidence": "In 1931 the English geologist Arthur Holmes proposed mantle convection"
+   },
+   {
+    "q": "According to the writer, how did science advance in this case?",
+    "options": [
+     "By deferring to authority",
+     "By rewarding boldness alone",
+     "By insisting on evidence until it finally arrived",
+     "By ignoring critics"
+    ],
+    "a": 2,
+    "why": "最後一段。",
+    "evidence": "by insisting on evidence until it finally arrived"
+   }
+  ]
+ },
+ "reflections": [
+  "Compare Wegener with John Harrison (the longitude article). Both were outsiders. How were their stories similar and different?",
+  "Is it fair for experts to reject an idea that has no explanation for how it works? Give your opinion."
+ ],
+ "videos": [
+  {
+   "title": "Animated Life: Pangea, Wegener, and Continental Drift",
+   "channel": "YouTube · HHMI BioInteractive",
+   "url": "https://www.youtube.com/watch?v=RgJZ0ySEKYg",
+   "kind": "YouTube",
+   "desc": "An animated short about Wegener’s evidence and the reaction to his ideas. (8 min)",
+   "zh": "動畫短片：韋格納的證據以及外界對他理論的反應。（8 分鐘）",
+   "question": "Which piece of evidence in the video do you find most convincing?"
+  },
+  {
+   "title": "Alfred Wegener: Great Minds",
+   "channel": "YouTube · SciShow",
+   "url": "https://www.youtube.com/watch?v=nbU809Cyrao",
+   "kind": "YouTube",
+   "desc": "A short biography of Wegener and the long road to plate tectonics. (5 min)",
+   "zh": "韋格納簡傳，以及通往板塊構造論的漫長道路。（5 分鐘）",
+   "question": "Does the video mention the critics’ fair point about a mechanism?"
+  }
+ ]
+}
