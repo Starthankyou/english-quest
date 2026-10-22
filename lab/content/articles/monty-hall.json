@@ -438,6 +438,24 @@
    "desc": "A clear explanation of the puzzle with cards and diagrams.",
    "zh": "用卡片和圖解清楚說明這道謎題。",
    "question": "Which explanation in the video helped you most — and is it the same as the one in this article?"
+  },
+  {
+   "title": "The Easiest Problem Everyone Gets Wrong",
+   "channel": "YouTube · Vsauce2",
+   "url": "https://www.youtube.com/watch?v=ytfCdqWhmdg",
+   "kind": "YouTube",
+   "desc": "A careful look at why switching wins two-thirds of the time. (15 min)",
+   "zh": "仔細說明為什麼換門有三分之二的勝率。（15 分鐘）",
+   "question": "Which explanation in the video convinced you most?"
+  },
+  {
+   "title": "The Monty Hall Problem",
+   "channel": "YouTube · Brooklyn Nine-Nine",
+   "url": "https://www.youtube.com/watch?v=AD6eJlbFa2I",
+   "kind": "YouTube",
+   "desc": "A comedy scene in which two characters argue about the puzzle. (4 min)",
+   "zh": "喜劇片段：兩個角色為這道謎題爭論不休。（4 分鐘）",
+   "question": "Which character is “confidently wrong”, and how does the scene show it?"
   }
  ]
 }

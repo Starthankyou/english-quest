@@ -453,6 +453,24 @@
    "desc": "A look at historic timekeepers, including Harrison’s marine chronometers, at the Royal Observatory Greenwich.",
    "zh": "走進格林威治皇家天文台，看包括哈里森航海鐘在內的歷史計時器。",
    "question": "What features of Harrison’s clocks can you see in the video?"
+  },
+  {
+   "title": "Did We Find Longitude Thanks To A...Clock?",
+   "channel": "YouTube · SciShow",
+   "url": "https://www.youtube.com/watch?v=D-i-emUOTfk",
+   "kind": "YouTube",
+   "desc": "Why measuring longitude depends on knowing the time. (10 min)",
+   "zh": "為什麼測量經度必須知道時間。（10 分鐘）",
+   "question": "Explain in your own words why a clock can tell you how far east or west you are."
+  },
+  {
+   "title": "The longitude problem: history's deadliest riddle",
+   "channel": "YouTube · Map Men",
+   "url": "https://www.youtube.com/watch?v=3mHC-Pf8-dU",
+   "kind": "YouTube",
+   "desc": "A funny but accurate history of the longitude problem. (9 min)",
+   "zh": "幽默又正確的經度難題歷史。（9 分鐘）",
+   "question": "Which detail in the video is NOT in this article?"
   }
  ]
 }
