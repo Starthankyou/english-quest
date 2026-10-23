@@ -281,152 +281,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "How many stable relationships did Dunbar say most people can keep?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "About 15",
-     "About 50",
-     "About 150",
-     "About 1,500"
+     "How Sweden built new offices for its tax workers.",
+     "How to get many more followers on social media.",
+     "Why monkeys have bigger brains than people do.",
+     "A famous friendship number and why it may not be exact."
+    ],
+    "a": 3,
+    "evidence": "So is 150 real? Maybe not exactly.",
+    "why": "全文：鄧巴數的由來、例子與後來的質疑。",
+    "traps": [
+     "以偏概全：瑞典稅務局只是一個例子。",
+     "正反顛倒：作者說少數好友可能比追蹤者重要。",
+     "正反顛倒：用的是人腦推算人類群體大小。",
+     ""
+    ]
+   },
+   {
+    "type": "REF",
+    "q": "What does “they” in “They said that no single number can be trusted” refer to?",
+    "options": [
+     "The workers at the tax office.",
+     "The scientists in Sweden who checked the numbers.",
+     "The monkeys and apes Dunbar studied.",
+     "The 150 people in your circle."
+    ],
+    "a": 1,
+    "evidence": "in 2021, a group of scientists in Sweden checked the numbers again",
+    "why": "前面提到 2021 年瑞典的科學家重新檢驗。",
+    "traps": [
+     "張冠李戴：稅務局是第三段的例子。",
+     "",
+     "時序錯置：猴子是第二段的研究對象。",
+     "原文字眼、錯誤關係：150 人是鄧巴的估計。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The 2021 scientists found exactly 150 people again.",
+     "Dunbar studied only villages and towns of humans.",
+     "Some new estimates were as low as 16 to 42.",
+     "Sweden’s tax office planned offices for 500 workers."
     ],
     "a": 2,
-    "why": "第一段。",
-    "evidence": "most people can keep about 150 stable relationships"
-   },
-   {
-    "q": "What did Dunbar find about animals with bigger brains?",
-    "options": [
-     "They lived alone",
-     "They usually lived in bigger groups",
-     "They were smaller",
-     "They lived longer"
-    ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "animals with bigger brains — especially a part called the neocortex — usually lived in bigger groups"
-   },
-   {
-    "q": "What did the Swedish scientists say in 2021?",
-    "options": [
-     "150 is exactly right",
-     "No single number can be trusted",
-     "Humans have no friends",
-     "Monkeys are smarter"
-    ],
-    "a": 1,
+    "evidence": "Some answers were as low as 16 to 42 people.",
     "why": "第四段。",
-    "evidence": "They said that no single number can be trusted."
+    "traps": [
+     "正反顛倒：答案差異很大。",
+     "正反顛倒：他研究的是猴子和猿類。",
+     "",
+     "數字錯位：最多 150 人。"
+    ]
    },
    {
-    "q": "What main idea is still useful?",
+    "type": "INF",
+    "q": "What idea does the writer still find useful?",
     "options": [
-     "Everyone needs 150 friends",
-     "We have limited time and energy for friends",
-     "Followers are more important than friends",
-     "Brains are getting bigger"
+     "We have limited time and energy for friends.",
+     "Everyone should have exactly 150 friends.",
+     "Online followers are the same as real friends.",
+     "Bigger brains always mean more friends."
     ],
-    "a": 1,
+    "a": 0,
+    "evidence": "we have limited time and energy for friends",
     "why": "最後一段。",
-    "evidence": "we have limited time and energy for friends"
+    "traps": [
+     "",
+     "過度推論：作者說 150 可能不準。",
+     "正反顛倒：作者說少數好友可能更重要。",
+     "過度推論：那是猴子研究的趨勢。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "How do monkeys and apes maintain their social groups?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "Through close contact such as grooming",
-     "Through singing",
-     "Through fighting only",
-     "Through sharing food only"
+     "Dunbar’s number is popular, but its evidence is uncertain.",
+     "Humans can never have more than 150 contacts.",
+     "Primates use social media to stay in touch.",
+     "Malcolm Gladwell was the one who discovered Dunbar’s number."
     ],
     "a": 0,
-    "why": "第二段。",
-    "evidence": "through close contact, such as grooming one another"
+    "evidence": "However, the number has been seriously questioned.",
+    "why": "第四段：這個數字受到嚴重質疑。",
+    "traps": [
+     "",
+     "以偏概全：作者說真正的上限也許是 50、150 或其他。",
+     "字面誤讀：靈長類靠梳毛維繫關係。",
+     "張冠李戴：Gladwell 只是在書中引用。"
+    ]
    },
    {
-    "q": "Why did W. L. Gore and Associates limit offices to 150 employees?",
+    "type": "WD",
+    "q": "What does “exploratory” in the fourth paragraph most likely mean?",
     "options": [
-     "To save money",
-     "Larger groups caused social problems",
-     "Because of a law",
-     "Dunbar asked them to"
+     "Based on a trip to many countries.",
+     "Proved true beyond any doubt.",
+     "Meant as a first, uncertain attempt.",
+     "Copied from another scientist."
+    ],
+    "a": 2,
+    "evidence": "Dunbar himself described his original estimate as exploratory, because its 95% confidence interval ran from 100 to 230",
+    "why": "範圍從 100 到 230，所以只是初步的探索性估計。",
+    "traps": [
+     "字面誤讀：explore 也有探險的意思。",
+     "正反顛倒：範圍很大，並不確定。",
+     "",
+     "捏造：文中沒有。這是他自己的估計。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Dunbar’s original result was exactly 150.",
+     "Dunbar used data from 38 groups of primates.",
+     "The Stockholm study supported Dunbar’s number.",
+     "W. L. Gore built offices for up to 500 workers."
     ],
     "a": 1,
-    "why": "第三段。",
-    "evidence": "after finding that larger groups caused social problems"
+    "evidence": "In 1992 he used data from 38 groups of primates",
+    "why": "第二段。",
+    "traps": [
+     "數字錯位：結果是 148，再四捨五入成 150。",
+     "",
+     "正反顛倒：他們認為無法這樣計算。",
+     "數字錯位：最多 150 人。"
+    ]
    },
    {
-    "q": "Why did Dunbar call his estimate exploratory?",
+    "type": "INF",
+    "q": "What does the author suggest in the last paragraph?",
     "options": [
-     "Its 95% confidence interval ran from 100 to 230",
-     "He had no data",
-     "He studied only one monkey",
-     "It was a joke"
+     "Time and attention are unlimited resources.",
+     "The true limit has finally been proved to be 50.",
+     "People should delete their online contacts.",
+     "Many online contacts are not the same as close relationships."
     ],
-    "a": 0,
-    "why": "第四段。",
-    "evidence": "its 95% confidence interval ran from 100 to 230"
-   },
-   {
-    "q": "What does the number remind us, according to the writer?",
-    "options": [
-     "Online contacts are not the same as people we know and care for",
-     "Everyone should delete social media",
-     "150 is a lucky number",
-     "Brains limit followers"
-    ],
-    "a": 0,
+    "a": 3,
+    "evidence": "a long list of online contacts is not the same as a network of people we actually know and care for",
     "why": "最後一段。",
-    "evidence": "a long list of online contacts is not the same as a network of people we actually know and care for"
+    "traps": [
+     "正反顛倒：原文說時間和注意力有限。",
+     "正反顛倒：作者說也許是 50、150 或其他，並未證實。",
+     "過度推論：作者沒叫人刪聯絡人。",
+     ""
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "How did Dunbar describe the number informally?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "The number of people you could join uninvited for a drink without embarrassment",
-     "The number of people in your family",
-     "The number of names you can remember",
-     "The number of online friends"
+     "To prove that humans can maintain exactly 150 relationships.",
+     "To show how a tentative estimate became a popular law.",
+     "To describe the history of Roman armies.",
+     "To argue that companies should never exceed 150 workers."
+    ],
+    "a": 1,
+    "evidence": "The controversy illustrates how a tentative estimate can harden into an apparent law once it becomes popular.",
+    "why": "最後一段點題。",
+    "traps": [
+     "正反顛倒：作者質疑這個精確數字。",
+     "",
+     "以偏概全：羅馬軍隊只是佐證之一。",
+     "捏造：作者沒有這樣建議。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does the author mean by saying the confidence interval “largely disappeared in public retelling”?",
+    "options": [
+     "The number became larger each time it was told.",
+     "The original data were lost by Dunbar.",
+     "Scientists deleted the number from books.",
+     "People repeated the number but forgot how uncertain it was."
+    ],
+    "a": 3,
+    "evidence": "Dunbar himself presented his figure with caution, yet the confidence interval largely disappeared in public retelling, leaving a single memorable number",
+    "why": "大眾轉述時只記得 150，忘了它原本的不確定範圍。",
+    "traps": [
+     "捏造：文中沒有。數字沒有變大。",
+     "字面誤讀：不是資料真的遺失。",
+     "正反顛倒：這個數字被廣泛引用。",
+     ""
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Bayesian methods in 2021 suggested an average of 69 to 109.",
+     "Dunbar based his estimate on 38 human villages.",
+     "The 2021 confidence intervals were very narrow.",
+     "Dunbar claimed that 150 was an exact natural law."
     ],
     "a": 0,
-    "why": "第一段。",
-    "evidence": "the number of people “you would not feel embarrassed about joining uninvited for a drink"
-   },
-   {
-    "q": "Why do only some human groups reach 150, according to Dunbar?",
-    "options": [
-     "They have bigger brains",
-     "Such groups require intense social investment and strong pressure to stay together",
-     "They live in cities",
-     "They use the internet"
-    ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "only groups under strong pressure to stay together typically reach the 150 mark"
-   },
-   {
-    "q": "What were the confidence intervals in the 2021 study?",
-    "options": [
-     "100 to 230",
-     "4 to 520 and 2 to 336",
-     "148 to 150",
-     "16 to 42 only"
-    ],
-    "a": 1,
+    "evidence": "Bayesian methods suggested an average of 69 to 109",
     "why": "第四段。",
-    "evidence": "4 to 520 and 2 to 336 respectively"
+    "traps": [
+     "",
+     "張冠李戴：38 是靈長類的屬數。",
+     "正反顛倒：信賴區間非常大。",
+     "正反顛倒：他自己說是探索性的。"
+    ]
    },
    {
-    "q": "What does the controversy illustrate, according to the writer?",
+    "type": "INF",
+    "q": "Why do only groups under strong pressure tend to reach about 150 members, according to Dunbar?",
     "options": [
-     "How a tentative estimate can harden into an apparent law once popular",
-     "That anthropology is useless",
-     "That primates are social",
-     "That statistics are always wrong"
+     "Armies always prefer to use smaller units of soldiers.",
+     "Large groups always need much bigger offices to work in.",
+     "Keeping such a group together takes much social time.",
+     "Villages cannot grow enough food for more people."
     ],
-    "a": 0,
-    "why": "最後一段。",
-    "evidence": "how a tentative estimate can harden into an apparent law once it becomes popular"
+    "a": 2,
+    "evidence": "as much as 42 per cent of a group’s time might have to be devoted to social grooming",
+    "why": "第三段：要維持這麼大的群體，得花大量時間在社交上。",
+    "traps": [
+     "捏造：文中沒有。軍隊只是佐證。",
+     "原文字眼、錯誤關係：辦公室是現代的應用。",
+     "",
+     "捏造：文中沒提糧食。"
+    ]
    }
   ]
  },

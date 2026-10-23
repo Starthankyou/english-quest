@@ -291,152 +291,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "What do our brains usually do with tasks that need thinking?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "Do them at the same time",
-     "Switch quickly from one to the other",
-     "Ignore them",
-     "Sleep"
+     "How to send messages faster while studying.",
+     "Why doing two thinking tasks at once rarely works.",
+     "Why the radio is dangerous for drivers.",
+     "How Stanford students use social media."
     ],
     "a": 1,
-    "why": "第二段。",
-    "evidence": "Instead, they switch quickly from one task to the other."
+    "evidence": "our brains do not really do two things at the same time",
+    "why": "全文：大腦其實是在任務間切換，切換有代價。",
+    "traps": [
+     "正反顛倒：作者建議讀書時把手機收起來。",
+     "",
+     "正反顛倒：聽廣播沒有造成問題。",
+     "以偏概全：史丹佛研究只是其中一項。"
+    ]
    },
    {
-    "q": "What happened when drivers talked on the phone?",
+    "type": "REF",
+    "q": "What does “this problem” in the third paragraph refer to?",
     "options": [
-     "They drove better",
-     "They missed twice as many traffic signals",
-     "Nothing changed",
-     "They stopped the car"
+     "Switching to a new task.",
+     "Holding a phone in one hand.",
+     "Listening to an audiobook.",
+     "Missing traffic signals while driving."
     ],
-    "a": 1,
+    "a": 3,
+    "evidence": "they missed twice as many traffic signals",
+    "why": "前文：講電話時漏看的交通號誌多了一倍。",
+    "traps": [
+     "時序錯置：切換任務是第二段的內容。",
+     "正反顛倒：用不用手持沒差別。",
+     "原文字眼、錯誤關係：聽有聲書不會造成問題。",
+     ""
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Hands-free phones were no safer than handheld ones.",
+     "Listening to the radio doubled missed signals.",
+     "Heavy multitaskers were better at switching tasks.",
+     "Switching to a new task takes less time."
+    ],
+    "a": 0,
+    "evidence": "It did not matter if they held the phone or used a hands-free one.",
     "why": "第三段。",
-    "evidence": "they missed twice as many traffic signals"
+    "traps": [
+     "",
+     "張冠李戴：聽廣播沒有影響。",
+     "正反顛倒：他們更不會切換。",
+     "正反顛倒：切換到陌生任務更久。"
+    ]
    },
    {
-    "q": "What were heavy multitaskers worse at?",
+    "type": "INF",
+    "q": "What does the writer advise students to do?",
     "options": [
-     "Running",
-     "Ignoring things that did not matter",
-     "Using phones",
-     "Watching videos"
+     "Watch short videos to rest the brain.",
+     "Check messages between every homework question.",
+     "Put the phone away and focus on one thing.",
+     "Study while talking on the phone."
     ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "the heavy multitaskers were worse at ignoring things that did not matter"
-   },
-   {
-    "q": "What does the article advise when you study?",
-    "options": [
-     "Watch videos",
-     "Put your phone away and focus on one thing",
-     "Study with music videos",
-     "Use two screens"
-    ],
-    "a": 1,
+    "a": 2,
+    "evidence": "put your phone away and focus on one thing at a time",
     "why": "最後一段。",
-    "evidence": "put your phone away and focus on one thing at a time"
+    "traps": [
+     "捏造：文中沒有這種建議。",
+     "正反顛倒：這正是開頭描述的分心情況。",
+     "",
+     "正反顛倒：對話最會分散注意。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "When did switching costs increase?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "When the rules were more complex",
-     "When people were tired",
-     "In the morning",
-     "When tasks were easy"
+     "Hands-free phones make driving completely safe.",
+     "Heavy multitaskers become better at everything over time.",
+     "Switching between tasks has costs, so focusing on one helps learning.",
+     "Clear cues remove all costs of switching tasks."
     ],
-    "a": 0,
-    "why": "第二段。",
-    "evidence": "these “switching costs” increased when the rules were more complex"
-   },
-   {
-    "q": "Were hands-free phones safer while driving?",
-    "options": [
-     "Yes, much safer",
-     "No, they were no safer",
-     "Only for young drivers",
-     "The study did not test them"
-    ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "Importantly, hands-free phones were no safer."
-   },
-   {
-    "q": "Why was the 2009 result surprising?",
-    "options": [
-     "Heavy multitaskers were worse at the skill they practised most",
-     "Light multitaskers were faster",
-     "Nobody used media",
-     "Phones were banned"
-    ],
-    "a": 0,
-    "why": "第四段。",
-    "evidence": "the very skill they practised most"
-   },
-   {
-    "q": "What is still unclear, according to the 2018 review?",
-    "options": [
-     "Whether phones exist",
-     "Whether multitasking causes weaker attention or the reverse",
-     "Whether driving is dangerous",
-     "Whether students study"
-    ],
-    "a": 1,
+    "a": 2,
+    "evidence": "protecting your attention may matter more than trying to do everything at once",
     "why": "最後一段。",
-    "evidence": "it is not yet clear whether multitasking causes weaker attention or whether people with weaker attention multitask more"
+    "traps": [
+     "正反顛倒：免持一樣危險。",
+     "正反顛倒：他們反而更容易分心。",
+     "",
+     "正反顛倒：提示只能減少，不能消除。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “simultaneously” in the second paragraph mean?",
+    "options": [
+     "At the same time.",
+     "One after another.",
+     "Very slowly.",
+     "With great effort."
+    ],
+    "a": 0,
+    "evidence": "Instead of doing tasks simultaneously, the brain usually switches between them",
+    "why": "和 switches between them 對照：同時進行。",
+    "traps": [
+     "",
+     "正反顛倒：那是 switch（輪流切換）。",
+     "字面誤讀：simultaneously 講的是「時間」，不是速度。",
+     "字面誤讀：這個字不是在說費力程度。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Listening to an audiobook doubled missed signals.",
+     "Thinking of new words made driving easier.",
+     "Clear cues completely removed switching costs.",
+     "Repeating words heard on the phone did not disrupt driving."
+    ],
+    "a": 3,
+    "evidence": "Simply repeating words heard on the phone did not disrupt driving",
+    "why": "第三段。",
+    "traps": [
+     "張冠李戴：是講電話，不是聽有聲書。",
+     "正反顛倒：想新詞會干擾駕駛。",
+     "正反顛倒：只能減少成本。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What does the 2018 review suggest about the research?",
+    "options": [
+     "Multitasking has been proved to improve attention.",
+     "It is unclear whether multitasking causes weaker attention.",
+     "No study has ever found any difference.",
+     "Only drivers are affected by multitasking."
+    ],
+    "a": 1,
+    "evidence": "it is not yet clear whether multitasking causes weaker attention or whether people with weaker attention multitask more",
+    "why": "最後一段。",
+    "traps": [
+     "正反顛倒：沒有證據顯示會變好。",
+     "",
+     "以偏概全：原文說 many studies，不是全部。",
+     "以偏概全：駕駛只是其中一例。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "What does feel-like-simultaneous activity usually turn out to be?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "True parallel processing",
-     "Rapid alternation",
-     "Sleep",
-     "Memory"
+     "To argue that practice makes people better multitaskers.",
+     "To prove that phones should be banned in cars.",
+     "To describe how geometric shapes are classified.",
+     "To show that multitasking usually means costly switching."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "what feels like simultaneous activity is usually rapid alternation"
+    "a": 3,
+    "evidence": "what feels like simultaneous activity is usually rapid alternation, and that alternation is never free",
+    "why": "第一段點題。",
+    "traps": [
+     "正反顛倒：常多工的人反而表現較差。",
+     "過度推論：作者沒有主張禁用。",
+     "以偏概全：那是實驗中的任務。",
+     ""
+    ]
    },
    {
-    "q": "What two stages of executive control did Rubinstein and colleagues propose?",
+    "type": "WD",
+    "q": "What does “executive control” in the second paragraph most likely refer to?",
     "options": [
-     "Shifting goals and activating new rules",
-     "Seeing and hearing",
-     "Reading and writing",
-     "Sleeping and waking"
+     "The power of company managers.",
+     "The mind’s ability to manage goals and rules.",
+     "The speed of reading simple words.",
+     "The habit of checking messages often."
+    ],
+    "a": 1,
+    "evidence": "executive control involves distinct stages of shifting goals and activating new rules",
+    "why": "同一句說明：轉換目標、啟動新規則。",
+    "traps": [
+     "字面誤讀：executive 不是公司主管。",
+     "",
+     "原文字眼、錯誤關係：實驗任務是分類與算術，不是閱讀。",
+     "原文字眼、錯誤關係：那是分心的行為，不是控制能力。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Listening to the radio impaired drivers.",
+     "Visual cues made switching costs larger.",
+     "Heavy multitaskers did worse on a task-switching test.",
+     "Uncapher and Wagner found clear causes."
+    ],
+    "a": 2,
+    "evidence": "they also performed worse on a test of task-switching ability",
+    "why": "第四段。",
+    "traps": [
+     "正反顛倒：聽廣播沒有影響。",
+     "正反顛倒：提示讓成本變小。",
+     "",
+     "正反顛倒：因果方向仍不明。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Why did heavy multitaskers do worse at switching tasks, according to the passage?",
+    "options": [
+     "They found it harder to filter out the old task.",
+     "They practised task switching less than others did.",
+     "They were tested while driving real cars on roads.",
+     "They were given harder problems than the light group."
     ],
     "a": 0,
-    "why": "第二段。",
-    "evidence": "distinct stages of shifting goals and activating new rules"
-   },
-   {
-    "q": "Where does the danger of phone use while driving lie, according to Strayer and Johnston?",
-    "options": [
-     "Holding the phone",
-     "Diverting attention to an engaging cognitive context",
-     "The radio",
-     "Bad roads"
-    ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "the danger lies not in holding the phone but in diverting attention to an engaging cognitive context other than driving"
-   },
-   {
-    "q": "What is the writer’s practical conclusion?",
-    "options": [
-     "Multitasking is harmless",
-     "Attention is easier to protect than to recover once divided",
-     "Phones improve learning",
-     "The research is useless"
-    ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "attention is easier to protect than to recover once it has been divided"
+    "evidence": "apparently because they were less able to filter out the task they were no longer supposed to be doing",
+    "why": "第四段。",
+    "traps": [
+     "",
+     "正反顛倒：他們是最常練習的人。",
+     "張冠李戴：駕駛研究是模擬器。",
+     "捏造：兩組做的是相同測驗。"
+    ]
    }
   ]
  },

@@ -42,8 +42,8 @@
      "她的詩在 1890 年首次集結成書出版。但編輯們修改了其中很多首，讓它們看起來比較「正常」。狄金生在詩裡用了很多破折號（—），也會在奇怪的地方使用大寫字母。到了 1955 年，一本新書才讓她的詩更接近她原本寫下的樣子。"
     ],
     [
-     "Another famous poem begins: “Hope is the thing with feathers / That perches in the soul.” Hope is like a little bird inside us. It keeps singing, even in a storm, and it never asks for anything. Dickinson was “nobody” in her lifetime, but today she is one of America’s greatest poets. She also wrote that no ship can take us as far as a book: “There is no frigate like a book.”",
-     "另一首著名的詩開頭是：「希望是長著羽毛的東西／棲息在靈魂裡。」希望就像我們心裡的一隻小鳥，即使在暴風雨中也不停歌唱，而且從不索求任何東西。狄金生在世時是個「無名小卒」，如今卻是美國最偉大的詩人之一。她也寫過，沒有一艘船能像一本書那樣帶我們走那麼遠：「沒有一艘戰艦比得上一本書。」"
+     "Another famous poem begins: “Hope is the thing with feathers / That perches in the soul.” Hope is like a little bird inside us. It keeps singing, even in a storm, and it never asks for anything. She also wrote that no ship can take us as far as a book: “There is no frigate like a book.” Dickinson was “nobody” in her lifetime, but today she is one of America’s greatest poets.",
+     "另一首著名的詩開頭是：「希望是長著羽毛的東西／棲息在靈魂裡。」希望就像我們心裡的一隻小鳥，即使在暴風雨中也不停歌唱，而且從不索求任何東西。她也寫過，沒有一艘船能像一本書那樣帶我們走那麼遠：「沒有一艘戰艦比得上一本書。」狄金生在世時是個「無名小卒」，如今卻是美國最偉大的詩人之一。"
     ]
    ]
   },
@@ -286,152 +286,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "How does the speaker feel about being “nobody”?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "Sad",
-     "Happy",
-     "Angry",
-     "Afraid"
+     "Why editors added dashes to Dickinson’s poems.",
+     "How frogs call out their names in a muddy bog.",
+     "A poet who called herself “nobody” and later became famous.",
+     "How Lavinia Dickinson became a famous poet."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "The speaker is happy to be “nobody”."
+    "a": 2,
+    "evidence": "Dickinson was “nobody” in her lifetime, but today she is one of America’s greatest poets.",
+    "why": "全文：生前沒沒無聞、寫「我是無名小卒」的詩人，如今成為美國最偉大的詩人之一。",
+    "traps": [
+     "正反顛倒：編輯是把她的破折號拿掉。",
+     "字面誤讀：青蛙只是詩裡的比喻。",
+     "",
+     "張冠李戴：Lavinia 是發現詩稿的妹妹。"
+    ]
    },
    {
-    "q": "What is being “somebody” compared to?",
+    "type": "WD",
+    "q": "What does the word “bog” mean in the second paragraph?",
     "options": [
-     "A bird",
-     "A frog",
-     "A book",
-     "A storm"
-    ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "being “somebody” is like being a frog"
-   },
-   {
-    "q": "How many of Dickinson’s poems were published while she was alive?",
-    "options": [
-     "About 10",
-     "About 100",
-     "About 1,000",
-     "About 1,800"
+     "A wet, muddy place.",
+     "A large crowd of people.",
+     "A small green frog.",
+     "A famous person’s name."
     ],
     "a": 0,
-    "why": "第三段。",
-    "evidence": "only 10 were published while she was alive"
+    "evidence": "to an admiring bog (a wet, muddy place)",
+    "why": "括號直接解釋：潮濕泥濘的地方。",
+    "traps": [
+     "",
+     "過度推論：沼澤在詩中像觀眾，但字面意思不是人群。",
+     "原文字眼、錯誤關係：青蛙是對著沼澤叫的那一方。",
+     "原文字眼、錯誤關係：青蛙喊的是自己的名字。"
+    ]
    },
    {
-    "q": "What did the editors do in 1890?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "They threw the poems away",
-     "They changed many poems to make them look “normal”",
-     "They added pictures",
-     "They translated them"
+     "Dickinson’s older brother found the poems in her desk.",
+     "Dickinson published nearly 1,800 poems during her lifetime.",
+     "Her poems were first printed as a book in 1955.",
+     "Only 10 of Dickinson’s poems were published while she was alive."
+    ],
+    "a": 3,
+    "evidence": "only 10 were published while she was alive",
+    "why": "第三段。",
+    "traps": [
+     "張冠李戴：發現詩稿的是妹妹 Lavinia。",
+     "數字錯位：寫了約 1,800 首，生前只發表 10 首。",
+     "數字錯位：第一本詩集是 1890 年，1955 年是較接近原貌的新版。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What does the poem “Hope is the thing with feathers” suggest about hope?",
+    "options": [
+     "It flies away from us whenever a storm comes.",
+     "It stays with us in hard times and asks for nothing.",
+     "It must be paid for with something very valuable.",
+     "It belongs only to people who are famous."
     ],
     "a": 1,
-    "why": "第四段。",
-    "evidence": "the editors changed many of them to make them look “normal”"
+    "evidence": "It keeps singing, even in a storm, and it never asks for anything.",
+    "why": "最後一段：希望像小鳥，暴風中仍唱歌，從不要求回報。",
+    "traps": [
+     "正反顛倒：它在暴風中仍唱歌。",
+     "",
+     "正反顛倒：它從不要求任何東西。",
+     "捏造：詩人本身就是「無名小卒」。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "What does the poem turn a common fear into?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "A kind of private freedom",
-     "A reason to become famous",
-     "A sad memory",
-     "A joke about frogs only"
+     "Social media was invented because of Dickinson’s frog image.",
+     "Dickinson wanted to become as famous as possible during her life.",
+     "Thomas H. Johnson wrote “I’m Nobody! Who are you?”.",
+     "Dickinson’s poem treats being unknown as a freedom, and her own life matched it."
     ],
-    "a": 0,
-    "why": "第一段。",
-    "evidence": "the poem turns a common fear — being unimportant — into a kind of private freedom"
+    "a": 3,
+    "evidence": "the poem turns a common fear — being unimportant — into a kind of private freedom",
+    "why": "第一段點題，第三段說她本人也是「無名小卒」。",
+    "traps": [
+     "因果顛倒：讀者只是覺得這個意象很像社群媒體。",
+     "正反顛倒：詩中說當名人很無趣。",
+     "張冠李戴：Johnson 是 1955 年版的編者。",
+     ""
+    ]
    },
    {
-    "q": "Why is the frog image “comic but pointed”?",
+    "type": "WD",
+    "q": "What does “dreary” in the first paragraph most likely mean?",
     "options": [
-     "Its audience is only a swamp and its message is only its own name",
-     "Frogs are funny animals",
-     "Dickinson loved frogs",
-     "It is about nature"
+     "Exciting and new.",
+     "Dull and tiring.",
+     "Secret and hidden.",
+     "Cruel and unfair."
     ],
-    "a": 0,
-    "why": "第二段。",
-    "evidence": "the frog’s audience is only a swamp, and its message is simply its own name"
+    "a": 1,
+    "evidence": "because being “somebody” sounds dreary",
+    "why": "詩人覺得當名人很「沉悶乏味」，就像青蛙整天報自己名字。",
+    "traps": [
+     "正反顛倒：她覺得出名並不有趣。",
+     "",
+     "原文字眼、錯誤關係：保守秘密是她對讀者的提議。",
+     "張冠李戴：「殘酷」是 banish 這個改字帶來的感覺。"
+    ]
    },
    {
-    "q": "What did “they’d advertise — you know!” become in 1890?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "They’d banish us, you know.",
-     "They’d tell everyone.",
-     "They’d find us.",
-     "It stayed the same."
+     "Dickinson studied at Amherst Academy for two years.",
+     "The 1890 editors kept all of Dickinson’s dashes.",
+     "The 1890 editors changed “they’d advertise” to “They’d banish us”.",
+     "Johnson’s complete edition appeared in 1890."
     ],
-    "a": 0,
+    "a": 2,
+    "evidence": "her handwritten line “they’d advertise — you know!” became “They’d banish us, you know.”",
     "why": "第四段。",
-    "evidence": "became “They’d banish us, you know.”"
+    "traps": [
+     "數字錯位：原文說讀了七年。",
+     "正反顛倒：編輯把破折號抹平了。",
+     "",
+     "數字錯位：Johnson 的全集在 1955 年。"
+    ]
    },
    {
-    "q": "Why does the editorial change matter, according to the writer?",
+    "type": "INF",
+    "q": "Why does the author say “That editorial change matters”?",
     "options": [
-     "“Advertise” makes the world sound noisy and nosy, which is the poem’s point",
-     "“Banish” is easier to spell",
-     "It made the poem longer",
-     "It does not matter"
+     "“Banish” and “advertise” give the poem different meanings.",
+     "The editors misspelled Dickinson’s name.",
+     "The new word made the poem much longer.",
+     "Dickinson asked the editors to change it."
     ],
     "a": 0,
-    "why": "最後一段。",
-    "evidence": "“advertise” makes it sound noisy and nosy, which is exactly the poem’s point"
+    "evidence": "“Banish” makes the world sound cruel; “advertise” makes it sound noisy and nosy",
+    "why": "最後一段：banish 讓世界顯得殘酷，advertise 則是吵鬧、愛打聽，後者才是詩的重點。",
+    "traps": [
+     "",
+     "捏造：問題在改字，不在拼名字。",
+     "捏造：只換了一個詞，長度不是重點。",
+     "時序錯置：1890 年詩集出版時她已過世。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "How is fame presented in the poem?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "As glory",
-     "As tedious self-advertisement before an audience that cannot judge",
-     "As a reward for hard work",
-     "As something dangerous"
-    ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "Fame, in this view, is not glory but tedious self-advertisement before an audience that cannot judge."
-   },
-   {
-    "q": "What additional irony does the writer point out?",
-    "options": [
-     "Dickinson was famous in her lifetime",
-     "Dickinson published few poems while alive yet became hugely significant",
-     "Dickinson hated poetry",
-     "Lavinia wrote the poems"
-    ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "only 10 were published during her lifetime"
-   },
-   {
-    "q": "What is the difference between “banish” and “advertise”, according to the writer?",
-    "options": [
-     "Banishment implies punishment by an authority; advertisement implies exposure by gossip",
-     "They mean the same thing",
-     "Advertise is older",
-     "Banish is more modern"
+     "To show how her life and editors shaped the poem’s view of fame.",
+     "To argue that Dickinson’s poems should be rewritten in modern English.",
+     "To describe the ballad stanza used in English folk songs.",
+     "To prove that Higginson was a better poet than Dickinson."
     ],
     "a": 0,
-    "why": "第三段。",
-    "evidence": "banishment implies punishment by an authority, whereas advertisement implies exposure by gossip"
+    "evidence": "The poem acquires additional irony from the circumstances of its author.",
+    "why": "全文：詩的主題、作者生平的反諷，以及編輯如何改動她的詩。",
+    "traps": [
+     "",
+     "捏造：作者讚賞的是恢復原貌的版本。",
+     "以偏概全：民謠詩節只是說明她的形式。",
+     "捏造：Higginson 是編者，作者批評他的改動。"
+    ]
    },
    {
-    "q": "What reminder do the poems offer “an age of constant visibility”?",
+    "type": "WD",
+    "q": "What does “posthumously” in the second paragraph mean?",
     "options": [
-     "Everyone should be famous",
-     "A life lived largely out of public view can still produce work of lasting public value",
-     "Poetry is dead",
-     "Social media is useful"
+     "Written in secret by hand.",
+     "Before the writer was born.",
+     "After the writer’s death.",
+     "Edited by a famous critic."
+    ],
+    "a": 2,
+    "evidence": "After her death in 1886, her younger sister Lavinia discovered the poems in her desk, and what had been a private practice became, posthumously, one of the most significant bodies of poetry",
+    "why": "同一句：她死後詩稿才被發現並出版。",
+    "traps": [
+     "原文字眼、錯誤關係：手寫稿是詩的形式，不是這個字的意思。",
+     "正反顛倒：她 1830 年出生。",
+     "",
+     "張冠李戴：編者是另一件事。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The 1955 edition gave every poem a title.",
+     "Higginson and Todd edited the 1890 selection.",
+     "Dickinson never used the familiar ballad stanza.",
+     "Dickinson’s capitals were kept exactly in 1890."
     ],
     "a": 1,
-    "why": "最後一段。",
-    "evidence": "a life lived largely out of public view can still produce work of lasting public value"
+    "evidence": "edited by Thomas Wentworth Higginson and Mabel Loomis Todd",
+    "why": "第三段。",
+    "traps": [
+     "正反顛倒：1955 年版保留她「沒有標題、以數字編號」的原樣。",
+     "",
+     "正反顛倒：她常用民謠詩節，只是加以打破。",
+     "正反顛倒：大寫字母被規範化了。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Why does the change from “advertise” to “banish” alter the poem’s meaning?",
+    "options": [
+     "Banishment makes the poem rhyme more regularly.",
+     "Banishment sounds more modern than advertisement.",
+     "Advertisement was a word Dickinson never used.",
+     "Banishment implies punishment, while advertisement implies gossip and exposure."
+    ],
+    "a": 3,
+    "evidence": "banishment implies punishment by an authority, whereas advertisement implies exposure by gossip",
+    "why": "第三段。",
+    "traps": [
+     "捏造：作者分析的是意義，不是押韻。",
+     "捏造：問題在意思，不在新舊。",
+     "正反顛倒：advertise 正是她手稿裡的字。",
+     ""
+    ]
    }
   ]
  },

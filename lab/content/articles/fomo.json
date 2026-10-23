@@ -279,152 +279,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "Why does Mia’s evening suddenly feel boring?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "Her book is bad",
-     "She sees photos of her friends having fun",
-     "Her phone is broken",
-     "She is tired"
+     "How university students use Facebook in class.",
+     "How to plan a fun Saturday night with friends.",
+     "Why reading books is better than going to parties.",
+     "What FOMO is and how using less social media may help."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "Suddenly her quiet evening feels boring."
+    "a": 3,
+    "evidence": "Can using less social media help?",
+    "why": "第二、三段說明 FOMO，第四、五段談減少使用的效果。",
+    "traps": [
+     "以偏概全：上課滑手機只是一個例子。",
+     "原文字眼、錯誤關係：週六夜只是 Mia 的開場情境。",
+     "過度推論：作者沒比較讀書和派對。",
+     ""
+    ]
    },
    {
-    "q": "What is FOMO?",
+    "type": "REF",
+    "q": "What does “it” in “described it as a worry” in the second paragraph refer to?",
     "options": [
-     "A new app",
-     "The fear of missing out",
-     "A kind of music",
-     "A school club"
+     "Mia’s quiet Saturday evening.",
+     "FOMO, the fear of missing out.",
+     "A concert her friends went to.",
+     "The phone in Mia’s hand."
     ],
     "a": 1,
-    "why": "第二段。",
-    "evidence": "FOMO, or the fear of missing out"
+    "evidence": "This feeling has a name: FOMO, or the fear of missing out.",
+    "why": "前一句提到的就是 FOMO。",
+    "traps": [
+     "時序錯置：Mia 的週末在第一段。",
+     "",
+     "原文字眼、錯誤關係：演唱會是朋友的活動。",
+     "原文字眼、錯誤關係：手機是工具。"
+    ]
    },
    {
-    "q": "What does a photo show, according to the article?",
+    "type": "TF",
+    "q": "Which of the following is true about the 2018 experiment?",
     "options": [
-     "The whole week",
-     "Only one good moment",
-     "The truth about someone’s life",
-     "Nothing"
+     "All the students stopped using social media completely.",
+     "The students used social media for three months.",
+     "Some students used each app for only 10 minutes a day.",
+     "The students who used less felt more lonely."
     ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "a photo shows only one good moment"
+    "a": 2,
+    "evidence": "some of them used Facebook, Instagram and Snapchat for only 10 minutes a day on each app",
+    "why": "第四段。",
+    "traps": [
+     "以偏概全：只有一組限制使用，而且不是完全不用。",
+     "數字錯位：實驗是三週，不是三個月。",
+     "",
+     "正反顛倒：他們比較不孤單。"
+    ]
    },
    {
-    "q": "What happened in both groups of the experiment?",
+    "type": "INF",
+    "q": "Why did FOMO go down in both groups?",
     "options": [
-     "FOMO went down",
-     "FOMO went up",
-     "Nobody changed",
-     "They stopped using phones"
+     "Paying attention to their phone use seemed to help.",
+     "Both groups deleted all their social media apps.",
+     "Both groups went to more parties and concerts.",
+     "Both groups read more books in the evening."
     ],
     "a": 0,
-    "why": "最後一段。",
-    "evidence": "in both groups, FOMO went down"
+    "evidence": "Just paying attention to how they used their phones seemed to help.",
+    "why": "第五段。",
+    "traps": [
+     "",
+     "正反顛倒：對照組照常使用。",
+     "原文字眼、錯誤關係：派對和演唱會是 Mia 朋友的活動。",
+     "原文字眼、錯誤關係：Mia 讀書只是開頭情境。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "How did Przybylski and his colleagues measure FOMO?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "With brain scans",
-     "With a questionnaire they created",
-     "By counting photos",
-     "By interviewing parents"
-    ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "They created a questionnaire to measure it"
-   },
-   {
-    "q": "Why can the 2013 study not prove that social media causes FOMO?",
-    "options": [
-     "Its results were correlations",
-     "It had no participants",
-     "It was about driving",
-     "It was too long"
+     "FOMO is linked to social media use, and limiting it may help.",
+     "Social media has been proved to cause FOMO in every user.",
+     "Leon Festinger first studied social media in the year 1954.",
+     "Teenagers rarely compare themselves with other people online."
     ],
     "a": 0,
-    "why": "第三段。",
-    "evidence": "However, these were correlations"
+    "evidence": "The limited group showed significant reductions in loneliness and depression.",
+    "why": "第二到五段：FOMO 的定義、相關研究、限制使用的實驗與自我監測。",
+    "traps": [
+     "",
+     "正反顛倒：2013 年的研究只是相關，不能證明因果。",
+     "張冠李戴：Festinger 提出的是社會比較理論。",
+     "正反顛倒：作者說人會比較。"
+    ]
    },
    {
-    "q": "How long did the 2018 experiment last after the baseline week?",
+    "type": "WD",
+    "q": "What does “correlations” mean in the third paragraph?",
     "options": [
-     "Three days",
-     "One week",
-     "Three weeks",
-     "Three months"
+     "Questionnaires that ask about social media habits.",
+     "Experiments that prove cause and effect clearly.",
+     "Links that do not prove one thing causes another.",
+     "Results that apply equally to every person."
     ],
     "a": 2,
-    "why": "第四段。",
-    "evidence": "or to use social media as usual, for three weeks"
+    "evidence": "the study could not show whether social media causes FOMO, or whether people with FOMO simply use it more",
+    "why": "冒號後面解釋：只有關聯，無法判斷誰造成誰。",
+    "traps": [
+     "原文字眼、錯誤關係：問卷是測量工具。",
+     "正反顛倒：證明因果的是 2018 年的實驗。",
+     "",
+     "過度推論：相關不代表適用於每個人。"
+    ]
    },
    {
-    "q": "What did the researchers suggest might help both groups?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "Deleting all apps",
-     "Simply monitoring one’s own use",
-     "Posting more photos",
-     "Studying harder"
+     "The limited group used each app for 30 minutes a day.",
+     "The 2018 experiment began with a week of baseline monitoring.",
+     "Only the limited group felt less FOMO after three weeks.",
+     "Przybylski’s team ran the 2018 experiment."
     ],
     "a": 1,
+    "evidence": "After a week of baseline monitoring",
+    "why": "第四段。",
+    "traps": [
+     "數字錯位：每個 app 10 分鐘，總共約 30 分鐘。",
+     "",
+     "正反顛倒：兩組都降低了。",
+     "張冠李戴：2018 年的實驗是賓州大學團隊做的。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What practical lesson does the author offer in the last paragraph?",
+    "options": [
+     "Only look at your friends’ highlights, not your own.",
+     "Stop comparing yourself with anyone at all, ever.",
+     "Delete every social media app on your phone immediately.",
+     "Notice how you feel before and after opening an app."
+    ],
+    "a": 3,
+    "evidence": "notice what you were feeling before you opened the app",
     "why": "最後一段。",
-    "evidence": "simply monitoring one’s own use may help"
+    "traps": [
+     "正反顛倒：作者提醒那只是精選片段。",
+     "過度推論：作者沒要人完全不比較，而是提醒精選片段不是全貌。",
+     "過度推論：作者建議注意，不是刪除。",
+     ""
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "According to the writer, what has changed about social comparison?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "Its scale and selectivity",
-     "People no longer compare",
-     "Festinger’s theory was disproved",
-     "It only happens offline"
-    ],
-    "a": 0,
-    "why": "第一段。",
-    "evidence": "What has changed is the scale and selectivity of the comparison."
-   },
-   {
-    "q": "Which explanation does the writer say correlational data cannot rule out?",
-    "options": [
-     "That some third factor drives both",
-     "That photos are real",
-     "That teenagers use phones",
-     "That Festinger was right"
-    ],
-    "a": 0,
-    "why": "第三段。",
-    "evidence": "or whether some third factor drives both"
-   },
-   {
-    "q": "Why does the writer call the 2018 result “suggestive rather than conclusive”?",
-    "options": [
-     "The sample was modest and from a single university",
-     "It found no effect",
-     "It was not random",
-     "It studied only Facebook"
-    ],
-    "a": 0,
-    "why": "第四段。",
-    "evidence": "The sample was modest and drawn from a single university"
-   },
-   {
-    "q": "What is the “subtle but important” implication in the last paragraph?",
-    "options": [
-     "Restriction is useless",
-     "Awareness may matter as much as restriction",
-     "Feeds are always harmful",
-     "Comparison should be avoided completely"
+     "To prove that social media causes depression in all teenagers.",
+     "To explain FOMO, the evidence about it, and why awareness matters.",
+     "To describe the life of the philosopher Seneca.",
+     "To argue that social comparison is a new problem."
     ],
     "a": 1,
-    "why": "最後一段。",
-    "evidence": "awareness may matter as much as restriction"
+    "evidence": "awareness may matter as much as restriction",
+    "why": "全文：從社會比較到 FOMO 研究，最後指出覺察的重要。",
+    "traps": [
+     "過度推論：作者說實驗結果 suggestive rather than conclusive。",
+     "",
+     "以偏概全：Seneca 只在最後一句。",
+     "正反顛倒：原文 Social comparison is not new。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “curated” in the last paragraph most likely mean?",
+    "options": [
+     "Randomly ordered.",
+     "Medically treated.",
+     "Completely honest.",
+     "Carefully selected."
+    ],
+    "a": 3,
+    "evidence": "A curated feed becomes a measuring stick only when we forget what it is — a selection, not a life.",
+    "why": "破折號後面解釋：是挑選過的內容。",
+    "traps": [
+     "正反顛倒：精選正好是刻意挑選，不是隨機。",
+     "一字多義：cure 有治療的意思，但這裡不是。",
+     "正反顛倒：它是精選，不是全貌。",
+     ""
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The 2018 sample was drawn from a single university.",
+     "Higher FOMO was linked to higher life satisfaction.",
+     "The 2013 study was a randomized experiment.",
+     "The limited-use group felt lonelier than the control group."
+    ],
+    "a": 0,
+    "evidence": "The sample was modest and drawn from a single university",
+    "why": "第四段。",
+    "traps": [
+     "",
+     "正反顛倒：是較低的生活滿意度。",
+     "正反顛倒：2013 年是相關研究。",
+     "正反顛倒：孤單感降低。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Why does the author say the 2018 result is “suggestive rather than conclusive”?",
+    "options": [
+     "The experiment lasted only one day.",
+     "The students were not told which group they were in.",
+     "The sample was small and came from only one university.",
+     "The researchers did not use a control group."
+    ],
+    "a": 2,
+    "evidence": "The sample was modest and drawn from a single university, so the result is suggestive rather than conclusive.",
+    "why": "第四段。",
+    "traps": [
+     "數字錯位：三週加一週基準期。",
+     "捏造：文中沒有提到分組是否保密。",
+     "",
+     "正反顛倒：原文有和 control group 比較。"
+    ]
    }
   ]
  },

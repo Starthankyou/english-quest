@@ -25,8 +25,8 @@
      "在晴朗的夜晚走到戶外，抬頭看看，你能看到幾顆星星？如果你住在城市裡，也許只有幾顆。你的祖父母可能還記得滿天星斗的夜空。星星都去哪了？它們其實還在那裡，問題出在我們夜裡製造的光。"
     ],
     [
-     "Streetlights, signs, buildings and screens all send light into the sky. This light makes the night sky brighter, so faint stars disappear. Scientists call this light pollution. To measure it, they asked ordinary people around the world for help. This kind of pollution does not make the air dirty, but it hides the sky from us.",
-     "路燈、招牌、建築和螢幕，都把光送進天空。這些光讓夜空變亮，於是比較暗的星星就看不見了。科學家稱之為「光害」。為了測量光害，他們請全世界的一般民眾幫忙。這種污染不會讓空氣變髒，卻把天空藏了起來。"
+     "Streetlights, signs, buildings and screens all send light into the sky. This light makes the night sky brighter, so faint stars disappear. Scientists call this light pollution. This kind of pollution does not make the air dirty, but it hides the sky from us. To measure it, they asked ordinary people around the world for help.",
+     "路燈、招牌、建築和螢幕，都把光送進天空。這些光讓夜空變亮，於是比較暗的星星就看不見了。科學家稱之為「光害」。這種污染不會讓空氣變髒，卻把天空藏了起來。為了測量光害，他們請全世界的一般民眾幫忙。"
     ],
     [
      "In a project called Globe at Night, people looked at the sky and compared it with star maps. Then they reported how many stars they could see. Between 2011 and 2022, people sent in more than 51,000 reports. Scientists studied these reports and published the results in 2023. You do not need a telescope to take part. You only need your eyes and a clear night.",
@@ -280,152 +280,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "Why can’t many city people see stars?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "The stars have disappeared",
-     "Artificial light makes the sky brighter",
-     "There are no clear nights",
-     "People don’t look up"
+     "How to find stars with a telescope in a big city.",
+     "How the night sky is getting brighter and hiding the stars.",
+     "Why our grandparents saw fewer stars than we do.",
+     "How scientists send light into the sky to study stars."
     ],
     "a": 1,
-    "why": "第二段。",
-    "evidence": "This light makes the night sky brighter, so faint stars disappear."
+    "evidence": "On average, the night sky got brighter by almost 10 percent every year.",
+    "why": "全文說明光害讓夜空變亮、星星消失，以及怎麼改善。",
+    "traps": [
+     "正反顛倒：原文 You do not need a telescope。",
+     "",
+     "正反顛倒：祖父母那一代看得到更多星星。",
+     "張冠李戴：送光進天空的是街燈、招牌等，不是科學家。"
+    ]
    },
    {
-    "q": "What did people in Globe at Night do?",
+    "type": "REF",
+    "q": "What does “it” in “To measure it” in the second paragraph refer to?",
     "options": [
-     "Took photos from space",
-     "Compared the sky with star maps and reported what they saw",
-     "Turned off all the lights",
-     "Built telescopes"
+     "A star map.",
+     "The night sky.",
+     "The air.",
+     "Light pollution."
     ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "people looked at the sky and compared it with star maps"
+    "a": 3,
+    "evidence": "Scientists call this light pollution.",
+    "why": "前一句：科學家稱之為光害，接著要測量的就是光害。",
+    "traps": [
+     "時序錯置：星圖是第三段的工具。",
+     "原文字眼、錯誤關係：天空是被照亮的對象。",
+     "原文字眼、錯誤關係：後一句說光害不會弄髒空氣。",
+     ""
+    ]
    },
    {
-    "q": "On average, how much brighter did the night sky get each year?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "About 1 percent",
-     "Almost 10 percent",
-     "About 50 percent",
-     "It got darker"
+     "People sent in more than 51,000 reports between 2011 and 2022.",
+     "People needed a telescope to take part in Globe at Night.",
+     "The sky got brighter by almost 10 percent over twelve years.",
+     "Light pollution makes the air dirty and hard to breathe."
     ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "the night sky got brighter by almost 10 percent every year"
+    "a": 0,
+    "evidence": "Between 2011 and 2022, people sent in more than 51,000 reports.",
+    "why": "第三段：2011 到 2022 年間有超過 51,000 筆回報。",
+    "traps": [
+     "",
+     "正反顛倒：原文 You do not need a telescope。",
+     "數字錯位：是「每年」將近 10%。",
+     "正反顛倒：原文 does not make the air dirty。"
+    ]
    },
    {
+    "type": "INF",
     "q": "What makes light pollution different from many other kinds of pollution?",
     "options": [
-     "It is more dangerous",
-     "It disappears the moment we switch it off",
-     "It cannot be measured",
-     "It only happens in the countryside"
+     "It is caused mainly by stars.",
+     "It can be seen only by scientists.",
+     "It disappears as soon as we turn the lights off.",
+     "It has been getting smaller every year."
     ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "light pollution disappears the moment we switch it off"
+    "a": 2,
+    "evidence": "light pollution disappears the moment we switch it off",
+    "why": "最後一段：關燈的那一刻光害就消失。",
+    "traps": [
+     "正反顛倒：星星是被遮住的，光害來自人造光。",
+     "正反顛倒：一般人用肉眼就能參與觀測。",
+     "",
+     "正反顛倒：天空每年變亮。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "Why is skyglow difficult to measure accurately?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "Satellites do not detect all types of light equally well",
-     "Nobody is interested",
-     "It only happens in winter",
-     "Stars move too fast"
+     "Satellites give the most complete picture of the night sky.",
+     "The Milky Way has moved farther away from Earth.",
+     "Volunteers’ observations show skyglow is increasing faster than expected, but it can be reduced.",
+     "White LED lights help people see more stars at night."
+    ],
+    "a": 2,
+    "evidence": "The rate was much faster than satellite measurements had suggested",
+    "why": "第三、四段：志工觀測顯示天空變亮的速度比衛星估計快；第五段提出解法。",
+    "traps": [
+     "正反顛倒：第二段說衛星偵測不到所有光。",
+     "正反顛倒：原文 The stars have not gone anywhere。",
+     "",
+     "正反顛倒：白光 LED 可能是天空變亮、但衛星測不到的原因。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “citizen science” in the second paragraph refer to?",
+    "options": [
+     "Research in which ordinary people help collect data.",
+     "Science lessons taught to citizens in schools.",
+     "Research paid for by city governments.",
+     "Studies of how cities use electricity."
     ],
     "a": 0,
-    "why": "第二段。",
-    "evidence": "the satellites that photograph Earth at night do not detect all types of light equally well"
+    "evidence": "Instead of relying only on machines, they asked people to use their own eyes.",
+    "why": "下一句解釋：請一般民眾用自己的眼睛觀測。",
+    "traps": [
+     "",
+     "字面誤讀：不是公民課。",
+     "捏造：文中沒提經費。",
+     "原文字眼、錯誤關係：光害與城市有關，但不是這個詞的意思。"
+    ]
    },
    {
-    "q": "How many observations did Kyba’s team analyse?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "5,135",
-     "51,351",
-     "250",
-     "100"
-    ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "analysed 51,351 of these observations"
-   },
-   {
-    "q": "Why might the rate be faster than satellites suggested?",
-    "options": [
-     "Because of the switch to white LED lights",
-     "Because there are fewer stars",
-     "Because people counted wrong",
-     "Because of clouds"
-    ],
-    "a": 0,
-    "why": "第四段最後。",
-    "evidence": "possibly because of the switch to white LED lights, which satellites cannot fully detect"
-   },
-   {
-    "q": "Which of these is NOT mentioned as a way to reduce skyglow?",
-    "options": [
-     "Shielding lights so they shine downward",
-     "Choosing warmer colours",
-     "Turning lights off when not in use",
-     "Building taller buildings"
+     "Globe at Night volunteers used telescopes to count stars.",
+     "The sky was getting brighter by 9.6 percent every eight years.",
+     "Satellites measured an even faster increase than the volunteers.",
+     "Kyba’s team analysed 51,351 observations collected over about a decade."
     ],
     "a": 3,
-    "why": "最後一段列出的方法不包括蓋更高的建築。",
-    "evidence": "Shielding lights so they shine downward"
+    "evidence": "Christopher Kyba and his colleagues analysed 51,351 of these observations, collected between 2011 and 2022",
+    "why": "第三段：分析了 2011 到 2022 年的 51,351 筆觀測。",
+    "traps": [
+     "捏造：志工是拿天空和星圖比對。",
+     "數字錯位：每年 9.6%，約八年亮度加倍。",
+     "正反顛倒：衛星低估了增加的速度。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Why might satellites have underestimated the brightening of the sky?",
+    "options": [
+     "They were turned off between 2011 and 2022.",
+     "They cannot fully detect light from white LED lamps.",
+     "They measure the stars instead of artificial light.",
+     "They were used only in a few countries."
+    ],
+    "a": 1,
+    "evidence": "possibly because of the switch to white LED lights, which satellites cannot fully detect",
+    "why": "第四段：可能因為改用白光 LED，衛星偵測不完整。",
+    "traps": [
+     "時序錯置：2011–2022 是志工觀測的期間。",
+     "",
+     "捏造：衛星拍的是地球夜間的光。",
+     "張冠李戴：涵蓋許多國家的是志工回報。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "According to paragraph 2, what kind of light are satellites most sensitive to?",
+    "type": "MI",
+    "q": "Which of the following is the best title for the passage?",
     "options": [
-     "Light directed upward",
-     "Horizontal light",
-     "Blue light",
-     "Starlight"
+     "Bright Cities Are Safer Cities",
+     "How Satellites Measure Every Light on Earth",
+     "Why the Stars Are Moving Away From Us",
+     "The Fading Sky: What Volunteers Revealed About Light Pollution"
     ],
-    "a": 0,
-    "why": "第二段。",
-    "evidence": "The satellites that image Earth at night are most sensitive to light directed upward"
+    "a": 3,
+    "evidence": "these simple reports captured something satellites could not",
+    "why": "第三到五段：志工觀測揭露天空變亮得比衛星估計快，並指出光害是可逆的。",
+    "traps": [
+     "正反顛倒：作者批評「亮＝安全」的習慣。",
+     "正反顛倒：衛星偵測不到水平方向的光和藍光。",
+     "正反顛倒：原文 not because anything has happened to the stars。",
+     ""
+    ]
    },
    {
-    "q": "Why does the writer call the human eye “the instrument that actually experiences the night sky”?",
+    "type": "WD",
+    "q": "What does the author mean by saying light pollution “leaves no residue”?",
     "options": [
-     "To explain why citizen reports captured something satellites could not",
-     "To argue that satellites are useless",
-     "To praise volunteers’ eyesight",
-     "To describe a new telescope"
-    ],
-    "a": 0,
-    "why": "第三段最後一句。",
-    "evidence": "these simple reports captured something satellites could not"
-   },
-   {
-    "q": "How does the 9.6 percent rate compare with satellite observations?",
-    "options": [
-     "It is far faster than the roughly 2 percent suggested by satellites",
-     "It is about the same",
-     "It is slower",
-     "Satellites showed no change"
-    ],
-    "a": 0,
-    "why": "第四段。",
-    "evidence": "far faster than the roughly 2 percent annual growth suggested by satellite observations"
-   },
-   {
-    "q": "What does the writer identify as the main obstacle to solving light pollution?",
-    "options": [
-     "Expensive technology",
-     "A cultural habit of treating brightness as safety",
-     "A lack of scientific data",
-     "Government laws"
+     "It cannot be measured by satellites at all.",
+     "It leaves nothing behind once the light is switched off.",
+     "It affects only people who live in cities.",
+     "It slowly builds up in the atmosphere over years."
     ],
     "a": 1,
-    "why": "最後一段。",
-    "evidence": "The obstacle is less technological than cultural"
+    "evidence": "light pollution leaves no residue: it ends the instant a light is switched off or redirected",
+    "why": "冒號後面解釋：關燈或改變方向的那一刻就結束，不會殘留。",
+    "traps": [
+     "原文字眼、錯誤關係：衛星的限制在第二段。",
+     "",
+     "捏造：文中沒有這樣的限制。",
+     "正反顛倒：這是在形容塑膠或碳，光害正好相反。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The human eye is less able than satellites to see the night sky.",
+     "The trend was the same in every region where people took part.",
+     "Satellite observations suggested sky brightness grew by about 2 percent a year.",
+     "Older orange street lamps have replaced white LEDs in many cities."
+    ],
+    "a": 2,
+    "evidence": "far faster than the roughly 2 percent annual growth suggested by satellite observations",
+    "why": "第四段：衛星觀測顯示每年約 2%，遠低於 9.6%。",
+    "traps": [
+     "正反顛倒：人眼正是真正體驗夜空的「儀器」。",
+     "正反顛倒：原文 the trend varied by region。",
+     "",
+     "時序顛倒：是白光 LED 取代了舊的橘色路燈。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What does the author suggest is the main obstacle to reducing light pollution?",
+    "options": [
+     "The belief that brightness means safety and darkness is waste.",
+     "The high cost of shielded lights and timers.",
+     "The lack of technology to redirect light downward.",
+     "The difficulty of measuring skyglow from space."
+    ],
+    "a": 0,
+    "evidence": "The obstacle is less technological than cultural — a habit of treating brightness as safety and darkness as waste.",
+    "why": "第五段：障礙主要是文化，而不是技術。",
+    "traps": [
+     "",
+     "正反顛倒：原文 inexpensive and widely available。",
+     "正反顛倒：原文 less technological。",
+     "原文字眼、錯誤關係：測量困難是第二段的問題，不是減少光害的障礙。"
+    ]
    }
   ]
  },

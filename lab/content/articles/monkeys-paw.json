@@ -29,8 +29,8 @@
      "這隻猴爪能讓三個人各許三個願望。但那位聖人想證明命運主宰我們的人生，試圖改變命運的人會後悔。莫里斯把猴爪丟進火裡。懷特先生立刻把它拿出來，留了下來。"
     ],
     [
-     "Later, Herbert jokes that his father should wish for two hundred pounds to pay for the house. Mr White makes the wish. Nothing happens. But the next day, a man comes from the factory where Herbert works. Herbert has died in an accident with a machine. Herbert laughs and says the money might drop on his head from the sky.",
-     "後來，赫伯特開玩笑說，父親應該許願要兩百英鎊來付房子的錢。懷特先生許了願，什麼事也沒發生。但第二天，赫伯特工作的工廠來了一個人：赫伯特在一場機器意外中過世了。赫伯特笑著說，錢說不定會從天上掉到他頭上。"
+     "Later, Herbert jokes that his father should wish for two hundred pounds to pay for the house. Mr White makes the wish. Nothing happens. Herbert laughs and says the money might drop on his head from the sky. But the next day, a man comes from the factory where Herbert works. Herbert has died in an accident with a machine.",
+     "後來，赫伯特開玩笑說，父親應該許願要兩百英鎊來付房子的錢。懷特先生許了願，什麼事也沒發生。赫伯特笑著說，錢說不定會從天上掉到他頭上。但第二天，赫伯特工作的工廠來了一個人：赫伯特在一場機器意外中過世了。"
     ],
     [
      "The company says it is not responsible, but it gives the family some money: exactly two hundred pounds. The wish came true, but in the worst possible way. Mrs White is full of grief. About ten days later, she makes her husband wish for their son to be alive again.",
@@ -54,8 +54,8 @@
      "根據莫里斯的說法，一位年老的聖人在猴爪上施了咒語，要證明「命運主宰人的一生，而干涉命運的人必將後悔」。三個人可以各許三個願望。莫里斯承認他已經許過了，還說第一位主人的第三個願望是求死。他把猴爪丟進火裡，懷特先生卻把它救了出來。「如果你非許願不可，」莫里斯警告，「就許個合理的願望。」"
     ],
     [
-     "At Herbert’s joking suggestion, Mr White wishes for two hundred pounds to finish paying for the house. Nothing seems to happen. The next day, a stranger arrives from Maw and Meggins, the company where Herbert works. Herbert has been “caught in the machinery”. The company admits no responsibility but offers compensation for his services: two hundred pounds. Morris had said that the paw’s wishes come true so naturally that people might call it coincidence. Herbert even jokes that the money might drop on his head from the sky.",
-     "在赫伯特開玩笑的提議下，懷特先生許願要兩百英鎊，好付清房子的錢。似乎什麼都沒發生。第二天，一個陌生人從赫伯特工作的「茂與梅金斯公司」來訪：赫伯特「被捲進了機器裡」。公司不承認有任何責任，但為了他的服務提供補償金：兩百英鎊。莫里斯曾說，猴爪的願望實現得太自然，人們可能會說那只是巧合。赫伯特甚至開玩笑說，錢說不定會從天上掉到他頭上。"
+     "At Herbert’s joking suggestion, Mr White wishes for two hundred pounds to finish paying for the house. Nothing seems to happen. Herbert even jokes that the money might drop on his head from the sky. The next day, a stranger arrives from Maw and Meggins, the company where Herbert works. Herbert has been “caught in the machinery”. The company admits no responsibility but offers compensation for his services: two hundred pounds. Morris had said that the paw’s wishes come true so naturally that people might call it coincidence.",
+     "在赫伯特開玩笑的提議下，懷特先生許願要兩百英鎊，好付清房子的錢。似乎什麼都沒發生。赫伯特甚至開玩笑說，錢說不定會從天上掉到他頭上。第二天，一個陌生人從赫伯特工作的「茂與梅金斯公司」來訪：赫伯特「被捲進了機器裡」。公司不承認有任何責任，但為了他的服務提供補償金：兩百英鎊。莫里斯曾說，猴爪的願望實現得太自然，人們可能會說那只是巧合。"
     ],
     [
      "Overcome with grief, Mrs White insists that her husband use the second wish to bring Herbert back. He hesitates, remembering that their son has been dead for ten days and could be recognised only by his clothing. Still, he wishes: “I wish my son alive again.” Late that night, a loud knocking begins at the front door.",
@@ -281,152 +281,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "Who brings the monkey’s paw?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "Herbert",
-     "Sergeant-Major Morris",
-     "Mrs White",
-     "A holy man"
+     "How the Whites paid for their small house.",
+     "How a holy man made a paw from a monkey.",
+     "Why soldiers often travel to faraway India.",
+     "A magic paw whose wishes come true in terrible ways."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "an old soldier friend, Sergeant-Major Morris, visits them"
+    "a": 3,
+    "evidence": "The wish came true, but in the worst possible way.",
+    "why": "全文：猴掌讓願望成真，代價卻很可怕。",
+    "traps": [
+     "原文字眼、錯誤關係：付房貸是第一個願望的目的。",
+     "以偏概全：聖人下咒只是猴掌的來歷。",
+     "以偏概全：印度只是猴掌的來歷。",
+     ""
+    ]
    },
    {
-    "q": "What does Morris do with the paw?",
+    "type": "REF",
+    "q": "What does “it” in “Mr White quickly takes it out and keeps it” refer to?",
     "options": [
-     "Sells it",
-     "Throws it into the fire",
-     "Gives it to Herbert",
-     "Makes a wish"
+     "The fire.",
+     "The monkey’s paw.",
+     "The house.",
+     "The money."
     ],
     "a": 1,
-    "why": "第二段。",
-    "evidence": "Morris throws the paw into the fire."
+    "evidence": "Morris throws the paw into the fire.",
+    "why": "前一句：Morris 把猴掌丟進火裡。",
+    "traps": [
+     "原文字眼、錯誤關係：火是猴掌被丟進去的地方。",
+     "",
+     "原文字眼、錯誤關係：房子是他們住的地方，不是被撿回來的。",
+     "時序錯置：錢是後來的事。"
+    ]
    },
    {
-    "q": "How much money does the company give the family?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "One hundred pounds",
-     "Exactly two hundred pounds",
-     "Nothing",
-     "Two thousand pounds"
+     "Herbert died in a car accident.",
+     "Morris made the first wish in the White family’s home.",
+     "The company gave the family exactly two hundred pounds.",
+     "Mrs White made the third wish."
     ],
-    "a": 1,
+    "a": 2,
+    "evidence": "it gives the family some money: exactly two hundred pounds",
     "why": "第四段。",
-    "evidence": "exactly two hundred pounds"
+    "traps": [
+     "張冠李戴：是被機器捲入。",
+     "張冠李戴：許願的是 Mr White。",
+     "",
+     "張冠李戴：第三個願望是 Mr White 許的。"
+    ]
    },
    {
-    "q": "What happens after the third wish?",
+    "type": "INF",
+    "q": "What did Mr White most likely wish for the third time?",
     "options": [
-     "Herbert comes in",
-     "The knocking stops and the road is empty",
-     "The house burns",
-     "Morris returns"
+     "That whatever was at the door would go away.",
+     "That he could have two hundred more pounds.",
+     "That Herbert would knock on the door louder.",
+     "That Sergeant-Major Morris would come back."
     ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "The knocking stops. When the door opens, the road is empty."
+    "a": 0,
+    "evidence": "The knocking stops. When the door opens, the road is empty.",
+    "why": "許完第三個願望，敲門聲停了，門外空無一人。",
+    "traps": [
+     "",
+     "原文字眼、錯誤關係：兩百英鎊是第一個願望。",
+     "正反顛倒：敲門聲停止了。",
+     "捏造：Morris 沒再出現。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "Where had Morris served with the army?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "Egypt",
-     "India",
-     "France",
-     "China"
+     "Wishes that try to cheat fate may bring worse results.",
+     "The Whites became rich and happy through the paw.",
+     "Morris sold the paw to the family for two hundred pounds.",
+     "Herbert’s death was clearly caused by magic."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "who served with the British Army in India"
+    "a": 0,
+    "evidence": "wishes that try to cheat fate may bring results far worse than the problems they were meant to solve",
+    "why": "最後一段。",
+    "traps": [
+     "",
+     "正反顛倒：他們失去了兒子。",
+     "捏造：他把猴掌丟進火裡。",
+     "正反顛倒：作者說可能被當成巧合。"
+    ]
    },
    {
-    "q": "What was the first owner’s third wish?",
+    "type": "WD",
+    "q": "What does “compensation” in the third paragraph mean?",
     "options": [
-     "Money",
-     "Death",
-     "Love",
-     "A house"
+     "A machine used in a factory.",
+     "A reward for winning a prize.",
+     "Money paid to make up for a loss.",
+     "A spell placed on an object."
+    ],
+    "a": 2,
+    "evidence": "offers compensation for his services: two hundred pounds",
+    "why": "公司不承認責任，但為他的服務給付一筆錢以彌補損失。",
+    "traps": [
+     "原文字眼、錯誤關係：機器是事故原因。",
+     "一字多義：compensation 不是比賽獎金。",
+     "",
+     "原文字眼、錯誤關係：咒語是猴掌的來歷。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Morris still had all three of his wishes.",
+     "The first owner’s third wish was for death.",
+     "The story was first published in 1920.",
+     "Herbert worked for the British Army."
     ],
     "a": 1,
+    "evidence": "says the first owner’s third wish was for death",
     "why": "第二段。",
-    "evidence": "the first owner’s third wish was for death"
+    "traps": [
+     "正反顛倒：他已經用過了。",
+     "",
+     "數字錯位：1902 年。",
+     "張冠李戴：在軍隊服役的是 Morris。"
+    ]
    },
    {
+    "type": "INF",
     "q": "Why does Mr White hesitate before the second wish?",
     "options": [
-     "He has no paw",
-     "Herbert has been dead ten days and could be recognised only by his clothing",
-     "He wants money",
-     "Morris told him not to"
+     "Morris had told him never to make a wish.",
+     "He wanted to wish for more money instead.",
+     "He had already lost the monkey’s paw.",
+     "Herbert had been dead ten days and was badly hurt."
     ],
-    "a": 1,
+    "a": 3,
+    "evidence": "remembering that their son has been dead for ten days and could be recognised only by his clothing",
     "why": "第四段。",
-    "evidence": "remembering that their son has been dead for ten days and could be recognised only by his clothing"
-   },
-   {
-    "q": "What does Jacobs never tell readers?",
-    "options": [
-     "Herbert’s job",
-     "Exactly what was outside or what the last wish was",
-     "The family’s name",
-     "Where Morris served"
-    ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "Jacobs never tells us exactly what was outside, or what the last wish was."
+    "traps": [
+     "正反顛倒：Morris 說要許就許合理的願。",
+     "原文字眼、錯誤關係：錢是第一個願望。",
+     "正反顛倒：他還拿著猴掌。",
+     ""
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "When was the story first adapted for the stage?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "1902",
-     "As early as 1903",
-     "1915",
-     "1950"
+     "To prove that the holy man’s spell was real.",
+     "To show how the story builds horror through restraint.",
+     "To describe the life of soldiers in India.",
+     "To explain how the Whites paid off their house."
     ],
     "a": 1,
-    "why": "第一段。",
-    "evidence": "It was adapted for the stage as early as 1903"
+    "evidence": "The story’s horror depends on restraint.",
+    "why": "第二段起分析：克制的寫法讓讀者自己補上恐怖。",
+    "traps": [
+     "過度推論：作者說可以當魔法，也可以當巧合。",
+     "",
+     "以偏概全：印度只是背景。",
+     "原文字眼、錯誤關係：付房貸是第一個願望的目的。"
+    ]
    },
    {
-    "q": "How is Morris’s own experience conveyed?",
+    "type": "WD",
+    "q": "What does “grotesque literalness” in the third paragraph refer to?",
     "options": [
-     "Through long descriptions",
-     "Through silences and a whitening face",
-     "Through letters",
-     "Through Herbert’s jokes"
+     "A long letter sent by the company.",
+     "A funny story told by the family at dinner.",
+     "A machine at the factory making loud noises.",
+     "A wish coming true exactly, but horribly."
     ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "His own experience is conveyed through silences and a whitening face rather than description."
+    "a": 3,
+    "evidence": "The wish is granted with grotesque literalness",
+    "why": "願望「一字不差」地實現（剛好兩百英鎊），方式卻很恐怖。",
+    "traps": [
+     "原文字眼、錯誤關係：公司是派人來，不是寫信。",
+     "原文字眼、錯誤關係：第一個願望本來有點好笑，但不是這個詞的意思。",
+     "原文字眼、錯誤關係：機器是事故原因。",
+     ""
+    ]
    },
    {
-    "q": "Why does the first wish not require any visible supernatural event?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "The wish is granted through a natural-seeming accident and compensation",
-     "Nothing happens at all",
-     "Morris pays the money",
-     "The house is sold"
+     "The story was first filmed in 1915.",
+     "The firm accepted full responsibility for Herbert’s death.",
+     "Morris described his own wishes in great detail.",
+     "The story was first published in The Lady of the Barge."
     ],
     "a": 0,
-    "why": "第三段。",
-    "evidence": "The wish is granted with grotesque literalness, and no supernatural event need be seen at all."
+    "evidence": "first filmed in 1915",
+    "why": "第一段。",
+    "traps": [
+     "",
+     "正反顛倒：公司不承認責任。",
+     "正反顛倒：他用沉默和臉色表達。",
+     "時序錯置：先刊在 Harper’s Monthly。"
+    ]
    },
    {
-    "q": "What is the source of the story’s enduring power, according to the writer?",
+    "type": "INF",
+    "q": "Why does the author say “readers supply the horror themselves”?",
     "options": [
-     "Its length",
-     "Withholding what stood outside and the final wish",
-     "Its happy ending",
-     "Its setting in India"
+     "Readers are asked to write their own ending.",
+     "The story includes many frightening pictures.",
+     "Jacobs never says what was outside or what was wished.",
+     "Morris explains every event in great detail."
     ],
-    "a": 1,
+    "a": 2,
+    "evidence": "Jacobs never states what stood outside or what the final wish was",
     "why": "最後一段。",
-    "evidence": "this withholding is the source of the story’s enduring power"
+    "traps": [
+     "張冠李戴：直接請讀者決定的是〈美女還是老虎〉。",
+     "捏造：故事沒有插圖，恐怖來自留白。",
+     "",
+     "正反顛倒：他幾乎什麼都沒說。"
+    ]
    }
   ]
  },

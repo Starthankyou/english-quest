@@ -43,12 +43,12 @@
      "我們究竟為什麼要打哈欠？科學家們並沒有完全的共識。有一種說法是，打哈欠能幫助大腦降溫，有點像電腦的風扇。學者們提出了大約二十種可能的原因，但沒有任何一種勝出。想睡覺也和打哈欠有關。"
     ],
     [
-     "Many people say that contagious yawning shows empathy — the ability to understand how others feel. Some early studies supported this idea. But in 2014, a study of 328 people found that empathy did not explain who yawned and who did not. In that study, people watched a three-minute video of other people yawning, and the scientists counted their yawns.",
-     "許多人說，被傳染打哈欠代表有同理心——也就是能理解別人感受的能力。一些早期研究支持這個想法。但在 2014 年，一項針對 328 人的研究發現，同理心並不能解釋誰會打哈欠、誰不會。在那項研究中，人們觀看一段三分鐘的影片，內容是其他人在打哈欠，科學家則計算他們打了幾次哈欠。"
+     "Many people say that contagious yawning shows empathy — the ability to understand how others feel. Some early studies supported this idea. But in 2014, a study of 328 people found that empathy did not explain who yawned and who did not. In that study, people watched a three-minute video of other people yawning, and the scientists counted their yawns. Interestingly, people who did not yawn said they did not even feel like yawning.",
+     "許多人說，被傳染打哈欠代表有同理心——也就是能理解別人感受的能力。一些早期研究支持這個想法。但在 2014 年，一項針對 328 人的研究發現，同理心並不能解釋誰會打哈欠、誰不會。在那項研究中，人們觀看一段三分鐘的影片，內容是其他人在打哈欠，科學家則計算他們打了幾次哈欠。有趣的是，沒有打哈欠的人說，他們連想打的感覺都沒有。"
     ],
     [
-     "In that study, older people yawned less. But age explained only a small part of the differences. Most of the reasons are still a mystery. So the next time you yawn, remember: even a simple, everyday action can still puzzle scientists. Interestingly, people who did not yawn said they did not even feel like yawning.",
-     "在那項研究中，年紀較大的人比較少打哈欠。但年齡只能解釋差異中的一小部分，大部分原因至今仍是個謎。所以下次你打哈欠時，記得：即使是簡單的日常動作，也可能讓科學家們傷透腦筋。有趣的是，沒有打哈欠的人說，他們連想打的感覺都沒有。"
+     "In that study, older people yawned less. But age explained only a small part of the differences. Most of the reasons are still a mystery. So the next time you yawn, remember: even a simple, everyday action can still puzzle scientists.",
+     "在那項研究中，年紀較大的人比較少打哈欠。但年齡只能解釋差異中的一小部分，大部分原因至今仍是個謎。所以下次你打哈欠時，記得：即使是簡單的日常動作，也可能讓科學家們傷透腦筋。"
     ]
    ]
   },
@@ -72,8 +72,8 @@
      "打哈欠為什麼會傳染，是另一個謎。一種流行的解釋把它與同理心連結在一起。在 2004 年的一項研究中，比較容易被傳染打哈欠的人，在理解他人心智的任務上表現較好。然而，2014 年一項規模更大、有 328 名參與者的研究發現，把年齡因素考慮進去之後，同理心並不能預測誰會被傳染。一項 2007 年的研究也發現，自閉症幼童在觀看別人打哈欠的影片後，並沒有更常打哈欠。"
     ],
     [
-     "The 2014 study did find that individual differences were very stable: people who rarely caught yawns did so consistently, and most did not even feel the urge. Older participants yawned less, but age explained only 8% of the variation. The rest remains unexplained. The story of yawning is a good reminder that a popular explanation is not the same as a proven one. These results were the same whether people were tested in a laboratory or online.",
-     "2014 年的研究確實發現，個人差異非常穩定：很少被傳染的人一直都是如此，而且大多數人甚至沒有想打哈欠的衝動。年紀較大的參與者比較少打哈欠，但年齡只解釋了 8% 的差異，其餘的至今仍無法解釋。打哈欠的故事提醒我們：一個流行的解釋，並不等於一個被證實的解釋。無論是在實驗室還是線上測試，結果都一樣。"
+     "The 2014 study did find that individual differences were very stable: people who rarely caught yawns did so consistently, and most did not even feel the urge. These results were the same whether people were tested in a laboratory or online. Older participants yawned less, but age explained only 8% of the variation. The rest remains unexplained. The story of yawning is a good reminder that a popular explanation is not the same as a proven one.",
+     "2014 年的研究確實發現，個人差異非常穩定：很少被傳染的人一直都是如此，而且大多數人甚至沒有想打哈欠的衝動。無論是在實驗室還是線上測試，結果都一樣。年紀較大的參與者比較少打哈欠，但年齡只解釋了 8% 的差異，其餘的至今仍無法解釋。打哈欠的故事提醒我們：一個流行的解釋，並不等於一個被證實的解釋。"
     ]
    ]
   },
@@ -291,152 +291,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "How long does a yawn usually last?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "About one second",
-     "About six seconds",
-     "About one minute",
-     "About ten minutes"
-    ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "A yawn usually lasts about six seconds."
-   },
-   {
-    "q": "Which animals also show contagious yawning?",
-    "options": [
-     "Only humans",
-     "Chimpanzees, dogs and some other animals",
-     "Only fish",
-     "Only insects"
-    ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "This happens not only in people but also in chimpanzees, dogs and some other animals."
-   },
-   {
-    "q": "What is one idea about why we yawn?",
-    "options": [
-     "It helps to cool the brain",
-     "It makes us taller",
-     "It helps us see better",
-     "It cleans our teeth"
+     "Why yawning spreads and how much is still unknown.",
+     "How to stop yawning during a long class.",
+     "Why babies sleep more than adults.",
+     "How dogs learn to yawn from people."
     ],
     "a": 0,
-    "why": "第三段。",
-    "evidence": "One idea is that yawning helps to cool the brain"
+    "evidence": "Most of the reasons are still a mystery.",
+    "why": "全文：打哈欠會傳染，但原因大多仍是謎。",
+    "traps": [
+     "",
+     "捏造：文中沒教人停止打哈欠。",
+     "捏造：文中沒談嬰兒睡眠。",
+     "過度推論：只說狗也會傳染哈欠。"
+    ]
    },
    {
-    "q": "What did the 2014 study find about empathy?",
+    "type": "WD",
+    "q": "What does “contagious” mean in the second paragraph?",
     "options": [
-     "Empathy explained everything",
-     "Empathy did not explain who yawned and who did not",
-     "Only kind people yawn",
-     "Empathy makes people yawn less"
+     "Caused by feeling very cold.",
+     "Lasting about six seconds.",
+     "Spreading from one person to another.",
+     "Happening only to animals."
+    ],
+    "a": 2,
+    "evidence": "When you see someone yawn, hear someone yawn on the phone, or even think about yawning, you may yawn too.",
+    "why": "後一句說明：看到、聽到別人打哈欠，自己也會跟著打。",
+    "traps": [
+     "正反顛倒：有一說是為了讓大腦降溫。",
+     "原文字眼、錯誤關係：六秒是哈欠長度。",
+     "",
+     "以偏概全：人和動物都會。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Scientists agree on one main reason for yawning.",
+     "The 2014 study found empathy did not explain contagious yawning.",
+     "Older people in the study yawned more.",
+     "People watched a thirty-minute video."
     ],
     "a": 1,
+    "evidence": "empathy did not explain who yawned and who did not",
     "why": "第四段。",
-    "evidence": "empathy did not explain who yawned and who did not"
+    "traps": [
+     "正反顛倒：大約有二十種說法，沒有定論。",
+     "",
+     "正反顛倒：年長者打得較少。",
+     "數字錯位：影片只有三分鐘。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What does the writer want readers to notice about yawning?",
+    "options": [
+     "Scientists have solved the mystery.",
+     "Yawning is a sign of bad manners.",
+     "Only sleepy people ever yawn.",
+     "Even an everyday action can still puzzle scientists."
+    ],
+    "a": 3,
+    "evidence": "even a simple, everyday action can still puzzle scientists",
+    "why": "最後一段。",
+    "traps": [
+     "正反顛倒：大部分原因仍是謎。",
+     "捏造：文中沒說打哈欠沒禮貌。",
+     "以偏概全：想睡只是相關因素之一。",
+     ""
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "What do ultrasound images show?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "Babies yawning before birth",
-     "Dogs yawning",
-     "The brain cooling",
-     "Six-second yawns"
-    ],
-    "a": 0,
-    "why": "第一段。",
-    "evidence": "Ultrasound images even show babies yawning before birth."
-   },
-   {
-    "q": "What did the Gallups point out about excessive yawning?",
-    "options": [
-     "It is caused by boredom",
-     "It often appears in conditions that raise brain or body temperature",
-     "It only happens at night",
-     "It is contagious"
+     "Yawning has been proved to cool the brain.",
+     "A popular link between yawning and empathy has not held up well.",
+     "Children with autism yawn more than others.",
+     "Yawns spread only between people of the same age."
     ],
     "a": 1,
-    "why": "第三段。",
-    "evidence": "excessive yawning often appears in conditions that raise brain or body temperature"
-   },
-   {
-    "q": "In the 2004 study, people more susceptible to contagious yawning…",
-    "options": [
-     "were older",
-     "performed better on tasks involving understanding other minds",
-     "were sleepier",
-     "were less intelligent"
-    ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "performed better on tasks involving understanding other people’s minds"
-   },
-   {
-    "q": "How much of the variation did age explain in the 2014 study?",
-    "options": [
-     "8%",
-     "28%",
-     "50%",
-     "80%"
-    ],
-    "a": 0,
+    "evidence": "a popular explanation is not the same as a proven one",
     "why": "最後一段。",
-    "evidence": "age explained only 8% of the variation"
+    "traps": [
+     "過度推論：那只是其中一種說法。",
+     "",
+     "正反顛倒：研究發現他們沒有更常打。",
+     "捏造：文中說甚至能跨物種傳染。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “susceptible” in the fourth paragraph mean?",
+    "options": [
+     "Interested in scientific tests.",
+     "Able to stop something.",
+     "Unable to understand others.",
+     "Easily affected by something."
+    ],
+    "a": 3,
+    "evidence": "people who were more susceptible to contagious yawning",
+    "why": "「較容易」被傳染哈欠的人。",
+    "traps": [
+     "捏造：文中的 susceptible 和興趣沒關係。",
+     "正反顛倒：不是能阻止。",
+     "張冠李戴：那是同理心測驗的內容。",
+     ""
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Age explained only 8% of the variation in the 2014 study.",
+     "The 2014 study had 3,280 participants.",
+     "Results differed between the lab and online tests.",
+     "Gallup and Gallup published their review in 2014."
+    ],
+    "a": 0,
+    "evidence": "age explained only 8% of the variation",
+    "why": "最後一段。",
+    "traps": [
+     "",
+     "數字錯位：328 人。",
+     "正反顛倒：實驗室和線上結果一樣。",
+     "數字錯位：2008 年。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Why does the author mention the 2014 study of 328 participants?",
+    "options": [
+     "It showed that yawns spread between species.",
+     "It proved that yawning cools the brain.",
+     "It weakened the popular link between yawning and empathy.",
+     "It found that empathy explains all yawning."
+    ],
+    "a": 2,
+    "evidence": "once age was taken into account, empathy did not predict who caught yawns",
+    "why": "第四段。",
+    "traps": [
+     "張冠李戴：跨物種是第二段的觀察。",
+     "張冠李戴：降溫說是另一份回顧。",
+     "",
+     "正反顛倒：同理心無法預測。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "How many psychological explanations for yawning have scholars proposed?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "About two",
-     "About twenty",
-     "About two hundred",
-     "None"
+     "To describe how fetuses grow before birth.",
+     "To prove that mirror neurons cause all yawning.",
+     "To show how an appealing explanation weakened under larger tests.",
+     "To argue that empathy cannot be measured."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "scholars have proposed roughly twenty psychological explanations for yawning"
+    "a": 2,
+    "evidence": "before larger investigations reveal a more uncertain picture",
+    "why": "最後一段。",
+    "traps": [
+     "以偏概全：胎兒打哈欠只是例子。",
+     "過度推論：那只是一種假說。",
+     "",
+     "捏造：作者沒有這樣主張。"
+    ]
    },
    {
-    "q": "What is the thermoregulatory hypothesis?",
+    "type": "WD",
+    "q": "What does “thermoregulatory” in the second paragraph most likely refer to?",
     "options": [
-     "Yawning provides compensatory cooling for the brain",
-     "Yawning warms the body",
-     "Yawning increases oxygen only",
-     "Yawning shows boredom"
+     "Controlling body or brain temperature.",
+     "Measuring how sleepy someone is.",
+     "Copying the actions of other people.",
+     "Recognizing one’s own face."
     ],
     "a": 0,
-    "why": "第二段。",
-    "evidence": "providing compensatory cooling for the brain when other mechanisms fail"
+    "evidence": "providing compensatory cooling for the brain",
+    "why": "同一句：替大腦降溫，也就是調節溫度。",
+    "traps": [
+     "",
+     "原文字眼、錯誤關係：想睡和體溫相關，但不是字義。",
+     "張冠李戴：那是鏡像神經元。",
+     "張冠李戴：那是 2004 年研究的變項。"
+    ]
    },
    {
-    "q": "Which factor DID matter in the 2014 study?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "Empathy",
-     "Time of day",
-     "Intelligence",
-     "Age"
+     "Platek’s study was carried out in 2014.",
+     "Empathy strongly predicted yawning after age was considered.",
+     "Time of day had a large effect on yawning.",
+     "Individual susceptibility was stable across sessions in 2014."
     ],
     "a": 3,
+    "evidence": "Individual susceptibility proved highly stable across sessions",
     "why": "第四段。",
-    "evidence": "Age itself mattered"
+    "traps": [
+     "數字錯位：2004 年。",
+     "正反顛倒：控制年齡後就沒影響。",
+     "正反顛倒：時間沒有可測量的影響。",
+     ""
+    ]
    },
    {
-    "q": "What does the yawn illustrate, according to the writer?",
+    "type": "INF",
+    "q": "What can be inferred from the last paragraph?",
     "options": [
-     "How an appealing explanation from small studies can spread before larger studies show more uncertainty",
-     "That empathy is fake",
-     "That science is useless",
-     "That galaxies are mysterious"
+     "Large studies are always less accurate than small ones.",
+     "Small early studies can make an idea seem too certain.",
+     "Yawning is no longer a question worth studying.",
+     "Empathy has been proved irrelevant to everything we do."
     ],
-    "a": 0,
+    "a": 1,
+    "evidence": "An appealing explanation, supported by early and relatively small studies, can spread widely",
     "why": "最後一段。",
-    "evidence": "An appealing explanation, supported by early and relatively small studies, can spread widely"
+    "traps": [
+     "正反顛倒：大型研究揭露了更不確定的樣貌。",
+     "",
+     "正反顛倒：作者說它仍是值得探索的問題。",
+     "過度推論：只是無法預測哈欠傳染。"
+    ]
    }
   ]
  },

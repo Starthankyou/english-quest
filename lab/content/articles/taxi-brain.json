@@ -20,8 +20,8 @@
      "倫敦是一座非常古老的城市，有成千上萬條街道，很多又小又彎、讓人搞不清楚方向。想開倫敦著名的黑色計程車，司機必須通過一項非常困難的考試，叫做「The Knowledge（倫敦知識）」。他們要把城市的街道記得滾瓜爛熟，不看地圖也能找到最好的路線。"
     ],
     [
-     "Learning all these streets takes a long time. In one study, the drivers had spent about two years, on average, training for The Knowledge. Scientist Eleanor Maguire wondered: does all this learning change the brain? For some drivers in the study, the training took less than a year; for others, it took three and a half years.",
-     "要學會這些街道得花很長的時間。在一項研究中，司機們平均花了大約兩年準備這項考試。科學家艾莉諾．馬奎爾好奇：這麼多的學習，會改變大腦嗎？在這項研究裡，有些司機的訓練不到一年，有些則花了三年半。"
+     "Learning all these streets takes a long time. In one study, the drivers had spent about two years, on average, training for The Knowledge. For some drivers in the study, the training took less than a year; for others, it took three and a half years. Scientist Eleanor Maguire wondered: does all this learning change the brain?",
+     "要學會這些街道得花很長的時間。在一項研究中，司機們平均花了大約兩年準備這項考試。在這項研究裡，有些司機的訓練不到一年，有些則花了三年半。科學家艾莉諾．馬奎爾好奇：這麼多的學習，會改變大腦嗎？"
     ],
     [
      "In 2000, she and her team used brain scans to study 16 London taxi drivers. They compared them with men who did not drive taxis. They looked closely at a part of the brain called the hippocampus, which helps us remember places and find our way.",
@@ -275,152 +275,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "What is The Knowledge?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "A famous book",
-     "A difficult test for London taxi drivers",
-     "A phone app",
-     "A type of taxi"
-    ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "drivers must pass a very difficult test called The Knowledge"
-   },
-   {
-    "q": "How long did the drivers in the study train, on average?",
-    "options": [
-     "About two months",
-     "About six months",
-     "About two years",
-     "About ten years"
+     "How drivers can pass The Knowledge test in London.",
+     "Why phone maps are better than finding our own way.",
+     "How learning London’s streets may have changed taxi drivers’ brains.",
+     "Why London’s streets are small, crooked and confusing."
     ],
     "a": 2,
-    "why": "第二段。",
-    "evidence": "the drivers had spent about two years, on average, training for The Knowledge"
+    "evidence": "The back part of the hippocampus was larger in the taxi drivers.",
+    "why": "第二到四段：研究學習倫敦街道是否改變了司機的大腦。",
+    "traps": [
+     "以偏概全：考試只是第一段的背景。",
+     "捏造：作者反而建議偶爾放下手機。",
+     "",
+     "以偏概全：只是第一段的背景。"
+    ]
    },
    {
-    "q": "What does the hippocampus help us do?",
+    "type": "WD",
+    "q": "What does “plasticity” mean in the fourth paragraph?",
     "options": [
-     "Remember places and find our way",
-     "Taste food",
-     "Hear music",
-     "Move our hands"
+     "The brain’s ability to change as we use it.",
+     "The plastic that is used to make phone cases.",
+     "The size of the brain when we are born.",
+     "The skill of finding the best route in a city."
     ],
     "a": 0,
-    "why": "第三段。",
-    "evidence": "which helps us remember places and find our way"
+    "evidence": "This suggests that the brain may change as we use it.",
+    "why": "前一句定義：大腦會隨著使用而改變，科學家稱之為 plasticity。",
+    "traps": [
+     "",
+     "一字多義：plastic 是塑膠，但 plasticity 在這裡指可塑性。",
+     "正反顛倒：重點是「後天」改變。",
+     "原文字眼、錯誤關係：找路是司機的技能，不是這個字的意思。"
+    ]
    },
    {
-    "q": "What did the scientists call the brain’s ability to change?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "Navigation",
-     "Plasticity",
-     "Memory",
-     "Knowledge"
+     "The front part of the hippocampus was larger in the taxi drivers.",
+     "Every driver in the study took exactly two years to train.",
+     "The scientists studied the brains of 60 London taxi drivers.",
+     "The study compared taxi drivers with men who did not drive taxis."
+    ],
+    "a": 3,
+    "evidence": "They compared them with men who did not drive taxis.",
+    "why": "第三段：把計程車司機和不開計程車的男性做比較。",
+    "traps": [
+     "張冠李戴：較大的是海馬迴的後段（back part）。",
+     "數字錯位：兩年是平均，有人不到一年，有人三年半。",
+     "數字錯位：原文是 16 位司機。",
+     ""
+    ]
+   },
+   {
+    "type": "ORG",
+    "q": "Why does the writer mention phone maps in the last paragraph?",
+    "options": [
+     "To prove that phone maps damage our brains.",
+     "To suggest that relying on phones may affect our own sense of direction.",
+     "To tell readers to stop using their phones completely.",
+     "To show how taxi drivers prepare for The Knowledge."
     ],
     "a": 1,
-    "why": "第四段最後一句。",
-    "evidence": "The scientists called this “plasticity”."
+    "evidence": "if we never find our way by ourselves, what happens to the map inside our heads?",
+    "why": "最後一段：如果從不自己找路，我們腦中的地圖會怎樣？",
+    "traps": [
+     "過度推論：原文 Scientists are still studying that question。",
+     "",
+     "正反顛倒：原文說 sometimes 放下手機，不是完全不用。",
+     "張冠李戴：司機要背街道，不能用地圖。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "Why did the taxi drivers offer scientists “a rare opportunity”?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "They drive very fast",
-     "They had gone through intensive learning of a city",
-     "They were all famous",
-     "They lived near the lab"
-    ],
-    "a": 1,
-    "why": "第一段：他們經歷了密集的城市學習。",
-    "evidence": "They must memorise the layout of a huge and irregular city"
-   },
-   {
-    "q": "What did the researchers find about the front region of the hippocampus?",
-    "options": [
-     "It was larger in the comparison group",
-     "It was missing in drivers",
-     "It was the same in everyone",
-     "It grew with every trip"
+     "Intensive learning may change the structure of the adult brain.",
+     "The Knowledge is one of the most demanding tests in the world.",
+     "People with larger brains are more likely to become taxi drivers.",
+     "Phone apps have made London’s taxi drivers less skilled."
     ],
     "a": 0,
-    "why": "第三段：前側某區域是對照組較大。",
-    "evidence": "a front region was larger in the comparison group"
+    "evidence": "whether this kind of intensive learning could change the physical structure of the adult brain",
+    "why": "第二段點出研究問題，第五段說明意義：成人大腦比以前以為的更能改變。",
+    "traps": [
+     "",
+     "以偏概全：只是第一段的背景。",
+     "正反顛倒：第四段的分析支持差異來自經驗，不是天生。",
+     "捏造：文中只提出問題，沒有這個結論。"
+    ]
    },
    {
-    "q": "How did the team respond to the “natural objection”?",
+    "type": "WD",
+    "q": "What does the word “posterior” in the third paragraph mean?",
     "options": [
-     "They ignored it",
-     "They looked at how long each person had worked as a driver",
-     "They scanned the drivers’ children",
-     "They tested women instead"
+     "Front.",
+     "Larger.",
+     "Rear.",
+     "Right."
     ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "the team looked at how long each person had worked as a driver"
+    "a": 2,
+    "evidence": "the posterior, or rear, part of the hippocampus",
+    "why": "同位語 or rear 直接解釋了 posterior。",
+    "traps": [
+     "正反顛倒：前段較大的是對照組。",
+     "原文字眼、錯誤關係：後段「比較大」，但 posterior 不是大的意思。",
+     "",
+     "原文字眼、錯誤關係：第四段的 right posterior hippocampus 是「右側後段」，right 是另一個字。"
+    ]
    },
    {
-    "q": "What modern question does the study raise?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "Whether taxis are too expensive",
-     "What happens when we let phone apps do the navigating",
-     "Whether London should build more roads",
-     "How to pass The Knowledge faster"
+     "All the drivers had been licensed for less than a year.",
+     "A front region of the hippocampus was larger in the comparison group.",
+     "The taxi drivers simply had more brain tissue overall.",
+     "The drivers had spent about ten years training for The Knowledge."
     ],
     "a": 1,
-    "why": "第五段。",
-    "evidence": "what happens when we let phone apps do the navigating"
+    "evidence": "while a front region was larger in the comparison group",
+    "why": "第三段：後段在司機較大，前段在對照組較大。",
+    "traps": [
+     "正反顛倒：都已取得執照超過一年半。",
+     "",
+     "正反顛倒：原文 a different distribution of tissue, not simply more of it。",
+     "數字錯位：平均約兩年。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Why did the team look at how long each person had worked as a driver?",
+    "options": [
+     "To decide which drivers should keep their licence.",
+     "To prove that older drivers are safer on the road.",
+     "To show that phone apps had changed the drivers’ brains.",
+     "To find out whether the brain difference came from experience rather than birth."
+    ],
+    "a": 3,
+    "evidence": "This suggested that the difference was acquired through experience rather than present from birth.",
+    "why": "第四段：為了回應「是不是大腦本來就比較大的人才去當司機」這個質疑。",
+    "traps": [
+     "捏造：研究沒有涉及執照。",
+     "捏造：文中沒討論駕駛安全。",
+     "時序錯置：手機 app 是第五段提出的新問題。",
+     ""
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "Why is testing the “fixed brain” assumption in humans difficult?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "Brain scans are illegal",
-     "It is rare to find adults with long, intensive and comparable training",
-     "Adults refuse to learn",
-     "Children are easier to study"
+     "To argue that satellite navigation should be banned.",
+     "To describe a study suggesting that adult brains can be reshaped by experience.",
+     "To explain how taxi drivers memorise London’s streets.",
+     "To prove that the adult brain cannot change after childhood."
     ],
     "a": 1,
-    "why": "第一段說明困難所在。",
-    "evidence": "researchers rarely find groups of adults who have undergone long, intensive and comparable training in a single skill"
+    "evidence": "the finding helped shift scientific opinion towards the view that sustained mental effort can leave physical traces in the adult brain",
+    "why": "全文：用計程車司機研究挑戰「成人大腦固定不變」的舊觀念。",
+    "traps": [
+     "正反顛倒：原文 convenience is not a vice。",
+     "",
+     "以偏概全：只是第二段的背景。",
+     "正反顛倒：這正是被研究挑戰的舊觀念。"
+    ]
    },
    {
-    "q": "What does “a redistribution rather than a simple enlargement” mean?",
+    "type": "WD",
+    "q": "Which of the following is closest in meaning to “redistribution” as used in the third paragraph?",
     "options": [
-     "Some regions were larger and others smaller",
-     "The whole brain grew",
-     "The brain shrank",
-     "Nothing changed"
+     "A simple increase in the size of every brain region.",
+     "A decrease in the size of the whole brain.",
+     "A transfer of memories from one person to another.",
+     "A change in where the brain tissue was located."
+    ],
+    "a": 3,
+    "evidence": "The results pointed to a redistribution rather than a simple enlargement.",
+    "why": "後段變大、前段變小，是組織「重新分配」，不是整體變大。",
+    "traps": [
+     "正反顛倒：原文 rather than a simple enlargement。",
+     "捏造：文中沒說整個大腦變小。",
+     "字面誤讀：distribution 不是在人與人之間轉移。",
+     ""
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The sample in the study included both men and women.",
+     "The anterior volume became larger with more years of driving.",
+     "The right posterior hippocampus was larger in drivers with more years on the job.",
+     "The study watched the drivers’ brains change over many years."
+    ],
+    "a": 2,
+    "evidence": "the volume of the right posterior hippocampus correlated positively with time spent as a taxi driver",
+    "why": "第三段：右側後段海馬迴的體積和開計程車的年資呈正相關。",
+    "traps": [
+     "正反顛倒：原文 consisted only of men。",
+     "正反顛倒：前段體積和年資呈負相關。",
+     "",
+     "正反顛倒：第四段說相關性 is not the same as watching the brain change over time。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Which of the following can be inferred from the passage?",
+    "options": [
+     "A difference that grows with experience is hard to explain by birth alone.",
+     "Taxi drivers are born with a larger hippocampus than other people.",
+     "Using satellite navigation has been proved to shrink the brain.",
+     "A correlation is as strong as watching the brain change over time."
     ],
     "a": 0,
-    "why": "第三段：後側較大、前側較小。",
-    "evidence": "The posterior hippocampus was significantly larger in the drivers, whereas a more anterior region was larger in the control group."
-   },
-   {
-    "q": "Which limitation does the writer mention?",
-    "options": [
-     "The study used too many drivers",
-     "The sample was small and included only men",
-     "The scans were in colour",
-     "The drivers were too young"
-    ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "The sample was small and consisted only of men"
-   },
-   {
-    "q": "What is the writer’s final point about abilities we stop practising?",
-    "options": [
-     "They disappear overnight",
-     "They are unlikely to grow on their own",
-     "They become stronger",
-     "They are replaced by apps"
-    ],
-    "a": 1,
-    "why": "最後一句。",
-    "evidence": "they are unlikely to grow on their own"
+    "evidence": "there would be little reason for the difference to grow with every additional year of driving",
+    "why": "第三段：如果只是天生大腦適合才去當司機，差異就不會隨年資增加。",
+    "traps": [
+     "",
+     "正反顛倒：作者認為變化是後天獲得的。",
+     "過度推論：原文 The question is still under investigation。",
+     "正反顛倒：第四段說相關性 is not the same as watching the brain change。"
+    ]
    }
   ]
  },

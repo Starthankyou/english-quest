@@ -275,152 +275,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "Why did the bees not need the balls?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "They could get food along a clear path",
-     "The balls were too heavy",
-     "The bees were asleep",
-     "The balls were made of sugar"
+     "A study suggesting that bees may play.",
+     "How bumblebees find sugar water and pollen.",
+     "Why young mammals play more than adults.",
+     "How scientists build nests for bees."
     ],
     "a": 0,
-    "why": "第二段：蜜蜂沿著暢通小路就能取得食物。",
-    "evidence": "The bees could walk along a clear path to get sugar water and pollen."
+    "evidence": "The scientists said this behavior met the rules that biologists use to describe play.",
+    "why": "全文：實驗顯示熊蜂滾球可能是一種遊戲。",
+    "traps": [
+     "",
+     "以偏概全：食物只是實驗設計的一部分。",
+     "以偏概全：哺乳動物只是拿來對照。",
+     "原文字眼、錯誤關係：科學家建的是蜂巢旁的實驗區。"
+    ]
    },
    {
-    "q": "How many times did the 45 bees roll balls in 18 days?",
+    "type": "REF",
+    "q": "What does “them” in “They held on to them” in the third paragraph refer to?",
     "options": [
-     "45",
-     "100",
-     "910",
-     "18"
+     "The young bees.",
+     "The scientists.",
+     "The wooden balls.",
+     "The paths."
     ],
     "a": 2,
-    "why": "第三段。",
-    "evidence": "Over 18 days, 45 bees rolled balls 910 times."
+    "evidence": "They held on to them and rolled them across the floor.",
+    "why": "蜜蜂抓住、滾動的是木球。",
+    "traps": [
+     "原文字眼、錯誤關係：蜜蜂是做動作的人（They）。",
+     "原文字眼、錯誤關係：科學家在旁拍攝。",
+     "",
+     "原文字眼、錯誤關係：小路通往食物。"
+    ]
    },
    {
-    "q": "Which bees rolled balls more?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "Older bees",
-     "Younger bees",
-     "Queen bees",
-     "Sick bees"
+     "The bees rolled the balls in order to get food.",
+     "Over 18 days, 45 bees rolled balls 910 times.",
+     "Older bees rolled balls more than younger bees.",
+     "The bees were hungry during the experiment."
     ],
     "a": 1,
-    "why": "第四段。",
-    "evidence": "Younger bees rolled balls more than older bees."
+    "evidence": "Over 18 days, 45 bees rolled balls 910 times.",
+    "why": "第三段的數據。",
+    "traps": [
+     "正反顛倒：滾球沒有帶來食物。",
+     "",
+     "正反顛倒：年輕的蜜蜂滾得較多。",
+     "正反顛倒：原文 They had plenty of food the whole time。"
+    ]
    },
    {
-    "q": "Did rolling the balls give the bees food?",
+    "type": "INF",
+    "q": "Why does the writer mention that the bees had plenty of food the whole time?",
     "options": [
-     "Yes, every time",
-     "No, it gave them no food or reward",
-     "Only on weekends",
-     "Only for male bees"
+     "To show that the scientists fed the bees balls.",
+     "To explain why the bees grew so quickly.",
+     "To prove that the bees preferred sugar to pollen.",
+     "To show the ball rolling was not caused by hunger or stress."
     ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "The rolling did not give the bees food or any other reward."
+    "a": 3,
+    "evidence": "The bees did not seem stressed or hungry.",
+    "why": "不是因為餓或緊張才滾球，支持「遊戲」的解釋。",
+    "traps": [
+     "字面誤讀：球不是食物。",
+     "捏造：文中沒談成長。",
+     "捏造：文中沒比較兩種食物。",
+     ""
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "According to biologists, when does play usually happen?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "When an animal is hungry",
-     "When an animal is relaxed rather than stressed",
-     "Only at night",
-     "When an animal is in danger"
+     "Bees roll balls because they cannot find food.",
+     "Bumblebee ball rolling meets the main criteria scientists use to describe play.",
+     "Only mammals and birds are able to play.",
+     "Bees feel joy in exactly the same way humans do."
     ],
     "a": 1,
-    "why": "第一段的定義。",
-    "evidence": "happens when an animal is relaxed rather than stressed"
+    "evidence": "The researchers concluded that ball rolling fulfilled the main criteria for animal play.",
+    "why": "第五段的結論。",
+    "traps": [
+     "正反顛倒：通往食物的路是暢通的。",
+     "",
+     "正反顛倒：這正是研究要挑戰的看法。",
+     "過度推論：原文 does not prove that bees feel joy in the way humans do。"
+    ]
    },
    {
-    "q": "Why was it important that the path to food was clear?",
+    "type": "WD",
+    "q": "Which of the following is closest in meaning to “voluntarily” in the first paragraph?",
     "options": [
-     "Bees could reach the food without touching any balls",
-     "It made the bees faster",
-     "It saved money",
-     "It helped scientists clean the arena"
+     "Under stress.",
+     "By accident.",
+     "For food.",
+     "By choice."
+    ],
+    "a": 3,
+    "evidence": "is done voluntarily and repeatedly",
+    "why": "遊戲的條件之一：自願、主動去做。",
+    "traps": [
+     "正反顛倒：遊戲發生在放鬆而非緊張時。",
+     "正反顛倒：遊戲是刻意選擇的。",
+     "正反顛倒：遊戲沒有立即的實用目的。",
+     ""
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The researchers cleaned the balls every day to remove scent marks.",
+     "The balls in both areas could be moved freely.",
+     "Bees stopped rolling balls once they had found the food.",
+     "Females tended to roll each ball for longer than males."
     ],
     "a": 0,
-    "why": "第二段最後一句。",
-    "evidence": "the bees could easily reach the food without touching any balls"
+    "evidence": "The researchers also cleaned the balls every day so that the bees could not follow scent marks left by other bees.",
+    "why": "第二段：每天清潔木球，排除氣味的影響。",
+    "traps": [
+     "",
+     "以偏概全：其中一區的球固定在地上。",
+     "正反顛倒：找到食物後好幾天仍持續滾。",
+     "張冠李戴：是雄蜂滾得較久。"
+    ]
    },
    {
+    "type": "INF",
     "q": "What did the coloured-room test suggest?",
     "options": [
-     "Bees cannot see colours",
-     "Rolling balls was rewarding in itself",
-     "Bees prefer dark rooms",
-     "Bees were stressed"
+     "Bees prefer rooms with more food.",
+     "Bees can tell colours apart only when hungry.",
+     "Rolling balls was rewarding to the bees in itself.",
+     "Older bees like coloured rooms more than younger ones."
     ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "suggesting the activity was rewarding in itself"
-   },
-   {
-    "q": "What does the writer say the finding does NOT prove?",
-    "options": [
-     "That bees roll balls",
-     "That bees feel joy in the way humans do",
-     "That younger bees play more",
-     "That bees can find food"
-    ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "The finding does not prove that bees feel joy in the way humans do."
+    "a": 2,
+    "evidence": "suggesting the activity was rewarding in itself",
+    "why": "第四段：蜜蜂偏好能滾球的房間顏色，顯示滾球本身就是獎勵。",
+    "traps": [
+     "捏造：房間差別在能不能滾球。",
+     "捏造：文中沒提飢餓與辨色。",
+     "",
+     "張冠李戴：年齡差異是另一個發現。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "Which of the following is NOT one of the criteria for play listed in paragraph 1?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "It is not immediately functional",
-     "It is repeated without being rigidly stereotyped",
-     "It occurs when the animal is free from stress",
-     "It always involves other animals"
+     "To explain how bumblebees collect sugar and pollen.",
+     "To prove that bees experience pleasure as humans do.",
+     "To present evidence that bees may play and discuss what this implies.",
+     "To argue that insects should not be studied in laboratories."
+    ],
+    "a": 2,
+    "evidence": "it challenges the assumption that insects are purely reflexive machines",
+    "why": "第一段定義遊戲，第二到四段提出證據，第五段談意義。",
+    "traps": [
+     "以偏概全：覓食只是實驗背景。",
+     "過度推論：原文 does not show that bees experience pleasure as humans do。",
+     "",
+     "正反顛倒：作者呼籲進一步研究，包括野外。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "Which of the following is closest in meaning to “stereotyped” as used in the first and third paragraphs?",
+    "options": [
+     "Fixed and repeated in the same way.",
+     "Popular among young animals.",
+     "Rewarding in itself.",
+     "Related to feeding or mating."
+    ],
+    "a": 0,
+    "evidence": "which argued against a mechanical, stereotyped habit of the kind seen in stressed captive animals",
+    "why": "和 mechanical 並列，指固定、機械式重複，與「時間和距離變化很大」相反。",
+    "traps": [
+     "",
+     "原文字眼、錯誤關係：年輕蜜蜂滾得多是另一個發現。",
+     "正反顛倒：這是遊戲的特徵，不是 stereotyped。",
+     "原文字眼、錯誤關係：這是「正經行為」的例子。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The study observed the behaviour in wild bees.",
+     "Ball rolling peaked in the oldest bees in the colony.",
+     "The authors could not rule out clutter clearing.",
+     "Bees left the direct route to food in order to roll balls."
     ],
     "a": 3,
-    "why": "第一段列出的標準不包括「一定要和其他動物一起」。",
-    "evidence": "that it occur when the animal is free from stress"
+    "evidence": "deviating from the direct route to food in order to do so",
+    "why": "第三段：蜜蜂偏離通往食物的路去滾球。",
+    "traps": [
+     "正反顛倒：作者呼籲之後在野外研究。",
+     "正反顛倒：成蜂最初幾天達到高峰。",
+     "正反顛倒：作者排除了清理雜物的可能。",
+     ""
+    ]
    },
    {
-    "q": "Why did the varied durations and distances of rolls matter?",
+    "type": "INF",
+    "q": "What can be inferred from the last paragraph?",
     "options": [
-     "They argued against a mechanical, stereotyped habit",
-     "They proved the bees were stressed",
-     "They showed the balls were broken",
-     "They measured the bees’ speed"
-    ],
-    "a": 0,
-    "why": "第三段最後一句。",
-    "evidence": "which argued against a mechanical, stereotyped habit"
-   },
-   {
-    "q": "Which alternative explanations did the authors rule out?",
-    "options": [
-     "Clutter clearing or attempted mating",
-     "Hunger and thirst",
-     "Cold weather",
-     "Disease"
-    ],
-    "a": 0,
-    "why": "第四段最後一句。",
-    "evidence": "rule out alternative explanations such as clutter clearing or attempted mating"
-   },
-   {
-    "q": "What assumption does the study challenge?",
-    "options": [
-     "That bees make honey",
-     "That insects are purely reflexive machines",
-     "That mammals play",
-     "That balls can roll"
+     "Bees should no longer be used in farming.",
+     "The way we treat insects may need to be reconsidered.",
+     "Curiosity first appeared in mammals.",
+     "Insects are purely reflexive machines."
     ],
     "a": 1,
-    "why": "最後一段。",
-    "evidence": "it challenges the assumption that insects are purely reflexive machines"
+    "evidence": "a possibility with real implications for how we study, farm and protect the smallest creatures around us",
+    "why": "如果昆蟲也可能有好奇和享受，我們研究、養殖、保護牠們的方式值得重新思考。",
+    "traps": [
+     "過度推論：作者只說有影響，沒說禁止。",
+     "",
+     "正反顛倒：作者說可能比我們以為的更古老、更普遍。",
+     "正反顛倒：這正是被挑戰的假設。"
+    ]
    }
   ]
  },

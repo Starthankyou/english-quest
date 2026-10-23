@@ -286,152 +286,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "What did Wegener say in 1912?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "The Earth is flat",
-     "All the continents were once joined together",
-     "Africa is moving north",
-     "Oceans are getting smaller"
+     "How Rasmus Villumsen explored the ice of Greenland.",
+     "How to put together a jigsaw puzzle of the world.",
+     "Why Mesosaurus was able to swim across the ocean.",
+     "A scientist whose rejected idea was later proved right."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "long ago, all the continents were joined together"
+    "a": 3,
+    "evidence": "Wegener’s story shows that a new idea can be right even when experts reject it",
+    "why": "全文：韋格納的大陸漂移說先被否定，後來被證實。",
+    "traps": [
+     "以偏概全：他只是同行者。",
+     "字面誤讀：拼圖只是比喻。",
+     "正反顛倒：牠不能游過海洋。",
+     ""
+    ]
    },
    {
-    "q": "Where were Mesosaurus fossils found?",
+    "type": "REF",
+    "q": "What does “it” in “how did it get there?” in the second paragraph refer to?",
     "options": [
-     "Only in Germany",
-     "In both Brazil and South Africa",
-     "In Greenland",
-     "Under the sea"
+     "The ocean between the continents.",
+     "Mesosaurus, the small reptile.",
+     "The fossil of an ancient plant.",
+     "The continent of South Africa."
     ],
     "a": 1,
-    "why": "第二段。",
-    "evidence": "fossils of a small reptile called Mesosaurus were found in both Brazil and South Africa"
+    "evidence": "fossils of a small reptile called Mesosaurus were found in both Brazil and South Africa",
+    "why": "前一句：那隻小型爬蟲類不能游過海洋，牠怎麼到那裡的？",
+    "traps": [
+     "原文字眼、錯誤關係：海洋是牠無法跨越的障礙。",
+     "",
+     "以偏概全：句子說的是 Mesosaurus，不是植物。",
+     "原文字眼、錯誤關係：南非是化石被發現的地方。"
+    ]
    },
    {
-    "q": "Why did many experts see Wegener as an outsider?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "He was not German",
-     "He was a weather scientist, not a geologist",
-     "He was too young",
-     "He never wrote a book"
-    ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "Wegener was a weather scientist, not a geologist"
-   },
-   {
-    "q": "When did scientists find the new evidence?",
-    "options": [
-     "In 1912",
-     "In 1930",
-     "In the 1960s",
-     "Last year"
+     "Most geologists accepted Wegener’s idea at once.",
+     "Wegener explained exactly what force moves continents.",
+     "Wegener was a weather scientist, not a geologist.",
+     "Wegener lived to see his idea proved right."
     ],
     "a": 2,
-    "why": "最後一段。",
-    "evidence": "In the 1960s, scientists studied the ocean floor and found new evidence."
+    "evidence": "Wegener was a weather scientist, not a geologist",
+    "why": "第三段。",
+    "traps": [
+     "正反顛倒：多數地質學家嘲笑他。",
+     "正反顛倒：他的猜測是錯的。",
+     "",
+     "正反顛倒：他至死都沒被證實。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What does the writer suggest a new idea needs in order to win acceptance?",
+    "options": [
+     "Evidence that supports it.",
+     "A famous scientist to present it.",
+     "Experts who laugh at it.",
+     "A trip across Greenland."
+    ],
+    "a": 0,
+    "evidence": "but it also needs evidence to win",
+    "why": "最後一句。",
+    "traps": [
+     "",
+     "捏造：文中沒有。重點是證據。",
+     "正反顛倒：被嘲笑不會讓想法被接受。",
+     "字面誤讀：格陵蘭是他喪命的地方。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "What was the title of Wegener’s 1915 book?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "Pangaea",
-     "The Origin of Continents and Oceans",
-     "Plate Tectonics",
-     "The Jigsaw Earth"
-    ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "The Origin of Continents and Oceans"
-   },
-   {
-    "q": "What “fair point” did the critics have?",
-    "options": [
-     "Wegener could not identify a mechanism powerful enough to move continents",
-     "Wegener’s maps were wrong",
-     "Fossils were fake",
-     "Wegener was German"
+     "Wegener was right, but his idea needed a mechanism and evidence.",
+     "Wegener proved continental drift beyond any doubt in 1912.",
+     "Abraham Ortelius developed the theory of plate tectonics in 1596.",
+     "Wegener’s critics had no good reason at all to doubt him."
     ],
     "a": 0,
-    "why": "第三段。",
-    "evidence": "Wegener could not identify a mechanism powerful enough to move continents"
-   },
-   {
-    "q": "How did Wegener probably die?",
-    "options": [
-     "In an accident at sea",
-     "Of heart failure caused by exhaustion",
-     "In a war",
-     "Of old age"
-    ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "probably of heart failure caused by exhaustion"
-   },
-   {
-    "q": "What did studies of the ocean floor reveal?",
-    "options": [
-     "Zebra-like stripes of magnetism and new sea floor forming at ridges",
-     "Dinosaur bones",
-     "Oil",
-     "Nothing new"
-    ],
-    "a": 0,
+    "evidence": "a new idea also needs a convincing mechanism and the evidence to prove it",
     "why": "最後一段。",
-    "evidence": "revealed zebra-like stripes of magnetism and showed that new sea floor was being created along mid-ocean ridges"
+    "traps": [
+     "",
+     "正反顛倒：當時被多數專家否定。",
+     "張冠李戴：Ortelius 只是早期提出漂移的可能。",
+     "正反顛倒：批評者指出缺乏機制，有其道理。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “withering criticism” in the third paragraph most likely mean?",
+    "options": [
+     "Criticism that slowly disappears.",
+     "Gentle and helpful advice.",
+     "Very harsh criticism.",
+     "Praise hidden in a complaint."
+    ],
+    "a": 2,
+    "evidence": "Yet most experts rejected the idea, often with withering criticism.",
+    "why": "多數專家否定這個想法，而且批評尖銳。",
+    "traps": [
+     "字面誤讀：wither 是枯萎，但這裡形容批評很狠。",
+     "正反顛倒：他們是強烈反對。",
+     "",
+     "捏造：文中沒有讚美。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Wegener died in January 1912 in Greenland.",
+     "Wegener’s body was found the May after he died.",
+     "Mesosaurus was a large saltwater reptile.",
+     "Wegener published his book in 1930."
+    ],
+    "a": 1,
+    "evidence": "His body was found the following May.",
+    "why": "第四段。",
+    "traps": [
+     "時序錯置：1912 年是發表想法的日子，他 1930 年 11 月過世。",
+     "",
+     "正反顛倒：是淡水的小型爬蟲類。",
+     "數字錯位：書是 1915 年出版。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What does the discovery about supplies at the central station suggest?",
+    "options": [
+     "The expedition was cancelled before it began.",
+     "The station had run out of food completely.",
+     "Villumsen had taken all the supplies with him.",
+     "Wegener’s final journey may not have been necessary."
+    ],
+    "a": 3,
+    "evidence": "there had been enough supplies for them to stay at the central station",
+    "why": "第四段：原本留在站上也夠用，令人惋惜。",
+    "traps": [
+     "正反顛倒：遠征已經進行中。",
+     "正反顛倒：補給其實足夠。",
+     "捏造：文中沒說 Villumsen 帶走補給。",
+     ""
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "Why does the writer say the story is “more instructive than a simple tale of prejudice”?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "Because the critics also had legitimate scientific objections",
-     "Because Wegener was wrong",
-     "Because geology is easy",
-     "Because no one opposed Wegener"
-    ],
-    "a": 0,
-    "why": "第一、三段。",
-    "evidence": "the strongest objection was scientifically legitimate"
-   },
-   {
-    "q": "What does Wegener’s newspaper analogy describe?",
-    "options": [
-     "Checking whether pieces fit and the lines of print continue across",
-     "Reading the news",
-     "Printing maps",
-     "Tearing paper"
-    ],
-    "a": 0,
-    "why": "第二段。",
-    "evidence": "refit the torn pieces of a newspaper and check whether the lines of print ran smoothly across"
-   },
-   {
-    "q": "Who proposed mantle convection as a driving force in 1931?",
-    "options": [
-     "Alfred Wegener",
-     "Arthur Holmes",
-     "Rasmus Villumsen",
-     "The chairman of the 1926 symposium"
+     "To prove that the geologists of the 1920s were simply prejudiced.",
+     "To show that Wegener’s story is more complex than it seems.",
+     "To describe the life and work of Arthur Holmes in detail.",
+     "To explain how newspapers were printed in the 1910s."
     ],
     "a": 1,
-    "why": "第四段。",
-    "evidence": "In 1931 the English geologist Arthur Holmes proposed mantle convection"
+    "evidence": "The lesson is subtler than “the experts were wrong”.",
+    "why": "最後一段：批評者錯在結論，但要求機制是對的。",
+    "traps": [
+     "以偏概全：作者說有些批評是防衛性的，但最強的反對有道理。",
+     "",
+     "以偏概全：Holmes 只出現在第四段。",
+     "字面誤讀：報紙只是 Wegener 的比喻。"
+    ]
    },
    {
-    "q": "According to the writer, how did science advance in this case?",
+    "type": "WD",
+    "q": "What is the point of Wegener’s analogy about the torn pieces of a newspaper?",
     "options": [
-     "By deferring to authority",
-     "By rewarding boldness alone",
-     "By insisting on evidence until it finally arrived",
-     "By ignoring critics"
+     "Fossils were first described in old newspapers.",
+     "Newspapers should report scientific discoveries much more often.",
+     "Continents tear apart as easily as pieces of paper.",
+     "Matching continents is like checking that printed lines meet."
+    ],
+    "a": 3,
+    "evidence": "it was as if one were to refit the torn pieces of a newspaper and check whether the lines of print ran smoothly across",
+    "why": "第二段：拼回撕碎的報紙、看字行是否連得起來，就像比對兩岸的岩石與化石。",
+    "traps": [
+     "捏造：化石出現在岩石中。",
+     "捏造：文中沒有。這只是比喻。",
+     "字面誤讀：重點在比對，不在撕裂的難易。",
+     ""
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "At the 1926 symposium, almost everyone except the chairman rejected the theory.",
+     "Arthur Holmes proposed mantle convection in 1915.",
+     "Lystrosaurus fossils were found only in Brazil.",
+     "Magnetic stripes on the sea floor were found in the 1920s."
+    ],
+    "a": 0,
+    "evidence": "it was rejected by almost everyone except the chairman",
+    "why": "第三段。",
+    "traps": [
+     "",
+     "數字錯位：1931 年。",
+     "張冠李戴：Lystrosaurus 在非洲、印度和南極洲。",
+     "時序錯置：1959 到 1963 年才發現。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "According to the author, which objection to Wegener was scientifically legitimate?",
+    "options": [
+     "He presented his theory in New York.",
+     "He was a meteorologist rather than a geologist.",
+     "There was no known mechanism that could move the continents.",
+     "He was not the first to suggest continental drift."
     ],
     "a": 2,
-    "why": "最後一段。",
-    "evidence": "by insisting on evidence until it finally arrived"
+    "evidence": "there was no known mechanism capable of propelling continents across the globe",
+    "why": "第三段：最有力的反對是沒有已知的驅動機制。",
+    "traps": [
+     "原文字眼、錯誤關係：紐約只是研討會地點。",
+     "張冠李戴：說他是外行是偏見，不是科學理由。",
+     "",
+     "原文字眼、錯誤關係：Ortelius 更早提過，但這不是反對的理由。"
+    ]
    }
   ]
  },

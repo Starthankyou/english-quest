@@ -291,152 +291,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "Why did the ships hit rocks in 1707?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "The sailors were asleep",
-     "The sailors did not know exactly where they were",
-     "There was a war",
-     "The ships were too old"
+     "Why sailors could not find latitude at sea.",
+     "How four British warships were built in 1707.",
+     "How a carpenter built clocks that helped ships find their position.",
+     "How to make a pocket watch at home."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "the sailors did not know exactly where they were"
+    "a": 2,
+    "evidence": "His idea changed the way ships found their way across the oceans.",
+    "why": "全文：木匠 Harrison 造鐘解決經度問題。",
+    "traps": [
+     "正反顛倒：找緯度很容易，難的是經度。",
+     "原文字眼、錯誤關係：1707 年是戰艦觸礁，不是建造。",
+     "",
+     "捏造：文中沒有教人做錶。"
+    ]
    },
    {
-    "q": "How many degrees does the Earth turn every hour?",
+    "type": "REF",
+    "q": "What does “this problem” in the second paragraph refer to?",
     "options": [
-     "5",
-     "15",
-     "24",
-     "360"
-    ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "The Earth turns 15 degrees every hour."
-   },
-   {
-    "q": "What was John Harrison’s job?",
-    "options": [
-     "A sailor",
-     "A carpenter",
-     "A king",
-     "An astronomer"
-    ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "John Harrison was a carpenter"
-   },
-   {
-    "q": "How slow was H4 after 81 days?",
-    "options": [
-     "5 seconds",
-     "5 minutes",
-     "5 hours",
-     "It stopped"
+     "Finding longitude at sea.",
+     "Finding latitude at sea.",
+     "Building a huge prize.",
+     "Hitting rocks near England."
     ],
     "a": 0,
-    "why": "最後一段。",
-    "evidence": "After 81 days, it was only 5 seconds slow."
+    "evidence": "But finding longitude (how far east or west you are) was very hard.",
+    "why": "前一句說找經度非常難。",
+    "traps": [
+     "",
+     "正反顛倒：找緯度很容易。",
+     "原文字眼、錯誤關係：獎金是解決問題的方法。",
+     "因果混淆：觸礁是這個問題造成的結果。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Harrison was a famous scientist from a big city.",
+     "Harrison made only one special clock.",
+     "The British government offered £8,750 as the prize in 1714.",
+     "After 81 days, H4 was only 5 seconds slow."
+    ],
+    "a": 3,
+    "evidence": "After 81 days, it was only 5 seconds slow.",
+    "why": "第五段。",
+    "traps": [
+     "正反顛倒：他是小村莊的木匠，自學造鐘。",
+     "數字錯位：他做了四座。",
+     "數字錯位：獎金最高兩萬英鎊，8,750 是 1773 年給他的。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Why was time the key to finding longitude?",
+    "options": [
+     "Clocks on ships could stop the ship from rolling.",
+     "The time difference shows how far east or west a ship is.",
+     "Sailors could see the stars only at night to find longitude.",
+     "The Earth turns 15 degrees every minute of the day."
+    ],
+    "a": 1,
+    "evidence": "If sailors knew the exact time at home and the time where their ship was, they could work out their longitude.",
+    "why": "第三段。",
+    "traps": [
+     "捏造：文中說的是鐘在搖晃的船上無法準時，不是鐘能穩住船。",
+     "",
+     "張冠李戴：看星星找的是緯度。",
+     "數字錯位：地球每小時轉 15 度。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "Why was keeping time at sea so difficult?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "Ships rolled, temperatures changed and the air was wet and salty",
-     "Sailors could not read clocks",
-     "There was no sun",
-     "Clocks were banned"
+     "Harrison’s son William invented the H4 watch.",
+     "Astronomers solved the longitude problem in 1714.",
+     "The Isles of Scilly disaster was caused only by bad weather.",
+     "Harrison solved the longitude problem but waited years for recognition."
     ],
-    "a": 0,
-    "why": "第二段。",
-    "evidence": "where ships rolled, temperatures changed and the air was wet and salty"
-   },
-   {
-    "q": "Where did many experts expect the answer to come from?",
-    "options": [
-     "Carpentry",
-     "Astronomy",
-     "The navy",
-     "Jamaica"
-    ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "Many experts expected the answer to come from astronomy."
-   },
-   {
-    "q": "How was H4 different from Harrison’s earlier sea clocks?",
-    "options": [
-     "It was far smaller",
-     "It was made of wood",
-     "It used the stars",
-     "It was bigger"
-    ],
-    "a": 0,
-    "why": "第四段。",
-    "evidence": "a large watch that was far smaller than his earlier sea clocks"
-   },
-   {
-    "q": "Why was the Board not satisfied?",
-    "options": [
-     "H4 broke",
-     "It thought the result might be luck",
-     "Harrison was too young",
-     "The voyage was too short"
-    ],
-    "a": 1,
+    "a": 3,
+    "evidence": "His story shows that a brilliant solution does not always win immediate recognition",
     "why": "最後一段。",
-    "evidence": "Its members suggested the result might be luck"
+    "traps": [
+     "張冠李戴：William 只是帶錶出海。",
+     "正反顛倒：解決問題的是鐘錶匠，不是天文學家。",
+     "捏造：原因是算不出位置。",
+     ""
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “In practice” in the second paragraph suggest?",
+    "options": [
+     "Sailors practised using clocks every day.",
+     "The idea was simple, but carrying it out was difficult.",
+     "The solution worked well on every ship.",
+     "Ships rarely sailed far from home ports."
+    ],
+    "a": 1,
+    "evidence": "In practice, no clock could stay accurate at sea",
+    "why": "和前一句 In principle 對照：理論上簡單，實際上做不到。",
+    "traps": [
+     "字面誤讀：practice 在這裡不是練習。",
+     "",
+     "正反顛倒：沒有鐘能在海上保持準確。",
+     "原文字眼、錯誤關係：母港只是用來對時的參考點。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The top prize went to a method accurate to one degree.",
+     "Harrison sailed to Jamaica with H4 himself.",
+     "Harrison was 68 when H4 was sent to Jamaica.",
+     "H4 was larger than the earlier sea clocks."
+    ],
+    "a": 2,
+    "evidence": "Harrison, by then 68 years old, did not travel himself",
+    "why": "第四段。",
+    "traps": [
+     "數字錯位：最高獎金是半度以內。",
+     "正反顛倒：他沒有親自去，是兒子帶錶出海。",
+     "",
+     "正反顛倒：H4 比之前的鐘小得多。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Why did the Board refuse to give Harrison the prize at first?",
+    "options": [
+     "They suspected the result might have been luck.",
+     "They thought the watch was too small to be practical.",
+     "They had already given the prize to an astronomer.",
+     "They believed latitude was more important than longitude."
+    ],
+    "a": 0,
+    "evidence": "Its members suggested the result might be luck and demanded more trials.",
+    "why": "第五段。",
+    "traps": [
+     "",
+     "捏造：文中只說委員會懷疑是運氣，沒說嫌錶太小。",
+     "正反顛倒：正式獎金從未頒給任何人。",
+     "捏造：文中沒比較經緯度的重要性。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "Which factor does the writer say “stands out” among the causes of the 1707 disaster?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "Bad weather",
-     "The navigators’ inability to calculate their position accurately",
-     "Enemy attack",
-     "Old ships"
+     "To tell how Harrison solved longitude and why recognition came slowly.",
+     "To explain why compasses were inadequate in 1707.",
+     "To argue that astronomy is more reliable than clocks.",
+     "To describe King George III’s interest in science."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "the navigators’ inability to calculate their position accurately"
+    "a": 0,
+    "evidence": "institutions must guard against lucky results, yet the same caution can delay recognition of genuine breakthroughs",
+    "why": "全文：哈里森的成就與遲來的肯定。",
+    "traps": [
+     "",
+     "以偏概全：羅盤只是海難原因之一。",
+     "正反顛倒：最後成功的是機械鐘。",
+     "以偏概全：國王只在第五段出現。"
+    ]
    },
    {
-    "q": "What is dead reckoning?",
+    "type": "WD",
+    "q": "Which of the following is closest in meaning to “dead reckoning” in the second paragraph?",
     "options": [
-     "Using stars to find latitude",
-     "Estimating position from speed, heading and elapsed time",
-     "A type of clock",
-     "A naval disaster"
+     "Reading the angle of the stars.",
+     "Counting the sailors lost at sea.",
+     "Estimating position from speed, direction and time.",
+     "Checking the time at a home port."
     ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "estimating position from speed, heading and elapsed time"
+    "a": 2,
+    "evidence": "dead reckoning — estimating position from speed, heading and elapsed time",
+    "why": "破折號後面直接定義。",
+    "traps": [
+     "張冠李戴：看星星角度是找緯度的方法。",
+     "字面誤讀：dead 不是死亡。",
+     "",
+     "原文字眼、錯誤關係：知道母港時間正是推算定位缺少的資訊。"
+    ]
    },
    {
-    "q": "What accuracy was required for the £20,000 prize?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "Within one degree",
-     "Within half a degree",
-     "Within ten degrees",
-     "Within one nautical mile"
+     "Harrison’s first sea clock, H1, took six years to build.",
+     "The Act offered £10,000 for a method accurate to one degree.",
+     "King George III himself awarded Harrison the official prize.",
+     "Harrison was trained as an astronomer in the city of London."
     ],
     "a": 1,
+    "evidence": "£10,000 for a practical method accurate to one degree",
     "why": "第三段。",
-    "evidence": "rising to £20,000 for accuracy within half a degree"
+    "traps": [
+     "數字錯位：H1 花五年，花六年的是 H4。",
+     "",
+     "正反顛倒：正式獎金從未頒給任何人。",
+     "正反顛倒：他是木匠，自學造鐘。"
+    ]
    },
    {
-    "q": "What “recurring tension” does the final paragraph describe?",
+    "type": "INF",
+    "q": "What can be inferred about the Board’s attitude toward Harrison?",
     "options": [
-     "Between kings and Parliament",
-     "Between guarding against lucky results and recognising genuine breakthroughs",
-     "Between sailors and carpenters",
-     "Between Britain and Jamaica"
+     "It trusted his results from the very start.",
+     "It wanted Harrison to give up clockmaking.",
+     "It doubted that longitude mattered at sea.",
+     "Its caution about luck delayed recognition of his real breakthrough."
     ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "institutions must guard against lucky results, yet the same caution can delay recognition of genuine breakthroughs"
+    "a": 3,
+    "evidence": "the same caution can delay recognition of genuine breakthroughs, especially when they come from outsiders",
+    "why": "第五段。",
+    "traps": [
+     "正反顛倒：委員會懷疑是運氣。",
+     "過度推論：委員會一開始還支持他的研發。",
+     "正反顛倒：法案本身就是為了解決經度問題。",
+     ""
+    ]
    }
   ]
  },
@@ -472,5 +556,167 @@
    "zh": "幽默又正確的經度難題歷史。（9 分鐘）",
    "question": "Which detail in the video is NOT in this article?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "On the night of 22 October 1707, four warships of a Royal Navy fleet struck rocks off the Isles of Scilly, near the British mainland. Between 1,400 and 2,000 sailors were lost, making it one of the worst maritime disasters in British naval history. Historians blame several factors, including errors in charts and poor compasses, but one stands out: the navigators could not calculate where they were.",
+    "1707 年 10 月 22 日夜裡，英國皇家海軍艦隊的四艘戰艦在英國本土附近的錫利群島外觸礁。1,400 到 2,000 名水手喪生，成為英國海軍史上最慘重的海難之一。歷史學家認為原因不只一個，包括海圖錯誤、羅盤不佳，但最突出的一個是：領航員算不出船在哪裡。"
+   ],
+   [
+    "Finding latitude, a ship’s north–south position, was easy, since it could be read from the angle of the sun or the stars. Longitude, by contrast, depends on time. Because the Earth turns 15 degrees every hour, a navigator who knows both the local time and the time at a home port can convert the difference into distance east or west. Without such knowledge, sailors relied on “dead reckoning”—estimating their position from speed, direction, and time traveled—a method that grew less and less reliable on long voyages out of sight of land.",
+    "找緯度——船的南北位置——很容易，可以從太陽或星星的角度讀出來。經度則取決於時間。地球每小時轉 15 度，所以同時知道當地時間和母港時間的領航員，就能把時間差換算成往東或往西的距離。沒有這些資訊時，水手只能靠「推算定位」——用速度、方向和航行時間估計位置——但在看不到陸地的長途航行中，這個方法越來越不可靠。"
+   ],
+   [
+    "So serious was the problem that Parliament passed the Longitude Act in 1714, offering rewards of up to £20,000 for a practical method accurate to within half a degree. Many in the scientific establishment assumed the answer would come from astronomy. It was not an astronomer but an outsider who offered the most serious challenge: John Harrison, a carpenter and self-taught clockmaker who grew up in Lincolnshire. Harrison set out to build a clock robust enough to keep accurate time on a rolling ship.",
+    "問題嚴重到國會在 1714 年通過《經度法》，為誤差在半度以內的實用方法提供最高 2 萬英鎊獎金。科學界許多人認定答案會來自天文學。然而提出最有力挑戰的不是天文學家，而是圈外人：在林肯郡長大、木匠出身、自學成才的鐘錶匠約翰・哈里森。他決心造出一座夠堅固、能在搖晃的船上保持準時的鐘。"
+   ],
+   [
+    "His first sea clock, H1, took five years to build, and two more large clocks followed. Only after some thirty years of experimentation did Harrison conclude that the answer lay in a much smaller watch. The result, H4, was tested on a voyage from Portsmouth to Jamaica that set sail on 18 November 1761. After 81 days at sea, it was only 5 seconds slow—an error in longitude of about one nautical mile, far inside what the Act required.",
+    "他的第一座航海鐘 H1 花了五年才完成，之後又造了兩座大型的鐘。經過約三十年的試驗，哈里森才認定答案在一只小得多的錶上。成果 H4 在 1761 年 11 月 18 日從樸茨茅斯啟航前往牙買加接受測試。在海上 81 天後，它只慢了 5 秒——經度誤差約一海里，遠在法案要求的範圍之內。"
+   ],
+   [
+    "Success, however, did not bring immediate reward. The Board of Longitude suggested the result might have been luck, questioned whether a timekeeper that had taken six years to build was truly practical, and demanded further trials. Complaining that he had been “extremely ill used,” Harrison eventually sought help from King George III, who tested a later watch himself. In 1773, at the age of 80, Harrison received £8,750 from Parliament, though the official prize was never awarded to anyone. His story reveals a lasting tension in science: caution protects us from lucky results, yet it can also delay the recognition of genuine breakthroughs, especially those made by outsiders.",
+    "然而成功並沒有立刻帶來獎賞。經度委員會認為結果可能只是運氣，質疑一個花了六年才造好的計時器是否真的實用，並要求更多測試。哈里森抱怨自己「受到極不公平的對待」，最後求助國王喬治三世，國王還親自測試了他後來的一只錶。1773 年，80 歲的哈里森從國會獲得 8,750 英鎊，但正式獎金從未頒給任何人。他的故事揭示科學裡長久的張力：謹慎能防止僥倖的結果，卻也可能延遲對真正突破的肯定——尤其當突破來自圈外人。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "How the 1707 disaster led to the use of more accurate charts.",
+     "How a self-taught clockmaker tackled a problem that had long troubled sailors.",
+     "Why astronomers failed to win the prize offered by the Longitude Act.",
+     "How Parliament rewarded Harrison for building his early sea clocks."
+    ],
+    "a": 1,
+    "evidence": "Harrison set out to build a clock robust enough to keep accurate time on a rolling ship",
+    "why": "第一、二段鋪陳經度難題，第三到五段都在講哈里森如何解決，以及他遲來的肯定。",
+    "traps": [
+     "原文字眼、錯誤關係：海圖只是 1707 年海難的原因之一，文中沒說後來改用更準的海圖。",
+     "",
+     "過度推論：文中只說「正式獎金從未頒給任何人」，沒說天文學家失敗。",
+     "張冠李戴：8,750 英鎊是 1773 年給的，不是因為早期的航海鐘；而且這只是第五段的細節。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "Which of the following is closest in meaning to “robust” in the third paragraph?",
+    "options": [
+     "Strong and durable.",
+     "Small and portable.",
+     "Precise and accurate.",
+     "Cheap and practical."
+    ],
+    "a": 0,
+    "evidence": "a clock robust enough to keep accurate time on a rolling ship",
+    "why": "要在搖晃（rolling）的船上照常運作，鐘必須「堅固耐用」。注意 robust enough to keep accurate time：準確是結果，robust 是讓它能準確的條件。",
+    "traps": [
+     "",
+     "原文字眼、錯誤關係：「小」是 H4 的特徵（a much smaller watch），不是 robust 的意思。",
+     "因果混淆：accurate 就寫在後面，但它是 robust 帶來的結果，不是 robust 本身的意思。",
+     "原文字眼、錯誤關係：practical 出現在第五段，是委員會的質疑。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The 1707 disaster was caused only by the navigators’ failure to find their position.",
+     "Sailors could find longitude easily by reading the angle of the sun.",
+     "After 81 days at sea, H4 was slower than the Act allowed.",
+     "Dead reckoning became less reliable the longer a ship sailed out of sight of land."
+    ],
+    "a": 3,
+    "evidence": "a method that grew less and less reliable on long voyages out of sight of land",
+    "why": "正解改寫自第二段 grew less and less reliable on long voyages out of sight of land。",
+    "traps": [
+     "以偏概全：原文說 several factors，only 錯。",
+     "張冠李戴：看太陽角度找的是 latitude，不是 longitude。",
+     "正反顛倒：只慢 5 秒，far inside what the Act required。",
+     ""
+    ]
+   },
+   {
+    "type": "SEQ",
+    "q": "Which of the following shows the correct order of events? a. Harrison concludes that a smaller watch is needed. b. The Longitude Act is passed. c. H4 is tested on a voyage to Jamaica. d. King George III tests one of Harrison’s watches.",
+    "options": [
+     "a → b → c → d",
+     "b → c → a → d",
+     "b → a → c → d",
+     "b → a → d → c"
+    ],
+    "a": 2,
+    "evidence": "Only after some thirty years of experimentation did Harrison conclude",
+    "why": "1714 法案 → 約三十年試驗後改做小錶 → 1761 年 H4 出海測試 → 委員會刁難後求助國王，國王測試的是 a later watch。",
+    "traps": [
+     "時序顛倒：法案是一切的起點。",
+     "時序顛倒：先決定做小錶，才有 H4 出海。",
+     "",
+     "關鍵字陷阱：國王測的是 a later watch（H4 之後），所以 d 在 c 之後。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Many experts assumed the solution would be [47], but Harrison’s answer was mechanical. Even so, the Board of Longitude was slow to [48] his achievement.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "astronomical"
+      ],
+      "partial": [
+       "astronomy",
+       "astronomic",
+       "astronomer"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "recognize",
+       "recognise"
+      ],
+      "partial": [
+       "recognized",
+       "recognition",
+       "recognizes",
+       "recognised"
+      ]
+     }
+    ],
+    "why": "第一格：第三段 astronomy 是名詞，be 動詞後面要用形容詞 astronomical，和 mechanical 對照。第二格：第五段名詞 recognition 改成動詞 recognize（to 後接原形）。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are true about John Harrison? Choose ALL that apply.",
+    "options": [
+     "He was a carpenter who taught himself to make clocks.",
+     "He finished H4 within five years.",
+     "He experimented for about thirty years before turning to a smaller watch.",
+     "He received the official £20,000 prize.",
+     "He sought help from the king.",
+     "He received £8,750 from the Board of Longitude."
+    ],
+    "a": [
+     0,
+     2,
+     4
+    ],
+    "why": "A、C、E 見第三到五段。B 張冠李戴（五年的是 H1）；D 與原文相反（正式獎金從未頒出）；F 張冠李戴（錢是國會給的，不是委員會）。"
+   },
+   {
+    "kind": "short",
+    "q": "What method did sailors rely on when they did not know the local time and the time at a home port?",
+    "answer": [
+     "dead reckoning"
+    ],
+    "why": "第二段 Without such knowledge, sailors relied on “dead reckoning”。"
+   }
+  ]
+ }
 }

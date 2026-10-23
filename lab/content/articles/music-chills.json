@@ -296,152 +296,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "What does “frisson” mean in French?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "Music",
-     "Shiver",
-     "Song",
-     "Brain"
+     "Why only French people are able to feel frisson.",
+     "How to sing a high note without feeling nervous.",
+     "Why music gives people chills and what the brain does.",
+     "How to make your favourite song sound much louder."
     ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "a French word that means “shiver”"
+    "a": 2,
+    "evidence": "But why does music do this to us?",
+    "why": "全文：音樂帶來寒顫的原因與大腦機制。",
+    "traps": [
+     "字面誤讀：frisson 只是法文借字。",
+     "以偏概全：高音只是開頭的情境。",
+     "",
+     "捏造：文中沒談音量操作。"
+    ]
    },
    {
-    "q": "When do the brain areas linked to music chills also become active?",
+    "type": "REF",
+    "q": "What does “those moments” in the fourth paragraph refer to?",
     "options": [
-     "When we sleep",
-     "When we eat good food",
-     "When we run",
-     "When we are angry"
+     "The best moments of a song.",
+     "The moments when people eat good food.",
+     "The times when people feel afraid.",
+     "The ten years between the two studies."
     ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "They also become active when we eat good food."
+    "a": 0,
+    "evidence": "the brain releases dopamine, a chemical linked to pleasure, during the best moments of a song",
+    "why": "前一句：歌曲最精彩的時刻。",
+    "traps": [
+     "",
+     "原文字眼、錯誤關係：食物是第三段比較的例子。",
+     "捏造：文中沒有談恐懼。",
+     "原文字眼、錯誤關係：十年是兩項研究的間隔。"
+    ]
    },
    {
-    "q": "When else was dopamine released?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "After the song ended",
-     "Just before the best moments, while people were waiting",
-     "Only at night",
-     "Never"
+     "Chills happen only when people listen to music.",
+     "The 2001 study took place in France.",
+     "Everyone gets chills from music in the same way.",
+     "Dopamine was released even while people waited for their favourite part."
     ],
-    "a": 1,
+    "a": 3,
+    "evidence": "dopamine was also released just before those moments, while people were waiting for them",
     "why": "第四段。",
-    "evidence": "dopamine was also released just before those moments, while people were waiting for them"
+    "traps": [
+     "以偏概全：看電影、聽故事也會。",
+     "張冠李戴：研究在加拿大，法文只是 frisson 的字源。",
+     "正反顛倒：有人常有，有人幾乎沒有。",
+     ""
+    ]
    },
    {
-    "q": "What might people who get chills have?",
+    "type": "INF",
+    "q": "What might explain why some people get chills more often?",
     "options": [
-     "Better ears",
-     "Stronger connections between hearing and emotion areas",
-     "More money",
-     "Longer hair"
+     "They eat more good food than other people.",
+     "Stronger connections between brain areas for hearing and emotion.",
+     "They listen to music only in French.",
+     "They have never heard a surprising song."
     ],
     "a": 1,
+    "evidence": "people who get chills may have stronger connections between brain areas for hearing and areas for emotion",
     "why": "最後一段。",
-    "evidence": "stronger connections between brain areas for hearing and areas for emotion"
+    "traps": [
+     "原文字眼、錯誤關係：食物只是說明大腦獎勵系統的例子。",
+     "",
+     "字面誤讀：frisson 只是名稱。",
+     "正反顛倒：寒顫常來自音樂中的驚喜。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "Why is frisson also called “aesthetic chills”?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "It only happens with music",
-     "It can be triggered by films, stories and beautiful scenes too",
-     "It is cold",
-     "It is a disease"
+     "People who rarely get chills have something wrong with them.",
+     "Only music can give people chills or goosebumps.",
+     "Dopamine is released only after a song has ended.",
+     "Musical chills come from surprise and the brain’s reward system, and people differ."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "because it can be triggered by films, stories, rituals and beautiful scenes as well as by music"
+    "a": 3,
+    "evidence": "The waiting itself, it seems, is part of the pleasure.",
+    "why": "第二到五段：驚喜觸發寒顫、獎勵系統與多巴胺、個別差異。",
+    "traps": [
+     "正反顛倒：原文 there is nothing wrong with you。",
+     "正反顛倒：電影、故事、儀式也會。",
+     "時序錯置：期待和高潮時都會釋放。",
+     ""
+    ]
    },
    {
-    "q": "What kind of musical moment often causes chills?",
+    "type": "WD",
+    "q": "What does the “autonomic nervous system” control, according to the passage?",
     "options": [
-     "When music breaks our expectations",
-     "When the music is quiet and boring",
-     "When the song is very short",
-     "When there are no instruments"
+     "Our ability to choose our favourite songs.",
+     "Automatic body responses such as heart rate and breathing.",
+     "The muscles we use to play instruments.",
+     "The memories we have of old music."
+    ],
+    "a": 1,
+    "evidence": "which controls automatic body responses such as heart rate and breathing",
+    "why": "第二段的關係子句直接說明。",
+    "traps": [
+     "正反顛倒：它控制的是「自動」反應，不是選擇。",
+     "",
+     "捏造：文中沒有。這不是自主神經的功能。",
+     "捏造：文中沒談記憶。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Chills are linked to the personality trait of shyness.",
+     "The 2011 study was carried out at a university in France.",
+     "Listeners in the 2001 study chose music that gave them chills.",
+     "Heart rate stayed the same during the chills."
+    ],
+    "a": 2,
+    "evidence": "used brain scanning to study listeners who had chosen music that gave them chills",
+    "why": "第三段。",
+    "traps": [
+     "張冠李戴：相關的是「對經驗開放」。",
+     "張冠李戴：2011 年的研究也在 McGill（加拿大）。",
+     "",
+     "正反顛倒：心跳、呼吸都改變了。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What does the two-stage finding in the 2011 study suggest?",
+    "options": [
+     "Waiting for a favourite moment is itself part of the pleasure.",
+     "Music stops being enjoyable after the first stage.",
+     "Only the final moment of a song matters.",
+     "People cannot enjoy music they already know."
     ],
     "a": 0,
-    "why": "第二段。",
-    "evidence": "chills are often linked to moments when music breaks our expectations"
-   },
-   {
-    "q": "What did the 2011 study find about anticipation?",
-    "options": [
-     "It reduces pleasure",
-     "The waiting itself seems to be part of the pleasure",
-     "It is not linked to the brain",
-     "It only happens with food"
-    ],
-    "a": 1,
+    "evidence": "The waiting itself, it seems, is part of the pleasure.",
     "why": "第四段。",
-    "evidence": "The waiting itself, it seems, is part of the pleasure."
-   },
-   {
-    "q": "Which personality trait is associated with chills?",
-    "options": [
-     "Shyness",
-     "Openness to experience",
-     "Anger",
-     "Laziness"
-    ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "Chills are also associated with the personality trait of openness to experience."
+    "traps": [
+     "",
+     "捏造：文中沒說樂趣會在第一階段後消失。",
+     "正反顛倒：期待階段也有作用。",
+     "捏造：參與者聽的正是自己喜歡的音樂。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "Why does music present “an evolutionary puzzle”?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "It provides no obvious survival advantage yet is found in every society",
-     "It is very new",
-     "Animals make better music",
-     "It harms survival"
+     "To explain the brain mechanisms behind musical chills and why people differ.",
+     "To argue that music has no value for human survival.",
+     "To describe Darwin’s life and travels.",
+     "To teach readers how to compose surprising music."
     ],
     "a": 0,
-    "why": "第一段。",
-    "evidence": "It provides no food, shelter or obvious survival advantage, yet it is found in every human society"
+    "evidence": "Darwin’s mystery may have a partial answer",
+    "why": "全文：從達爾文的謎題出發，說明大腦機制與個別差異。",
+    "traps": [
+     "",
+     "過度推論：作者說它沒有明顯的生存好處，但最後提出可能的社會功能。",
+     "以偏概全：達爾文只在開頭和結尾出現。",
+     "捏造：文中沒有教作曲。"
+    ]
    },
    {
-    "q": "According to the writer, what does frisson appear to depend on?",
+    "type": "WD",
+    "q": "Which of the following is closest in meaning to “dissociation” in the fourth paragraph?",
     "options": [
-     "Volume alone",
-     "Prediction and well-placed surprise",
-     "The singer’s fame",
-     "The listener’s age"
+     "A sudden loss of hearing.",
+     "A friendly link between two people.",
+     "A clear separation between two processes.",
+     "A rise in heart rate."
+    ],
+    "a": 2,
+    "evidence": "the caudate was more involved during the anticipation of a peak, and the nucleus accumbens during the experience of the peak itself",
+    "why": "冒號後面說明：期待和體驗由不同腦區負責，彼此分開。",
+    "traps": [
+     "捏造：文中沒提到聽力喪失。",
+     "字面誤讀：association 有交往之意，這裡是「分離」。",
+     "",
+     "原文字眼、錯誤關係：心跳變化是第三段的身體反應。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Blood and Zatorre used functional MRI in 2001.",
+     "Blocking opioid receptors reduced or prevented chills in some listeners.",
+     "Salimpoor found dopamine released only during anticipation.",
+     "Sachs and colleagues published their study in 2001."
     ],
     "a": 1,
-    "why": "第二段。",
-    "evidence": "The phenomenon thus appears to depend on prediction"
-   },
-   {
-    "q": "What “functional dissociation” did Salimpoor’s team observe?",
-    "options": [
-     "The caudate was more involved in anticipation, the nucleus accumbens in the peak",
-     "Music and food use different chemicals",
-     "Left and right ears differ",
-     "Dopamine was not released"
-    ],
-    "a": 0,
+    "evidence": "blocking the brain’s opioid receptors reduced or prevented chills in some listeners",
     "why": "第四段。",
-    "evidence": "the caudate was more involved during the anticipation of a peak, and the nucleus accumbens during the experience of the peak itself"
+    "traps": [
+     "張冠李戴：2001 年用的是 PET。",
+     "",
+     "以偏概全：期待和高潮時都有。",
+     "數字錯位：2016 年。"
+    ]
    },
    {
-    "q": "What partial answer to Darwin’s mystery does the writer suggest?",
+    "type": "INF",
+    "q": "How does the author suggest Darwin’s mystery might be partly answered?",
     "options": [
-     "Music helps us find food",
-     "Music speaks to brain parts built for connecting with others",
-     "Music is useless",
-     "Music is only learned"
+     "Music is found only in a few societies.",
+     "Music provides food and shelter for listeners.",
+     "Music was invented by Darwin himself.",
+     "Music engages brain systems built for connecting with others."
     ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "it speaks to the parts of the brain built for connecting with others"
+    "a": 3,
+    "evidence": "music moves us because it speaks to the parts of the brain built for connecting with others",
+    "why": "最後一句。",
+    "traps": [
+     "正反顛倒：每個人類社會都有音樂。",
+     "正反顛倒：音樂不提供食物或住所。",
+     "捏造：達爾文是提出謎題的人。",
+     ""
+    ]
    }
   ]
  },

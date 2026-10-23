@@ -276,152 +276,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "What could the senders NOT use in their emails?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "Long sentences",
-     "Emoji",
-     "English",
-     "Questions"
+     "Why sarcasm in written messages is often misunderstood.",
+     "How to write a good email to a teacher.",
+     "Why voice messages are always better than emails.",
+     "How psychologists use emoji in their studies."
     ],
-    "a": 1,
-    "why": "第二段：不能用任何表情符號。",
-    "evidence": "without using any emoji"
+    "a": 0,
+    "evidence": "People who only read the emails did little better than guessing.",
+    "why": "全文：文字訊息少了語氣，諷刺容易被誤解，寫的人卻不自知。",
+    "traps": [
+     "",
+     "捏造：文中沒談寫信給老師。",
+     "以偏概全：作者只說語音比較容易聽懂諷刺。",
+     "正反顛倒：實驗中不准用 emoji。"
+    ]
    },
    {
-    "q": "How well did people understand the voice messages?",
+    "type": "WD",
+    "q": "What does “egocentrism” mean in the fourth paragraph?",
     "options": [
-     "Almost none",
-     "About half",
-     "About three out of four",
-     "All of them"
+     "Sending messages to friends without emoji.",
+     "Making fun of other people in messages.",
+     "Seeing things only from your own point of view.",
+     "Hearing your friend’s voice clearly in your head."
     ],
     "a": 2,
-    "why": "第三段：聽到的人大約理解四分之三。",
-    "evidence": "People who heard the sentences understood about three out of four."
+    "evidence": "The researchers called this egocentrism: seeing things only from your own point of view.",
+    "why": "冒號後面就是定義。",
+    "traps": [
+     "原文字眼、錯誤關係：這是實驗規則。",
+     "原文字眼、錯誤關係：諷刺是話題，不是這個字的意思。",
+     "",
+     "正反顛倒：問題正是聽不到對方的語氣。"
+    ]
    },
    {
-    "q": "What does “egocentrism” mean in the article?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "Being very kind",
-     "Seeing things only from your own point of view",
-     "Writing very fast",
-     "Using many emoji"
+     "Writers expected that most of their messages would be misunderstood.",
+     "People who heard voice messages understood about three out of four.",
+     "People reading emails understood almost every message correctly.",
+     "The students used many emoji in their emails."
     ],
     "a": 1,
-    "why": "第四段最後一句直接定義。",
-    "evidence": "seeing things only from your own point of view"
+    "evidence": "People who heard the sentences understood about three out of four.",
+    "why": "第三段。",
+    "traps": [
+     "正反顛倒：寫的人以為幾乎都會被看懂。",
+     "",
+     "正反顛倒：讀信的人幾乎是用猜的。",
+     "正反顛倒：原文 without using any emoji。"
+    ]
    },
    {
-    "q": "What does the writer suggest before sending a joke?",
+    "type": "INF",
+    "q": "What does the writer advise readers to do before sending a joke?",
     "options": [
-     "Send it quickly",
-     "Read it again as if you were the other person",
-     "Never joke again",
-     "Write it in capital letters"
+     "Write it without any clear signals.",
+     "Add more sarcastic words to make it funnier.",
+     "Send it to as many friends as possible.",
+     "Read it again as if they were the other person."
     ],
-    "a": 1,
+    "a": 3,
+    "evidence": "read it again as if you were the other person",
     "why": "最後一段的建議。",
-    "evidence": "read it again as if you were the other person"
+    "traps": [
+     "正反顛倒：原文 add a clear signal。",
+     "正反顛倒：作者建議加上清楚的提示。",
+     "捏造：文中沒有這種建議。",
+     ""
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "According to the first paragraph, what fills the gap in sarcasm during speech?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "Longer sentences",
-     "Tone of voice and facial expressions",
-     "Emoji",
-     "Written explanations"
+     "Sarcasm is impossible to use in face-to-face talk.",
+     "People overestimate how well others will understand their sarcasm in text.",
+     "Friends always understand each other’s emails perfectly well.",
+     "Emoticons were invented to replace sarcasm in writing."
     ],
     "a": 1,
-    "why": "第一段：說話時由語氣、眉毛、微笑填補。",
-    "evidence": "that gap is filled by tone of voice, a raised eyebrow or a small smile"
+    "evidence": "Remarkably, the email writers were just as confident as the speakers.",
+    "why": "第二到四段：寫的人高估了讀者的理解，原因是自我中心。",
+    "traps": [
+     "正反顛倒：當面說話有語氣幫忙，比較容易懂。",
+     "",
+     "正反顛倒：原文 friends were no better at this than strangers。",
+     "捏造：文中沒提到表情符號的起源。"
+    ]
    },
    {
-    "q": "In the first experiment, what percentage did writers EXPECT to be understood?",
+    "type": "REF",
+    "q": "What does “the very cues” in the third paragraph refer to?",
     "options": [
-     "50 percent",
-     "84 percent",
-     "97 percent",
-     "100 percent"
+     "The writers’ email addresses.",
+     "The ten everyday topics.",
+     "The 97 percent prediction.",
+     "Signals such as tone of voice."
+    ],
+    "a": 3,
+    "evidence": "In speech, that gap is filled by tone of voice, a raised eyebrow or a small smile.",
+    "why": "第一段：口語用語氣、表情傳達諷刺，email 拿掉了這些線索。",
+    "traps": [
+     "捏造：文中沒提電子郵件地址。",
+     "原文字眼、錯誤關係：話題只是寫作內容。",
+     "原文字眼、錯誤關係：97% 是寫的人的預測。",
+     ""
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true about the first experiment?",
+    "options": [
+     "Writers expected 97 percent to be understood, but the real figure was 84 percent.",
+     "Writers expected 84 percent to be understood, but the real figure was 97 percent.",
+     "Students wrote one sarcastic sentence about every topic in the world.",
+     "Students used emoticons to make their meaning clear."
+    ],
+    "a": 0,
+    "evidence": "On average, they expected 97 percent to be understood. The actual figure was 84 percent.",
+    "why": "第二段。",
+    "traps": [
+     "",
+     "數字錯位：兩個數字對調了。",
+     "以偏概全：每人寫十個話題，每個話題一正一反。",
+     "正反顛倒：原文 without using emoticons。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What happened when writers read their sarcastic sentences aloud in a serious voice?",
+    "options": [
+     "They became even more confident.",
+     "Their readers understood the sarcasm better.",
+     "Their overconfidence disappeared.",
+     "They stopped writing sarcastic messages."
     ],
     "a": 2,
-    "why": "第二段：預期 97%，實際 84%。",
-    "evidence": "they expected 97 percent to be understood"
-   },
-   {
-    "q": "What was surprising about the email writers in the later experiment?",
-    "options": [
-     "They wrote longer messages",
-     "They were just as confident as the speakers",
-     "They refused to send messages",
-     "They were all friends"
-    ],
-    "a": 1,
-    "why": "第三段：準確率差很多，信心卻一樣。",
-    "evidence": "the email writers were just as confident as the speakers"
-   },
-   {
-    "q": "What happened when writers read their sarcastic sentences in a serious voice?",
-    "options": [
-     "They became more confident",
-     "Their overconfidence disappeared",
-     "They stopped writing",
-     "Their partners understood less"
-    ],
-    "a": 1,
-    "why": "第四段的巧妙測試結果。",
-    "evidence": "their overconfidence disappeared"
+    "evidence": "Once their own sense of the tone was disturbed, their overconfidence disappeared.",
+    "why": "第四段：自己腦中的語氣被打亂後，過度自信就消失了。",
+    "traps": [
+     "正反顛倒：自信反而消失了。",
+     "張冠李戴：改變的是寫的人的預測，不是讀者的理解。",
+     "",
+     "捏造：文中沒有這個結果。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "Why does the writer begin with the song-tapping study?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "To show that music is hard to learn",
-     "To illustrate the gap between what the sender experiences and what the receiver gets",
-     "To criticize the listeners",
-     "To introduce a new technology"
+     "To argue that people should stop joking in group chats.",
+     "To prove that emoji have completely solved the problem.",
+     "To explain why senders overrate how clearly their tone comes through in writing.",
+     "To describe how to tap the rhythm of a song."
     ],
-    "a": 1,
-    "why": "第一段：敲的人聽得到旋律、聽者只聽到敲擊聲——就像訊息。",
-    "evidence": "The tappers could “hear” the melody in their heads; the listeners heard only knocks."
+    "a": 2,
+    "evidence": "Writers, in other words, were mistaking the voice in their heads for a signal on the screen.",
+    "why": "全文：寫的人把腦中的語氣誤當成螢幕上的訊號。",
+    "traps": [
+     "正反顛倒：原文 The lesson is not to abandon humour in writing。",
+     "正反顛倒：原文 the underlying bias is psychological, not technical。",
+     "",
+     "以偏概全：敲節奏只是開頭的類比。"
+    ]
    },
    {
-    "q": "What point do the authors make about the 84 percent result?",
+    "type": "WD",
+    "q": "Which of the following is closest in meaning to “manipulation” as used in the fourth paragraph?",
     "options": [
-     "People are terrible at conveying sarcasm",
-     "People are not as able as they believe",
-     "Email is always clearer than voice",
-     "The study was flawed"
+     "A change made on purpose in an experiment.",
+     "A dishonest trick used to control other people.",
+     "A mistake made by careless senders of email.",
+     "A message written in a serious tone of voice."
     ],
-    "a": 1,
-    "why": "第二段：不是不會，而是沒有自己以為的厲害。",
-    "evidence": "people were not poor at conveying sarcasm, but they were not as able as they believed"
+    "a": 0,
+    "evidence": "The most elegant evidence came from a manipulation in which senders read their sarcastic statements aloud in a serious tone",
+    "why": "實驗用語：研究者刻意改變的條件（讓寄件者用相反語氣朗讀）。",
+    "traps": [
+     "",
+     "一字多義：manipulation 日常常指操縱別人，但這裡是實驗操弄。",
+     "捏造：文中沒有寄件者出錯。",
+     "原文字眼、錯誤關係：用嚴肅語氣朗讀是操弄的「內容」，不是這個字的意思。"
+    ]
    },
    {
-    "q": "What did the study with 154 pairs show about friends?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "Friends communicated far better",
-     "Friends fared no better than strangers",
-     "Friends were less confident",
-     "Friends were not included"
+     "Participants predicted they would communicate 70.4 percent of intended tones.",
+     "Senders’ confidence dropped sharply when they used email.",
+     "Listeners identified voice messages no better than chance.",
+     "In the larger study, friends communicated tone no better than strangers."
     ],
-    "a": 1,
-    "why": "第三段最後。",
-    "evidence": "friends fared no better than strangers"
+    "a": 3,
+    "evidence": "and friends fared no better than strangers",
+    "why": "第三段。",
+    "traps": [
+     "數字錯位：預測 88.8%，實際 70.4%。",
+     "正反顛倒：原文 senders’ confidence barely changed。",
+     "張冠李戴：是讀 email 的人跟猜差不多。",
+     ""
+    ]
    },
    {
-    "q": "Why does the writer say the bias is “psychological, not technical”?",
+    "type": "INF",
+    "q": "What can be inferred from the last paragraph?",
     "options": [
-     "Because emoji have solved the problem",
-     "Because better technology does not remove our tendency to assume others hear our tone",
-     "Because the study used old computers",
-     "Because voice messages are unreliable"
+     "Emoji carry no emotional meaning at all.",
+     "Better technology alone will not remove the bias.",
+     "Group chats are free from misunderstandings.",
+     "The 2005 findings no longer apply to students."
     ],
     "a": 1,
-    "why": "最後一段：科技進步了，但自我中心的偏誤仍在。",
-    "evidence": "But the underlying bias is psychological, not technical."
+    "evidence": "But the underlying bias is psychological, not technical.",
+    "why": "最後一段：偏誤是心理的，不是技術的，所以科技進步解決不了。",
+    "traps": [
+     "正反顛倒：原文說 emoji 承擔了部分情緒。",
+     "",
+     "正反顛倒：作者說這對學生不是抽象的發現。",
+     "正反顛倒：原文 this is hardly an abstract finding。"
+    ]
    }
   ]
  },

@@ -12,10 +12,11 @@
   const style = document.createElement("style");
   style.textContent = `
   .ew-card{position:fixed;left:0;right:0;bottom:0;z-index:60;max-width:680px;margin:0 auto;background:var(--paper,#fffdf9);color:var(--ink,#2a2622);
-    border:1px solid var(--line,#e7dfd3);border-bottom:0;border-radius:16px 16px 0 0;padding:16px 16px 24px;box-shadow:0 -8px 30px rgba(0,0,0,.14);
-    max-height:62vh;overflow:auto;font:16px/1.6 -apple-system,"PingFang TC","Noto Sans TC",system-ui,sans-serif}
+    border:1px solid var(--line,#e7dfd3);border-bottom:0;border-radius:18px 18px 0 0;padding:22px 26px calc(22px + env(safe-area-inset-bottom));box-shadow:0 -8px 30px rgba(0,0,0,.14);
+    max-height:46vh;overflow:auto;-webkit-overflow-scrolling:touch;font:16px/1.6 -apple-system,"PingFang TC","Noto Sans TC",system-ui,sans-serif}
   .ew-card[hidden]{display:none}
-  .ew-card .ew-x{position:absolute;right:10px;top:6px;font-size:26px;background:none;border:0;color:var(--muted,#7a726a);cursor:pointer}
+  .ew-card::before{content:"";position:absolute;left:50%;top:8px;width:40px;height:4px;margin-left:-20px;border-radius:4px;background:var(--line,#e7dfd3)}
+  .ew-card .ew-x{position:absolute;right:12px;top:10px;font-size:28px;line-height:1;padding:4px 8px;background:none;border:0;color:var(--muted,#7a726a);cursor:pointer}
   .ew-card h3{margin:0;font-size:1.4rem;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
   .ew-card .ew-meta{color:var(--muted,#7a726a);font-size:14px}
   .ew-card .ew-badge{display:inline-block;font-size:12px;color:#fff;border-radius:99px;padding:1px 9px;margin:6px 4px 0 0}
@@ -23,6 +24,7 @@
   .ew-card .ew-sub{display:block;font-size:.85em;opacity:.75}
   .ew-card .ew-btn{font:inherit;font-size:14px;border:1px solid var(--line,#e7dfd3);background:var(--bg,#faf7f1);color:var(--ink,#2a2622);border-radius:8px;padding:2px 10px;cursor:pointer}
   .ew-card .ew-actions{margin-top:12px;display:flex;gap:8px;flex-wrap:wrap}
+  @media(min-width:900px){.ew-card{max-height:40vh;padding-left:32px;padding-right:32px}}
   body.dark .ew-card{--paper:#1f2937;--ink:#f3f4f6;--line:#374151;--muted:#9ca3af;--bg:#111827}`;
   document.head.appendChild(style);
 
@@ -30,7 +32,10 @@
   el.className = "ew-card"; el.hidden = true; el.setAttribute("aria-live", "polite");
   document.addEventListener("DOMContentLoaded", () => document.body.appendChild(el));
   if (document.body) document.body.appendChild(el);
-  const close = () => { el.hidden = true; };
+  // 記住最後點的字，字卡打開後把它捲到字卡上方，不讓字卡蓋住正在讀的那一行
+  let lastTap = null;
+  document.addEventListener("click", e => { if (!el.contains(e.target)) lastTap = e.target; }, true);
+  const close = () => { el.hidden = true; document.body.style.paddingBottom = ""; };
   document.addEventListener("keydown", e => { if (e.key === "Escape") close(); });
 
   window.EWCard = {
@@ -61,6 +66,11 @@
       el.querySelector("[data-ew-say]")?.addEventListener("click", () => window.EWSpeech.speak(opts.label || opts.word));
       el.querySelectorAll("[data-ew-act]").forEach(b => b.onclick = () => opts.actions[+b.dataset.ewAct].onClick());
       el.hidden = false;
+      // 底部留出字卡高度，最後一段也能捲到字卡上方
+      document.body.style.paddingBottom = el.offsetHeight + "px";
+      const tapBox = lastTap && lastTap.isConnected ? lastTap.getBoundingClientRect() : null;
+      const cardTop = window.innerHeight - el.offsetHeight;
+      if (tapBox && tapBox.bottom > cardTop - 16) window.scrollBy({ top: tapBox.bottom - cardTop + 72, behavior: "smooth" });
     },
   };
 })();

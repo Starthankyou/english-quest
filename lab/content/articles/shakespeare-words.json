@@ -92,8 +92,8 @@
      "還有兩個因素扭曲了這幅圖像。正如學者大衛．麥金尼斯所主張的，OED 早期的編者傾向從經典文學作品中「掠取」例句，即使一般人可能更早就用過這些字。而且，伊莉莎白時代實際印刷的東西，很多都沒能留存下來：廉價小冊子、識字課本和通俗讀物曾大量印製，如今幾乎完全消失。莎士比亞看似驚人的原創性，有一部分其實是「剛好被保存下來、又剛好被搜尋過」的結果。"
     ],
     [
-     "None of this diminishes him. A writer who produced over 800,000 words of published text would almost certainly have coined some terms, and a few, such as “laughable”, remain credited to him for now. But the real measure of his achievement lies elsewhere: in a vocabulary of roughly 20,000 words deployed with unmatched precision and daring. The myth of the solitary inventor obscures a more interesting truth — that Shakespeare drew on the shared, restless creativity of Elizabethan London and transformed it into lasting art. Another, “lonely”, may yet survive the search.",
-     "這一切都無損於他的偉大。一位留下超過八十萬字出版文字的作家，幾乎必然創造過一些詞，其中少數如「laughable（可笑的）」，目前仍記在他名下。但衡量他成就的真正尺度在別處：在於他以無與倫比的精準與大膽，運用了約兩萬字的詞彙。「孤獨發明家」的神話，遮蔽了一個更有意思的真相——莎士比亞汲取了伊莉莎白時代倫敦共同而躁動的創造力，並把它轉化為不朽的藝術。另一個字「lonely（孤單的）」或許也能在搜尋中保住。"
+     "None of this diminishes him. A writer who produced over 800,000 words of published text would almost certainly have coined some terms, and a few, such as “laughable”, remain credited to him for now. Another, “lonely”, may yet survive the search. But the real measure of his achievement lies elsewhere: in a vocabulary of roughly 20,000 words deployed with unmatched precision and daring. The myth of the solitary inventor obscures a more interesting truth — that Shakespeare drew on the shared, restless creativity of Elizabethan London and transformed it into lasting art.",
+     "這一切都無損於他的偉大。一位留下超過八十萬字出版文字的作家，幾乎必然創造過一些詞，其中少數如「laughable（可笑的）」，目前仍記在他名下。另一個字「lonely（孤單的）」或許也能在搜尋中保住。但衡量他成就的真正尺度在別處：在於他以無與倫比的精準與大膽，運用了約兩萬字的詞彙。「孤獨發明家」的神話，遮蔽了一個更有意思的真相——莎士比亞汲取了伊莉莎白時代倫敦共同而躁動的創造力，並把它轉化為不朽的藝術。"
     ]
    ]
   }
@@ -286,152 +286,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "How many words did Shakespeare invent, according to the popular fact?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "About 170",
-     "About 1,700",
-     "About 17,000",
-     "About 170,000"
+     "How many plays Shakespeare wrote in his life.",
+     "How to read Romeo and Juliet and Macbeth.",
+     "Why the Oxford English Dictionary was written.",
+     "Whether Shakespeare really invented about 1,700 English words."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "William Shakespeare invented about 1,700 English words"
+    "a": 3,
+    "evidence": "So is the fact true? The answer is: probably not.",
+    "why": "第一段提出問題，後面說明證據。",
+    "traps": [
+     "捏造：文中沒提劇本數量。",
+     "捏造：文中沒教讀劇本。",
+     "以偏概全：字典只是數字的來源。",
+     ""
+    ]
    },
    {
-    "q": "What does the OED show for each word?",
+    "type": "REF",
+    "q": "What does “this mistake” in the fourth paragraph refer to?",
     "options": [
-     "The oldest example it can find",
-     "Who invented it",
-     "How popular it is",
-     "Its price"
+     "Spelling “assassination” wrongly in Macbeth.",
+     "Crediting Shakespeare with words others had used earlier.",
+     "Losing many books from Shakespeare’s time.",
+     "Saying Shakespeare knew only 20,000 words."
+    ],
+    "a": 1,
+    "evidence": "Someone else used it before Shakespeare too.",
+    "why": "第三段的例子：其他人更早用過，字典卻歸給莎翁。",
+    "traps": [
+     "捏造：文中沒有拼字錯誤。",
+     "",
+     "因果混淆：書籍遺失是造成錯誤的原因之一。",
+     "原文字眼、錯誤關係：兩萬字是他的詞彙量，不是錯誤。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The OED read other writers as carefully as Shakespeare.",
+     "Shakespeare used “eyeball” before Edward Grant did.",
+     "Sir Thomas Smith used “assassination” in a letter in 1572.",
+     "Shakespeare lived from 1616 to 1664."
+    ],
+    "a": 2,
+    "evidence": "a man called Sir Thomas Smith used the word in a letter in 1572",
+    "why": "第三段。",
+    "traps": [
+     "正反顛倒：他們沒那麼仔細讀別人。",
+     "時序錯置：Grant 1571 年就寫過。",
+     "",
+     "數字錯位：1564 到 1616 年。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "According to the writer, where did Shakespeare’s genius lie?",
+    "options": [
+     "In using words in new and beautiful ways.",
+     "In making up thousands of new words.",
+     "In writing the first English dictionary.",
+     "In finding old letters and papers."
     ],
     "a": 0,
-    "why": "第二段。",
-    "evidence": "the OED shows the oldest example it can find"
-   },
-   {
-    "q": "Who used “assassination” before Shakespeare?",
-    "options": [
-     "Macbeth",
-     "Sir Thomas Smith",
-     "Romeo",
-     "The OED"
-    ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "a man called Sir Thomas Smith used the word in a letter in 1572"
-   },
-   {
-    "q": "Where was Shakespeare’s genius, according to the article?",
-    "options": [
-     "In making new words",
-     "In using words in new and beautiful ways",
-     "In writing dictionaries",
-     "In acting"
-    ],
-    "a": 1,
+    "evidence": "His genius was not in making new words, but in using words in new and beautiful ways.",
     "why": "最後一段。",
-    "evidence": "His genius was not in making new words, but in using words in new and beautiful ways."
+    "traps": [
+     "",
+     "正反顛倒：作者說不是在造字。",
+     "時序錯置：字典是後人編的。",
+     "張冠李戴：找舊文件的是後來的學者。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "What is a “first attested use”?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "The day a word was invented",
-     "The earliest written example editors could find",
-     "A word used by Shakespeare",
-     "A spelling rule"
+     "The claim that Shakespeare invented 1,700 words is not well supported.",
+     "Bill Bryson discovered the true origin of English words.",
+     "Thomas Nashe invented more words than anyone else.",
+     "The OED has always been completely accurate."
     ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "records the earliest written example of each word that its editors could find"
+    "a": 0,
+    "evidence": "Unfortunately, the evidence tells a more complicated story.",
+    "why": "第一段點題，後面舉證。",
+    "traps": [
+     "",
+     "張冠李戴：Bryson 是重複這個說法的人。",
+     "過度推論：Nashe 只是比莎翁早用了五十多次。",
+     "正反顛倒：文章正在說它的偏差。"
+    ]
    },
    {
-    "q": "What did Jürgen Schäfer find in Thomas Nashe’s works?",
+    "type": "WD",
+    "q": "What does “first attested use” mean in the second paragraph?",
     "options": [
-     "No new words",
-     "More than fifty earlier uses than Shakespeare’s",
-     "Shakespeare’s letters",
-     "The word “eyeball” only"
-    ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "Nashe beat Shakespeare’s “first uses” more than fifty times"
-   },
-   {
-    "q": "Why was Shakespeare credited so often?",
-    "options": [
-     "He asked the editors",
-     "The editors read his works far more thoroughly than others’",
-     "He wrote the OED",
-     "Other writers used no words"
-    ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "The early OED editors read his works far more thoroughly than those of his less famous contemporaries"
-   },
-   {
-    "q": "About how large was Shakespeare’s vocabulary?",
-    "options": [
-     "1,700 words",
-     "2,000 words",
-     "20,000 words",
-     "800,000 words"
+     "The year a word entered the dictionary.",
+     "The first time anyone ever said a word.",
+     "The earliest written example that has been found.",
+     "The most famous use of a word in a play."
     ],
     "a": 2,
-    "why": "最後一段。",
-    "evidence": "used a vocabulary of about 20,000 words"
+    "evidence": "which records the earliest written example of each word that its editors could find",
+    "why": "前一句的說明：編者找得到的最早書面例子。",
+    "traps": [
+     "原文字眼、錯誤關係：收錄年份是另一回事。",
+     "正反顛倒：作者說這不等於發明。",
+     "",
+     "以偏概全：不一定是最有名的用法。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Edward Grant first used the word “eyeball” in The Tempest.",
+     "Schäfer found Nashe used words before Shakespeare over fifty times.",
+     "The first OED included about 3,300 quotations from Shakespeare.",
+     "Shakespeare used a vocabulary of about 800,000 different words."
+    ],
+    "a": 1,
+    "evidence": "Nashe beat Shakespeare’s “first uses” more than fifty times",
+    "why": "第三段。",
+    "traps": [
+     "張冠李戴：The Tempest 是莎翁的作品，Grant 用在翻譯裡。",
+     "",
+     "數字錯位：約 33,000 則。",
+     "數字錯位：80 萬是出版的總字數，詞彙量約兩萬。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Why was Shakespeare credited with so many first uses?",
+    "options": [
+     "He worked as an editor for the OED.",
+     "He invented more words than any other writer of his time.",
+     "Most other writers of his time used very few new words.",
+     "His works were read far more thoroughly than other writers’."
+    ],
+    "a": 3,
+    "evidence": "The early OED editors read his works far more thoroughly than those of his less famous contemporaries",
+    "why": "第四段。",
+    "traps": [
+     "時序錯置：OED 是他過世幾百年後才編的。",
+     "正反顛倒：這正是文章質疑的說法。",
+     "捏造：問題在別人的作品沒被仔細讀、許多印刷品已遺失，不是別人少用新字。",
+     ""
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "What is the “Great Man Theory of language”?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "The belief that a language is shaped by solitary geniuses",
-     "A theory about tall writers",
-     "A dictionary rule",
-     "A theory about grammar"
+     "To prove that Shakespeare invented no words at all.",
+     "To show that the evidence for Shakespeare’s inventions is weaker than claimed.",
+     "To praise the Great Man Theory of language.",
+     "To list every word that Shakespeare used in his plays."
+    ],
+    "a": 1,
+    "evidence": "The evidence, however, points to a messier and more collective process.",
+    "why": "第一段點題。",
+    "traps": [
+     "正反顛倒：作者說他幾乎一定造過一些字。",
+     "",
+     "正反顛倒：作者質疑這個理論。",
+     "以偏概全：文中只舉了 assassination、eyeball、laughable 等少數例子。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "Which of the following is closest in meaning to “antedated” in the third paragraph?",
+    "options": [
+     "Translated into German.",
+     "Removed from the dictionary.",
+     "Proved to be Shakespeare’s.",
+     "Found to have been used earlier."
+    ],
+    "a": 3,
+    "evidence": "nearly half have now been antedated",
+    "why": "下一句：一半被證明更早就有人用過。",
+    "traps": [
+     "原文字眼、錯誤關係：德國學者是研究者。",
+     "捏造：沒有被刪除。",
+     "正反顛倒：被 antedated 的字反而證明不是莎翁首創。",
+     ""
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The OED was first compiled between 1884 and 1928.",
+     "Most cheap Elizabethan pamphlets have survived.",
+     "Schäfer studied every writer of Shakespeare’s time.",
+     "Battistella said all of Shakespeare’s coinages are false."
     ],
     "a": 0,
-    "why": "第一段。",
-    "evidence": "the belief that a language is shaped by solitary geniuses"
-   },
-   {
-    "q": "What does a first attested use reflect, according to the writer?",
-    "options": [
-     "The moment of creation",
-     "The limits of a search",
-     "The author’s fame",
-     "The price of a book"
-    ],
-    "a": 1,
+    "evidence": "When the OED was first compiled, between 1884 and 1928",
     "why": "第二段。",
-    "evidence": "A first attested use reflects the limits of a search, not the moment of creation."
+    "traps": [
+     "",
+     "正反顛倒：幾乎全部消失了。",
+     "以偏概全：他只研究了 Nashe 一人。",
+     "以偏概全：他說大約一半。"
+    ]
    },
    {
-    "q": "In the sample of 117 words, what has happened to nearly half?",
+    "type": "INF",
+    "q": "What does the author suggest about Shakespeare’s apparent originality?",
     "options": [
-     "They have disappeared from English",
-     "They have been antedated",
-     "They were proven to be Shakespeare’s",
-     "They were misspelled"
+     "It shows that ordinary speakers used few words.",
+     "It proves he worked alone without other influences.",
+     "It partly reflects what happened to be preserved and searched.",
+     "It was invented by Bill Bryson."
     ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "nearly half have now been antedated"
-   },
-   {
-    "q": "What “more interesting truth” does the myth obscure?",
-    "options": [
-     "Shakespeare never wrote plays",
-     "Shakespeare drew on the shared creativity of Elizabethan London",
-     "The OED is always right",
-     "Bill Bryson invented words"
-    ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "Shakespeare drew on the shared, restless creativity of Elizabethan London"
+    "a": 2,
+    "evidence": "Shakespeare’s apparent originality is, in part, an effect of what happened to be preserved and searched.",
+    "why": "第四段最後一句。",
+    "traps": [
+     "正反顛倒：一般人可能更早用過這些字。",
+     "正反顛倒：作者說他吸收了伊莉莎白時代倫敦的共同創造力。",
+     "",
+     "張冠李戴：Bryson 只是重複這個說法。"
+    ]
    }
   ]
  },

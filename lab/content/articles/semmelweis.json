@@ -280,152 +280,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "Who cared for the mothers in the first clinic?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "Midwives",
-     "Doctors and medical students",
-     "Nurses only",
-     "Family members"
+     "How midwives cared for mothers in a Vienna hospital.",
+     "How a doctor discovered the power of handwashing but was not believed.",
+     "How scientists later proved that germs cause disease.",
+     "Why women in the 1840s did not want to give birth in hospitals."
     ],
     "a": 1,
-    "why": "第二段。",
-    "evidence": "In the first clinic, doctors and medical students cared for the mothers."
+    "evidence": "So he asked every doctor to wash their hands in a special chlorine solution before examining mothers.",
+    "why": "全文講 Semmelweis 發現洗手能救命，卻不被同行接受。",
+    "traps": [
+     "以偏概全：助產士只是第二段的對照。",
+     "",
+     "時序錯置：細菌被證實是他死後的事，只在最後一段帶過。",
+     "正反顛倒：女人只是想去第二診所，不是不想去醫院。"
+    ]
    },
    {
-    "q": "What gave Semmelweis his idea?",
+    "type": "REF",
+    "q": "What does “something deadly” in the third paragraph refer to?",
     "options": [
-     "A book he read",
-     "His friend’s death after a cut during a study of a dead body",
-     "A letter from the queen",
-     "A dream"
+     "The knife that cut his friend’s finger.",
+     "The chlorine solution used for washing hands.",
+     "The fever that killed Semmelweis’s friend.",
+     "Something the doctors carried from dead bodies on their hands."
     ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "a friend of Semmelweis died after cutting his finger while studying a dead body"
+    "a": 3,
+    "evidence": "The doctors often went straight from studying dead bodies to helping mothers.",
+    "why": "前一句：醫生常從解剖屍體直接去照顧產婦，手上可能帶著致命的東西。",
+    "traps": [
+     "原文字眼、錯誤關係：割傷手指的事件只是線索。",
+     "時序錯置：氯溶液是第四段的解方。",
+     "因果混淆：發燒是結果，不是手上帶的東西。",
+     ""
+    ]
    },
    {
-    "q": "What happened to the death rate after handwashing?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "It went up",
-     "It stayed the same",
-     "It fell from about 18 percent to less than 2 percent",
-     "It fell to zero"
+     "Semmelweis could not explain why washing worked because germs were unknown.",
+     "After handwashing began, the death rate fell to about 18 percent.",
+     "In the second clinic, doctors and medical students cared for the mothers.",
+     "Most doctors thanked Semmelweis for his simple idea."
+    ],
+    "a": 0,
+    "evidence": "He could not explain why washing worked, because nobody knew about germs yet.",
+    "why": "第五段：當時還沒人知道細菌，所以他無法解釋原因。",
+    "traps": [
+     "",
+     "數字錯位：18% 是洗手前，洗手後降到 2% 以下。",
+     "張冠李戴：第二診所是助產士，醫生和醫學生在第一診所。",
+     "正反顛倒：原文 many doctors did not believe him。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What does the last sentence, “Being right, it seems, is not always enough,” suggest?",
+    "options": [
+     "Semmelweis was wrong about handwashing after all.",
+     "Doctors should always trust the ideas of midwives.",
+     "A correct idea may still be rejected if people are not convinced.",
+     "Scientists proved germs cause disease while he was alive."
     ],
     "a": 2,
-    "why": "第四段。",
-    "evidence": "The death rate in the first clinic fell from about 18 percent to less than 2 percent."
-   },
-   {
-    "q": "Why couldn’t Semmelweis explain why washing worked?",
-    "options": [
-     "He was too busy",
-     "Nobody knew about germs yet",
-     "He did not want to",
-     "His hospital closed"
-    ],
-    "a": 1,
-    "why": "第五段。",
-    "evidence": "nobody knew about germs yet"
+    "evidence": "But many doctors did not believe him.",
+    "why": "他是對的，卻沒人相信；「對」不一定足以讓人接受。",
+    "traps": [
+     "正反顛倒：洗手讓死亡率大降，他是對的。",
+     "捏造：文中沒有這樣的建議。",
+     "",
+     "時序錯置：原文 Only years later did scientists prove that germs cause disease。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "What was the average maternal death rate in the First Clinic?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "About 4 percent",
-     "About 10 percent",
-     "About 18 percent",
-     "About 2 percent"
+     "Midwives in the 1840s were better trained than doctors.",
+     "Childbed fever was caused by a student’s scalpel in Vienna.",
+     "Semmelweis proved handwashing saved lives, but his evidence was ignored at first.",
+     "Louis Pasteur discovered handwashing in Vienna General Hospital."
     ],
-    "a": 1,
-    "why": "第二段：第一病房約 10%，第二病房低於 4%。",
-    "evidence": "The First Clinic had an average maternal death rate of about 10 percent"
+    "a": 2,
+    "evidence": "Yet many colleagues rejected his findings.",
+    "why": "第一段點題：證據挑戰人們的自我認知時，可能被忽視；全文以 Semmelweis 為例。",
+    "traps": [
+     "捏造：差別在助產士不做解剖，不是訓練好壞。",
+     "以偏概全：手術刀只是線索，不是產褥熱的原因。",
+     "",
+     "張冠李戴：Pasteur 是後來證明細菌致病的人。"
+    ]
    },
    {
-    "q": "Why did midwives not have the same problem, according to Semmelweis?",
+    "type": "WD",
+    "q": "What does “cadaverous particles” in the third paragraph most likely refer to?",
     "options": [
-     "They washed with soap",
-     "They did not perform autopsies",
-     "They had fewer patients",
-     "They worked at night"
-    ],
-    "a": 1,
-    "why": "第三段最後。",
-    "evidence": "something midwives, who did not perform autopsies, were not doing"
-   },
-   {
-    "q": "What was the death rate in April 1847, before the new rule?",
-    "options": [
-     "2 percent",
-     "4 percent",
-     "10 percent",
-     "18.3 percent"
-    ],
-    "a": 3,
-    "why": "第四段。",
-    "evidence": "In April 1847, before the new rule, the death rate in the First Clinic was 18.3 percent."
-   },
-   {
-    "q": "Why were some colleagues offended?",
-    "options": [
-     "Semmelweis suggested they were responsible for patients’ deaths",
-     "He was younger than them",
-     "He refused to work",
-     "He wanted more money"
+     "Harmful matter from dead bodies.",
+     "Pieces of a broken scalpel.",
+     "Drops of chlorinated lime.",
+     "Signs of a fever in mothers."
     ],
     "a": 0,
-    "why": "第五段。",
-    "evidence": "Some were offended by the suggestion that they were responsible for their patients’ deaths"
+    "evidence": "doctors were carrying “cadaverous particles” on their hands from the autopsy room to the mothers they examined",
+    "why": "從解剖室帶到產婦身上的東西：來自屍體的有害物質。",
+    "traps": [
+     "",
+     "原文字眼、錯誤關係：手術刀是讓朋友受傷的工具。",
+     "時序錯置：漂白粉溶液是後來的解方。",
+     "因果混淆：發燒是結果。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The Second Clinic was staffed by doctors and medical students.",
+     "The First Clinic’s death rate was 18.3 percent after handwashing began.",
+     "Semmelweis lived to see germ theory widely accepted.",
+     "Midwives in the Second Clinic did not perform autopsies."
+    ],
+    "a": 3,
+    "evidence": "something midwives, who did not perform autopsies, were not doing",
+    "why": "第三段：助產士不做解剖。",
+    "traps": [
+     "張冠李戴：第二診所是助產士。",
+     "時序錯置：18.3% 是 1847 年 4 月實施洗手之前。",
+     "時序錯置：他 1865 年過世，之後才被廣泛接受。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Why were some doctors offended by Semmelweis’s findings?",
+    "options": [
+     "They showed that midwives earned more money than doctors.",
+     "They suggested the doctors themselves were causing patients’ deaths.",
+     "They required doctors to stop performing autopsies.",
+     "They were based on Louis Pasteur’s germ theory."
+    ],
+    "a": 1,
+    "evidence": "Some were offended by the suggestion that they were responsible for their patients’ deaths",
+    "why": "第五段：他的發現暗示醫生要為病人的死負責。",
+    "traps": [
+     "捏造：文中沒提收入。",
+     "",
+     "捏造：他要求的是洗手，不是停止解剖。",
+     "時序錯置：當時細菌理論還沒建立。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "Why does the writer call the two clinics “a natural experiment”?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "They operated side by side with different staff and different outcomes",
-     "They were built in nature",
-     "They were designed by scientists",
-     "They used the same doctors"
-    ],
-    "a": 0,
-    "why": "第二段：兩個病房並排運作，人員不同、結果不同。",
-    "evidence": "two maternity clinics operated side by side, creating what was in effect a natural experiment"
-   },
-   {
-    "q": "Which factor is NOT mentioned as a reason Semmelweis was not celebrated?",
-    "options": [
-     "He lacked a theoretical mechanism",
-     "His conclusion threatened respected physicians",
-     "His manner alienated potential allies",
-     "His data were proven false"
+     "To explain how chlorinated lime kills dangerous germs.",
+     "To describe the life of Louis Pasteur and Joseph Lister.",
+     "To argue that midwives should replace doctors in hospitals.",
+     "To use Semmelweis’s case to show why sound evidence can fail to persuade."
     ],
     "a": 3,
-    "why": "第四段列出前三個原因；數據從未被證明是錯的。",
-    "evidence": "He lacked a theoretical mechanism"
+    "evidence": "why do sound findings sometimes fail to persuade?",
+    "why": "第一段結尾提出問題，第四、五段回答：缺乏理論、威脅專業形象、溝通方式。",
+    "traps": [
+     "捏造：文中沒解釋殺菌原理。",
+     "以偏概全：Pasteur 和 Lister 只在第四段出現。",
+     "捏造：作者沒有這樣主張。",
+     ""
+    ]
    },
    {
-    "q": "What does the “Semmelweis reflex” refer to?",
+    "type": "WD",
+    "q": "What does the author mean by calling the two clinics “a natural experiment”?",
     "options": [
-     "A medical test for fever",
-     "The tendency to reject new evidence that contradicts established beliefs",
-     "A handwashing technique",
-     "A type of reflex in newborns"
+     "The two clinics tested new kinds of medicine on the mothers.",
+     "The two clinics could be compared because only some conditions differed.",
+     "The two clinics treated mothers using only natural remedies.",
+     "Semmelweis himself designed the two clinics to compare doctors."
     ],
     "a": 1,
-    "why": "最後一段定義。",
-    "evidence": "the tendency to reject new evidence that contradicts established beliefs or professional self-image"
+    "evidence": "Because both clinics belonged to the same hospital in the same city, the striking gap between them could not easily be blamed on outside conditions",
+    "why": "同一間醫院、同一座城市，差異不能怪外在條件，像是現成的對照實驗。",
+    "traps": [
+     "捏造：文中沒有測試藥物。",
+     "",
+     "字面誤讀：natural 不是「天然療法」。",
+     "捏造：兩個診所本來就存在。"
+    ]
    },
    {
-    "q": "In what sense does the lesson “cut both ways”?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "It warns institutions and also reminds innovators that evidence alone rarely changes minds",
-     "It applies only to doctors",
-     "It shows handwashing is harmful",
-     "It proves Semmelweis was wrong"
+     "Semmelweis was celebrated by his colleagues during his lifetime.",
+     "Kolletschka died from childbed fever after giving birth.",
+     "Mortality in the First Clinic fell by roughly ninety percent within months.",
+     "The Second Clinic’s death rate was around 10 percent."
+    ],
+    "a": 2,
+    "evidence": "reduced deaths by roughly ninety percent within months",
+    "why": "第三段：一個程序改變，幾個月內死亡人數減少約九成。",
+    "traps": [
+     "正反顛倒：第四段 Why, then, was he not celebrated?",
+     "張冠李戴：Kolletschka 是解剖時被手術刀割傷而死。",
+     "",
+     "張冠李戴：10% 是第一診所，第二診所低於 4%。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What can be inferred about the “Semmelweis reflex” mentioned in the last paragraph?",
+    "options": [
+     "It refers to rejecting evidence that threatens what people already believe.",
+     "It describes doctors who wash their hands too often.",
+     "It is a medical test for childbed fever.",
+     "It explains why germ theory was established quickly."
     ],
     "a": 0,
-    "why": "最後一段說明了兩面的教訓。",
-    "evidence": "It warns institutions against dismissing inconvenient data, but it also reminds those with new ideas that evidence alone rarely changes minds"
+    "evidence": "the tendency to reject new evidence that contradicts established beliefs or professional self-image",
+    "why": "第五段：拒絕與既有信念或專業形象衝突的新證據的傾向。",
+    "traps": [
+     "",
+     "字面誤讀：reflex 不是指洗手動作。",
+     "字面誤讀：不是醫學檢查。",
+     "正反顛倒：細菌理論是在他死後才建立。"
+    ]
    }
   ]
  },

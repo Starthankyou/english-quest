@@ -31,8 +31,8 @@
    "title": "Silent Letters and Lost Sounds",
    "paras": [
     [
-     "Why does “knight” have a “k”? Why is there a “b” in “debt”? Why don’t “tough” and “dough” rhyme? If English spelling makes you angry, you are not alone. Even native speakers find it hard. But there are reasons for these strange spellings, and they come from history. Some people have tried to make English spelling simpler, but most of their plans failed.",
-     "為什麼 knight 有個 k？為什麼 debt 裡有個 b？為什麼 tough 和 dough 不押韻？如果英文拼字讓你很生氣，你並不孤單，連母語人士都覺得很難。不過，這些奇怪的拼法都有原因，而且來自歷史。有些人試過讓英文拼字更簡單，但大多數的計畫都失敗了。"
+     "Why does “knight” have a “k”? Why is there a “b” in “debt”? Why don’t “tough” and “dough” rhyme? If English spelling makes you angry, you are not alone. Even native speakers find it hard. But there are reasons for these strange spellings, and they come from history. Some people have tried to make English spelling simpler, but most of their plans failed. In the United States, Noah Webster pushed for simpler spellings, so Americans write “flavor” instead of the British “flavour”.",
+     "為什麼 knight 有個 k？為什麼 debt 裡有個 b？為什麼 tough 和 dough 不押韻？如果英文拼字讓你很生氣，你並不孤單，連母語人士都覺得很難。不過，這些奇怪的拼法都有原因，而且來自歷史。有些人試過讓英文拼字更簡單，但大多數的計畫都失敗了。在美國，諾亞．韋伯斯特推動比較簡單的拼法，所以美國人寫 flavor，而不是英式的 flavour。"
     ],
     [
      "First, many spellings show old sounds. Long ago, people really said the “k” in “knight” and “knee”. Later, the “k” sound disappeared, but the spelling stayed. Between about 1400 and 1700, the long vowels of English also changed a lot. This is called the Great Vowel Shift.",
@@ -47,8 +47,8 @@
      "第三，有些學者故意加了字母。他們希望英文字看起來像拉丁文。debt 以前拼作 dette，但因為拉丁文的 debitum，他們加了一個 b。從來沒有人唸過這個 b。"
     ],
     [
-     "So English spelling is like a museum. It keeps old sounds, old mistakes and old ideas. This can help you, too. When you see a strange spelling, ask: “What story is this word telling me?” It may help you remember it. In the United States, Noah Webster pushed for simpler spellings, so Americans write “flavor” instead of the British “flavour”.",
-     "所以，英文拼字就像一座博物館，保存了古老的發音、過去的錯誤和舊時的觀念。這對你也有幫助。看到奇怪的拼法時，問問自己：「這個字在告訴我什麼故事？」這可能會幫你記住它。在美國，諾亞．韋伯斯特推動比較簡單的拼法，所以美國人寫 flavor，而不是英式的 flavour。"
+     "So English spelling is like a museum. It keeps old sounds, old mistakes and old ideas. This can help you, too. When you see a strange spelling, ask: “What story is this word telling me?” It may help you remember it.",
+     "所以，英文拼字就像一座博物館，保存了古老的發音、過去的錯誤和舊時的觀念。這對你也有幫助。看到奇怪的拼法時，問問自己：「這個字在告訴我什麼故事？」這可能會幫你記住它。"
     ]
    ]
   },
@@ -291,152 +291,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "Where do the strange spellings come from, according to the article?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "From history",
-     "From computers",
-     "From one teacher",
-     "From mistakes by students"
+     "How history explains many strange English spellings.",
+     "How to spell every English word correctly.",
+     "Why the printing press was invented in 1476.",
+     "Why Americans write “flavour” with a “u”."
     ],
     "a": 0,
-    "why": "第一段。",
-    "evidence": "they come from history"
+    "evidence": "But there are reasons for these strange spellings, and they come from history.",
+    "why": "全文：奇怪的拼字來自歷史（舊發音、印刷、學者加字母）。",
+    "traps": [
+     "",
+     "捏造：文中沒提供拼字規則。",
+     "以偏概全：印刷只是原因之一。",
+     "正反顛倒：美式拼法是 flavor。"
+    ]
    },
    {
-    "q": "When did the Great Vowel Shift happen?",
+    "type": "REF",
+    "q": "What does “it” in “people accepted it” in the third paragraph refer to?",
     "options": [
-     "About 1000 to 1100",
-     "About 1400 to 1700",
-     "About 1800 to 1900",
-     "Last century"
+     "The old spelling “gost”.",
+     "The first printing press in England.",
+     "The Flemish spelling of “ghost” with “gh”.",
+     "The long vowels of English."
     ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "Between about 1400 and 1700"
+    "a": 2,
+    "evidence": "a Flemish spelling with “gh” was used by mistake",
+    "why": "前半句：法蘭德斯式的 gh 拼法被誤用，大家就接受了。",
+    "traps": [
+     "正反顛倒：gost 是被取代的舊拼法。",
+     "原文字眼、錯誤關係：印刷機是被引進，不是被接受的拼法。",
+     "",
+     "時序錯置：母音是第二段的內容。"
+    ]
    },
    {
-    "q": "How was “ghost” spelled before?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "Goast",
-     "Gost",
-     "Ghoost",
-     "Gaust"
+     "People used to say the “b” in “debt”.",
+     "“Debt” was once spelled “dette”.",
+     "The “k” in “knight” was always silent.",
+     "The Great Vowel Shift happened after 1900."
     ],
     "a": 1,
-    "why": "第三段。",
-    "evidence": "The word “ghost” was once spelled “gost”"
-   },
-   {
-    "q": "Why was a “b” added to “debt”?",
-    "options": [
-     "To make it easier to say",
-     "Because of the Latin word “debitum”",
-     "By a printer’s mistake",
-     "To make it longer"
-    ],
-    "a": 1,
+    "evidence": "“Debt” was once spelled “dette”",
     "why": "第四段。",
-    "evidence": "they added a “b” because of the Latin word “debitum”"
+    "traps": [
+     "正反顛倒：原文 Nobody ever said the “b”。",
+     "",
+     "正反顛倒：以前 k 是會發音的。",
+     "數字錯位：大約 1400 到 1700 年。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "How does the writer suggest strange spellings can help learners?",
+    "options": [
+     "They help learners speak with a British accent.",
+     "They show that English has no rules at all.",
+     "They make reading English much faster.",
+     "Their stories can help learners remember the words."
+    ],
+    "a": 3,
+    "evidence": "It may help you remember it.",
+    "why": "最後一段：拼字背後的故事有助記憶。",
+    "traps": [
+     "捏造：文中沒談口音。",
+     "過度推論：作者說它們有原因，不是沒規則。",
+     "捏造：文中沒談閱讀速度。",
+     ""
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "What does the writer say about the strangeness of English spelling?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "It is completely random",
-     "Almost every odd spelling is a clue to history",
-     "It was designed to be hard",
-     "It is the same as German"
+     "English spelling was designed to be difficult on purpose.",
+     "English spelling is odd because it records the language’s history.",
+     "Noah Webster created all of today’s English spellings.",
+     "German and English are spelled in exactly the same way."
     ],
     "a": 1,
-    "why": "第一段。",
-    "evidence": "Almost every odd spelling is a clue to something that happened in the history of the language."
+    "evidence": "Seen this way, English spelling is less a set of rules than a historical record.",
+    "why": "最後一段點題。",
+    "traps": [
+     "以偏概全：只有少數字母是學者刻意加的。",
+     "",
+     "以偏概全：Webster 只影響了美式拼法。",
+     "原文字眼、錯誤關係：德文只是用來證明 k 曾經發音。"
+    ]
    },
    {
-    "q": "Why does German still say the “k” in Knie?",
+    "type": "WD",
+    "q": "What does “compositors” in the third paragraph most likely refer to?",
     "options": [
-     "German kept the sound that English lost",
-     "German borrowed it from Latin",
-     "It is a spelling mistake",
-     "German has no silent letters"
+     "Speakers who lost the “k” sound.",
+     "Scholars who studied Latin words.",
+     "Writers who composed poems in English.",
+     "People who set the type for printing."
+    ],
+    "a": 3,
+    "evidence": "Many early compositors who set the type were multilingual",
+    "why": "後面的關係子句說明：負責排字的人。",
+    "traps": [
+     "原文字眼、錯誤關係：k 不發音是第二段的現象。",
+     "張冠李戴：學者是第四段的人。",
+     "字面誤讀：compose 也有作曲、寫作之意，但這裡是排版。",
+     ""
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The “s” in “island” was added to link it with Latin insula.",
+     "“Island” actually comes from Latin.",
+     "The “p” in “ptarmigan” was added to make a word look Latin.",
+     "Caxton brought the printing press to England in 1700."
     ],
     "a": 0,
-    "why": "第二段。",
-    "evidence": "which is why German still says the “k” in its word for knee, Knie"
+    "evidence": "The “s” in “island” was added to connect it with Latin insula",
+    "why": "第四段。",
+    "traps": [
+     "",
+     "正反顛倒：它其實來自古英語。",
+     "張冠李戴：是讓蓋爾語的字看起來像希臘文。",
+     "數字錯位：1476 年。"
+    ]
    },
    {
-    "q": "Where does the word “island” actually come from?",
+    "type": "INF",
+    "q": "Why does the author mention that German still says the “k” in Knie?",
     "options": [
-     "Latin",
-     "French",
-     "Old English",
-     "Greek"
+     "To show that German spelling is also very strange.",
+     "To prove that English came from German spelling rules.",
+     "To show that the “k” in “knee” was once pronounced.",
+     "To explain why “knee” has a silent “b”."
     ],
     "a": 2,
-    "why": "第四段。",
-    "evidence": "even though the word actually comes from Old English"
-   },
-   {
-    "q": "How can spelling history help learners?",
-    "options": [
-     "It turns random memorisation into a story",
-     "It removes all exceptions",
-     "It makes grammar easier",
-     "It replaces dictionaries"
-    ],
-    "a": 0,
-    "why": "最後一段。",
-    "evidence": "turns random memorisation into a story"
+    "evidence": "which is why German still says the “k” in its word for knee, Knie",
+    "why": "第二段：德文保留了英文已消失的 k 音，證明它曾經發音。",
+    "traps": [
+     "捏造：文中沒評論德文拼字。",
+     "過度推論：文中只是拿同源字做證據。",
+     "",
+     "捏造：knee 沒有 b。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "What are English spelling irregularities largely the residue of?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "Identifiable historical processes",
-     "Random accidents",
-     "Modern technology",
-     "Government rules"
+     "To describe the life of William Caxton in detail.",
+     "To argue that English spelling should be reformed immediately.",
+     "To trace English spelling’s irregularities to identifiable historical causes.",
+     "To prove that all silent letters were printing errors."
     ],
-    "a": 0,
-    "why": "第一段。",
-    "evidence": "Its irregularities are largely the residue of identifiable historical processes"
+    "a": 2,
+    "evidence": "Its irregularities are largely the residue of identifiable historical processes",
+    "why": "第一段點題，後面三段分別說明三個原因。",
+    "traps": [
+     "以偏概全：Caxton 只是第三段的人物。",
+     "正反顛倒：作者說改革大多失敗，重點是理解。",
+     "",
+     "以偏概全：有些是學者刻意加的。"
+    ]
    },
    {
-    "q": "Why did spelling and pronunciation drift apart during the Great Vowel Shift?",
+    "type": "WD",
+    "q": "Which of the following is closest in meaning to “mistaken etymologies” in the fourth paragraph?",
     "options": [
-     "Written forms were becoming fixed just as spoken forms were shifting",
-     "People stopped writing",
-     "Printers changed every word",
-     "Latin replaced English"
+     "Wrong ideas about where a word came from.",
+     "Errors made by the early printers in England.",
+     "Spellings with letters that were never pronounced.",
+     "Words borrowed from merchants who spoke French."
     ],
     "a": 0,
-    "why": "第二段。",
-    "evidence": "written forms were increasingly fixed just as spoken forms were shifting"
+    "evidence": "the “s” in “island” was meant to link the word to Latin insula, whereas its true origin is the Old English īġland",
+    "why": "冒號後的例子：以為 island 來自拉丁文，其實來自古英語。",
+    "traps": [
+     "",
+     "張冠李戴：印刷錯誤是第三段的原因。",
+     "原文字眼、錯誤關係：不發音是結果，不是「錯誤字源」的意思。",
+     "原文字眼、錯誤關係：商人是 Caxton 的故事。"
+    ]
    },
    {
-    "q": "What does Caxton’s “egges” story show?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "How unstable and varied English was",
-     "That eggs were expensive",
-     "That French was common in Kent",
-     "That printing was easy"
+     "Spelling began to be standardised after 1700.",
+     "Caxton believed English was perfectly stable in his time.",
+     "The “p” in “receipt” has always been pronounced.",
+     "The Kentish woman said she spoke no French when asked for “egges”."
     ],
-    "a": 0,
+    "a": 3,
+    "evidence": "was told she spoke no French, because in her dialect the word was “eyren”",
     "why": "第三段。",
-    "evidence": "Caxton himself was acutely aware of the instability of the language he was printing."
+    "traps": [
+     "時序錯置：15、16 世紀就開始標準化了。",
+     "正反顛倒：他深知語言不穩定。",
+     "正反顛倒：原文 though never pronounced。",
+     ""
+    ]
    },
    {
-    "q": "What was ironic about scholars’ added letters?",
+    "type": "INF",
+    "q": "What can be inferred about why spelling and pronunciation drifted apart?",
     "options": [
-     "They made spelling less phonetic",
-     "They made English more popular",
-     "They were always correct",
-     "They were later removed"
+     "Printers refused to print any new words.",
+     "Spelling was being fixed just as pronunciation was changing.",
+     "People stopped speaking English for two centuries.",
+     "Scholars wanted English to sound like German."
     ],
-    "a": 0,
-    "why": "第四段。",
-    "evidence": "Ironically, these efforts to make spelling more learned made it less phonetic."
+    "a": 1,
+    "evidence": "written forms were increasingly fixed just as spoken forms were shifting",
+    "why": "第二段：書寫固定下來的時候，發音正在改變。",
+    "traps": [
+     "捏造：印刷反而加速固定拼法。",
+     "",
+     "捏造：文中沒有。這種說法完全不合史實。",
+     "張冠李戴：學者想讓英文看起來像拉丁文。"
+    ]
    }
   ]
  },

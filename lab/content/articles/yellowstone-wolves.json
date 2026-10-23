@@ -26,8 +26,8 @@
    "title": "The Wolves Come Home",
    "paras": [
     [
-     "Yellowstone is a famous national park in the United States. Long ago, many wolves lived there. But people killed them, and the last wolves in the park were killed in 1926. For about seventy years, Yellowstone had no wolves. Government programs to control dangerous animals helped kill them.",
-     "黃石是美國一座有名的國家公園。很久以前，那裡住著許多狼。但人們殺了牠們，園區裡最後的狼在 1926 年被殺死。大約七十年間，黃石公園一隻狼也沒有。政府控制危險動物的計畫，幫忙殺光了牠們。"
+     "Yellowstone is a famous national park in the United States. Long ago, many wolves lived there. But people killed them, and the last wolves in the park were killed in 1926. Government programs to control dangerous animals helped kill them. For about seventy years, Yellowstone had no wolves.",
+     "黃石是美國一座有名的國家公園。很久以前，那裡住著許多狼。但人們殺了牠們，園區裡最後的狼在 1926 年被殺死。政府控制危險動物的計畫，幫忙殺光了牠們。大約七十年間，黃石公園一隻狼也沒有。"
     ],
     [
      "In 1995, scientists brought 14 wolves from Canada to Yellowstone. In 1996, 17 more arrived. The wolves hunted elk, a kind of large deer. Over the next years, the number of elk in the north of the park went down a lot. But wolves are not perfect hunters. When they chase elk, they usually fail.",
@@ -286,152 +286,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "When were the last wolves in Yellowstone killed?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "1872",
-     "1926",
-     "1995",
-     "2013"
+     "How wolves changed Yellowstone, though less than many people believe.",
+     "How to hunt elk in a national park.",
+     "Why beavers are the most important animals in Yellowstone.",
+     "How a video changed the shape of rivers in the park."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "the last wolves in the park were killed in 1926"
+    "a": 0,
+    "evidence": "The wolves did help, but less than people thought.",
+    "why": "全文：狼確實帶來改變，但沒有大家以為的那麼大。",
+    "traps": [
+     "",
+     "捏造：文中沒有教人打獵。",
+     "以偏概全：河狸只是連鎖變化的一環。",
+     "張冠李戴：說狼改變河流形狀的是影片，影片本身沒改變河流。"
+    ]
    },
    {
-    "q": "Where did the wolves come from in 1995?",
+    "type": "WD",
+    "q": "What does “trophic cascade” refer to in the third paragraph?",
     "options": [
-     "Mexico",
-     "Canada",
-     "Alaska",
-     "Europe"
+     "A video that millions of people watched.",
+     "A river that flows down from the mountains.",
+     "A chain of changes that starts with a top animal.",
+     "A way of measuring the tallest young trees."
     ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "In 1995, scientists brought 14 wolves from Canada to Yellowstone."
+    "a": 2,
+    "evidence": "This chain of changes is called a “trophic cascade”.",
+    "why": "前面描述狼→麋鹿→樹→河狸的連鎖變化，這就叫營養級聯。",
+    "traps": [
+     "原文字眼、錯誤關係：影片是第四段的內容。",
+     "字面誤讀：cascade 原意是瀑布，但這裡是連鎖反應。",
+     "",
+     "原文字眼、錯誤關係：測量方法是第五段的問題。"
+    ]
    },
    {
-    "q": "Why did the number of beavers grow?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "People fed them",
-     "More willow trees grew",
-     "Wolves protected them",
-     "The rivers got bigger"
+     "The last wolves in the park were killed in 1995.",
+     "Beaver colonies grew from one in 2001 to nine in 2011.",
+     "Wolves almost always catch the elk they chase.",
+     "Scientists brought 17 wolves from Canada in 1995."
     ],
     "a": 1,
+    "evidence": "from one beaver colony in 2001 to nine in 2011",
     "why": "第三段。",
-    "evidence": "Beavers need willow, and their numbers grew too"
+    "traps": [
+     "數字錯位：1926 年最後的狼被殺，1995 年是重新引入。",
+     "",
+     "正反顛倒：原文 When they chase elk, they usually fail。",
+     "數字錯位：1995 年是 14 隻，1996 年才是 17 隻。"
+    ]
    },
    {
-    "q": "What did the 2022 study find?",
+    "type": "INF",
+    "q": "Why does the writer say scientists must choose trees at random?",
     "options": [
-     "Wolves did nothing",
-     "Measuring only the tallest trees made the recovery look bigger",
-     "There were no trees",
-     "The video was correct"
+     "Wolves hunt elk more easily near tall trees.",
+     "Random trees are easier for beavers to find and use.",
+     "Tall trees are usually eaten first by elk.",
+     "Measuring only the tallest trees made the recovery look bigger."
     ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "this made the recovery look much bigger than it really was"
+    "a": 3,
+    "evidence": "A 2022 study found that this made the recovery look much bigger than it really was.",
+    "why": "第五段：只量最高的樹會高估恢復程度。",
+    "traps": [
+     "捏造：文中沒提狼在哪裡打獵比較容易。",
+     "捏造：文中沒提河狸找樹。",
+     "正反顛倒：麋鹿吃的是矮的幼樹。",
+     ""
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "How did the northern elk herd change between 1994 and 2013?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "It grew to 19,045",
-     "It fell from 19,045 to 3,915",
-     "It stayed the same",
-     "It disappeared"
+     "Wolves were the only reason the elk population fell.",
+     "Wolves helped Yellowstone recover, but the popular story is exaggerated.",
+     "The video “How Wolves Change Rivers” was based on careful measurement.",
+     "Beavers brought the wolves back to Yellowstone."
     ],
     "a": 1,
-    "why": "第二段。",
-    "evidence": "had reached a record 19,045 animals in 1994, fell to 3,915 by 2013"
+    "evidence": "The lesson is not that the wolves did nothing, but that even a beautiful scientific story must survive careful measurement.",
+    "why": "最後一段點出主旨。",
+    "traps": [
+     "以偏概全：第四段列出許多其他因素。",
+     "",
+     "正反顛倒：研究者對影片的說法持保留態度。",
+     "因果顛倒：是狼回來後河狸才增加。"
+    ]
    },
    {
-    "q": "What is a trophic cascade?",
+    "type": "WD",
+    "q": "What does the phrase “urge caution” in the fourth paragraph suggest?",
     "options": [
-     "A waterfall in the park",
-     "A chain reaction flowing down from a top predator",
-     "A kind of tree",
-     "A beaver dam"
+     "The researchers plan to remove the wolves again.",
+     "The researchers want visitors to stay away from wolves.",
+     "The researchers believe the video is completely correct.",
+     "The researchers think people should not accept the story too quickly."
     ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "this kind of chain reaction, flowing down from a top predator, a trophic cascade"
+    "a": 3,
+    "evidence": "Yet researchers who study the park urge caution.",
+    "why": "接著列出其他同時改變的因素，提醒別太快相信這個故事。",
+    "traps": [
+     "捏造：文中沒有這種計畫。",
+     "字面誤讀：caution 在這裡不是人身安全的提醒。",
+     "正反顛倒：他們正是在質疑影片。",
+     ""
+    ]
    },
    {
-    "q": "Why do researchers urge caution?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "The video was too short",
-     "It was not a controlled experiment and many factors changed at once",
-     "Wolves are dangerous",
-     "There was no data"
+     "Each wolf killed about 22 elk a year, more than planners predicted.",
+     "Wolves succeed in more than half of their elk hunts.",
+     "The northern elk herd grew to 19,045 animals by 2013.",
+     "Managers counted fewer elk only after the wolves arrived."
     ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "The reintroduction was not a controlled experiment, and many other factors changed at the same time"
+    "a": 0,
+    "evidence": "the real average turned out to be about 22",
+    "why": "第二段：預估每年 12 頭，實際約 22 頭。",
+    "traps": [
+     "",
+     "數字錯位：成功率很少超過 20%。",
+     "數字錯位：19,045 是 1994 年的紀錄，2013 年降到 3,915。",
+     "時序錯置：1994 年 12 月狼還沒出圍欄就少了 2,254 頭。"
+    ]
    },
    {
-    "q": "By how much had sampling the tallest aspens overestimated recovery?",
+    "type": "INF",
+    "q": "Why does the author mention that elk numbers fell in December 1994?",
     "options": [
-     "Two times",
-     "Four to seven times",
-     "Ten times",
-     "It had not"
+     "To show that hunters stopped killing elk that year.",
+     "To prove that the wolves arrived earlier than planned.",
+     "To show the decline began before the wolves were released.",
+     "To explain why the wolves were captured in Canada."
     ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "had overestimated the trees’ recovery by four to seven times"
+    "a": 2,
+    "evidence": "before the first wolves had even left their pens",
+    "why": "第四段：狼還沒放出來，麋鹿就已經在減少，所以不能全歸功於狼。",
+    "traps": [
+     "正反顛倒：人類獵人仍在園區外獵捕麋鹿。",
+     "正反顛倒：狼是 1995 年 1 月才放出來。",
+     "",
+     "捏造：文中沒有這樣的因果。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "Why was the 1995 reintroduction “more than a conservation project”?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "It cost a lot of money",
-     "It was treated as a natural experiment on how top predators shape ecosystems",
-     "It made the park famous",
-     "It was illegal"
-    ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "it was treated as a natural experiment in how top predators shape ecosystems"
-   },
-   {
-    "q": "According to the writer, why is the cascade story “worth examining”?",
-    "options": [
-     "Because it is boring",
-     "Because its elegance makes it attractive",
-     "Because it is false",
-     "Because the video was banned"
-    ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "Its elegance is precisely what makes it worth examining."
-   },
-   {
-    "q": "Which factor in the elk decline is NOT mentioned in the passage?",
-    "options": [
-     "Grizzly bears",
-     "Human hunters",
-     "A disease outbreak",
-     "Cougars"
+     "To describe how wolves are captured in Canada.",
+     "To argue that wolves should be removed from Yellowstone.",
+     "To test a popular ecological story against the evidence.",
+     "To prove that trophic cascades never happen."
     ],
     "a": 2,
-    "why": "第四段提到灰熊、美洲獅與獵人，沒提到疾病。",
-    "evidence": "Grizzly bears and cougars were increasing"
+    "evidence": "Its elegance is precisely what makes it worth examining.",
+    "why": "第三段起：正因為故事太漂亮，所以值得檢驗。",
+    "traps": [
+     "以偏概全：捕捉只是第二段的細節。",
+     "捏造：作者沒有這樣主張。",
+     "",
+     "正反顛倒：隨機抽樣仍顯示有營養級聯，只是較弱。"
+    ]
    },
    {
-    "q": "Why did sampling the tallest young aspens produce misleading results?",
+    "type": "WD",
+    "q": "Which of the following is closest in meaning to “replicated” in the third paragraph?",
     "options": [
-     "It favoured plants already above the height elk prefer to browse",
-     "It counted beavers instead",
-     "It was done in winter",
-     "It used random sampling"
+     "Repeated to see if the result is the same.",
+     "Paid for by the government in Washington.",
+     "Recorded in a popular online video.",
+     "Carried out only during the winter months."
     ],
     "a": 0,
-    "why": "最後一段。",
-    "evidence": "because it favoured plants already above the height elk prefer to browse"
+    "evidence": "the reintroduction was neither a controlled nor a replicated experiment",
+    "why": "重新引入只發生一次，沒有重複驗證。",
+    "traps": [
+     "",
+     "捏造：文中沒有提到經費。",
+     "原文字眼、錯誤關係：影片是故事的傳播方式。",
+     "原文字眼、錯誤關係：冬季嚴寒是干擾因素之一。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Random sampling showed no trophic cascade at all.",
+     "Bears were killing fewer elk calves over time.",
+     "Human hunters removed mostly young male elk.",
+     "Sampling only the tallest aspens overestimated regeneration four to seven times."
+    ],
+    "a": 3,
+    "evidence": "had overestimated regeneration by a factor of four to seven compared with random sampling",
+    "why": "第五段。",
+    "traps": [
+     "正反顛倒：原文 still revealed a trophic cascade — but a weaker one。",
+     "正反顛倒：灰熊殺的幼鹿比例越來越高。",
+     "張冠李戴：被獵的是大量成年母鹿。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Why did sampling only the tallest aspens give a misleading result?",
+    "options": [
+     "It counted only trees that beavers had cut down.",
+     "It favoured trees already too tall for elk to browse.",
+     "It measured trees during the coldest winters.",
+     "It ignored the trees growing near rivers."
+    ],
+    "a": 1,
+    "evidence": "because it favoured plants already above the height elk prefer to browse",
+    "why": "第五段：專挑已超過麋鹿啃食高度的樹，忽略了沒在恢復的樹叢。",
+    "traps": [
+     "捏造：文中沒提河狸砍樹。",
+     "",
+     "原文字眼、錯誤關係：冬季嚴寒是另一個干擾因素。",
+     "捏造：文中沒提河邊。"
+    ]
    }
   ]
  },
@@ -458,5 +542,165 @@
    "zh": "報導狼的回歸以及隨之而來的衝突。（11 分鐘）",
    "question": "Compare this report with “How Wolves Change Rivers”. Which one shows more complexity?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "Few nature stories are told as often as the return of the wolf to Yellowstone National Park. Government programs to control predators helped wipe out the species there, and the last wolves in the park were killed in 1926. Their absence, many ecologists argued, left elk free to feed on streamside plants without fear, gradually damaging the landscape. When wolves were brought back, the project was therefore seen as more than conservation: it became a natural experiment in how top predators shape ecosystems.",
+    "很少有自然故事像「狼重返黃石國家公園」這樣常被傳述。政府控制掠食者的計畫讓狼在園區絕跡，最後幾隻狼在 1926 年被殺。許多生態學家認為，狼的缺席讓麋鹿可以毫無顧忌地啃食溪邊植物，慢慢破壞了地景。因此當狼被帶回來時，這不只被看成保育計畫，更成了一場「頂級掠食者如何塑造生態系」的自然實驗。"
+   ],
+   [
+    "In January 1995, fourteen wolves captured near Hinton, Alberta, were released in the park, and seventeen more followed in 1996. Their main prey was elk. Although wolves are not especially skilled hunters—their success rate when hunting elk has rarely been higher than 20 percent—each wolf killed about 22 elk a year, far more than the 12 that planners had predicted. The northern elk herd, which had reached a record 19,045 animals in 1994, fell to 3,915 by 2013. Over the same period, willows, cottonwoods and aspens recovered in parts of the park, and beaver colonies rose from one in 2001 to nine in 2011.",
+    "1995 年 1 月，在加拿大亞伯達省欣頓附近捕獲的 14 隻狼被放進園區，1996 年又來了 17 隻。牠們的主要獵物是麋鹿。狼其實不算厲害的獵手——獵捕麋鹿的成功率很少超過 20%——但每隻狼一年約獵殺 22 頭麋鹿，遠多於規劃者預估的 12 頭。北部麋鹿群在 1994 年達到 19,045 頭的紀錄，到 2013 年降到 3,915 頭。同一時期，園區部分地方的柳樹、三角葉楊和白楊恢復生長，河狸群落也從 2001 年的 1 個增加到 2011 年的 9 個。"
+   ],
+   [
+    "Such parallel trends gave rise to a popular story known as a trophic cascade: wolves reduce and frighten elk, elk eat less, plants recover, and beavers and other species follow. A widely shared video, “How Wolves Change Rivers,” even claimed that wolves had changed the shape of rivers. Yet it is precisely the story’s elegance that makes it worth examining. As researchers who study the park point out, the reintroduction was not a controlled experiment, and rainfall, winter weather, and other predators, including humans, varied greatly at the same time.",
+    "這些同時出現的趨勢，催生了一個叫「營養級聯」的熱門說法：狼讓麋鹿變少也讓牠們害怕，麋鹿吃得少，植物恢復，河狸等物種跟著回來。一支廣為流傳的影片《狼如何改變河流》甚至說狼改變了河流的形狀。然而正因為這個故事太漂亮，才更值得檢驗。研究這座公園的學者指出，重新引入狼並不是對照實驗；同一時期，雨量、冬季天氣，以及包括人類在內的其他掠食者，都有很大的變化。"
+   ],
+   [
+    "The decline of the elk, for one thing, had several causes. Grizzly bears and cougars were increasing, with bears killing a growing share of elk calves, and human hunters outside the park removed large numbers of adult females. Wolves undoubtedly played a part, but how large a part remains disputed. The decline had begun even before the wolves arrived: in December 1994, managers counted 2,254 fewer elk than in the previous winter.",
+    "首先，麋鹿減少的原因不只一個。灰熊和美洲獅在增加，灰熊殺死的麋鹿幼崽越來越多；園區外的人類獵人也獵捕了大量成年母鹿。狼無疑有影響，但影響多大仍有爭議。在狼抵達之前，麋鹿就已經在減少——1994 年 12 月，管理人員數到的麋鹿比前一個冬天少了 2,254 頭。"
+   ],
+   [
+    "How recovery was measured mattered as well. Only when a 2022 study compared it with random sampling did the size of the error become clear: a long-standing habit of sampling only the tallest young aspens had overestimated their recovery by four to seven times. A trophic cascade was still there, but it was weaker. The lesson is not that the wolves did nothing, but that a story can be partly true and still be exaggerated—and that only careful measurement can tell the difference.",
+    "怎麼測量恢復程度也很關鍵。直到一項 2022 年的研究拿它和隨機抽樣比較，誤差有多大才清楚浮現：長期以來只抽樣最高的幼白楊的做法，把恢復程度高估了四到七倍。營養級聯仍然存在，只是比較弱。教訓不是「狼什麼都沒做」，而是一個故事可以部分屬實卻仍被誇大——只有仔細的測量才分辨得出來。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "Why the popular story of Yellowstone’s wolves may be exaggerated.",
+     "How wolves changed the shape of rivers in Yellowstone.",
+     "Why the number of elk in Yellowstone fell after 1995.",
+     "How beavers returned to Yellowstone after the wolves did."
+    ],
+    "a": 0,
+    "evidence": "a story can be partly true and still be exaggerated",
+    "why": "結構是「流行說法 → 檢驗證據」：先講狼改變生態的故事，再說明其他原因與測量偏差，結論是故事部分屬實但被誇大。",
+    "traps": [
+     "",
+     "原文字眼、錯誤關係：這是影片的說法，正是作者要檢驗的對象。",
+     "以偏概全：只是第四段的內容，而且下降在 1995 年前就開始了。",
+     "以偏概全：河狸只是第二段的一個數據。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “a controlled experiment” in the third paragraph most likely mean?",
+    "options": [
+     "An experiment that is approved and watched by the government.",
+     "An experiment that has been repeated many times.",
+     "A test in which other conditions are kept the same.",
+     "A study that collects samples at random."
+    ],
+    "a": 2,
+    "evidence": "the reintroduction was not a controlled experiment, and rainfall, winter weather, and other predators, including humans, varied greatly at the same time",
+    "why": "後半句解釋了為什麼不算：其他條件同時在變。對照實驗要讓其他條件保持不變。",
+    "traps": [
+     "字面誤讀：control 在這裡不是「管控」。",
+     "概念混淆：重複驗證是 replicated，不是 controlled。",
+     "",
+     "原文字眼、錯誤關係：隨機抽樣出現在第五段，是測量方法，不是對照實驗。"
+    ]
+   },
+   {
+    "type": "NOT",
+    "q": "Which of the following is NOT mentioned as a possible cause of the elk decline?",
+    "options": [
+     "Bears killing elk calves.",
+     "Disease spreading among the elk.",
+     "Hunters killing adult females.",
+     "Wolves hunting elk."
+    ],
+    "a": 1,
+    "evidence": "Grizzly bears and cougars were increasing, with bears killing a growing share of elk calves",
+    "why": "第四段列出灰熊、美洲獅、人類獵人和狼；第三段另提到雨量和冬季天氣。全文都沒有提到疾病。",
+    "traps": [
+     "第四段有提到。",
+     "",
+     "第四段有提到 adult females。",
+     "第四段 Wolves undoubtedly played a part。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Which of the following can be inferred from the passage?",
+    "options": [
+     "Wolves were more efficient hunters than planners had expected.",
+     "The 2022 study showed that no trophic cascade existed in Yellowstone.",
+     "Human hunters were the main reason for the decline of the elk.",
+     "Researchers who measured only tall aspens probably missed areas where trees were not recovering."
+    ],
+    "a": 3,
+    "evidence": "sampling only the tallest young aspens had overestimated their recovery",
+    "why": "只挑最高的樹，自然會漏掉沒長起來的地方，所以恢復程度被高估，這是要多推一步才能得到的結論。",
+    "traps": [
+     "數字陷阱：每隻狼獵得比預期多，但成功率很少超過 20%，not especially skilled，不能說「更有效率」。",
+     "正反顛倒：原文 A trophic cascade was still there, but it was weaker。",
+     "以偏概全：原文說 several causes，沒有排出誰是主因。",
+     ""
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Although wolves are often given full credit, the decline of the elk had several [47], and earlier studies had [48] the recovery of young trees.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "causes"
+      ],
+      "partial": [
+       "cause",
+       "caused"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "overestimated"
+      ],
+      "partial": [
+       "overestimate",
+       "overestimates",
+       "overestimating"
+      ]
+     }
+    ],
+    "why": "第一格出自第四段 had several causes（several 後面接複數）；第二格出自第五段 had overestimated（過去完成式）。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following happened AFTER the first wolves were released in Yellowstone? Choose ALL that apply.",
+    "options": [
+     "The northern elk herd fell to 3,915.",
+     "Managers counted 2,254 fewer elk than in the previous winter.",
+     "The number of beaver colonies increased.",
+     "The last wolves in the park were killed.",
+     "Willows, cottonwoods and aspens recovered in parts of the park.",
+     "Wolves were captured near Hinton, Alberta."
+    ],
+    "a": [
+     0,
+     2,
+     4
+    ],
+    "why": "A 2013 年；C 2001→2011；E 同一時期。B 是 1994 年 12 月（狼抵達之前）；D 是 1926 年；F 是捕獲後才放進園區。"
+   },
+   {
+    "kind": "short",
+    "q": "What term is used in the passage for the chain reaction that starts with wolves and spreads to plants and other species?",
+    "answer": [
+     "a trophic cascade",
+     "trophic cascade"
+    ],
+    "why": "第三段：a popular story known as a trophic cascade。"
+   }
+  ]
+ }
 }

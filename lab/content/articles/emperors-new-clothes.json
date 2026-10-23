@@ -21,8 +21,8 @@
    "title": "The Invisible Clothes",
    "paras": [
     [
-     "Once there was an emperor who loved new clothes more than anything. He spent all his money on them. One day, two tricksters came to town. They said they could make magic cloth. Anyone who was stupid, or not good at their job, would not be able to see it. He had a different suit for every hour of the day.",
-     "從前有一位國王，他愛新衣服勝過一切，把所有的錢都花在衣服上。有一天，兩個騙子來到城裡。他們說自己會織一種神奇的布，任何笨蛋或不適任的人，都看不見它。他一天中的每個小時都換一套不同的衣服。"
+     "Once there was an emperor who loved new clothes more than anything. He spent all his money on them. He had a different suit for every hour of the day. One day, two tricksters came to town. They said they could make magic cloth. Anyone who was stupid, or not good at their job, would not be able to see it.",
+     "從前有一位國王，他愛新衣服勝過一切，把所有的錢都花在衣服上。他一天中的每個小時都換一套不同的衣服。有一天，兩個騙子來到城裡。他們說自己會織一種神奇的布，任何笨蛋或不適任的人，都看不見它。"
     ],
     [
      "The emperor paid them a lot of money. The tricksters pretended to weave, but there was nothing on their machines. The emperor’s officials came to look. They saw nothing, but they did not want to seem stupid, so they all said, “How beautiful!” Even the emperor said the same.",
@@ -46,8 +46,8 @@
    "title": "Why Did No One Say the Emperor Was Naked?",
    "paras": [
     [
-     "Hans Christian Andersen’s “The Emperor’s New Clothes” begins with a ruler so fond of new clothes that he spends all his money on them and cares little for his soldiers or his duties. Two rogues arrive claiming to be weavers. Their cloth, they say, has a wonderful property: it is invisible to anyone who is “unfit for the office he held” or unusually foolish. He has a different suit for every hour of the day, and instead of saying the emperor is “in council”, people say he is “sitting in his wardrobe”.",
-     "安徒生的〈國王的新衣〉一開頭，就是一位極度喜愛新衣服的統治者，他把所有的錢都花在衣服上，卻不太關心他的士兵和職責。兩個自稱織工的騙子來了。他們說，自己織的布有一種神奇的特性：凡是「不適任其職位」或特別愚蠢的人，都看不見它。他一天中每個小時都換一套衣服；人們不說國王「在議事」，而是說他「坐在衣櫥裡」。"
+     "Hans Christian Andersen’s “The Emperor’s New Clothes” begins with a ruler so fond of new clothes that he spends all his money on them and cares little for his soldiers or his duties. He has a different suit for every hour of the day, and instead of saying the emperor is “in council”, people say he is “sitting in his wardrobe”. Two rogues arrive claiming to be weavers. Their cloth, they say, has a wonderful property: it is invisible to anyone who is “unfit for the office he held” or unusually foolish.",
+     "安徒生的〈國王的新衣〉一開頭，就是一位極度喜愛新衣服的統治者，他把所有的錢都花在衣服上，卻不太關心他的士兵和職責。他一天中每個小時都換一套衣服；人們不說國王「在議事」，而是說他「坐在衣櫥裡」。兩個自稱織工的騙子來了。他們說，自己織的布有一種神奇的特性：凡是「不適任其職位」或特別愚蠢的人，都看不見它。"
     ],
     [
      "The trick works because of fear. The emperor sends his most trusted ministers to inspect the work. Each sees empty looms but praises the cloth rather than admit he cannot see it, because admitting it would suggest he is unfit for his job. Eventually the emperor himself looks, sees nothing, and also pretends.",
@@ -281,152 +281,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "Who could not see the magic cloth, according to the tricksters?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "Children",
-     "Anyone who was stupid or not good at their job",
-     "Old people",
-     "Soldiers"
+     "How Hans Christian Andersen became an emperor.",
+     "How to weave a magic cloth for a king.",
+     "Why emperors should not wear any new clothes.",
+     "A story about people who pretend to see what is not there."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "Anyone who was stupid, or not good at their job, would not be able to see it."
+    "a": 3,
+    "evidence": "Each person thought everyone else could see the clothes.",
+    "why": "全文：國王的新衣，以及大家為何不敢說真話。",
+    "traps": [
+     "捏造：Andersen 是作家。",
+     "字面誤讀：那是騙子的謊言。",
+     "過度推論：故事重點是不敢說真話。",
+     ""
+    ]
    },
    {
-    "q": "Why did the officials say the cloth was beautiful?",
+    "type": "REF",
+    "q": "What does “it” in “Anyone who was stupid … would not be able to see it” refer to?",
     "options": [
-     "They really saw it",
-     "They did not want to seem stupid",
-     "The emperor paid them",
-     "They liked the colours"
+     "The emperor’s money.",
+     "The magic cloth.",
+     "The big parade.",
+     "The weaving machine."
     ],
     "a": 1,
-    "why": "第二段。",
-    "evidence": "they did not want to seem stupid"
+    "evidence": "They said they could make magic cloth.",
+    "why": "前一句提到的就是魔法布。",
+    "traps": [
+     "原文字眼、錯誤關係：錢是國王付給騙子的。",
+     "",
+     "時序錯置：遊行在第三段。",
+     "原文字眼、錯誤關係：織布機上其實什麼都沒有。"
+    ]
    },
    {
-    "q": "Who first said the emperor had nothing on?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "A minister",
-     "A little child",
-     "The tricksters",
-     "The emperor"
+     "The emperor stopped the parade after hearing the child.",
+     "The officials told the emperor the truth at once.",
+     "A little child said the emperor had nothing on.",
+     "The story was published in 1937."
     ],
-    "a": 1,
+    "a": 2,
+    "evidence": "Then a little child shouted, “But the Emperor has nothing at all on!”",
     "why": "第三段。",
-    "evidence": "Then a little child shouted"
+    "traps": [
+     "正反顛倒：他繼續走下去。",
+     "正反顛倒：他們都說很美。",
+     "",
+     "數字錯位：1837 年。"
+    ]
    },
    {
-    "q": "What do psychologists call this situation?",
+    "type": "INF",
+    "q": "What does the writer suggest about the child in the story?",
     "options": [
-     "Pluralistic ignorance",
-     "Fake news",
-     "Peer pressure",
-     "Group thinking"
+     "It takes courage to say what everyone can see.",
+     "Children never understand adult problems.",
+     "The child wanted to become an official.",
+     "The child could see the magic cloth."
     ],
     "a": 0,
+    "evidence": "It takes courage to be the child who says what everyone sees.",
     "why": "最後一段。",
-    "evidence": "Psychologists call this “pluralistic ignorance”."
+    "traps": [
+     "",
+     "正反顛倒：孩子說出了大人不敢說的。",
+     "捏造：文中沒說孩子想當官。",
+     "正反顛倒：根本沒有布。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "Why does the trick work, according to the article?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "Because of fear",
-     "Because the cloth is real",
-     "Because of magic",
-     "Because the emperor is kind"
+     "Fear of looking foolish keeps a whole crowd silent until a child speaks.",
+     "Andersen invented the story without any older sources.",
+     "The emperor was a wise ruler who loved his soldiers.",
+     "The cloth could be seen only by true sons."
     ],
     "a": 0,
-    "why": "第二段。",
-    "evidence": "The trick works because of fear."
+    "evidence": "The trick works because of fear.",
+    "why": "第二段點出關鍵：恐懼讓大家不敢說實話。",
+    "traps": [
+     "",
+     "正反顛倒：故事改編自 1335 年的西班牙故事。",
+     "正反顛倒：他不在乎士兵和職責。",
+     "張冠李戴：那是西班牙原版的設定。"
+    ]
    },
    {
-    "q": "What does the emperor do after the child speaks?",
+    "type": "WD",
+    "q": "What does “rogues” in the first paragraph most likely mean?",
     "options": [
-     "Runs home",
-     "Decides the procession must go on",
-     "Arrests the child",
-     "Buys new clothes"
+     "Soldiers who guard the emperor.",
+     "Skilled workers who weave cloth.",
+     "Dishonest people who trick others.",
+     "Children who tell the truth."
+    ],
+    "a": 2,
+    "evidence": "Two rogues arrive claiming to be weavers.",
+    "why": "「聲稱」自己是織工，其實是騙子。",
+    "traps": [
+     "捏造：守衛國王的人沒在故事裡出現。",
+     "正反顛倒：他們只是假裝是織工。",
+     "",
+     "張冠李戴：說真話的是小孩。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Andersen read the Spanish story in its original language.",
+     "Andersen published the tale alongside “The Little Mermaid”.",
+     "The Indian version was written in 1835.",
+     "The emperor sent his least trusted ministers first."
     ],
     "a": 1,
-    "why": "第三段。",
-    "evidence": "he decides the procession must go on"
-   },
-   {
-    "q": "In the Spanish version, who could not see the cloth?",
-    "options": [
-     "Anyone who was not the true son of his supposed father",
-     "Anyone who was poor",
-     "Children",
-     "Women"
-    ],
-    "a": 0,
+    "evidence": "Andersen published the tale in 1837, alongside “The Little Mermaid”.",
     "why": "第四段。",
-    "evidence": "the cloth was invisible to anyone who was not the true son of his supposed father"
+    "traps": [
+     "正反顛倒：他讀的是德文譯本。",
+     "",
+     "數字錯位：1283 年。",
+     "正反顛倒：他派的是最信任的大臣。"
+    ]
    },
    {
-    "q": "When is the phrase “the emperor has no clothes” used today?",
+    "type": "INF",
+    "q": "Why did Andersen change the test of who could see the cloth?",
     "options": [
-     "When someone buys clothes",
-     "When a group pretends to believe something no one really believes",
-     "When it is cold",
-     "When a king dies"
+     "To make the cloth visible to everyone.",
+     "To make the story shorter for children.",
+     "To show that the emperor was not his father’s son.",
+     "To make the story focus on pride and fear of looking foolish."
     ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "whenever a group pretends to believe something that no one really believes"
+    "a": 3,
+    "evidence": "Andersen changed the test so that the story focused on pride and the fear of looking foolish.",
+    "why": "第四段。",
+    "traps": [
+     "正反顛倒：布根本不存在。",
+     "捏造：文中沒談故事長短。",
+     "張冠李戴：那是西班牙原版的設定。",
+     ""
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "What does the weavers’ claim turn perception into?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "A test of competence",
-     "A fashion show",
-     "A scientific experiment",
-     "A religious ritual"
-    ],
-    "a": 0,
-    "why": "第二段。",
-    "evidence": "This turns perception into a test of competence."
-   },
-   {
-    "q": "What was the effect of Andersen’s change to the source tale?",
-    "options": [
-     "It shifted the satire towards courtly pride and intellectual vanity",
-     "It made the story about money",
-     "It removed the emperor",
-     "It added magic"
-    ],
-    "a": 0,
-    "why": "第三段。",
-    "evidence": "he shifted the satire towards courtly pride and intellectual vanity"
-   },
-   {
-    "q": "Why does the child’s cry work, according to the writer?",
-    "options": [
-     "It reveals new information",
-     "It makes private knowledge public",
-     "The child is royal",
-     "The crowd is tired"
+     "To prove that Juan Manuel wrote the first fairy tale.",
+     "To explain why the tale’s picture of silence and courage still matters.",
+     "To describe how clothes were made in 1837.",
+     "To argue that rulers should never hold parades."
     ],
     "a": 1,
-    "why": "第四段。",
-    "evidence": "but because it makes private knowledge public"
+    "evidence": "The tale therefore teaches two lessons at once",
+    "why": "全文：故事的心理機制、來源改編，以及兩層教訓。",
+    "traps": [
+     "過度推論：他只是故事的來源之一。",
+     "",
+     "捏造：文中沒談 1837 年怎麼做衣服。",
+     "捏造：作者沒有這樣主張。"
+    ]
    },
    {
-    "q": "What does the ending suggest about exposure?",
+    "type": "WD",
+    "q": "What is “pluralistic ignorance” as described in the fourth paragraph?",
     "options": [
-     "It always produces change",
-     "It does not automatically produce change",
-     "It is impossible",
-     "It makes rulers kinder"
+     "A crowd that cannot see anything at all.",
+     "Many people know the truth and say it loudly.",
+     "A ruler who does not know his own people.",
+     "Most people privately doubt a belief but think others accept it."
     ],
-    "a": 1,
+    "a": 3,
+    "evidence": "a situation in which most members of a group privately reject a belief but wrongly assume that most others accept it",
+    "why": "第四段的定義。",
+    "traps": [
+     "字面誤讀：問題不在看不見，而在不敢說。",
+     "正反顛倒：大家都不敢說。",
+     "原文字眼、錯誤關係：國王是故事的人物，不是概念的定義。",
+     ""
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The tale was first published in Copenhagen on 7 April 1837.",
+     "In the Spanish source, the cloth tested intelligence.",
+     "The child’s cry gave the crowd new information.",
+     "The emperor ended the procession immediately."
+    ],
+    "a": 0,
+    "evidence": "First published in Copenhagen on 7 April 1837",
+    "why": "第一段。",
+    "traps": [
+     "",
+     "張冠李戴：西班牙原版測的是是否為親生子。",
+     "正反顛倒：原文 not because it reveals new information。",
+     "正反顛倒：他決定繼續遊行。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What does the emperor’s decision to continue the procession suggest?",
+    "options": [
+     "The crowd forgot what the child had said.",
+     "The emperor finally believed he was wearing clothes.",
+     "Exposing a falsehood does not automatically lead to change.",
+     "The weavers returned to finish the cloth."
+    ],
+    "a": 2,
+    "evidence": "Exposure does not automatically produce change",
     "why": "最後一段。",
-    "evidence": "Exposure does not automatically produce change"
+    "traps": [
+     "正反顛倒：真相立刻傳遍人群。",
+     "正反顛倒：他知道人們是對的。",
+     "",
+     "捏造：騙子沒有再回來。"
+    ]
    }
   ]
  },

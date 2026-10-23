@@ -291,152 +291,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "What do people with a growth mindset believe?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "Ability cannot change",
-     "Ability can grow with effort",
-     "Only geniuses succeed",
-     "Grades are not important"
+     "How to make posters for a wall in your classroom.",
+     "A popular learning idea and how much it really helps.",
+     "Why children like puzzles much more than tests.",
+     "How Carol Dweck became a teacher at a school."
     ],
     "a": 1,
-    "why": "第一段。",
-    "evidence": "People with a growth mindset think ability can grow with effort."
+    "evidence": "Scientists still argue about how much growth mindset really helps.",
+    "why": "全文：成長型思維是什麼、為何流行、實際效果如何。",
+    "traps": [
+     "以偏概全：海報只是它流行的例子。",
+     "",
+     "過度推論：拼圖只是實驗工具。",
+     "捏造：她是心理學家。"
+    ]
    },
    {
-    "q": "In the 1998 study, which children kept trying longer?",
+    "type": "REF",
+    "q": "What does “this idea” in the third paragraph refer to?",
     "options": [
-     "Children praised for being smart",
-     "Children praised for working hard",
-     "Children who were not praised",
-     "All children equally"
+     "The idea of using online lessons.",
+     "The idea of praising children for being smart.",
+     "The idea that puzzles are difficult.",
+     "The idea of a growth mindset."
     ],
-    "a": 1,
+    "a": 3,
+    "evidence": "People with a growth mindset think ability can grow with effort.",
+    "why": "第三段開頭 The idea became very popular，指的就是成長型思維。",
+    "traps": [
+     "時序錯置：線上課程是第四段的研究。",
+     "正反顛倒：誇聰明是實驗中效果較差的做法。",
+     "原文字眼、錯誤關係：拼圖只是實驗工具。",
+     ""
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Children praised for effort kept trying longer on hard puzzles.",
+     "Children praised for being smart enjoyed the work more.",
+     "The 2023 review found large effects on grades.",
+     "The 2019 lesson helped top students the most."
+    ],
+    "a": 0,
+    "evidence": "the children praised for effort kept trying longer and enjoyed the work more",
     "why": "第二段。",
-    "evidence": "the children praised for effort kept trying longer"
+    "traps": [
+     "",
+     "張冠李戴：是被誇努力的孩子更享受。",
+     "正反顛倒：最好的研究幾乎沒有效果。",
+     "張冠李戴：幫助的是成績較差的學生。"
+    ]
    },
    {
-    "q": "What did the 2023 review find about the best studies?",
+    "type": "INF",
+    "q": "What does the writer conclude about growth mindset?",
     "options": [
-     "Huge effects",
-     "Almost no effect on grades",
-     "Negative effects",
-     "They were not finished"
+     "It is a kind of magic that works for every student.",
+     "A poster on the wall alone can change students’ grades.",
+     "It may help when joined with good teaching and practice.",
+     "It has been proved to be completely useless for students."
     ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "the best studies showed almost no effect on grades"
-   },
-   {
-    "q": "What does the writer say about posters?",
-    "options": [
-     "They change grades",
-     "A poster alone will not change your grades",
-     "They are banned",
-     "They are the best method"
-    ],
-    "a": 1,
+    "a": 2,
+    "evidence": "especially when it comes with good teaching, real practice and friends who also try hard",
     "why": "最後一段。",
-    "evidence": "A poster alone will not change your grades."
+    "traps": [
+     "正反顛倒：原文 Growth mindset is probably not magic。",
+     "正反顛倒：原文 A poster alone will not change your grades。",
+     "",
+     "過度推論：作者說它可能仍有幫助。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "What did children praised for intelligence care more about?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "Learning",
-     "Looking good",
-     "Helping others",
-     "Playing"
+     "Carol Dweck has stopped believing in her own theory.",
+     "Growth mindset lessons always raise students’ grades.",
+     "Growth mindset has real insight but is often oversold.",
+     "Fixed mindsets help students more than growth mindsets."
     ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "cared more about looking good than about learning"
-   },
-   {
-    "q": "What did the 2018 meta-analyses find?",
-    "options": [
-     "Strong effects",
-     "Weak overall effects",
-     "No students took part",
-     "Mindset harms learning"
-    ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "were weak"
-   },
-   {
-    "q": "Where did the 2019 online lesson improve grades most?",
-    "options": [
-     "In all schools equally",
-     "In schools where peer norms matched its message",
-     "Only in private schools",
-     "Only for top students"
-    ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "mainly in schools where the peer norms matched its message"
-   },
-   {
-    "q": "What “useful lesson” does the debate offer?",
-    "options": [
-     "Psychology is useless",
-     "A theory can contain real insight and still be oversold",
-     "Praise is harmful",
-     "Grades never change"
-    ],
-    "a": 1,
+    "a": 2,
+    "evidence": "A theory can contain real insight and still be oversold.",
     "why": "最後一段。",
-    "evidence": "A theory can contain real insight and still be oversold."
+    "traps": [
+     "捏造：Dweck 參與了 2019 年的研究。",
+     "以偏概全：大型回顧的效果很小。",
+     "",
+     "正反顛倒：理論主張成長型思維較好。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “oversold” in the last paragraph most likely mean?",
+    "options": [
+     "Praised more than the evidence supports.",
+     "Sold at too low a price.",
+     "Taught to too few students.",
+     "Proved to be completely false."
+    ],
+    "a": 0,
+    "evidence": "A theory can contain real insight and still be oversold.",
+    "why": "前後文：有真知灼見，但被說得比證據更好。",
+    "traps": [
+     "",
+     "字面誤讀：sell 在這裡不是買賣。",
+     "正反顛倒：它被推廣得很廣。",
+     "過度推論：作者說它仍有真知灼見。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The 2019 study did not pre-register its analyses.",
+     "The 1998 studies were done with university students.",
+     "The 2023 review found strong effects in the best studies.",
+     "The 2019 online lesson lasted less than an hour."
+    ],
+    "a": 3,
+    "evidence": "a short online lesson, lasting less than an hour",
+    "why": "第四段。",
+    "traps": [
+     "正反顛倒：他們有預先登記分析。",
+     "張冠李戴：是五年級學生。",
+     "正反顛倒：最高品質的研究沒有顯著效果。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Why did the 2019 lesson work mainly in some schools?",
+    "options": [
+     "Those schools had more posters on the walls.",
+     "Peer norms in those schools matched the lesson’s message.",
+     "Those students had been praised for being smart.",
+     "Those teachers had read the 2023 review."
+    ],
+    "a": 1,
+    "evidence": "mainly in schools where the peer norms matched its message",
+    "why": "第四段。",
+    "traps": [
+     "捏造：文中沒有比較海報數量。",
+     "",
+     "張冠李戴：誇聰明是 1998 年的實驗條件。",
+     "時序錯置：2023 年的回顧在 2019 年之後。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "Why has mindset theory inspired so many school interventions?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "Beliefs seem easier to change than circumstances",
-     "It is required by law",
-     "It costs nothing",
-     "It was proven in 1998"
+     "To describe Carol Dweck’s early career as a psychologist.",
+     "To prove that mindset interventions never work for anyone.",
+     "To argue that teachers should stop praising students’ effort.",
+     "To use mindset research to show how to judge school ideas."
+    ],
+    "a": 3,
+    "evidence": "Its popularity makes it an ideal case study in how educational ideas should be evaluated.",
+    "why": "第一段點題，後面依序檢視證據。",
+    "traps": [
+     "以偏概全：只在第一段提到她。",
+     "過度推論：作者說效果較小、較有條件，不是完全無效。",
+     "正反顛倒：作者說稱讚努力是合理的。",
+     ""
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "Which of the following is closest in meaning to “malleable” in the first paragraph?",
+    "options": [
+     "Fixed from the moment of birth.",
+     "Able to be changed or shaped.",
+     "Easy to measure with a test.",
+     "Shared equally by everyone."
+    ],
+    "a": 1,
+    "evidence": "the belief that attributes such as intelligence are malleable with effort",
+    "why": "和 fixed mindset 對照：可以透過努力改變。",
+    "traps": [
+     "正反顛倒：那是 fixed mindset。",
+     "",
+     "捏造：文中沒有。重點是能不能改變。",
+     "捏造：文中沒提平均分配。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The 2023 review examined 273 studies.",
+     "Sisk’s 2018 analyses found strong overall effects.",
+     "Authors with a financial incentive reported larger effects.",
+     "The 2019 study was checked only by Dweck herself."
+    ],
+    "a": 2,
+    "evidence": "found that authors with a financial incentive reported larger effects",
+    "why": "第三段。",
+    "traps": [
+     "數字錯位：2023 年檢視 63 篇，273 篇是 2018 年的分析。",
+     "正反顛倒：整體效果很弱。",
+     "",
+     "正反顛倒：資料由獨立單位收集，也做了盲測分析。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What pattern in applied psychology does the author describe?",
+    "options": [
+     "Effects shrink when ideas are scaled up and simplified.",
+     "Every popular idea is proved stronger as time goes by.",
+     "Small, careful studies are always wrong about effects.",
+     "Marketing an idea makes the research more accurate."
     ],
     "a": 0,
-    "why": "第一段。",
-    "evidence": "Because beliefs seem easier to change than circumstances"
-   },
-   {
-    "q": "Which students might benefit, according to Sisk and colleagues?",
-    "options": [
-     "Top students",
-     "Students from low socioeconomic backgrounds or at academic risk",
-     "University students only",
-     "No students"
-    ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "students from low socioeconomic backgrounds or at academic risk might benefit"
-   },
-   {
-    "q": "What did Macnamara and Burgoyne find about authors with a financial incentive?",
-    "options": [
-     "They reported smaller effects",
-     "They reported larger effects",
-     "They did no studies",
-     "They agreed with critics"
-    ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "authors with a financial incentive reported larger effects"
-   },
-   {
-    "q": "What is the writer’s “most defensible conclusion”?",
-    "options": [
-     "Mindset theory is completely false",
-     "Praising effort is reasonable, but no brief intervention replaces good teaching and practice",
-     "Every school should use posters",
-     "Intelligence is fixed"
-    ],
-    "a": 1,
+    "evidence": "A genuine insight from small, carefully controlled studies is scaled up, simplified and marketed, and its effects shrink under rigorous testing.",
     "why": "最後一段。",
-    "evidence": "praising effort and strategy is reasonable, but no brief intervention substitutes for good teaching"
+    "traps": [
+     "",
+     "正反顛倒：效果會縮小。",
+     "過度推論：作者說原本的洞見不是沒價值。",
+     "正反顛倒：行銷讓概念被簡化。"
+    ]
    }
   ]
  },

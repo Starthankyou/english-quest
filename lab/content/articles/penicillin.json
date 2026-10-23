@@ -291,152 +291,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "What did Fleming see on one dish?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "New bacteria",
-     "Mould, with dead bacteria around it",
-     "Nothing",
-     "A crack"
+     "How Alexander Fleming spent his holiday in Scotland.",
+     "How a lucky discovery became a medicine through teamwork.",
+     "Why mice are better than people for testing medicine.",
+     "How to grow mould in hospital bedpans at home."
     ],
     "a": 1,
-    "why": "第一段。",
-    "evidence": "mould was growing on one dish, and the bacteria around the mould were dead"
+    "evidence": "Great discoveries often need both luck and teamwork.",
+    "why": "最後一段點題。",
+    "traps": [
+     "捏造：文中沒說他去哪裡度假。",
+     "",
+     "捏造：文中沒有比較。",
+     "捏造：便盆形狀的罐子是牛津團隊的工具。"
+    ]
    },
    {
-    "q": "What happened to Fleming’s article?",
+    "type": "REF",
+    "q": "What does “it” in “Florey called it “a miracle”” refer to?",
     "options": [
-     "It won a prize",
-     "Few people paid attention",
-     "It was banned",
-     "It was lost"
+     "The Nobel Prize in 1945.",
+     "The mould on Fleming’s dish.",
+     "The science journal Fleming wrote for.",
+     "The result of the test on eight mice."
     ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "few people paid attention"
+    "a": 3,
+    "evidence": "The four mice with penicillin were still alive the next day.",
+    "why": "前一句：用了盤尼西林的四隻老鼠活下來，這個結果被稱為奇蹟。",
+    "traps": [
+     "時序錯置：諾貝爾獎是 1945 年。",
+     "時序錯置：黴菌是 1928 年的事。",
+     "原文字眼、錯誤關係：期刊沒什麼人注意。",
+     ""
+    ]
    },
    {
-    "q": "What happened to the mice with penicillin?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "They died",
-     "They were still alive the next day",
-     "They got sicker",
-     "They ran away"
+     "The policeman got better but died when the drug ran out.",
+     "Fleming made enough pure penicillin for many patients.",
+     "All eight of the mice in the test were given penicillin.",
+     "Fleming won the Nobel Prize in 1945 by himself."
     ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "The four mice with penicillin were still alive the next day."
+    "a": 0,
+    "evidence": "He started to get better, but they ran out of penicillin, and he died.",
+    "why": "第四段。",
+    "traps": [
+     "",
+     "正反顛倒：他無法做出足夠的純盤尼西林。",
+     "數字錯位：只有四隻接受治療。",
+     "正反顛倒：三人共同獲獎。"
+    ]
    },
    {
-    "q": "What does the article say great discoveries often need?",
+    "type": "INF",
+    "q": "What does the 1942 example show about penicillin at that time?",
     "options": [
-     "Only luck",
-     "Both luck and teamwork",
-     "Lots of money",
-     "A Nobel Prize"
+     "It was used mainly for mice.",
+     "It was cheap and easy to buy.",
+     "It was still extremely scarce.",
+     "It was made only in Oxford."
     ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "Great discoveries often need both luck and teamwork."
+    "a": 2,
+    "evidence": "one of the first American patients treated with penicillin used half of all the penicillin made in the country at that time",
+    "why": "一位病人就用掉全美一半的產量，可見極度稀少。",
+    "traps": [
+     "時序錯置：老鼠實驗是 1940 年。",
+     "正反顛倒：一人就用掉全美一半，可見藥量極少。",
+     "",
+     "正反顛倒：這是在美國的例子。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "When did Fleming name penicillin?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "3 September 1928",
-     "7 March 1929",
-     "25 May 1940",
-     "1945"
+     "Guinea pigs were used in the first successful tests.",
+     "Fleming gave up penicillin soon after discovering it.",
+     "Penicillin needed years of team effort after Fleming’s lucky discovery.",
+     "The policeman Albert Alexander was fully cured in 1941."
     ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "on 7 March 1929, named its active substance penicillin"
-   },
-   {
-    "q": "Is it true that Fleming abandoned the work?",
-    "options": [
-     "Yes, completely",
-     "No, but he could not purify useful amounts",
-     "He gave it to Florey in 1929",
-     "He destroyed his notes"
-    ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "Fleming did not abandon the work, as is sometimes claimed"
-   },
-   {
-    "q": "What did Norman Heatley realise?",
-    "options": [
-     "That mice were the best test animals",
-     "That vessels shaped like bedpans worked well for growing the mould",
-     "That penicillin was toxic",
-     "That Fleming was wrong"
-    ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "realised that vessels shaped like hospital bedpans worked well"
-   },
-   {
-    "q": "What is the writer’s main point about chance?",
-    "options": [
-     "Chance does everything",
-     "Chance may start a discovery, but it rarely finishes one",
-     "Chance is not important",
-     "Only teams matter"
-    ],
-    "a": 1,
+    "a": 2,
+    "evidence": "the mould on Fleming’s dish became a medicine only through more than a decade of patient work by many people",
     "why": "最後一段。",
-    "evidence": "Chance may start a discovery, but it rarely finishes one."
+    "traps": [
+     "正反顛倒：用的是老鼠，天竺鼠對盤尼西林有毒。",
+     "正反顛倒：原文 Fleming did not abandon the work。",
+     "",
+     "正反顛倒：藥用完，他死了。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “stalled” in the second paragraph most likely mean?",
+    "options": [
+     "Stopped making progress.",
+     "Became very famous.",
+     "Moved to another country.",
+     "Was proved to be wrong."
+    ],
+    "a": 0,
+    "evidence": "Yet the discovery nearly stalled.",
+    "why": "後面說論文沒人理、無法純化，可知是「停滯不前」。",
+    "traps": [
+     "",
+     "正反顛倒：論文幾乎沒人注意。",
+     "捏造：突破來自牛津，但發現本身沒「搬家」。",
+     "正反顛倒：發現是對的，只是進展停住。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Florey gave penicillin to all eight mice.",
+     "Fleming named penicillin in September 1928.",
+     "Heatley was the policeman treated in 1941.",
+     "Penicillin is toxic to guinea pigs."
+    ],
+    "a": 3,
+    "evidence": "penicillin is toxic to guinea pigs",
+    "why": "第三段。",
+    "traps": [
+     "數字錯位：只給了四隻。",
+     "數字錯位：1929 年 3 月 7 日命名。",
+     "張冠李戴：Heatley 是生化學家，警察是 Albert Alexander。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Why was the Oxford team “lucky in its choice of animals”?",
+    "options": [
+     "Mice were cheaper than any other animal.",
+     "Testing on guinea pigs might have stopped the research.",
+     "The mice had already been treated by Fleming.",
+     "Guinea pigs could not catch the bacteria."
+    ],
+    "a": 1,
+    "evidence": "penicillin is toxic to guinea pigs, so testing on them might have stopped the research",
+    "why": "第三段。",
+    "traps": [
+     "捏造：文中沒提價格。",
+     "",
+     "張冠李戴：Fleming 沒有做動物實驗。",
+     "捏造：問題在盤尼西林對天竺鼠有毒。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "What does the usual anecdote omit, according to the writer?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "The date of the discovery",
-     "How close the discovery came to having no practical consequence",
-     "Fleming’s holiday",
-     "The name of the mould"
+     "To explain how bacteria become resistant to modern drugs.",
+     "To prove that Fleming’s discovery was not really an accident.",
+     "To describe the Second World War and its battles in detail.",
+     "To show that the popular story leaves out years of teamwork."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "What it omits is how close the discovery came to having no practical consequence at all."
+    "a": 3,
+    "evidence": "That selective memory distorts how discovery works.",
+    "why": "最後一段：大眾只記得第一章，扭曲了科學發現的實況。",
+    "traps": [
+     "捏造：文中沒談抗藥性。",
+     "正反顛倒：作者承認這是意外。",
+     "以偏概全：二戰只是量產的推力。",
+     ""
+    ]
    },
    {
-    "q": "What was Fleming more interested in at first?",
+    "type": "WD",
+    "q": "What does “serendipity” in the first paragraph most likely mean?",
     "options": [
-     "Curing patients",
-     "Using penicillin to isolate bacteria in the laboratory",
-     "Selling it",
-     "Winning a prize"
+     "Careful planning over many years.",
+     "Finding something valuable by chance.",
+     "Working closely with other scientists.",
+     "Losing an important discovery."
     ],
     "a": 1,
+    "evidence": "Fleming himself later reflected that “one sometimes finds what one is not looking for”.",
+    "why": "後面引言：有時找到的不是自己在找的東西，也就是意外的好運。",
+    "traps": [
+     "正反顛倒：這是後來團隊的長期努力。",
+     "",
+     "張冠李戴：團隊合作是作者認為被忽略的部分。",
+     "正反顛倒：發現差點沒有成果，但沒有遺失。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Florey’s team at Oxford included only two scientists.",
+     "Fleming was mainly interested in penicillin as a medicine.",
+     "Fleming’s notebooks show work on production as late as 1939.",
+     "Heatley’s ceramic vessels were shaped like small test tubes."
+    ],
+    "a": 2,
+    "evidence": "his notebooks show attempts to improve production as late as 1939",
     "why": "第二段。",
-    "evidence": "more interested in its use for isolating bacteria in the laboratory"
+    "traps": [
+     "數字錯位：團隊還有 Heatley、Abraham、Jennings 等人。",
+     "正反顛倒：他更有興趣用它分離細菌。",
+     "",
+     "捏造：是像醫院便盆的形狀。"
+    ]
    },
    {
-    "q": "Why did Albert Alexander die?",
+    "type": "INF",
+    "q": "What does the recovery of penicillin from a patient’s urine suggest?",
     "options": [
-     "Penicillin was toxic",
-     "There was not enough penicillin",
-     "He was not treated",
-     "He had the wrong disease"
+     "Supplies were so limited that it had to be reused.",
+     "Penicillin worked much better after it had been reused.",
+     "The patient did not really need any more penicillin.",
+     "Industrial production had already started in Britain by then."
     ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "yet it was not enough, and he relapsed and died"
-   },
-   {
-    "q": "How does the writer describe the work that turned penicillin into a medicine?",
-    "options": [
-     "Quick and lucky",
-     "Patient, collaborative and often unglamorous",
-     "Done by Fleming alone",
-     "Funded by a company"
-    ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "the patient, collaborative and often unglamorous labour"
+    "a": 0,
+    "evidence": "Even so, supplies were desperately limited.",
+    "why": "第四段：藥量少到要從尿液回收再用。",
+    "traps": [
+     "",
+     "捏造：文中沒有。重點是數量不足。",
+     "正反顛倒：他病情改善，但藥不夠而死。",
+     "時序錯置：工業化生產是後來的事。"
+    ]
    }
   ]
  },
@@ -463,5 +547,166 @@
    "zh": "1964 年拍攝的教育影片，介紹青黴素的發現與研發。（12 分鐘）",
    "question": "What can you learn from a film made only twenty years after the Nobel Prize?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "On 3 September 1928, returning from a holiday in Suffolk, Alexander Fleming noticed something strange in his laboratory at St Mary’s Hospital, London. A dish of staphylococci (a type of bacteria) had been contaminated by a fungus, and the bacteria immediately surrounding it had been destroyed. “One sometimes finds what one is not looking for,” Fleming later reflected. The episode is usually told as a lesson in lucky discovery. What it leaves out is how close the discovery came to having no practical result at all.",
+    "1928 年 9 月 3 日，亞歷山大・弗萊明從薩福克度假回來，在倫敦聖瑪麗醫院的實驗室發現了怪事：一個培養葡萄球菌（一種細菌）的皿被真菌污染，緊鄰真菌的細菌都被消滅了。弗萊明後來回想：「人有時會找到自己沒在找的東西。」這段插曲通常被當成幸運發現的例子，但它沒說的是：這項發現差一點就毫無實際成果。"
+   ],
+   [
+    "Fleming named the active substance penicillin on 7 March 1929 and reported his findings in the British Journal of Experimental Pathology, but the article attracted little notice. Uncertain of its value as a medicine, he was more interested in using it to isolate bacteria in the laboratory. Contrary to a popular claim, he did not abandon the work—his notebooks show attempts to improve production as late as 1939. Yet neither he nor his collaborators managed to purify penicillin in usable amounts.",
+    "弗萊明在 1929 年 3 月 7 日把這種活性物質命名為盤尼西林，並發表在《英國實驗病理學期刊》，但文章幾乎沒人注意。他不確定它當藥有多少價值，反而比較想用它在實驗室裡分離細菌。和流行的說法相反，他沒有放棄——筆記顯示他直到 1939 年還在嘗試改良產量。但他和合作者都沒能提煉出可用份量的純盤尼西林。"
+   ],
+   [
+    "It was in Oxford, not London, that the turning point came. Starting in 1939, a team led by Howard Florey and Ernst Chain developed methods to grow the mould, extract penicillin, and measure its purity. On 25 May 1940, Florey infected eight mice with a deadly strain of bacteria and treated four of them. By early the next morning, all four untreated mice were dead, while all four treated ones were alive—a result Florey called “a miracle.”",
+    "轉折點出現在牛津，而不是倫敦。從 1939 年起，弗洛里和柴恩帶領的團隊發展出培養黴菌、萃取盤尼西林、測量純度的方法。1940 年 5 月 25 日，弗洛里讓八隻老鼠感染致命細菌，並治療其中四隻。隔天清晨，四隻沒治療的全死了，四隻治療過的都活著——弗洛里稱之為「奇蹟」。"
+   ],
+   [
+    "Producing enough of the drug for humans, however, proved far harder than proving that it worked. Norman Heatley, a member of the team, realized that vessels shaped like hospital bedpans were ideal for growing the mould, and his ceramic versions turned the Oxford laboratory into the first penicillin factory. Even so, supplies were so limited that penicillin was recovered from a patient’s urine to be reused. That patient, a policeman named Albert Alexander, improved dramatically under treatment, but the supply was not enough, and he relapsed and died. Not until industrial production began in Britain and the United States, driven by the demands of the Second World War, did the drug become widely available.",
+    "然而要生產足夠給人用的藥，比證明它有效難得多。團隊成員諾曼・希特利發現形狀像醫院便盆的容器最適合培養黴菌，他做的陶瓷版本把牛津實驗室變成第一座盤尼西林工廠。即使如此，藥量少到必須從病人的尿液回收盤尼西林再用。那位病人是警察亞伯特・亞歷山大，他在治療下大幅好轉，但藥量不夠，病情復發而死。直到英美在二戰需求推動下展開工業化生產，盤尼西林才普及。"
+   ],
+   [
+    "In 1945, Fleming, Florey and Chain shared the Nobel Prize in Physiology or Medicine. Popular memory, however, has largely preserved only the first chapter of the story. Fleming’s observation was necessary, but it was years of patient, collaborative work by chemists, pathologists and technicians that turned a curiosity on a dish into a life-saving medicine. Chance may open a door; it takes sustained effort to walk through it.",
+    "1945 年，弗萊明、弗洛里和柴恩共同獲得諾貝爾生理醫學獎。然而大眾記憶大多只保留了故事的第一章。弗萊明的觀察固然必要，但把培養皿上的奇特現象變成救命藥物的，是化學家、病理學家和技術人員多年耐心的合作。機運也許能打開一扇門，要走過去卻得靠持續的努力。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
+    "options": [
+     "To prove that Fleming’s discovery was not really an accident.",
+     "To show that turning a lucky discovery into a medicine took many people’s effort.",
+     "To explain why Fleming gave up his research on penicillin.",
+     "To describe how penicillin saved soldiers during the Second World War."
+    ],
+    "a": 1,
+    "evidence": "it was years of patient, collaborative work by chemists, pathologists and technicians",
+    "why": "第一段提出「這個故事少說了什麼」，第二到五段說明從發現到藥物靠的是許多人多年的合作。",
+    "traps": [
+     "正反顛倒：文中承認是意外（finds what one is not looking for），重點在意外之後。",
+     "",
+     "正反顛倒：原文 Contrary to a popular claim, he did not abandon the work。",
+     "原文字眼、錯誤關係：二戰只用來說明工業生產的推力，文中沒寫救了士兵。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “the first chapter of the story” in the last paragraph refer to?",
+    "options": [
+     "Fleming’s chance discovery in 1928.",
+     "The Oxford team’s experiment on mice.",
+     "The earliest article published about penicillin.",
+     "The Nobel Prize awarded in 1945."
+    ],
+    "a": 0,
+    "evidence": "Popular memory, however, has largely preserved only the first chapter of the story.",
+    "why": "大眾只記得「幸運的開頭」，也就是 1928 年的意外發現；下一句 Fleming’s observation was necessary 也在呼應。",
+    "traps": [
+     "",
+     "時序錯置：老鼠實驗是 1940 年的轉折點，不是開頭。",
+     "字面誤讀：把 chapter 理解成真正的出版品；1929 年的文章也不是故事的起點。",
+     "時序錯置：諾貝爾獎是故事的結尾。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Fleming’s 1929 article quickly attracted the attention of other scientists.",
+     "Florey treated all eight mice, and all of them survived.",
+     "Albert Alexander was the first patient to be fully cured by penicillin.",
+     "Penicillin was so scarce that some of it was collected and used again."
+    ],
+    "a": 3,
+    "evidence": "supplies were so limited that penicillin was recovered from a patient’s urine to be reused",
+    "why": "正解把 recovered … to be reused 改寫成 collected and used again，so limited 改寫成 so scarce。",
+    "traps": [
+     "正反顛倒：原文 attracted little notice。",
+     "數字錯位：八隻只治療四隻，活下來的是治療過的四隻。",
+     "正反顛倒：他好轉後又 relapsed and died。",
+     ""
+    ]
+   },
+   {
+    "type": "INS",
+    "q": "Here is a sentence: “The question was no longer whether penicillin worked, but how to make enough of it.” Which paragraph is most suitable to have it as the final sentence?",
+    "options": [
+     "Paragraph 1.",
+     "Paragraph 2.",
+     "Paragraph 3.",
+     "Paragraph 4."
+    ],
+    "a": 2,
+    "evidence": "all four treated ones were alive—a result Florey called “a miracle.”",
+    "why": "第三段結尾的老鼠實驗證明「有效」，第四段開頭就講「量產比證明有效更難」，這句正好銜接兩段。",
+    "traps": [
+     "時序錯置：第一段時還不知道它有沒有效。",
+     "時序錯置：第二段的問題是「純化不出來」，還沒證明有效。",
+     "",
+     "位置陷阱：第四段已經在講量產，而且最後一句已經講到普及，再放這句就重複了。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Fleming’s article on penicillin attracted little [47], and it took years of patient, [48] work by many people to turn his discovery into a medicine.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "notice"
+      ],
+      "partial": [
+       "notices",
+       "noticed",
+       "attention"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "collaborative"
+      ],
+      "partial": [
+       "collaboration",
+       "collaborate",
+       "collaborators"
+      ]
+     }
+    ],
+    "why": "第一格出自第二段 attracted little notice；第二格出自第五段 patient, collaborative work（第二段的 collaborators 是名詞，這裡要用形容詞）。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following were done by the Oxford team? Choose ALL that apply.",
+    "options": [
+     "Developing methods to grow the mould and measure its purity.",
+     "First noticing that the mould destroyed bacteria.",
+     "Testing penicillin on infected mice.",
+     "Making ceramic vessels for growing the mould.",
+     "Naming the substance penicillin.",
+     "Starting industrial production in the United States."
+    ],
+    "a": [
+     0,
+     2,
+     3
+    ],
+    "why": "A、C 第三段；D 第四段。B、E 張冠李戴（是弗萊明）；F 張冠李戴（是英美的工業化生產，不是牛津團隊）。"
+   },
+   {
+    "kind": "short",
+    "q": "What did Florey call the result of the mouse experiment?",
+    "answer": [
+     "a miracle",
+     "miracle"
+    ],
+    "why": "第三段最後一句。"
+   }
+  ]
+ }
 }

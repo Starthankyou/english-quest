@@ -280,152 +280,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "In the original novel, who is Frankenstein?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "The monster",
-     "The young scientist who makes the creature",
-     "A poet",
-     "Mary Shelley’s friend"
+     "How Lord Byron wrote a famous ghost story in Switzerland.",
+     "How a lonely creature became cruel because nobody accepted him.",
+     "How to build a living being from dead body parts.",
+     "Why the monster in the novel is called Frankenstein."
     ],
     "a": 1,
-    "why": "第一段。",
-    "evidence": "Victor Frankenstein is the young scientist who makes the creature."
+    "evidence": "He tells Victor: “I was benevolent and good; misery made me a fiend.”",
+    "why": "全文：被遺棄、被排斥的生物如何從善良變得殘酷，以及誰才是真正的怪物。",
+    "traps": [
+     "張冠李戴：寫出《科學怪人》的是 Mary Shelley，Byron 只是提議寫鬼故事的人。",
+     "",
+     "以偏概全：這只是小說情節的開頭。",
+     "正反顛倒：原文說怪物從來沒有名字，Frankenstein 是科學家。"
+    ]
    },
    {
-    "q": "How old was Mary when the ghost-story idea began?",
+    "type": "REF",
+    "q": "What does “He” in “He runs away and leaves the creature alone” refer to?",
     "options": [
-     "12",
-     "18",
-     "25",
-     "40"
+     "A friend who stayed near Lake Geneva.",
+     "Lord Byron, the poet who told ghost stories.",
+     "The creature, who wanted to be loved.",
+     "Victor, the scientist who made the creature."
     ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "Mary was only 18 years old."
+    "a": 3,
+    "evidence": "In the book, Victor builds a living being from dead body parts.",
+    "why": "第三段的主詞一直是 Victor：他造出生物、看到它的樣子嚇壞了，然後逃走。",
+    "traps": [
+     "捏造：朋友們只在寫作背景中出現。",
+     "時序錯置：Byron 在第二段。",
+     "張冠李戴：被丟下的才是怪物。",
+     ""
+    ]
    },
    {
-    "q": "What does Victor do when the creature opens its eyes?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "He hugs it",
-     "He runs away and leaves it alone",
-     "He gives it a name",
-     "He teaches it to read"
+     "Mary Shelley was only 18 when the group decided to write ghost stories.",
+     "The novel Frankenstein was published in the summer of 1816.",
+     "The creature was evil from the moment he opened his eyes.",
+     "Victor gave the creature a name after he made it."
     ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "He runs away and leaves the creature alone."
+    "a": 0,
+    "evidence": "Mary was only 18 years old.",
+    "why": "第二段：1816 年夏天，Mary 只有 18 歲。",
+    "traps": [
+     "",
+     "時序錯置：1816 是寫故事的時間，出版是 1818 年。",
+     "正反顛倒：原文 The creature is not evil at first。",
+     "正反顛倒：原文 The creature himself never gets a name。"
+    ]
    },
    {
-    "q": "What does the creature want at first?",
+    "type": "INF",
+    "q": "What lesson does the writer draw from the story?",
     "options": [
-     "Revenge",
-     "Friends and to be loved",
-     "Money",
-     "To go to school"
+     "Rainy weather is the best time to write stories.",
+     "Scientists should never try to build living things.",
+     "The way we treat others can change who they become.",
+     "Ugly people are usually more dangerous than others."
     ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "He wants friends and wants to be loved."
+    "a": 2,
+    "evidence": "It reminds us that how we treat others can change who they become.",
+    "why": "最後一段的結論。",
+    "traps": [
+     "原文字眼、錯誤關係：下雨只是寫作的背景。",
+     "過度推論：作者沒有這樣下結論。",
+     "",
+     "正反顛倒：故事要說的正是不該以貌取人。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "Why does the writer say the creature is called “anything but a person”?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "He is given only labels like “the wretch” and “the fiend”",
-     "He is a robot",
-     "He is an animal",
-     "He has many names"
-    ],
-    "a": 0,
-    "why": "第一段。",
-    "evidence": "He is called “the creature”, “the wretch”, “the fiend” — anything but a person."
-   },
-   {
-    "q": "When and how was the novel first published?",
-    "options": [
-     "In 1816 with Mary’s name",
-     "Anonymously on 1 January 1818",
-     "In 1821 in English",
-     "In 1900 as a film"
-    ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "published anonymously on 1 January 1818"
-   },
-   {
-    "q": "How does the creature learn to speak and read?",
-    "options": [
-     "Victor teaches him",
-     "He goes to school",
-     "By secretly watching a family",
-     "From a book Byron gave him"
+     "Victor Frankenstein was a kind scientist who loved his creation.",
+     "Popular culture has described the creature exactly as Mary Shelley did.",
+     "The novel shows how rejection, not birth, turned the creature into a monster.",
+     "Lord Byron wrote the most famous ghost story of 1816."
     ],
     "a": 2,
-    "why": "第三段。",
-    "evidence": "Secretly watching a family through a gap in a wall, he even teaches himself to speak and read."
+    "evidence": "Rejected again and again, the creature turns to revenge.",
+    "why": "第三、四段：被遺棄、被拒絕，生物才轉向復仇。",
+    "traps": [
+     "正反顛倒：Victor 一成功就厭惡地拋棄了它。",
+     "正反顛倒：大眾文化把他變成了笨重的怪物，和原著不同。",
+     "",
+     "張冠李戴：流傳下來的是 Mary 的作品。"
+    ]
    },
    {
-    "q": "What uncomfortable question does the last paragraph leave?",
+    "type": "WD",
+    "q": "What does “abandons” in the third paragraph most likely mean?",
     "options": [
-     "Whether science is useful",
-     "How much of the creature’s monstrosity was caused by others",
-     "Why the weather was cold",
-     "Who invented electricity"
+     "Leaves someone alone without help.",
+     "Builds something from dead matter.",
+     "Teaches someone to speak and read.",
+     "Gives someone a new name."
+    ],
+    "a": 0,
+    "evidence": "The creature, alone and confused, must learn about the world on his own.",
+    "why": "下一句：生物孤單困惑，只能自己學習，可知 abandon 是「拋下不管」。",
+    "traps": [
+     "",
+     "原文字眼、錯誤關係：這是 Victor 之前做的事。",
+     "張冠李戴：生物是自己學會說話閱讀。",
+     "正反顛倒：生物從來沒有名字。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Mary Shelley was twenty when she started writing the story.",
+     "The novel was published on 1 January 1816.",
+     "The creature learned to read at a university.",
+     "The novel was first published without the author’s name."
+    ],
+    "a": 3,
+    "evidence": "published anonymously on 1 January 1818, when she was twenty",
+    "why": "第二段：1818 年匿名出版。",
+    "traps": [
+     "數字錯位：開始寫時 18 歲，出版時 20 歲。",
+     "數字錯位：1816 是寫作那年，出版是 1818 年。",
+     "捏造：他是躲在牆縫偷看一家人自學的。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What does the creature’s line “Make me happy, and I shall again be virtuous” suggest?",
+    "options": [
+     "He enjoyed hurting the people around him.",
+     "His cruelty came from misery, not from his nature.",
+     "He wanted Victor to make him a new body.",
+     "He had never been good in his whole life."
     ],
     "a": 1,
-    "why": "最後一段。",
-    "evidence": "how much of that was his own doing — and how much was ours?"
+    "evidence": "I was benevolent and good; misery made me a fiend.",
+    "why": "他說自己本來善良，是苦難讓他變成惡魔；只要快樂就能再變好。",
+    "traps": [
+     "正反顛倒：他說自己原本 benevolent and good。",
+     "",
+     "捏造：他要的是快樂，不是新身體。",
+     "正反顛倒：他說自己曾經善良。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "Why does the writer say the creature’s namelessness is “not an accident”?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "It reflects the novel’s concern with how others define him",
-     "Mary forgot to name him",
-     "Names were illegal then",
-     "The printer made a mistake"
+     "To compare Mary Shelley with Lord Byron as writers.",
+     "To describe the weather in Switzerland during the summer of 1816.",
+     "To prove that the novel is only a warning about technology.",
+     "To argue that the novel shows how neglect and exclusion can create a monster."
     ],
-    "a": 0,
-    "why": "第一段：標籤完全由別人的反應定義他，這是核心關懷之一。",
-    "evidence": "That namelessness is not an accident but one of the book’s central concerns."
+    "a": 3,
+    "evidence": "monstrosity is often manufactured socially, through neglect and exclusion, rather than born",
+    "why": "第五段：怪物常是社會透過忽視與排斥製造出來的。",
+    "traps": [
+     "捏造：文中沒有比較兩位作家。",
+     "以偏概全：天氣只是第二段的寫作背景。",
+     "以偏概全：作者說科技警示的讀法 valid，但可能錯過更深的警示。",
+     ""
+    ]
    },
    {
-    "q": "When did Mary Shelley’s name first appear on the work?",
+    "type": "WD",
+    "q": "What does the author mean by saying the speech “reverses the reader’s sympathies”?",
     "options": [
-     "1816",
-     "1818",
-     "In a French translation in 1821",
-     "Never"
-    ],
-    "a": 2,
-    "why": "第二段。",
-    "evidence": "her name would not appear on the work until a French translation in 1821"
-   },
-   {
-    "q": "What does the writer call the creature’s learning experience?",
-    "options": [
-     "An education undertaken alone",
-     "A school program",
-     "Victor’s experiment",
-     "A ghost story"
-    ],
-    "a": 0,
-    "why": "第三段。",
-    "evidence": "an education undertaken alone"
-   },
-   {
-    "q": "What “more intimate warning” does the writer find in the novel?",
-    "options": [
-     "Technology is always dangerous",
-     "Monstrosity is often produced through neglect and exclusion",
-     "Scientists should not study",
-     "Ghost stories are harmful"
+     "Readers start to admire Victor’s skill as a brilliant scientist.",
+     "Readers begin to feel more for the creature than for Victor.",
+     "Readers stop caring about either the creature or Victor.",
+     "Readers decide that the creature deserves to be punished."
     ],
     "a": 1,
-    "why": "最後一段。",
-    "evidence": "monstrosity is often manufactured socially, through neglect and exclusion, rather than born"
+    "evidence": "The articulate “monster” sounds more humane than the brilliant scientist",
+    "why": "下一句：會說話的「怪物」聽起來比聰明的科學家更有人性，讀者的同情因此轉向。",
+    "traps": [
+     "正反顛倒：同情轉離 Victor。",
+     "",
+     "捏造：文中沒有這種說法。",
+     "正反顛倒：讀者開始同情他。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The creature learned to speak at the Villa Diodati.",
+     "The novel was published with Mary Shelley’s name in 1818.",
+     "Mary Shelley’s name did not appear on the work until 1821.",
+     "Victor stayed with the creature to guide its education."
+    ],
+    "a": 2,
+    "evidence": "her name would not appear on the work until a French translation in 1821",
+    "why": "第二段。",
+    "traps": [
+     "張冠李戴：他是躲在小屋旁的棚子裡學的。",
+     "正反顛倒：1818 年是匿名出版。",
+     "",
+     "正反顛倒：Victor 逃走並生病，想忘掉這件事。"
+    ]
+   },
+   {
+    "type": "ORG",
+    "q": "Why does the author list labels such as “creature”, “daemon” and “wretch” in the first paragraph?",
+    "options": [
+     "To show that the being is defined only by how others react to him.",
+     "To prove that Mary Shelley gave the creature many names she liked.",
+     "To explain why films made the creature green.",
+     "To show that Victor called the creature by his own name."
+    ],
+    "a": 0,
+    "evidence": "labels that define him entirely by how others react to his appearance",
+    "why": "作者手法題：這些稱呼都是別人對他外表的反應，凸顯他沒有名字、沒有身分。",
+    "traps": [
+     "",
+     "曲解：這些不是名字，而是標籤。",
+     "捏造：文中沒有提到綠色。",
+     "正反顛倒：生物從未被賦予名字。"
+    ]
    }
   ]
  },

@@ -286,152 +286,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "What does Holmes say when he first meets Watson?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "Welcome to London",
-     "You have been in Afghanistan, I perceive",
-     "Are you a doctor?",
-     "How many steps are there?"
+     "How Dr Watson became a soldier in Afghanistan.",
+     "How Sherlock Holmes notices details and reasons from them.",
+     "Why Joseph Bell wrote detective stories.",
+     "How many steps lead up to Holmes’s room."
     ],
     "a": 1,
-    "why": "第一段。",
-    "evidence": "“You have been in Afghanistan, I perceive.”"
+    "evidence": "“You see, but you do not observe,” he tells Watson.",
+    "why": "全文：福爾摩斯如何觀察細節並推理。",
+    "traps": [
+     "以偏概全：只是推理的內容。",
+     "",
+     "張冠李戴：寫小說的是 Conan Doyle，Bell 是靈感來源。",
+     "以偏概全：階梯只是一個例子。"
+    ]
    },
    {
-    "q": "Who inspired the character of Holmes?",
+    "type": "REF",
+    "q": "What does “them” in “Watson has walked up them hundreds of times” refer to?",
     "options": [
-     "Dr Watson",
-     "Joseph Bell, a surgeon in Edinburgh",
-     "A police officer",
-     "A soldier"
+     "The facts that Holmes likes to collect.",
+     "The stories written about Sherlock Holmes.",
+     "The pale wrists on Watson’s arms.",
+     "The steps that lead up to their room."
     ],
-    "a": 1,
+    "a": 3,
+    "evidence": "“How many steps lead up to our room?”",
+    "why": "前一句問的是通往房間的階梯。",
+    "traps": [
+     "時序錯置：事實是第五段的內容。",
+     "原文字眼、錯誤關係：故事是作品本身。",
+     "時序錯置：手腕是第三段的線索。",
+     ""
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Arthur Conan Doyle was a doctor.",
+     "A Study in Scarlet was published in 1917.",
+     "Watson knew there were seventeen steps.",
+     "Holmes guessed Watson’s past without any clues."
+    ],
+    "a": 0,
+    "evidence": "The writer, Arthur Conan Doyle, was a doctor.",
     "why": "第二段。",
-    "evidence": "He said Holmes was inspired by Joseph Bell, a surgeon in Edinburgh."
+    "traps": [
+     "",
+     "數字錯位：1887 年。",
+     "正反顛倒：Watson 不知道。",
+     "正反顛倒：他是根據外表的線索推理。"
+    ]
    },
    {
-    "q": "How did Holmes know Watson had been somewhere hot?",
+    "type": "INF",
+    "q": "What advice does the writer take from Holmes?",
     "options": [
-     "Watson told him",
-     "Watson’s face was dark but his wrists were pale",
-     "Watson was wearing a hat",
-     "Watson had a map"
-    ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "His face is dark, but his wrists are pale"
-   },
-   {
-    "q": "How many steps lead up to their room?",
-    "options": [
-     "Seven",
-     "Ten",
-     "Seventeen",
-     "Seventy"
+     "Trust your first guess about other people.",
+     "Make a theory first and then look for facts.",
+     "Collect facts carefully before deciding what is true.",
+     "Walk up the same stairs many times."
     ],
     "a": 2,
-    "why": "第四段。",
-    "evidence": "Holmes says there are seventeen."
+    "evidence": "look carefully, collect facts and then think",
+    "why": "最後一段。",
+    "traps": [
+     "正反顛倒：要先收集事實。",
+     "正反顛倒：Holmes 說這是大錯。",
+     "",
+     "原文字眼、錯誤關係：走很多次也沒用，要「觀察」。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "Where did A Study in Scarlet first appear?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "The Strand Magazine",
-     "Beeton’s Christmas Annual",
-     "A newspaper",
-     "A medical journal"
+     "Joseph Bell was the real name of Sherlock Holmes.",
+     "Holmes could read minds without looking at people.",
+     "Holmes’s skill comes from deliberate observation and careful reasoning.",
+     "Watson was a better detective than Holmes."
     ],
-    "a": 1,
+    "a": 2,
+    "evidence": "observing means paying deliberate attention to details that most people ignore",
+    "why": "第三、四段：刻意觀察細節，再一步步推理。",
+    "traps": [
+     "張冠李戴：Bell 是靈感來源，不是本名。",
+     "正反顛倒：他是從觀察推理出來的。",
+     "",
+     "正反顛倒：Watson 是被點醒的人。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “haggard” in the third paragraph most likely mean?",
+    "options": [
+     "Looking tired and worn from hardship.",
+     "Looking young and healthy.",
+     "Looking dark from the sun.",
+     "Looking proud like a soldier."
+    ],
+    "a": 0,
+    "evidence": "His haggard face suggested hardship and sickness",
+    "why": "同一句：憔悴的臉顯示經歷艱苦與疾病。",
+    "traps": [
+     "",
+     "正反顛倒：他經歷了苦難和疾病。",
+     "張冠李戴：曬黑是另一個線索（dark face）。",
+     "張冠李戴：軍人氣質是另一個線索。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Holmes said his reasoning took several minutes.",
+     "A Study in Scarlet first appeared in The Strand Magazine.",
+     "Joseph Bell worked at a hospital in London.",
+     "Holmes appeared in four novels and 56 short stories."
+    ],
+    "a": 3,
+    "evidence": "Holmes went on to appear in four novels and 56 short stories.",
     "why": "第二段。",
-    "evidence": "which appeared in Beeton’s Christmas Annual in 1887"
+    "traps": [
+     "數字錯位：Holmes 說整個推理不到一秒。",
+     "張冠李戴：刊在 Beeton’s Christmas Annual。",
+     "張冠李戴：Bell 在愛丁堡的皇家醫院。",
+     ""
+    ]
    },
    {
-    "q": "How long did Holmes’s reasoning about Watson take, according to Holmes?",
+    "type": "INF",
+    "q": "According to Holmes, what happens if we form a theory too early?",
     "options": [
-     "Less than a second",
-     "A few minutes",
-     "An hour",
-     "A whole day"
-    ],
-    "a": 0,
-    "why": "第三段。",
-    "evidence": "The whole process, Holmes claims, took less than a second."
-   },
-   {
-    "q": "What is the difference between seeing and observing?",
-    "options": [
-     "Seeing is passive; observing means paying deliberate attention",
-     "There is no difference",
-     "Observing uses only the eyes",
-     "Seeing is more careful"
-    ],
-    "a": 0,
-    "why": "第四段。",
-    "evidence": "Seeing is passive; observing means paying deliberate attention to details that most people ignore."
-   },
-   {
-    "q": "What happens if we form a theory too early, according to Holmes?",
-    "options": [
-     "We solve cases faster",
-     "We start to twist facts to suit theories",
-     "We become detectives",
-     "Nothing"
+     "We see more details than other people do.",
+     "We start to twist facts to suit the theory.",
+     "We become better at observing small things.",
+     "We stop believing what others tell us."
     ],
     "a": 1,
+    "evidence": "we start to twist facts to suit theories instead of theories to suit facts",
     "why": "最後一段。",
-    "evidence": "we start to twist facts to suit theories instead of theories to suit facts"
+    "traps": [
+     "正反顛倒：太早下結論會忽略事實。",
+     "",
+     "正反顛倒：觀察力不會因此變好。",
+     "捏造：文中沒有這種說法。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "What “promise” lies behind much of Holmes’s appeal?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "That crime always pays",
-     "That careful attention and disciplined reasoning can make the world intelligible",
-     "That London is safe",
-     "That doctors make good detectives"
+     "To argue that fictional detectives are always right.",
+     "To prove that Joseph Bell solved real crimes in London.",
+     "To list every film in which Holmes has appeared.",
+     "To show what Holmes’s methods can teach about observing and reasoning."
+    ],
+    "a": 3,
+    "evidence": "Real reasoners enjoy no such guarantee, which is precisely why his advice matters",
+    "why": "最後一段：真實世界沒有作者保證，所以他的建議更重要。",
+    "traps": [
+     "正反顛倒：作者說虛構偵探的結論是作者保證的，現實不是。",
+     "捏造：文中沒說 Bell 破案。",
+     "以偏概全：金氏紀錄只在第一段。",
+     ""
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “abduction” mean as used in the third paragraph?",
+    "options": [
+     "Taking someone away by force.",
+     "Inferring the most likely explanation for observed details.",
+     "Proving a conclusion with complete certainty.",
+     "Collecting data before forming a theory."
     ],
     "a": 1,
-    "why": "第一段。",
-    "evidence": "careful attention and disciplined reasoning can make the world intelligible"
+    "evidence": "inferring the most likely explanation for a set of observed details",
+    "why": "破折號後面直接定義。",
+    "traps": [
+     "一字多義：abduction 也有綁架的意思，但這裡不是。",
+     "",
+     "正反顛倒：作者說溯因推論可能出錯。",
+     "原文字眼、錯誤關係：這是第五段的方法建議。"
+    ]
    },
    {
-    "q": "Why does the writer prefer the term “abduction”?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "Holmes infers the most likely explanation for observed details",
-     "Holmes kidnaps people",
-     "Holmes uses mathematical proofs",
-     "Doyle used that word"
+     "Holmes first appeared in The Strand Magazine in 1891.",
+     "Conan Doyle worked as a surgeon at the Royal Infirmary.",
+     "Joseph Bell wrote an introduction for an edition of A Study in Scarlet.",
+     "Seeing is described as selective and intentional."
     ],
-    "a": 0,
-    "why": "第三段。",
-    "evidence": "inferring the most likely explanation for a set of observed details"
+    "a": 2,
+    "evidence": "Bell himself later wrote an introduction for an edition of A Study in Scarlet",
+    "why": "第二段。",
+    "traps": [
+     "時序錯置：首次登場是 1887 年。",
+     "張冠李戴：Doyle 是以助手身分替 Bell 工作。",
+     "",
+     "張冠李戴：有選擇、有意圖的是 observation。"
+    ]
    },
    {
-    "q": "What theme of modern psychology does the “steps” scene anticipate?",
+    "type": "INF",
+    "q": "Why does the author compare Holmes’s warning to confirmation bias?",
     "options": [
-     "That attention is limited",
-     "That memory is perfect",
-     "That people like stairs",
-     "That observation is passive"
+     "Both describe bending facts to fit what we already believe.",
+     "Both prove that Holmes was a real psychologist.",
+     "Both show that theories should never change.",
+     "Both explain why Watson could not count the steps."
     ],
     "a": 0,
-    "why": "第四段。",
-    "evidence": "attention is limited, and we notice far less of our surroundings than we assume"
-   },
-   {
-    "q": "Why does Holmes’s advice matter more for real reasoners?",
-    "options": [
-     "Their conclusions are not guaranteed by an author",
-     "They are smarter than Holmes",
-     "They have more data",
-     "They never make mistakes"
-    ],
-    "a": 0,
-    "why": "最後一段。",
-    "evidence": "Real reasoners enjoy no such guarantee"
+    "evidence": "This is a precise description of what psychologists now call confirmation bias.",
+    "why": "第五段：扭曲事實去配合理論，正是確認偏誤。",
+    "traps": [
+     "",
+     "捏造：Holmes 是虛構人物。",
+     "正反顛倒：作者強調要願意修正。",
+     "張冠李戴：數階梯是 seeing 與 observing 的例子。"
+    ]
    }
   ]
  },

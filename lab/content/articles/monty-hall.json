@@ -276,152 +276,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "What is behind the other two doors?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "Cars",
-     "Goats",
-     "Money",
-     "Nothing"
+     "How to win a new car on an American TV show.",
+     "A game-show puzzle whose right answer surprises most people.",
+     "Why pigeons are better at maths than people.",
+     "How Marilyn vos Savant became a famous writer."
     ],
     "a": 1,
-    "why": "第一段。",
-    "evidence": "Behind the other two are goats."
+    "evidence": "Surprisingly, you should switch.",
+    "why": "全文：三門問題的答案違反直覺，連專家都不相信。",
+    "traps": [
+     "以偏概全：贏車只是題目設定，重點是機率。",
+     "",
+     "過度推論：鴿子只是比較快學會「換門」。",
+     "以偏概全：她只是解釋答案的作者。"
+    ]
    },
    {
-    "q": "If you switch, how often do you win?",
+    "type": "REF",
+    "q": "What does “that” in “The host’s choice did not change that” refer to?",
     "options": [
-     "One time out of three",
-     "Two times out of three",
-     "Half the time",
-     "Always"
+     "The magazine that printed the answer in 1990.",
+     "The goat that the host showed behind door 3.",
+     "The host’s question about switching to door 2.",
+     "Your first door’s 1 in 3 chance of hiding the car."
     ],
-    "a": 1,
+    "a": 3,
+    "evidence": "When you first chose, you had only a 1 in 3 chance.",
+    "why": "前一句：一開始選中的機率只有三分之一，主持人開門不會改變它。",
+    "traps": [
+     "時序錯置：雜誌在第四段才出現。",
+     "原文字眼、錯誤關係：山羊是主持人打開的那扇門後的東西。",
+     "原文字眼、錯誤關係：問題是主持人提出的，不是被改變的機率。",
+     ""
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "If you switch, you win the car two times out of three.",
+     "If you stay, you win the car two times out of three.",
+     "The host opens a door without knowing where the car is.",
+     "About 1,000 readers wrote to say Marilyn was wrong."
+    ],
+    "a": 0,
+    "evidence": "If you switch, you win the car two times out of three.",
     "why": "第三段。",
-    "evidence": "If you switch, you win the car two times out of three."
+    "traps": [
+     "",
+     "張冠李戴：維持原選擇只有三分之一。",
+     "正反顛倒：主持人知道車在哪裡。",
+     "數字錯位：約一萬人來信，其中近一千人有博士學位。"
+    ]
    },
    {
-    "q": "How many readers wrote to say vos Savant was wrong?",
+    "type": "INF",
+    "q": "What does the writer suggest we do when a puzzle seems easy?",
     "options": [
-     "About 100",
-     "About 1,000",
-     "About 10,000",
-     "About 1,000,000"
+     "Ask someone with a PhD for the answer.",
+     "Choose the first answer that comes to mind.",
+     "Test it ourselves instead of trusting our feelings.",
+     "Keep our first choice and never switch."
     ],
     "a": 2,
-    "why": "第四段。",
-    "evidence": "About 10,000 readers wrote to say she was wrong."
-   },
-   {
-    "q": "What does the writer suggest you do?",
-    "options": [
-     "Always trust your feelings",
-     "Test the puzzle yourself with three cups and a coin",
-     "Ask a pigeon",
-     "Never play game shows"
-    ],
-    "a": 1,
+    "evidence": "When a puzzle seems easy, it is a good idea to test it.",
     "why": "最後一段。",
-    "evidence": "You can try it yourself with three cups and a coin."
+    "traps": [
+     "原文字眼、錯誤關係：近一千位博士都認為她錯了。",
+     "正反顛倒：直覺常常是錯的。",
+     "",
+     "正反顛倒：文章的結論是應該換門。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "Where did the puzzle appear in 1990?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "In a science journal",
-     "In the “Ask Marilyn” column in Parade magazine",
-     "On a TV news show",
-     "In a maths textbook"
+     "Steve Selvin invented the TV game show in 1975.",
+     "Each of the two remaining doors always has a fifty-fifty chance.",
+     "Switching doors is better, though many confident people refused to believe it.",
+     "Pigeons and people solve the puzzle in exactly the same way."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "a reader sent a puzzle to Marilyn vos Savant’s “Ask Marilyn” column in Parade magazine"
+    "a": 2,
+    "evidence": "The lesson is not that people are bad at maths, but that our intuitions about probability can be confidently wrong.",
+    "why": "全文：換門比較好，但許多人仍自信地反對。",
+    "traps": [
+     "張冠李戴：Selvin 是更早提出這個謎題的統計學家。",
+     "正反顛倒：這正是大家的錯誤直覺。",
+     "",
+     "正反顛倒：鴿子很快學會換，人類卻抗拒。"
+    ]
    },
    {
-    "q": "Why does switching work?",
+    "type": "WD",
+    "q": "What does “uproar” in the fourth paragraph most likely mean?",
     "options": [
-     "Because the host’s action is not random",
-     "Because doors are lucky",
-     "Because the car moves",
-     "Because goats are noisy"
+     "A loud, angry public reaction.",
+     "A quiet agreement among readers.",
+     "A new mathematical proof.",
+     "A popular television show."
     ],
     "a": 0,
-    "why": "第三段。",
-    "evidence": "The key is that the host’s action is not random."
+    "evidence": "About 10,000 readers, including nearly 1,000 with PhDs, wrote to the magazine, most of them insisting she was wrong.",
+    "why": "一萬人來信、多數堅稱她錯了，可知是強烈的抗議聲浪。",
+    "traps": [
+     "",
+     "正反顛倒：讀者多半反對她。",
+     "原文字眼、錯誤關係：證明是說服人的工具，不是這個字的意思。",
+     "原文字眼、錯誤關係：電視節目只是謎題的背景。"
+    ]
    },
    {
-    "q": "What finally convinced Paul Erdős?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "A letter",
-     "A computer simulation",
-     "A game show",
-     "A pigeon"
+     "Vos Savant said contestants should keep their first choice.",
+     "The puzzle was first posed by Marilyn vos Savant in 1990.",
+     "The host chooses which door to open at random.",
+     "Paul Erdős changed his mind only after seeing a computer simulation."
     ],
-    "a": 1,
+    "a": 3,
+    "evidence": "remained unconvinced until he was shown a computer simulation",
     "why": "第四段。",
-    "evidence": "remained unconvinced until he was shown a computer simulation"
+    "traps": [
+     "正反顛倒：她說應該換。",
+     "時序錯置：Selvin 在 1975 年就提出過。",
+     "正反顛倒：主持人知道車在哪，刻意避開。",
+     ""
+    ]
    },
    {
-    "q": "What is the main lesson, according to the writer?",
+    "type": "INF",
+    "q": "Why does vos Savant’s million-door version make the answer easier to see?",
     "options": [
-     "People are bad at maths",
-     "Our intuitions about probability can be confidently wrong",
-     "Pigeons are smarter than people",
-     "Game shows are unfair"
+     "It proves that every door has the same chance of hiding the car.",
+     "It shows that the one door the host leaves closed is the one he was avoiding.",
+     "It shows that the host can open the car door by mistake.",
+     "It makes the game too long for anyone to play."
     ],
     "a": 1,
-    "why": "最後一段。",
-    "evidence": "our intuitions about probability can be confidently wrong"
+    "evidence": "imagine a million doors, and the host opens every one except your choice and door 777,777",
+    "why": "主持人打開其他所有門，只留下 777,777 號，這扇門顯然是他刻意避開的。",
+    "traps": [
+     "正反顛倒：機率集中到留下的那扇門。",
+     "",
+     "正反顛倒：主持人一定避開車子。",
+     "過度推論：這只是思考實驗，不是要人真的玩。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "Who first posed the problem?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "Monty Hall",
-     "Steve Selvin",
-     "Marilyn vos Savant",
-     "Paul Erdős"
+     "To describe the history of Parade magazine.",
+     "To prove that game-show hosts always cheat contestants.",
+     "To argue that mathematicians should not trust computers.",
+     "To explain the puzzle and why our intuition fails."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "it was first posed by the statistician Steve Selvin in a 1975 letter"
+    "a": 3,
+    "evidence": "The lasting lesson is that confidence is not evidence",
+    "why": "全文：三門問題的解法，以及人們為何頑固地出錯。",
+    "traps": [
+     "以偏概全：雜誌只是刊出答案的地方。",
+     "捏造：主持人的行為受規則限制，不是作弊。",
+     "正反顛倒：Erdős 正是看了電腦模擬才信服。",
+     ""
+    ]
    },
    {
-    "q": "Why does the host’s constrained choice matter?",
+    "type": "WD",
+    "q": "What does the author mean by saying the host’s action is “constrained”?",
     "options": [
-     "It concentrates the two-thirds probability on the remaining closed door",
-     "It makes the game shorter",
-     "It gives the contestant a free car",
-     "It has no effect"
-    ],
-    "a": 0,
-    "why": "第三段。",
-    "evidence": "he concentrates that entire two-thirds probability on the remaining closed door"
-   },
-   {
-    "q": "What problem with the Parade wording did critics point out?",
-    "options": [
-     "It used too many doors",
-     "It did not explicitly say the host always opens a door and offers a switch",
-     "It was written in French",
-     "It gave the answer away"
+     "He can open any door he likes at random.",
+     "He must avoid the car and always reveal a goat.",
+     "He is not allowed to speak to the contestant.",
+     "He must open the door the contestant chose."
     ],
     "a": 1,
+    "evidence": "he knows where the car is and will never reveal it",
+    "why": "冒號後面說明：他知道車在哪、絕不會打開那扇門。",
+    "traps": [
+     "正反顛倒：他的選擇不是隨機的。",
+     "",
+     "捏造：他還會問參賽者要不要換。",
+     "正反顛倒：他打開的是「沒被選的」門。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Staying with the first choice wins two-thirds of the time.",
+     "Pigeons were slower than humans to learn to switch.",
+     "Critics said the Parade version left some conditions unstated.",
+     "Steve Selvin’s letter appeared in Parade magazine."
+    ],
+    "a": 2,
+    "evidence": "the Parade version did not explicitly say that the host always opens a door and always offers a switch",
     "why": "第四段。",
-    "evidence": "the Parade version did not explicitly say that the host always opens a door and always offers a switch"
+    "traps": [
+     "張冠李戴：換門才是三分之二。",
+     "正反顛倒：鴿子很快學會一直換。",
+     "",
+     "張冠李戴：Selvin 的信刊在 The American Statistician。"
+    ]
    },
    {
-    "q": "What is “the lasting lesson” of the problem?",
+    "type": "INF",
+    "q": "Why might the probabilities differ if the host could choose whether to offer a switch?",
     "options": [
-     "Confidence is not evidence",
-     "Always stay with your first choice",
-     "Probability is impossible",
-     "Experts are always wrong"
+     "His choice to offer it could itself reveal information.",
+     "The car could move behind another door.",
+     "The contestant would have more doors to pick.",
+     "The goats could be replaced by cars."
     ],
     "a": 0,
-    "why": "最後一段。",
-    "evidence": "The lasting lesson is that confidence is not evidence"
+    "evidence": "if he could choose whether to do so, the probabilities might differ",
+    "why": "第四段：如果主持人能決定要不要讓你換，他的決定本身就帶有資訊。",
+    "traps": [
+     "",
+     "捏造：車子不會移動。",
+     "數字錯位：門的數量不變。",
+     "捏造：獎品不會改變。"
+    ]
    }
   ]
  },

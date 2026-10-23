@@ -281,152 +281,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "What is often inside a placebo pill?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "Strong medicine",
-     "Just sugar",
-     "Vitamins",
-     "Germs"
-    ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "often it is just sugar"
-   },
-   {
-    "q": "What does the word “placebo” mean in Latin?",
-    "options": [
-     "I shall cure",
-     "I shall please",
-     "Fake pill",
-     "Sugar"
-    ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "means “I shall please”"
-   },
-   {
-    "q": "What did the Harvard scientists tell their patients?",
-    "options": [
-     "Nothing",
-     "That the pills were strong medicine",
-     "That the pills were placebos",
-     "That they would be cured"
+     "Why doctors never use fake medicine in their tests.",
+     "How to make your own sugar pills at home.",
+     "How placebos change how we feel but not the disease.",
+     "How Harvard students study problems with their stomachs."
     ],
     "a": 2,
+    "evidence": "A placebo can change how you feel, but it cannot fight germs or shrink a tumour.",
+    "why": "最後一段總結。",
+    "traps": [
+     "正反顛倒：藥物試驗正是使用安慰劑。",
+     "捏造：文中沒有教人做糖丸。",
+     "",
+     "張冠李戴：受試者是病人，不是學生。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does the “nocebo” effect mean in the second paragraph?",
+    "options": [
+     "Feeling worse because you expect a pill to cause problems.",
+     "Feeling better after taking a real medicine.",
+     "Getting better simply because time passes.",
+     "Taking a pill without knowing what it is."
+    ],
+    "a": 0,
+    "evidence": "if people expect a pill to cause problems, they may really feel worse",
+    "why": "第二段的說明。",
+    "traps": [
+     "",
+     "正反顛倒：nocebo 是變差。",
+     "張冠李戴：自然痊癒是第三段的另一種情況。",
+     "捏造：Harvard 實驗中病人知道是安慰劑。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true about the 2010 Harvard study?",
+    "options": [
+     "The pills made the patients’ disease disappear.",
+     "The patients were given real medicine for their stomachs.",
+     "The study lasted three months.",
+     "The patients were told that their pills were placebos."
+    ],
+    "a": 3,
+    "evidence": "told them the truth: “These are placebos.”",
     "why": "第四段。",
-    "evidence": "told them the truth: “These are placebos.”"
+    "traps": [
+     "過度推論：他們只是自覺好轉。",
+     "正反顛倒：給的是糖丸。",
+     "數字錯位：研究只進行了三週。",
+     ""
+    ]
    },
    {
-    "q": "What can a placebo NOT do?",
+    "type": "INF",
+    "q": "Why are not all improvements in the placebo group caused by the placebo?",
     "options": [
-     "Change how you feel",
-     "Help with pain",
-     "Fight germs",
-     "Make you expect help"
+     "Placebos always contain some real medicine.",
+     "Some people would get better anyway as time passes.",
+     "Doctors secretly give the placebo group real pills.",
+     "People in the placebo group take more pills."
     ],
-    "a": 2,
-    "why": "最後一段。",
-    "evidence": "it cannot fight germs or shrink a tumour"
+    "a": 1,
+    "evidence": "Some people feel better simply because time passes and the body heals itself.",
+    "why": "第三段。",
+    "traps": [
+     "正反顛倒：安慰劑沒有藥效成分。",
+     "",
+     "捏造：文中沒有。這會破壞試驗設計。",
+     "捏造：文中沒提吃藥數量。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "When can doctors be confident a new drug works?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "When patients like it",
-     "When it does clearly better than the placebo",
-     "When it is expensive",
-     "When it is an injection"
+     "Doctors should stop using placebos in drug trials.",
+     "Placebos work better than most real medicines.",
+     "Sugar pills have been proved to cure irritable bowel syndrome.",
+     "Expectation can change how we feel, but placebos do not cure disease."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "Only if the real drug does clearly better than the placebo can doctors be confident that it works."
+    "a": 3,
+    "evidence": "our minds can shape how we feel, but feeling better and being cured are not the same thing",
+    "why": "最後一段。",
+    "traps": [
+     "正反顛倒：安慰劑是藥物試驗的比較基準。",
+     "過度推論：研究只說安慰劑影響主觀感受。",
+     "過度推論：病人只是自覺改善，研究規模也小。",
+     ""
+    ]
    },
    {
-    "q": "Which form of placebo seems most powerful?",
+    "type": "WD",
+    "q": "What does “regression toward the mean” in the third paragraph describe?",
     "options": [
-     "Tablets",
-     "Capsules",
-     "Injections",
-     "Sugar cubes"
+     "Patients feeling worse because they expect some harm.",
+     "Patients returning to normal after an unusually bad time.",
+     "Patients choosing capsules instead of tablets as medicine.",
+     "Patients refusing to take part in a medical trial."
+    ],
+    "a": 1,
+    "evidence": "Others joined the trial when they were feeling unusually bad and would have returned to their normal state anyway",
+    "why": "破折號前的句子就是說明。",
+    "traps": [
+     "張冠李戴：那是 nocebo 效應。",
+     "",
+     "原文字眼、錯誤關係：膠囊和藥片是另一個發現。",
+     "捏造：文中沒有。他們是加入了試驗。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "People with lower anxiety are more likely to feel the nocebo effect.",
+     "Tablets seem more powerful than injections.",
+     "Capsules seem more powerful than tablets as placebos.",
+     "The Harvard study compared placebos with a real drug."
     ],
     "a": 2,
+    "evidence": "Studies have found that capsules seem more powerful than tablets",
     "why": "第二段。",
-    "evidence": "capsules seem more powerful than tablets, and injections more powerful still"
+    "traps": [
+     "正反顛倒：焦慮程度較高的人才更容易出現。",
+     "正反顛倒：注射比膠囊更強，膠囊比藥片更強。",
+     "",
+     "張冠李戴：對照組是「沒有治療但受到同等關注」。"
+    ]
    },
    {
-    "q": "What is “regression toward the mean”?",
+    "type": "INF",
+    "q": "What did the earlier analysis of 40 medical conditions suggest?",
     "options": [
-     "Patients who felt unusually bad returning to their normal state",
-     "A type of medicine",
-     "Doctors being mean",
-     "A kind of surgery"
+     "Placebos had a clear effect mainly on pain.",
+     "Placebos cured most of the 40 conditions.",
+     "Pain was the only condition placebos made worse.",
+     "Open-label studies were larger than other trials."
     ],
     "a": 0,
-    "why": "第三段。",
-    "evidence": "would have returned to their normal state anyway — a pattern called regression toward the mean"
-   },
-   {
-    "q": "What is the “double” lesson of the article?",
-    "options": [
-     "Placebos cure everything",
-     "Our minds shape how we feel, but feeling better is not being cured",
-     "Doctors should lie",
-     "Sugar is healthy"
-    ],
-    "a": 1,
+    "evidence": "An earlier analysis of trials covering 40 medical conditions found a significant effect for only one: pain.",
     "why": "最後一段。",
-    "evidence": "our minds can shape how we feel, but feeling better and being cured are not the same thing"
+    "traps": [
+     "",
+     "數字錯位：40 種中只有一種有顯著效果。",
+     "正反顛倒：對疼痛是有效果，不是變差。",
+     "正反顛倒：原文 Open-label studies are also small。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "Why is a placebo group necessary in a trial?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "To save money",
-     "To separate the drug’s benefits from the experience of being treated",
-     "To make patients happy",
-     "To test sugar"
-    ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "attribute its benefits to the drug rather than to the experience of being treated"
-   },
-   {
-    "q": "What is the placebo effect, “strictly defined”?",
-    "options": [
-     "All improvement in the placebo group",
-     "The difference between the placebo response and no treatment",
-     "Natural healing",
-     "Errors in trial records"
-    ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "only the difference between this response and no treatment at all"
-   },
-   {
-    "q": "What assumption did the 2010 Harvard study challenge?",
-    "options": [
-     "That placebos work only through deception",
-     "That IBS is common",
-     "That doctors are kind",
-     "That sugar is harmless"
+     "To explain what placebos can and cannot do, based on careful evidence.",
+     "To prove that placebos are a form of medical fraud.",
+     "To argue that open-label placebos should replace real drugs.",
+     "To describe the history of the Latin language."
     ],
     "a": 0,
-    "why": "第四段。",
-    "evidence": "challenged the assumption that placebos work only through deception"
+    "evidence": "The resulting picture is nuanced",
+    "why": "全文：區分安慰劑反應與效應，並說明證據的限制。",
+    "traps": [
+     "",
+     "捏造：作者沒有這種指控。",
+     "過度推論：作者說開放標示的研究還太小。",
+     "以偏概全：拉丁字源只是第二段一句。"
+    ]
    },
    {
-    "q": "According to Hróbjartsson and Gøtzsche, where do placebo effects mainly appear?",
+    "type": "WD",
+    "q": "Which of the following is closest in meaning to “inert” as used in the fourth paragraph?",
     "options": [
-     "In curing infections",
-     "In subjective, continuous measures such as pain",
-     "In surgery",
-     "In children only"
+     "Made from expensive materials.",
+     "Causing strong side effects.",
+     "Having no active chemical effect.",
+     "Hidden from the patient."
+    ],
+    "a": 2,
+    "evidence": "pills honestly described as inert placebos",
+    "why": "安慰劑「沒有藥理作用」，所以 inert 指不具活性。",
+    "traps": [
+     "捏造：文中沒有。安慰劑通常是糖丸。",
+     "正反顛倒：安慰劑沒有藥效。",
+     "",
+     "正反顛倒：這個研究正是誠實告知病人。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The open-label group was treated by different doctors with less attention.",
+     "The open-label group reported greater improvement at eleven and twenty-one days.",
+     "Hróbjartsson and Gøtzsche found placebos change the underlying disease.",
+     "Kaptchuk’s study involved 40 patients with stomach problems."
     ],
     "a": 1,
-    "why": "最後一段。",
-    "evidence": "placebo effects are apparent mainly in subjective, continuous measures such as pain"
+    "evidence": "reported significantly greater global improvement at both eleven and twenty-one days",
+    "why": "第四段。",
+    "traps": [
+     "正反顛倒：兩組受到同等的關注。",
+     "",
+     "正反顛倒：他們說安慰劑不影響疾病本身。",
+     "數字錯位：80 位病人，40 是另一項分析的疾病數。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Why does the author say many popular claims about placebos “fail to make this distinction”?",
+    "options": [
+     "They assume that placebos are always harmful to patients.",
+     "They confuse the effects of capsules with injections.",
+     "They ignore the original Latin meaning of the word.",
+     "They treat the whole placebo response as the placebo effect."
+    ],
+    "a": 3,
+    "evidence": "The placebo effect, strictly defined, is only the difference between this response and no treatment at all.",
+    "why": "第三段：安慰劑反應包含自然痊癒等，效應只是它和不治療的差。",
+    "traps": [
+     "正反顛倒：問題在於誇大安慰劑的力量。",
+     "捏造：作者批評的是混淆「反應」和「效應」，不是劑型。",
+     "捏造：字源不是重點。",
+     ""
+    ]
    }
   ]
  },

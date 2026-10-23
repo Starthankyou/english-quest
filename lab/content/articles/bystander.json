@@ -280,152 +280,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "What is the bystander effect?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "People help more when they are alone",
-     "The more people watching, the less likely anyone will help",
-     "Crowds are always dangerous",
-     "People never help strangers"
+     "Why people never help strangers in busy streets.",
+     "How a famous idea about helping was tested again in real life.",
+     "How security cameras keep public places safe.",
+     "Why the students in 1968 did not want to help."
     ],
     "a": 1,
-    "why": "第一段定義。",
-    "evidence": "the more people who are watching, the less likely it is that anyone will help"
+    "evidence": "In 2020, a group of researchers looked at real life instead.",
+    "why": "第二、三段介紹 1968 年的旁觀者效應，第四段用 2020 年的真實影片重新檢驗。",
+    "traps": [
+     "正反顛倒：2020 年的研究發現九成情況有人幫忙。",
+     "",
+     "原文字眼、錯誤關係：監視器只是研究的資料來源。",
+     "以偏概全：只是第二段的一部分，而且獨自聆聽時 85% 有去求助。"
+    ]
    },
    {
-    "q": "In the 1968 experiment, how many students went to get help when they thought they were alone?",
+    "type": "REF",
+    "q": "What does “it” in “Someone else will do it” in the third paragraph refer to?",
     "options": [
-     "31 percent",
-     "50 percent",
-     "85 percent",
-     "100 percent"
+     "Going to a laboratory.",
+     "Talking through a microphone.",
+     "Watching the experiment.",
+     "Helping the person in trouble."
+    ],
+    "a": 3,
+    "evidence": "each person feels less responsible",
+    "why": "每個人都覺得「別人會去做」，指的就是去幫助陷入困境的人。",
+    "traps": [
+     "原文字眼、錯誤關係：實驗在實驗室進行。",
+     "原文字眼、錯誤關係：麥克風是交談的方式。",
+     "捏造：沒有人在「觀看」實驗。",
+     ""
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The 2020 study used videos from security cameras in three countries.",
+     "When students thought they were alone, only 31 percent went to get help.",
+     "In the 1968 experiment, students could see the person in trouble.",
+     "In the 2020 study, help was less likely when more people were around."
+    ],
+    "a": 0,
+    "evidence": "They studied 219 videos from security cameras in three countries.",
+    "why": "第四段：219 支來自三個國家的監視器影片。",
+    "traps": [
+     "",
+     "數字錯位：獨自一人時是 85%，有四人在聽時才是 31%。",
+     "正反顛倒：第三段 the students never actually saw anyone。",
+     "正反顛倒：原文 help was even more likely。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What does the writer most likely want readers to do?",
+    "options": [
+     "Wait for others in a crowd to help first.",
+     "Stay away from fights in public places.",
+     "Help someone in trouble instead of waiting for others.",
+     "Study psychology to learn more about crowds."
     ],
     "a": 2,
-    "why": "第二段：以為只有自己在聽時 85%。",
-    "evidence": "85 percent went to get help"
-   },
-   {
-    "q": "What was one limit of the 1968 experiment?",
-    "options": [
-     "It used too many students",
-     "It happened in a laboratory",
-     "It was too long",
-     "It was in a hospital"
-    ],
-    "a": 1,
-    "why": "第三段：發生在實驗室，學生沒有真正看到任何人。",
-    "evidence": "It happened in a laboratory, and the students never actually saw anyone."
-   },
-   {
-    "q": "What did the 2020 study find when more people were around?",
-    "options": [
-     "Nobody helped",
-     "Help was even more likely",
-     "People ran away",
-     "There were more fights"
-    ],
-    "a": 1,
-    "why": "第四段最後一句。",
-    "evidence": "when there were more people around, help was even more likely"
+    "evidence": "You can be the someone.",
+    "why": "最後一段：不要等「別人」，你就可以是那個人。",
+    "traps": [
+     "正反顛倒：作者正是要你別等。",
+     "捏造：文中沒有叫人遠離衝突。",
+     "",
+     "原文字眼、錯誤關係：第一段提到心理學學生，但不是作者的建議。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "How did students in the 1968 experiment communicate?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "Face to face",
-     "Over an intercom from separate rooms",
-     "By email",
-     "By writing letters"
+     "The bystander effect has been proved true in every situation.",
+     "A 1964 murder in New York was watched by 38 people who did nothing.",
+     "Real-life evidence suggests that help in public is more common than many believe.",
+     "Intercom experiments are the best way to study helping behavior."
     ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "College students took part in a discussion over an intercom, each in a separate room."
+    "a": 2,
+    "evidence": "In about nine out of ten incidents, at least one bystander — and usually several — did something to help.",
+    "why": "第四、五段：真實影片顯示九成情況有人出手，幫助比想像中常見。",
+    "traps": [
+     "以偏概全：2020 年的研究正好相反。",
+     "正反顛倒：第三段說這個故事 seriously exaggerated。",
+     "",
+     "捏造：作者反而指出實驗室研究的限制。"
+    ]
    },
    {
-    "q": "What did later investigations find about the “38 witnesses” story?",
+    "type": "WD",
+    "q": "What does “diffusion of responsibility” in the third paragraph mean?",
     "options": [
-     "It was completely accurate",
-     "It had been seriously exaggerated",
-     "It happened in London",
-     "There were 100 witnesses"
-    ],
-    "a": 1,
-    "why": "第三段：這個故事被嚴重誇大。",
-    "evidence": "this famous story had been seriously exaggerated"
-   },
-   {
-    "q": "Where did the 2020 videos come from?",
-    "options": [
-     "Mobile phones",
-     "Surveillance cameras in three countries",
-     "TV news",
-     "A laboratory"
-    ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "captured on surveillance cameras in the United Kingdom, the Netherlands and South Africa"
-   },
-   {
-    "q": "How can both findings be true, according to the last paragraph?",
-    "options": [
-     "A large group contains more potential helpers",
-     "The 1968 study was faked",
-     "People were nicer in 2020",
-     "Cameras make people help"
+     "Each person feels less responsible when many others could act.",
+     "Responsibility is given to the person who is closest.",
+     "People feel more responsible when they are in larger groups.",
+     "Witnesses are blamed later for not helping."
     ],
     "a": 0,
-    "why": "最後一段的解釋。",
-    "evidence": "A large group contains more potential helpers"
+    "evidence": "the more people who could act, the less responsible each individual feels",
+    "why": "冒號後面直接解釋：能行動的人越多，每個人覺得責任越小。",
+    "traps": [
+     "",
+     "捏造：文中沒有提到距離。",
+     "正反顛倒：是越多人越不覺得有責任。",
+     "原文字眼、錯誤關係：文中沒有說誰事後被責怪。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The 2020 study analysed conflicts only in the United Kingdom.",
+     "In 1968, 85 percent of students helped when four others were listening.",
+     "The students in 1968 were all sitting together in one room.",
+     "Later investigations showed the 1964 story had been seriously exaggerated."
+    ],
+    "a": 3,
+    "evidence": "Later investigations found that this famous story had been seriously exaggerated",
+    "why": "第三段：後來的調查發現 1964 年的報導嚴重誇大。",
+    "traps": [
+     "以偏概全：還有荷蘭和南非。",
+     "數字錯位：85% 是以為自己是唯一聽者時。",
+     "正反顛倒：each in a separate room。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "According to the last paragraph, how can both the 1968 and the 2020 findings be true?",
+    "options": [
+     "People in 2020 were kinder than people in 1968.",
+     "A larger group has more possible helpers, even if each person hesitates.",
+     "Cameras make people afraid of being seen doing nothing.",
+     "The 1968 experiment took place in real streets."
+    ],
+    "a": 1,
+    "evidence": "A large group contains more potential helpers",
+    "why": "第五段：每個人可能稍微猶豫，但人多代表潛在幫手也多，所以總有人出手的機率反而上升。",
+    "traps": [
+     "捏造因果：文中沒有比較兩個年代的人。",
+     "",
+     "捏造因果：文中沒說監視器影響行為。",
+     "正反顛倒：1968 年是在實驗室用對講機進行。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "What does the writer say the history and recent evidence suggest?",
+    "type": "MI",
+    "q": "Which of the following is the best title for the passage?",
     "options": [
-     "A bleaker picture",
-     "A more complicated and more hopeful picture",
-     "That the effect is fake",
-     "That cities are dangerous"
+     "Kitty Genovese: The Murder Nobody Saw",
+     "Why Crowds Make People Selfish",
+     "How to Stage a Psychology Experiment",
+     "Rethinking the Bystander Effect"
     ],
-    "a": 1,
-    "why": "第一段最後一句。",
-    "evidence": "suggest a more complicated and more hopeful picture"
+    "a": 3,
+    "evidence": "the most recent evidence, suggest a more complicated and more hopeful picture",
+    "why": "第一段點明方向：這個概念的歷史和新證據，呈現更複雜也更有希望的樣貌。",
+    "traps": [
+     "以偏概全：只是第三段的例子，而且「沒人看見」也曲解了原文。",
+     "正反顛倒：新證據顯示人多反而更可能有人幫忙。",
+     "原文字眼、錯誤關係：staged 是在批評 1968 年實驗的限制。",
+     ""
+    ]
    },
    {
-    "q": "Why does the writer say the research’s inspiration “rested on shaky ground”?",
+    "type": "WD",
+    "q": "Which of the following is closest in meaning to “parable” in the third paragraph?",
     "options": [
-     "The newspaper story’s central claim was not supported by records",
-     "The experiment was never published",
-     "The students lied",
-     "The murder did not happen"
+     "A story used to teach a moral lesson.",
+     "A report based on careful records.",
+     "A rumor that was quickly forgotten.",
+     "An experiment carried out in a laboratory."
     ],
     "a": 0,
-    "why": "第三段：核心說法沒有得到紀錄支持。",
-    "evidence": "the central claim was not supported by the available records"
+    "evidence": "that story became a powerful parable about modern indifference",
+    "why": "這個故事被當成「現代人冷漠」的寓言——用來傳達道德教訓的故事。",
+    "traps": [
+     "",
+     "正反顛倒：後來的研究說它 not supported by the available records。",
+     "正反顛倒：它成了 powerful parable，並沒有被遺忘。",
+     "原文字眼、錯誤關係：實驗室研究是第二段的 1968 年實驗。"
+    ]
    },
    {
-    "q": "What was surprising about intervention rates across the three countries?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "They were very different",
-     "They were similar despite different levels of perceived safety",
-     "Only one country had any intervention",
-     "They could not be measured"
+     "Intervention rates differed greatly among the three countries studied.",
+     "Each additional bystander made it less likely that a victim got help.",
+     "At least one bystander stepped in during about 91 percent of the incidents.",
+     "The 219 incidents were staged by actors for the study."
     ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "Intervention rates were similar across the three countries despite large differences in perceived public safety."
+    "a": 2,
+    "evidence": "at least one bystander intervened in 90.9 percent of cases",
+    "why": "第四段：90.9% 的事件至少有一位旁觀者介入。",
+    "traps": [
+     "正反顛倒：原文 Intervention rates were similar across the three countries。",
+     "正反顛倒：每多一位旁觀者，受害者得到幫助的可能性反而增加。",
+     "",
+     "張冠李戴：staged 的是 1968 年實驗，2020 年是真實事件。"
+    ]
    },
    {
-    "q": "Which statement best matches the writer’s conclusion?",
+    "type": "ORG",
+    "q": "Why does the author mention that the 1968 students “could neither see the victim nor coordinate with the other supposed listeners”?",
     "options": [
-     "The original experiment was wrong and should be forgotten",
-     "Individuals may feel less responsible, yet groups make help more likely overall",
-     "People are naturally selfish",
-     "Bystanders should never intervene"
+     "To show that the experiment was carefully designed.",
+     "To point out the limits of the original experiment.",
+     "To prove that students in 1968 were less caring.",
+     "To explain why the seizure seemed real to the students."
     ],
     "a": 1,
-    "why": "最後一段調和兩個發現。",
-    "evidence": "An individual in a group may indeed feel less personally responsible, yet a group contains more potential helpers"
+    "evidence": "it also had obvious limits",
+    "why": "作者手法題：這句緊接在 it also had obvious limits 之後，列舉實驗的限制。",
+    "traps": [
+     "原文字眼、錯誤關係：ingenious 是前半句，這句接在 but 後面講限制。",
+     "",
+     "捏造：作者沒有評價學生的品格。",
+     "原文字眼、錯誤關係：發作是假的（staged），這句不是在解釋它為什麼逼真。"
+    ]
    }
   ]
  },

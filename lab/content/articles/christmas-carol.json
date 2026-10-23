@@ -274,152 +274,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "What does Scrooge say when people wish him “Merry Christmas”?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "Thank you!",
-     "Bah! Humbug!",
-     "Happy New Year!",
-     "Let’s celebrate!"
+     "How a mean old man changes after three spirits visit him.",
+     "How to celebrate Christmas in nineteenth-century London.",
+     "Why Bob Cratchit had to work in a cold office.",
+     "How Charles Dickens visited a school for poor children."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "Scrooge answers: “Bah! Humbug!”"
+    "a": 0,
+    "evidence": "When Scrooge wakes up on Christmas morning, he is a different man.",
+    "why": "全文：吝嗇的 Scrooge 在三個幽靈造訪後改變了。",
+    "traps": [
+     "",
+     "捏造：文中沒有教人怎麼過節。",
+     "以偏概全：只是第一段的細節。",
+     "以偏概全：只是最後一段的寫作背景。"
+    ]
    },
    {
-    "q": "How long did Dickens take to write the book?",
+    "type": "REF",
+    "q": "What does “it” in “Dickens wrote it very quickly” in the second paragraph refer to?",
     "options": [
-     "About six days",
-     "About six weeks",
-     "About six months",
-     "About six years"
+     "Scrooge’s lonely childhood.",
+     "The cold office where Bob worked.",
+     "The short novel A Christmas Carol.",
+     "The school for poor street children."
+    ],
+    "a": 2,
+    "evidence": "This is the beginning of A Christmas Carol, a short novel by the English writer Charles Dickens.",
+    "why": "前一句提到的是小說《小氣財神》。",
+    "traps": [
+     "時序錯置：童年在第三段。",
+     "原文字眼、錯誤關係：辦公室在第一段。",
+     "",
+     "時序錯置：學校在第五段。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Dickens spent about six years writing the story.",
+     "The first copies sold out before Christmas Eve.",
+     "Tiny Tim was Scrooge’s own son.",
+     "The last ghost showed Scrooge his childhood."
     ],
     "a": 1,
+    "evidence": "The first copies sold out before Christmas Eve.",
     "why": "第二段。",
-    "evidence": "Dickens wrote it very quickly, in about six weeks."
+    "traps": [
+     "數字錯位：是大約六週。",
+     "",
+     "張冠李戴：Tiny Tim 是 Cratchit 家的孩子。",
+     "張冠李戴：童年是過去之靈帶他看的。"
+    ]
    },
    {
-    "q": "What does the Ghost of Christmas Present show Scrooge?",
+    "type": "INF",
+    "q": "What did Dickens most likely hope readers would do?",
     "options": [
-     "His lonely childhood",
-     "Bob Cratchit’s poor but happy family",
-     "His own funeral",
-     "A rich party"
+     "Work harder in their offices.",
+     "Spend more money on Christmas presents.",
+     "Visit ghosts on Christmas Eve.",
+     "Care more about people living in poverty."
     ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "The Ghost of Christmas Present shows him Bob Cratchit’s poor but happy family"
-   },
-   {
-    "q": "What inspired Dickens to write the story?",
-    "options": [
-     "A trip to France",
-     "A visit to a school for poor street children",
-     "A ghost he saw",
-     "A letter from Scrooge"
-    ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "Dickens wrote this story after visiting a school for poor street children in London."
+    "a": 3,
+    "evidence": "He wanted readers to care about people living in poverty.",
+    "why": "最後一段的寫作動機。",
+    "traps": [
+     "捏造：文中沒有這種建議。",
+     "原文字眼、錯誤關係：Scrooge 改變後買火雞，但重點不是花錢。",
+     "字面誤讀：幽靈是故事設定。",
+     ""
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "What does calling someone “a Scrooge” mean today?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "They love Christmas",
-     "They are mean with money and cold towards others",
-     "They are a ghost",
-     "They are a writer"
+     "Scrooge became rich by working in a freezing office.",
+     "Dickens used one man’s change to make readers face poverty in society.",
+     "The Field Lane Ragged School was the setting of the story.",
+     "Ghost stories were the most popular books of 1843."
     ],
     "a": 1,
-    "why": "第一段。",
-    "evidence": "calling someone “a Scrooge” means they are mean with money and cold towards others"
+    "evidence": "The image turns a personal story into a social one",
+    "why": "第四段：一個人的故事變成社會的故事。",
+    "traps": [
+     "張冠李戴：在冷辦公室工作的是 Bob。",
+     "",
+     "原文字眼、錯誤關係：這所學校是寫作的靈感來源。",
+     "捏造：文中沒有比較銷量排行。"
+    ]
    },
    {
-    "q": "How many editions had been released by the end of 1844?",
+    "type": "REF",
+    "q": "What does “them both” in “warning Scrooge to beware them both” refer to?",
     "options": [
-     "Three",
-     "Six",
-     "Thirteen",
-     "Thirty"
+     "The first two spirits.",
+     "Bob Cratchit and Tiny Tim.",
+     "Jacob Marley and Scrooge.",
+     "Ignorance and Want."
+    ],
+    "a": 3,
+    "evidence": "“This boy is Ignorance. This girl is Want,” the spirit says",
+    "why": "前一句：兩個孩子分別叫「無知」和「匱乏」。",
+    "traps": [
+     "捏造：精靈是在警告，不是被警告的對象。",
+     "原文字眼、錯誤關係：Cratchit 父子是被關心的對象。",
+     "原文字眼、錯誤關係：Marley 是第一個出現的鬼魂。",
+     ""
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Thirteen editions had been released by the end of 1844.",
+     "The book was published on 19 December 1844.",
+     "The first visitor Scrooge meets is the Ghost of Christmas Past.",
+     "Scrooge sends money instead of a turkey to the Cratchits."
+    ],
+    "a": 0,
+    "evidence": "by the end of 1844 thirteen editions had been released",
+    "why": "第二段。",
+    "traps": [
+     "",
+     "數字錯位：出版於 1843 年。",
+     "時序錯置：第一個來的是 Marley 的鬼魂。",
+     "正反顛倒：他送了一隻得獎火雞。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What does the author suggest about readers who find Scrooge’s change too sudden?",
+    "options": [
+     "Dickens wanted to show that people never really change.",
+     "Dickens agreed that the ending was a mistake.",
+     "Dickens cared more about beginning to change than about speed.",
+     "Dickens planned to write a second part about Scrooge."
     ],
     "a": 2,
-    "why": "第二段。",
-    "evidence": "by the end of 1844 thirteen editions had been released"
-   },
-   {
-    "q": "What do the two children under the spirit’s robe represent?",
-    "options": [
-     "Joy and Hope",
-     "Ignorance and Want",
-     "Past and Future",
-     "Scrooge’s children"
-    ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "“This boy is Ignorance. This girl is Want,”"
-   },
-   {
-    "q": "According to the last paragraph, what is Dickens most interested in?",
-    "options": [
-     "How long change takes",
-     "Whether we are willing to see our lives clearly enough to begin",
-     "How to cook a turkey",
-     "Ghost stories"
-    ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "whether we are willing to see our lives clearly enough to begin"
+    "evidence": "Dickens is less interested in how long change takes than in whether we are willing to see our lives clearly enough to begin.",
+    "why": "最後一段的回應。",
+    "traps": [
+     "正反顛倒：故事說人可以改變。",
+     "捏造：文中沒有這種說法。",
+     "",
+     "捏造：文中沒提續集。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "Where does the novella’s “real interest” lie, according to the writer?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "Scrooge’s meanness",
-     "Scrooge’s redemption",
-     "The ghosts’ history",
-     "London’s weather"
+     "To prove that Scrooge’s sudden change is psychologically impossible.",
+     "To retell the whole story in simple words for young readers.",
+     "To show that the book is a sharp argument about money, poverty and change.",
+     "To describe how the book was turned into many films and plays."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "the novella’s real interest, however, lies not in his meanness but in his redemption"
+    "a": 2,
+    "evidence": "Beneath its ghosts and festive warmth lies an argument about money, responsibility and the capacity of a hardened person to change.",
+    "why": "第一段點題。",
+    "traps": [
+     "正反顛倒：作者反駁這種批評。",
+     "捏造：文章是分析，不是童話改寫。",
+     "",
+     "以偏概全：電影只在第一段一句帶過。"
+    ]
    },
    {
-    "q": "What does the writer mean by “Scrooge is not lectured into goodness; he is made to see”?",
+    "type": "WD",
+    "q": "What does the author mean by saying Scrooge “is not lectured into goodness; he is made to see”?",
     "options": [
-     "He changes through seeing visions, not through being told what to do",
-     "He reads many books",
-     "He goes to school",
-     "He becomes blind"
+     "He changes by witnessing scenes, not by being told what to do.",
+     "He is taught by a teacher at a ragged school.",
+     "He loses his sight and must learn to see again.",
+     "He reads many books about good behavior."
     ],
     "a": 0,
-    "why": "第三段。",
-    "evidence": "Scrooge is not lectured into goodness; he is made to see."
+    "evidence": "Each vision strips away one of Scrooge’s defences",
+    "why": "三個精靈讓他「看見」場景，而不是說教。",
+    "traps": [
+     "",
+     "張冠李戴：學校是 Dickens 的靈感來源。",
+     "字面誤讀：see 在這裡是領悟。",
+     "捏造：文中沒提他讀書。"
+    ]
    },
    {
-    "q": "How does the image of Ignorance and Want change the story?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "It turns a personal story into a social one",
-     "It makes the story funnier",
-     "It ends the story",
-     "It introduces a new villain"
+     "Dickens wrote the book over several years.",
+     "The Ghost of Christmas Yet to Come speaks to Scrooge at length.",
+     "Scrooge had always cared deeply about poor children.",
+     "The spirit repeats Scrooge’s own words about prisons and workhouses."
     ],
-    "a": 0,
+    "a": 3,
+    "evidence": "The spirit then turns Scrooge’s own cruel words back on him",
     "why": "第四段。",
-    "evidence": "The personal and the political become inseparable."
+    "traps": [
+     "數字錯位：他只花了大約六週。",
+     "正反顛倒：未來之靈是 silent。",
+     "正反顛倒：他曾冷漠地說窮人去監獄或濟貧院。",
+     ""
+    ]
    },
    {
-    "q": "How does the writer respond to critics who find the change implausible?",
+    "type": "INF",
+    "q": "What can be inferred from the last paragraph about Scrooge’s resolution?",
     "options": [
-     "By agreeing completely",
-     "By suggesting the resolution emphasises continued effort",
-     "By ignoring them",
-     "By saying ghosts are real"
+     "Scrooge planned to celebrate Christmas only once more.",
+     "Real change depends on continued effort, not one dramatic night.",
+     "Dickens believed change takes many years to begin.",
+     "Critics agreed that the ending was believable."
     ],
     "a": 1,
-    "why": "最後一段。",
-    "evidence": "places the emphasis on continued effort rather than a single dramatic moment"
+    "evidence": "places the emphasis on continued effort rather than a single dramatic moment",
+    "why": "最後一段：重點在持續的努力。",
+    "traps": [
+     "正反顛倒：原文 try to keep it all the year。",
+     "",
+     "正反顛倒：作者說改變始於看清自己的那一刻。",
+     "正反顛倒：有評論家認為不可信。"
+    ]
    }
   ]
  },

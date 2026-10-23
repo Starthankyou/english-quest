@@ -291,152 +291,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "How did Inky get to the sea?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "Someone carried him",
-     "He slid down a 50-metre pipe",
-     "He jumped out of a window",
-     "He swam through a river"
+     "How Inky was caught by a fisherman in New Zealand.",
+     "Why octopuses are clever and very different from us.",
+     "Why Aristotle thought octopuses were clever.",
+     "How to keep an octopus as a pet at home."
     ],
     "a": 1,
-    "why": "第一段。",
-    "evidence": "slid down a 50-metre pipe into the sea"
+    "evidence": "Octopuses are famous escape artists, and they are very clever.",
+    "why": "全文介紹章魚的聰明和奇特之處。",
+    "traps": [
+     "以偏概全：被漁夫抓到只是第一段的小細節。",
+     "",
+     "正反顛倒：亞里斯多德說章魚很笨。",
+     "捏造：文中沒有教人養章魚。"
+    ]
    },
    {
-    "q": "Which is NOT something octopuses can do, according to the article?",
+    "type": "REF",
+    "q": "What does “them” in “two-thirds of them are in its arms” refer to?",
     "options": [
-     "Find their way through mazes",
-     "Tell shapes apart",
-     "Open a jar",
-     "Speak words"
+     "The coconut shells it collects.",
+     "The arms of the octopus.",
+     "The dogs in the comparison.",
+     "The nerve cells of the octopus."
     ],
     "a": 3,
-    "why": "第二段沒有提到說話。",
-    "evidence": "Some can even open a jar by turning the lid."
+    "evidence": "It has over 500 million nerve cells, about the same as a dog.",
+    "why": "前一句說的是五億多個神經細胞，三分之二在腕足裡。",
+    "traps": [
+     "時序錯置：椰子殼在第四段。",
+     "原文字眼、錯誤關係：神經細胞「在」腕足裡，them 不是腕足本身。",
+     "原文字眼、錯誤關係：狗只是用來比較數量。",
+     ""
+    ]
    },
    {
-    "q": "Where are two-thirds of an octopus’s nerve cells?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "In its head",
-     "In its arms",
-     "In its hearts",
-     "In its skin"
+     "An octopus has three hearts and blue blood.",
+     "Inky escaped through a 500-metre pipe.",
+     "Most of an octopus’s nerve cells are in its head.",
+     "Aristotle wrote that octopuses can feel."
     ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "two-thirds of them are in its arms, not in its head"
+    "a": 0,
+    "evidence": "They have three hearts and blue blood.",
+    "why": "第四段。",
+    "traps": [
+     "",
+     "數字錯位：水管是 50 公尺。",
+     "正反顛倒：三分之二在腕足裡。",
+     "張冠李戴：說章魚有感覺的是 2021 年的研究回顧。"
+    ]
    },
    {
-    "q": "What did the UK do in 2021?",
+    "type": "INF",
+    "q": "What happened as a result of the 2021 review?",
     "options": [
-     "Banned aquariums",
-     "Changed its law to protect octopuses",
-     "Agreed with Aristotle",
-     "Sent octopuses to the sea"
+     "Scientists agreed with Aristotle.",
+     "Inky was finally found in the sea.",
+     "The UK changed its law to protect octopuses.",
+     "Octopuses were banned from aquariums."
     ],
-    "a": 1,
+    "a": 2,
+    "evidence": "the UK changed its law to protect them",
     "why": "最後一段。",
-    "evidence": "the UK changed its law to protect them"
+    "traps": [
+     "正反顛倒：科學家認為亞里斯多德錯了。",
+     "捏造：Inky 再也沒被看到。",
+     "",
+     "捏造：文中沒有這種規定。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "What question do stories like Inky’s raise?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "How fast octopuses swim",
-     "How intelligent octopuses are",
-     "Why aquariums are dangerous",
-     "Where New Zealand is"
+     "Most octopuses live for more than ten years.",
+     "Octopuses are the only animals that can escape from tanks.",
+     "Octopuses show real intelligence with a brain built very differently from ours.",
+     "Aristotle’s view of octopuses has been proved correct."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "just how intelligent are octopuses?"
+    "a": 2,
+    "evidence": "the octopus brain is organised in a completely different way from ours",
+    "why": "第二、三段：章魚很聰明，大腦結構卻和我們完全不同。",
+    "traps": [
+     "數字錯位：大多數只活到約四年。",
+     "以偏概全：逃脫只是開頭的故事。",
+     "",
+     "正反顛倒：2021 年的研究結論相反。"
+    ]
    },
    {
-    "q": "Why is the veined octopus’s use of coconut shells important?",
+    "type": "WD",
+    "q": "What does “sentient” in the last paragraph most likely mean?",
     "options": [
-     "It is a clear example of tool use",
-     "It shows they eat coconuts",
-     "It proves they can swim",
-     "It is a kind of game"
+     "Able to feel things such as pain or pleasure.",
+     "Able to change colour very quickly.",
+     "Able to escape from closed tanks.",
+     "Able to live for many years."
     ],
     "a": 0,
-    "why": "第二段。",
-    "evidence": "a clear example of tool use"
+    "evidence": "concluded that octopuses are sentient",
+    "why": "研究結論使英國把章魚納入動物福利法，可知 sentient 指有感受能力。",
+    "traps": [
+     "",
+     "原文字眼、錯誤關係：變色是第四段的特徵。",
+     "原文字眼、錯誤關係：逃脫是第一段的故事。",
+     "正反顛倒：章魚壽命很短。"
+    ]
    },
    {
-    "q": "Why is an octopus’s blood bluish?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "It eats blue food",
-     "It uses a copper-rich protein to carry oxygen",
-     "It lives in cold water",
-     "It has three hearts"
+     "Changing colour costs an octopus very little energy.",
+     "An octopus has fewer neurons than a dog.",
+     "An octopus’s blood is red because of iron.",
+     "The veined octopus uses coconut shells to build a shelter."
     ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "its blood is bluish because it uses a copper-rich protein to carry oxygen"
+    "a": 3,
+    "evidence": "The veined octopus even collects discarded coconut shells and uses them to build a shelter",
+    "why": "第二段。",
+    "traps": [
+     "正反顛倒：全力變色幾乎等於靜止時的耗能。",
+     "數字錯位：大約和狗一樣多。",
+     "正反顛倒：血是藍色的，因為用含銅的蛋白質。",
+     ""
+    ]
    },
    {
+    "type": "INF",
     "q": "Why did Aristotle call the octopus “a stupid creature”?",
     "options": [
-     "It could not open jars",
-     "It would approach a human hand lowered into the water",
-     "It had no brain",
-     "It changed colour"
+     "It escaped from an aquarium in New Zealand.",
+     "It would approach a human hand lowered into the water.",
+     "It could not tell shapes and patterns apart.",
+     "It lived for only a few years."
     ],
     "a": 1,
+    "evidence": "because it would approach a human hand lowered into the water",
     "why": "最後一段。",
-    "evidence": "because it would approach a human hand lowered into the water"
+    "traps": [
+     "時序錯置：Inky 逃脫是 2016 年的事。",
+     "",
+     "正反顛倒：實驗顯示章魚能分辨形狀。",
+     "原文字眼、錯誤關係：壽命短不是亞里斯多德的理由。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "Which claim about octopus learning does the writer treat as uncertain?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "Tool use",
-     "That they learn by watching others",
-     "That they have memory",
-     "That they distinguish shapes"
+     "To describe the history of the London School of Economics.",
+     "To explain how aquariums can stop octopuses from escaping.",
+     "To prove that octopuses learn mainly by watching others.",
+     "To show that intelligence can arise in a body very unlike ours."
+    ],
+    "a": 3,
+    "evidence": "recognising intelligence may depend less on how similar an animal is to us than on whether we are willing to look for minds that work differently",
+    "why": "最後一段：辨認智慧不在於像不像我們。",
+    "traps": [
+     "以偏概全：學校只是研究者的單位。",
+     "以偏概全：逃脫只是開頭的故事。",
+     "正反顛倒：原文說這類發現 is contested。",
+     ""
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does the author mean by saying intelligence is “distributed throughout the body”?",
+    "options": [
+     "It is passed from one octopus to another.",
+     "It is spread across the arms rather than kept in one centre.",
+     "It is found only in the octopus’s skin cells.",
+     "It disappears when the octopus changes colour."
     ],
     "a": 1,
-    "why": "第二段。",
-    "evidence": "although the validity of those findings is contested"
+    "evidence": "Intelligence, in this design, is not concentrated in a single control centre but distributed throughout the body.",
+    "why": "三分之二的神經元在腕足，所以智慧分散在全身，不集中在一個中心。",
+    "traps": [
+     "字面誤讀：distribute 不是「分給別人」。",
+     "",
+     "張冠李戴：皮膚細胞負責變色。",
+     "捏造：文中沒有這種說法。"
+    ]
    },
    {
-    "q": "What does the writer mean by intelligence being “distributed throughout the body”?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "Neurons are spread across the arms, not only in the brain",
-     "The octopus has many brains in its head",
-     "Octopuses share intelligence with each other",
-     "Its blood carries information"
+     "An octopus can live for up to about fourteen years.",
+     "Learning by watching others is firmly established in octopuses.",
+     "Octopuses and vertebrates evolved separately for over 600 million years.",
+     "The 2021 review drew on about 30 scientific studies."
     ],
-    "a": 0,
-    "why": "第三段。",
-    "evidence": "About two-thirds lie in the nerve cords of the arms"
-   },
-   {
-    "q": "Why does the octopus’s evolutionary history matter?",
-    "options": [
-     "It shows intelligence may evolve more than once",
-     "It proves octopuses came from humans",
-     "It shows octopuses are related to dogs",
-     "It explains why they die young"
-    ],
-    "a": 0,
+    "a": 2,
+    "evidence": "Octopuses have evolved separately from the vertebrate lineage for more than 600 million years",
     "why": "第四段。",
-    "evidence": "intelligence may not be a one-time accident but something evolution can build more than once"
+    "traps": [
+     "數字錯位：最多約四年。",
+     "正反顛倒：原文說這類發現的效度 is contested。",
+     "",
+     "數字錯位：超過 300 篇。"
+    ]
    },
    {
-    "q": "What broader lesson does the final paragraph draw?",
+    "type": "INF",
+    "q": "Why does it matter that the octopus followed an independent evolutionary path?",
     "options": [
-     "Aristotle was always right",
-     "Recognising intelligence depends on willingness to look for minds that work differently",
-     "Laws should not protect animals",
-     "Octopuses are smarter than humans"
+     "It suggests evolution can build complex minds more than once.",
+     "It proves that octopuses evolved from dogs.",
+     "It shows that octopuses are related to humans.",
+     "It explains why octopuses have red blood."
     ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "whether we are willing to look for minds that work differently"
+    "a": 0,
+    "evidence": "intelligence may not be a one-time accident but something evolution can build more than once",
+    "why": "第四段。",
+    "traps": [
+     "",
+     "捏造：狗只是比較神經元數量的對象。",
+     "正反顛倒：共同祖先是很簡單的蠕蟲狀動物，演化路線各自獨立。",
+     "正反顛倒：章魚的血是藍色的。"
+    ]
    }
   ]
  },

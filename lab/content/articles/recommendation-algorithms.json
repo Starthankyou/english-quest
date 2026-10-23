@@ -291,152 +291,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "What does an algorithm use to choose videos for you?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "Your age only",
-     "What you watched, liked and skipped before",
-     "Random numbers",
-     "Your teacher’s choices"
+     "How to write a computer program for video apps.",
+     "Whether algorithms really trap people in filter bubbles.",
+     "Why Eli Pariser stopped using social media.",
+     "How to watch more political videos online."
     ],
     "a": 1,
-    "why": "第一段。",
-    "evidence": "It looks at what you watched, liked and skipped before"
+    "evidence": "So are algorithms bad? The answer is not simple.",
+    "why": "全文：同溫層的說法、研究證據，以及我們自己的選擇。",
+    "traps": [
+     "捏造：文中沒有教寫程式。",
+     "",
+     "捏造：Pariser 是提出擔憂的人。",
+     "正反顛倒：作者建議主動看不同觀點。"
+    ]
    },
    {
-    "q": "What is a “filter bubble”?",
+    "type": "WD",
+    "q": "What does “filter bubble” mean in the second paragraph?",
     "options": [
-     "A kind of soap",
-     "A place where we only see things we already agree with",
-     "A new app",
-     "A computer virus"
+     "A list of people we follow online.",
+     "A machine that cleans the air in a room.",
+     "A video that is popular on every app.",
+     "A space where we see only views we already agree with."
     ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "Inside the bubble, we only see things we already agree with"
+    "a": 3,
+    "evidence": "Inside the bubble, we only see things we already agree with, and we stop seeing different opinions.",
+    "why": "下一句直接說明。",
+    "traps": [
+     "原文字眼、錯誤關係：追蹤名單不是同溫層本身。",
+     "字面誤讀：filter 在這裡不是濾網。",
+     "捏造：文中沒提哪支影片最紅。",
+     ""
+    ]
    },
    {
-    "q": "What did the 2015 study find?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "The algorithm did everything",
-     "People’s own choices limited different opinions more than the algorithm did",
-     "Facebook has no algorithm",
-     "People read everything"
-    ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "people’s own choices — what they clicked on — limited different opinions more than the algorithm did"
-   },
-   {
-    "q": "What happened to users who saw posts in time order?",
-    "options": [
-     "They spent less time on the apps",
-     "They changed all their opinions",
-     "They left the apps forever",
-     "Nothing changed at all"
+     "Users with time-order feeds spent less time on the apps.",
+     "The 2015 study looked at 300,000 users of Facebook.",
+     "Time-order feeds changed users’ political opinions a lot.",
+     "YouTube clearly pushed most people to extreme videos."
     ],
     "a": 0,
+    "evidence": "These users spent less time on the apps.",
     "why": "第四段。",
-    "evidence": "These users spent less time on the apps."
+    "traps": [
+     "",
+     "數字錯位：2015 年是 1,010 萬人，30 萬是另一項研究。",
+     "正反顛倒：意見沒有太大改變。",
+     "正反顛倒：沒有明確證據。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What does the writer suggest is the best way out of a bubble?",
+    "options": [
+     "Letting the algorithm decide everything.",
+     "Using only one video app every day.",
+     "Choosing to look at different ideas on purpose.",
+     "Watching more videos that we already like."
+    ],
+    "a": 2,
+    "evidence": "The best way out of a bubble may be to choose, on purpose, to look at different ideas.",
+    "why": "最後一段。",
+    "traps": [
+     "正反顛倒：作者說我們自己的選擇也很重要。",
+     "捏造：作者沒有限制使用哪個 app。",
+     "",
+     "正反顛倒：那正是同溫層的成因。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "What did Pariser’s “Egypt” example show?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "Google is always the same for everyone",
-     "Different people got different search results",
-     "Egypt was not in the news",
-     "Google was blocked"
+     "Eli Pariser proved that filter bubbles do not exist.",
+     "Algorithms are the only cause of political division.",
+     "Algorithms shape what we see, but our habits matter too.",
+     "Time-order feeds made people much less political."
     ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "One friend’s first page featured news about the revolution then taking place; another’s did not."
+    "a": 2,
+    "evidence": "Our own habits help build the walls.",
+    "why": "最後一段。",
+    "traps": [
+     "正反顛倒：Pariser 是提出同溫層概念的人。",
+     "以偏概全：研究顯示個人選擇影響更大。",
+     "",
+     "正反顛倒：極化程度沒有明顯改變。"
+    ]
    },
    {
-    "q": "What did the 2021 YouTube study find?",
+    "type": "WD",
+    "q": "What does “coined” in the second paragraph mean?",
     "options": [
-     "Recommendations systematically pushed viewers to far-right content",
-     "No evidence that recommendations systematically pushed viewers to far-right content",
-     "YouTube has no political content",
-     "Everyone became radical"
-    ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "found no evidence that YouTube recommendations systematically pushed viewers towards far-right content"
-   },
-   {
-    "q": "What did users with time-ordered feeds see more of?",
-    "options": [
-     "Political and untrustworthy content",
-     "Only friends’ photos",
-     "Fewer posts",
-     "Only advertisements"
+     "Created a new word or phrase.",
+     "Paid money for something.",
+     "Collected old ideas from books.",
+     "Searched for something on Google."
     ],
     "a": 0,
-    "why": "第四段。",
-    "evidence": "more political and untrustworthy content"
+    "evidence": "the internet activist Eli Pariser coined the term “filter bubble”",
+    "why": "coin a term＝創造新詞。",
+    "traps": [
+     "",
+     "一字多義：coin 也是硬幣，但這裡是創造詞語。",
+     "捏造：他是創造，不是蒐集。",
+     "原文字眼、錯誤關係：搜尋 Egypt 是他舉的例子。"
+    ]
    },
    {
-    "q": "According to the writer, what may help us escape a bubble?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "Changing the code",
-     "Deliberately seeking out sources we would not normally choose",
-     "Deleting all apps",
-     "Following more friends who agree with us"
+     "Pariser’s friends got the same results for “Egypt”.",
+     "The 2021 study found YouTube pushed users far right.",
+     "Users with time-order feeds saw less political content.",
+     "The 2015 study was published in Science."
+    ],
+    "a": 3,
+    "evidence": "A 2015 study of 10.1 million US Facebook users, published in Science",
+    "why": "第三段。",
+    "traps": [
+     "正反顛倒：兩個朋友的結果不同。",
+     "正反顛倒：沒有證據顯示推薦把人推向極右。",
+     "正反顛倒：政治內容反而增加。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What can be inferred from the 2020 experiment?",
+    "options": [
+     "Time-order feeds made people much more polite online.",
+     "Three months of a new feed barely changed people’s attitudes.",
+     "People stopped using Facebook after the experiment ended.",
+     "Algorithms have no effect at all on what people see."
     ],
     "a": 1,
-    "why": "最後一段。",
-    "evidence": "deliberately seeking out sources we would not normally choose"
+    "evidence": "the change did not significantly alter their levels of political polarisation or other key attitudes",
+    "why": "第四段。",
+    "traps": [
+     "過度推論：只說 Facebook 上的辱罵內容較少。",
+     "",
+     "捏造：文中只說使用時間減少。",
+     "正反顛倒：他們看到的內容明顯不同。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "What did Pariser predict personalisation would produce?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "Intellectual isolation and social fragmentation",
-     "More diverse news",
-     "Faster internet",
-     "Better search results"
+     "To argue that social media should be banned.",
+     "To prove that algorithms are completely harmless.",
+     "To describe the Egyptian revolution in detail.",
+     "To test the filter-bubble idea against the research evidence."
     ],
-    "a": 0,
-    "why": "第二段。",
-    "evidence": "would produce intellectual isolation and social fragmentation"
+    "a": 3,
+    "evidence": "the evidence undermines the simplest version of the filter-bubble story",
+    "why": "最後一段。",
+    "traps": [
+     "捏造：作者沒有這樣主張。",
+     "正反顛倒：原文 These findings do not exonerate algorithms。",
+     "以偏概全：埃及只是 Pariser 的例子。",
+     ""
+    ]
    },
    {
-    "q": "According to the 2021 study, what did YouTube political consumption appear to reflect?",
+    "type": "WD",
+    "q": "Which of the following is closest in meaning to “exonerate” in the last paragraph?",
     "options": [
-     "Recommendations alone",
-     "Individual preferences extending across the web",
-     "Government control",
-     "Random chance"
+     "Prove guilty.",
+     "Free from blame.",
+     "Make more popular.",
+     "Study in detail."
     ],
     "a": 1,
-    "why": "第三段。",
-    "evidence": "consumption appeared to reflect individual preferences extending across the web as a whole"
+    "evidence": "These findings do not exonerate algorithms. They plainly influence attention",
+    "why": "後一句說演算法明顯有影響，所以研究並沒有替它「開脫」。",
+    "traps": [
+     "正反顛倒：exonerate 是免除責任。",
+     "",
+     "捏造：文中沒談受歡迎程度。",
+     "原文字眼、錯誤關係：研究是在檢視它，但這不是字義。"
+    ]
    },
    {
-    "q": "What did the 2020 experiment NOT significantly change?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "Time spent on platforms",
-     "Exposure to political content",
-     "Polarisation and political knowledge",
-     "Exposure to uncivil content"
+     "The 2021 study used data from 10.1 million users.",
+     "Exposure to untrustworthy content fell on both platforms.",
+     "Uncivil content decreased on Facebook with chronological feeds.",
+     "The chronological feed greatly increased political knowledge."
     ],
     "a": 2,
+    "evidence": "while exposure to uncivil content decreased on Facebook",
     "why": "第四段。",
-    "evidence": "did not significantly alter issue polarisation, affective polarisation or political knowledge"
+    "traps": [
+     "數字錯位：2021 年是 30 萬人。",
+     "正反顛倒：不可信內容反而增加。",
+     "",
+     "正反顛倒：政治知識沒有顯著改變。"
+    ]
    },
    {
-    "q": "Which limitation of the studies does the writer mention?",
+    "type": "INF",
+    "q": "Why does the author mention that some researchers worked for the platforms?",
     "options": [
-     "Several involved researchers employed by the platforms",
-     "They used too few people",
-     "They were done in Egypt",
-     "They ignored algorithms"
+     "Readers may reasonably consider a possible conflict of interest.",
+     "It proves that the results are false.",
+     "It explains why the studies were so large.",
+     "It shows that platforms want more bubbles."
     ],
     "a": 0,
-    "why": "最後一段。",
-    "evidence": "Several of the studies also involved researchers employed by the platforms themselves"
+    "evidence": "Several of the studies also involved researchers employed by the platforms themselves, a fact that readers may reasonably keep in mind.",
+    "why": "最後一段：提醒讀者留意可能的利益衝突。",
+    "traps": [
+     "",
+     "過度推論：作者只說值得留意，沒說結果是假的。",
+     "捏造：文中沒說研究者受僱讓研究規模變大。",
+     "捏造：文中沒說平台想要更多同溫層。"
+    ]
    }
   ]
  },

@@ -97,8 +97,8 @@
      "好幾則寓言也預示了現代心理學的洞見。貶低自己得不到之物的狐狸，被解讀為認知失調的例證：牠無法安然同時懷抱渴望與挫折，於是決定葡萄根本不值得擁有，以化解這股張力。哲學家喬恩．埃爾斯特把這種模式稱為「適應性偏好形成」。同樣地，〈牧羊男孩與狼〉捕捉了信用的經濟學：男孩發出三、四次假警報後，等到危險真的來臨，「沒有人理會他的呼喊」。"
     ],
     [
-     "The first-century philosopher Apollonius of Tyana praised Aesop for using humble stories to teach great truths, and the description remains apt. By placing human weaknesses in animal bodies, the fables create enough distance for listeners to recognise themselves without becoming defensive. By compressing a lesson into a single vivid image, they make it portable across languages and centuries. Their survival suggests that the most durable ideas are not always the most elaborate ones, but those that can be carried in a story a child can retell. He added a subtler point: by telling a story that everyone knows is untrue, Aesop told the truth precisely because he never claimed to be describing real events.",
-     "一世紀的哲學家提亞納的阿波羅尼烏斯，稱讚伊索用平凡的故事教導偉大的真理，這個描述至今仍很貼切。寓言把人類的弱點放進動物的身體裡，製造出足夠的距離，讓聽眾能認出自己而不產生防衛。寓言把一個教訓壓縮成單一鮮明的畫面，使它能跨越語言與世紀攜帶。它們的流傳顯示：最持久的觀念不一定是最精巧的，而是那些能裝進一個孩子也能轉述的故事裡的觀念。他還補充了一個更細膩的觀點：伊索講一個人人都知道不是真的的故事，正因為他從不聲稱自己在描述真實事件，反而說出了真理。"
+     "The first-century philosopher Apollonius of Tyana praised Aesop for using humble stories to teach great truths, and the description remains apt. He added a subtler point: by telling a story that everyone knows is untrue, Aesop told the truth precisely because he never claimed to be describing real events. By placing human weaknesses in animal bodies, the fables create enough distance for listeners to recognise themselves without becoming defensive. By compressing a lesson into a single vivid image, they make it portable across languages and centuries. Their survival suggests that the most durable ideas are not always the most elaborate ones, but those that can be carried in a story a child can retell.",
+     "一世紀的哲學家提亞納的阿波羅尼烏斯，稱讚伊索用平凡的故事教導偉大的真理，這個描述至今仍很貼切。他還補充了一個更細膩的觀點：伊索講一個人人都知道不是真的的故事，正因為他從不聲稱自己在描述真實事件，反而說出了真理。寓言把人類的弱點放進動物的身體裡，製造出足夠的距離，讓聽眾能認出自己而不產生防衛。寓言把一個教訓壓縮成單一鮮明的畫面，使它能跨越語言與世紀攜帶。它們的流傳顯示：最持久的觀念不一定是最精巧的，而是那些能裝進一個孩子也能轉述的故事裡的觀念。"
     ]
    ]
   }
@@ -291,152 +291,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "What does the fox say when he cannot reach the grapes?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "The grapes are sweet",
-     "The grapes are sour anyway",
-     "I will come back tomorrow",
-     "Help me!"
+     "Why Aesop’s short fables are still told today.",
+     "How foxes find grapes in the wild.",
+     "Why the hare is faster than the tortoise.",
+     "How Aesop became a free man in Greece."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "“The grapes are sour anyway.”"
+    "a": 0,
+    "evidence": "Why do these stories last so long?",
+    "why": "全文：伊索寓言是什麼、為什麼流傳至今。",
+    "traps": [
+     "",
+     "原文字眼、錯誤關係：狐狸只是寓言角色。",
+     "以偏概全：只是一則寓言的設定。",
+     "以偏概全：這只是不確定的傳說。"
+    ]
    },
    {
-    "q": "How were Aesop’s fables passed on?",
+    "type": "REF",
+    "q": "What does “she” in “The tortoise never stops, and she wins” refer to?",
     "options": [
-     "In books he wrote",
-     "By people telling them out loud",
-     "On the internet",
-     "In letters"
+     "The fox who wanted grapes.",
+     "The hare who fell asleep.",
+     "The tortoise in the race.",
+     "The shepherd boy."
+    ],
+    "a": 2,
+    "evidence": "The tortoise never stops, and she wins.",
+    "why": "同一句的主詞 the tortoise。",
+    "traps": [
+     "時序錯置：狐狸在第一段。",
+     "張冠李戴：睡著的兔子輸了。",
+     "",
+     "時序錯置：牧羊童在第四段。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Aesop wrote many books about animals.",
+     "No writings by Aesop himself survive.",
+     "The shepherd boy cried “Wolf!” only once.",
+     "The fox finally reached the grapes."
     ],
     "a": 1,
+    "evidence": "No writings by him survive.",
     "why": "第二段。",
-    "evidence": "His fables were passed on by people telling them out loud."
+    "traps": [
+     "正反顛倒：他的寓言是口耳相傳。",
+     "",
+     "數字錯位：喊了三、四次。",
+     "正反顛倒：牠搆不到才說葡萄酸。"
+    ]
    },
    {
-    "q": "Why does the hare lose the race?",
+    "type": "INF",
+    "q": "Why do the fables use animals, according to the writer?",
     "options": [
-     "He is too slow",
-     "He falls asleep",
-     "He gets lost",
-     "The fox stops him"
+     "So the stories can be longer.",
+     "Because animals are better at teaching than people.",
+     "Because Aesop lived on a farm.",
+     "So we can laugh at ourselves without feeling hurt."
     ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "The hare is so sure he will win that he falls asleep."
-   },
-   {
-    "q": "What is one reason the fables last so long?",
-    "options": [
-     "They are very long",
-     "They are short, so they are easy to remember",
-     "They are expensive",
-     "They have no lessons"
-    ],
-    "a": 1,
+    "a": 3,
+    "evidence": "They use animals, so we can laugh at ourselves without feeling hurt.",
     "why": "最後一段。",
-    "evidence": "They are short, so they are easy to remember."
+    "traps": [
+     "正反顛倒：寓言的優點是短。",
+     "捏造：文中沒有比較。",
+     "捏造：文中沒提他住的地方。",
+     ""
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "What English expression comes from the fox fable?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "Slow and steady",
-     "Sour grapes",
-     "Cry wolf",
-     "Cold shoulder"
+     "Aesop wrote his fables down in the sixth century BCE.",
+     "Aesop’s fables last because they are short, vivid and still true.",
+     "The Aesop Romance is a true account of Aesop’s life.",
+     "Persuasion never works as well as force."
     ],
     "a": 1,
-    "why": "第一段。",
-    "evidence": "even given English an expression: “sour grapes”"
+    "evidence": "So why do these tiny stories survive?",
+    "why": "最後一段整理原因：短、好記、用動物、壓縮成一個畫面。",
+    "traps": [
+     "正反顛倒：沒有他親筆的作品留存。",
+     "",
+     "正反顛倒：原文 probably highly fictional。",
+     "正反顛倒：寓言的教訓是說服勝於強迫。"
+    ]
    },
    {
-    "q": "When were the fables collected?",
+    "type": "WD",
+    "q": "What does “oral tradition” in the second paragraph mean?",
     "options": [
-     "While Aesop was alive",
-     "About three centuries after his supposed death",
-     "In the 20th century",
-     "They were never collected"
+     "Books collected three centuries later.",
+     "Stories written by slaves in ancient Greece.",
+     "Lessons about speaking politely.",
+     "Stories passed on by speaking rather than writing."
     ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "were not collected until about three centuries after his supposed death"
+    "a": 3,
+    "evidence": "were part of an oral tradition and were not collected until about three centuries after his supposed death",
+    "why": "和「直到三百年後才被收集」對照：口耳相傳，而非書寫。",
+    "traps": [
+     "時序錯置：收集成書是後來的事。",
+     "張冠李戴：奴隸身分是 Aesop Romance 的說法。",
+     "字面誤讀：oral 不是禮貌說話。",
+     ""
+    ]
    },
    {
-    "q": "In “The North Wind and the Sun”, what happens when the wind blows harder?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "The man takes off his cloak",
-     "The man holds his cloak tighter",
-     "The sun disappears",
-     "The man runs away"
+     "In “The North Wind and the Sun”, the sun makes the traveller remove his cloak.",
+     "The harder the wind blows, the faster the man takes off his cloak.",
+     "The hare wins the race because he never stops.",
+     "The fables were collected while Aesop was alive."
     ],
-    "a": 1,
+    "a": 0,
+    "evidence": "the sun simply shines, and he takes it off",
     "why": "第三段。",
-    "evidence": "The harder the wind blows, the tighter the man holds it"
+    "traps": [
+     "",
+     "正反顛倒：風越大他抓得越緊。",
+     "張冠李戴：持續前進贏的是烏龜。",
+     "時序錯置：死後約三百年才收集。"
+    ]
    },
    {
-    "q": "How does the fox reduce cognitive dissonance?",
+    "type": "INF",
+    "q": "Why does the author mention cognitive dissonance?",
     "options": [
-     "By trying again",
-     "By changing her opinion of what she wanted",
-     "By asking for help",
-     "By eating other food"
+     "To explain why grapes taste sour.",
+     "To prove that foxes can think like people.",
+     "To show the fox story describes real human psychology.",
+     "To show that Aesop studied modern psychology."
     ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "she changes her opinion of what she wanted"
+    "a": 2,
+    "evidence": "Some fables describe psychology with surprising accuracy.",
+    "why": "第四段：狐狸改變看法來掩飾失敗，正是現代心理學說的認知失調。",
+    "traps": [
+     "字面誤讀：葡萄可能並不酸。",
+     "字面誤讀：重點是人性，不是狐狸的能力。",
+     "",
+     "時序錯置：心理學是現代才有的。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "What question does the endurance of “The Fox and the Grapes” raise?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "Whether foxes eat grapes",
-     "What makes a story memorable",
-     "Who translated it",
-     "Whether La Fontaine copied it"
+     "To compare La Fontaine with George Fyler Townsend.",
+     "To prove that Aesop was a real historical person.",
+     "To explore why such short fables have lasted so long.",
+     "To argue that fables should be longer and more detailed."
+    ],
+    "a": 2,
+    "evidence": "Its endurance raises an interesting question about what makes a story memorable.",
+    "why": "第一段提出問題，後面從結構、心理、距離感回答。",
+    "traps": [
+     "以偏概全：兩人只是被提到的改寫者與譯者。",
+     "正反顛倒：他是否存在仍不確定。",
+     "",
+     "正反顛倒：作者強調簡短的力量。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “redundant” in the third paragraph most likely mean?",
+    "options": [
+     "Not needed because the point is already clear.",
+     "Too difficult for children to understand.",
+     "Added much later by other writers.",
+     "Repeated in every fable Aesop told."
+    ],
+    "a": 0,
+    "evidence": "because the image has already made the argument",
+    "why": "畫面已經把道理說完了，寓意就顯得多餘。",
+    "traps": [
+     "",
+     "捏造：文中沒談難度。",
+     "時序錯置：作者沒說寓意是後加的。",
+     "字面誤讀：redundant 不是「每則都有」。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The shepherd’s boy raised false alarms only once.",
+     "Herodotus wrote the most complete life of Aesop.",
+     "Jon Elster translated Aesop’s fables into English.",
+     "Townsend’s version of the fox fable has barely sixty words."
+    ],
+    "a": 3,
+    "evidence": "runs to barely sixty words",
+    "why": "第一段。",
+    "traps": [
+     "數字錯位：原文說喊了三、四次。",
+     "以偏概全：Herodotus 只提供零星細節。",
+     "張冠李戴：Elster 是提出「適應性偏好形成」的哲學家。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "According to Apollonius, why did Aesop’s untrue stories tell the truth?",
+    "options": [
+     "He based them on events he had personally seen.",
+     "He never claimed that the stories described real events.",
+     "He told them only to kings and advisers.",
+     "He wrote them in a secret language."
     ],
     "a": 1,
-    "why": "第一段。",
-    "evidence": "Its endurance raises an interesting question about what makes a story memorable."
-   },
-   {
-    "q": "Why is little known for certain about Aesop?",
-    "options": [
-     "His existence is uncertain and no writings by him survive",
-     "He wrote in a lost language",
-     "His books were burned",
-     "He lived in the 20th century"
-    ],
-    "a": 0,
-    "why": "第二段。",
-    "evidence": "His existence remains uncertain and no writings by him survive."
-   },
-   {
-    "q": "Why does the writer call the moral of “The North Wind and the Sun” “almost redundant”?",
-    "options": [
-     "The image has already made the argument",
-     "It is wrong",
-     "It is too long",
-     "It was added by Townsend"
-    ],
-    "a": 0,
-    "why": "第三段。",
-    "evidence": "because the image has already made the argument"
-   },
-   {
-    "q": "How do animal characters help listeners, according to the final paragraph?",
-    "options": [
-     "They create distance so listeners can recognise themselves without becoming defensive",
-     "They make the stories longer",
-     "They are more realistic",
-     "They hide the moral"
-    ],
-    "a": 0,
-    "why": "最後一段。",
-    "evidence": "create enough distance for listeners to recognise themselves without becoming defensive"
+    "evidence": "Aesop told the truth precisely because he never claimed to be describing real events",
+    "why": "最後一句。",
+    "traps": [
+     "正反顛倒：大家都知道故事不是真的。",
+     "",
+     "張冠李戴：國王顧問是 Aesop Romance 的說法。",
+     "捏造：文中沒有秘密語言。"
+    ]
    }
   ]
  },

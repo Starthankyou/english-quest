@@ -280,152 +280,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "What happens if a child waits in the marshmallow test?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "They get nothing",
-     "They get two marshmallows",
-     "They can go home",
-     "They get a toy"
-    ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "If you wait, you will get two."
-   },
-   {
-    "q": "How did some children manage to wait?",
-    "options": [
-     "By eating something else",
-     "By covering their eyes or singing",
-     "By leaving the room",
-     "By calling their parents"
-    ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "sometimes by covering their eyes or singing to themselves"
-   },
-   {
-    "q": "How many children were in the 2018 study?",
-    "options": [
-     "About 50",
-     "About 185",
-     "More than 900",
-     "Exactly 4"
+     "How to teach children to wait for two marshmallows.",
+     "Why children at Stanford University ate marshmallows quickly.",
+     "How a famous test was checked again and found less useful.",
+     "Why waiting is not a useful skill for children."
     ],
     "a": 2,
-    "why": "第四段。",
-    "evidence": "more than 900 children from many different families"
+    "evidence": "The link between waiting and later school results was much smaller.",
+    "why": "第三段是舊說法，第四段是 2018 年重新檢驗的結果，第五段說名研究也該再驗證。",
+    "traps": [
+     "捏造：文中沒有教學方法。",
+     "以偏概全：有些吃得快，有些等待。",
+     "",
+     "正反顛倒：原文 Waiting is still a useful skill。"
+    ]
    },
    {
-    "q": "What important lesson about science does the writer give?",
+    "type": "REF",
+    "q": "What does “the idea” in “tested the idea again” in the fourth paragraph refer to?",
     "options": [
-     "Famous findings are always right",
-     "Even famous findings should be tested again",
-     "Children should never eat sweets",
-     "Science cannot study children"
+     "That the marshmallow test could predict a child’s future success.",
+     "That children should cover their eyes when waiting.",
+     "That marshmallows are bad for young children.",
+     "That teenagers have higher test scores than children."
+    ],
+    "a": 0,
+    "evidence": "Many people came to believe that the marshmallow test could predict a child’s future success.",
+    "why": "前一段的說法：棉花糖測驗能預測孩子未來的成功。",
+    "traps": [
+     "",
+     "原文字眼、錯誤關係：遮眼睛是孩子等待的方法。",
+     "捏造：文中沒談健康。",
+     "原文字眼、錯誤關係：考試成績是後續追蹤的內容。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The 2018 study tested fewer children than the original one.",
+     "All the children in the first study waited for the second marshmallow.",
+     "Walter Mischel tested teenagers in the 1960s.",
+     "In 2018, the link almost disappeared after family background was considered."
+    ],
+    "a": 3,
+    "evidence": "when the scientists considered the children’s family background, the link almost disappeared",
+    "why": "第四段：考慮家庭背景後，關聯幾乎消失。",
+    "traps": [
+     "正反顛倒：2018 年的研究有超過 900 個孩子。",
+     "正反顛倒：原文 Some children ate the marshmallow quickly。",
+     "張冠李戴：他測的是學齡前兒童，青少年是後來的追蹤。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What lesson does the writer want readers to learn from this story?",
+    "options": [
+     "One marshmallow can decide a child’s future.",
+     "Famous scientific findings should be tested again.",
+     "Children from rich families are always more patient.",
+     "Scientists should stop studying children."
     ],
     "a": 1,
-    "why": "最後一段。",
-    "evidence": "even famous findings should be tested again"
+    "evidence": "even famous findings should be tested again",
+    "why": "最後一句：即使是有名的發現也該再驗證。",
+    "traps": [
+     "正反顛倒：原文 a child’s future is not decided by one marshmallow。",
+     "",
+     "過度推論：文中只說家庭背景解釋了大部分差異。",
+     "捏造：作者沒有這樣主張。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "What was Mischel “initially interested” in?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "Predicting SAT scores",
-     "How children resisted temptation",
-     "Children’s favourite sweets",
-     "Family income"
+     "Self-control in early childhood decides success later in life.",
+     "Children whose mothers finished college wait longer for treats.",
+     "Walter Mischel was careless when he designed the marshmallow test.",
+     "A larger study found the link between waiting and success much weaker."
+    ],
+    "a": 3,
+    "evidence": "the link became very small and was no longer statistically significant",
+    "why": "第三、四段：較大、較多元的研究發現關聯小很多。",
+    "traps": [
+     "正反顛倒：這正是被挑戰的舊說法。",
+     "捏造：研究聚焦母親沒讀完大學的孩子，沒做這樣的比較。",
+     "正反顛倒：原文 or that the original researchers were careless。",
+     ""
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “statistically significant” in the fourth paragraph most likely mean?",
+    "options": [
+     "Important enough to matter to parents and teachers.",
+     "Strong enough that it is unlikely to be due to chance.",
+     "Measured when the children were fifteen years old.",
+     "Similar in size to the results of the original study."
     ],
     "a": 1,
-    "why": "第二段。",
-    "evidence": "Mischel was initially interested simply in how children resisted temptation."
+    "evidence": "the link became very small and was no longer statistically significant",
+    "why": "「很小、不再顯著」：關聯弱到可能只是巧合。",
+    "traps": [
+     "一字多義：significant 在統計上不是「對人重要」。",
+     "",
+     "原文字眼、錯誤關係：15 歲是測量成就的時間點。",
+     "正反顛倒：原文說約為原本的一半。"
+    ]
    },
    {
-    "q": "What was a weakness of the original follow-ups?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "They used a small and similar group of children",
-     "They used too many children",
-     "They did not use marshmallows",
-     "They were done in Taiwan"
-    ],
-    "a": 0,
-    "why": "第三段第一句。",
-    "evidence": "were based on a relatively small and similar group of children from a university community"
-   },
-   {
-    "q": "How big was the link in the 2018 study compared with the original?",
-    "options": [
-     "Twice as big",
-     "About the same",
-     "About half the size",
-     "Ten times smaller"
+     "The 2018 study focused only on children at Stanford University.",
+     "Waiting longer was strongly connected with children’s later behaviour.",
+     "The link at age 15 was about half the size of the original findings.",
+     "Mischel was first interested in the children’s SAT scores."
     ],
     "a": 2,
-    "why": "第四段。",
-    "evidence": "it was about half the size of the original findings"
+    "evidence": "it was about half the size of the original findings",
+    "why": "第四段：關聯約為原研究的一半。",
+    "traps": [
+     "正反顛倒：2018 年用的是更大、更多元的全美資料。",
+     "正反顛倒：原文 almost no connection between waiting and later behaviour。",
+     "",
+     "時序錯置：他一開始只想了解孩子怎麼抵抗誘惑。"
+    ]
    },
    {
-    "q": "What happened when family background and early abilities were taken into account?",
+    "type": "INF",
+    "q": "What does the author suggest about a child’s ability to wait?",
     "options": [
-     "The link became stronger",
-     "The link became very small and no longer statistically significant",
-     "Nothing changed",
-     "The study was cancelled"
+     "It may partly reflect the circumstances the child grows up in.",
+     "It is the only key to doing well at school.",
+     "It can be measured only at a famous university.",
+     "It is something children are simply born with."
     ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "the link became very small and was no longer statistically significant"
+    "a": 0,
+    "evidence": "a child’s ability to wait may partly reflect the circumstances they grow up in",
+    "why": "第五段：等待能力可能部分反映成長環境。",
+    "traps": [
+     "",
+     "以偏概全：作者說不是唯一關鍵。",
+     "捏造：文中沒有這種限制。",
+     "正反顛倒：作者強調環境的影響。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "Why does the writer call the marshmallow test “a popular parable about willpower”?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "It is used to tell a simple moral story about self-control and success",
-     "It was written as a fable",
-     "It is only told to children",
-     "It has nothing to do with research"
+     "To show how a narrow finding became a popular belief about destiny.",
+     "To argue that self-control has no effect on children’s futures.",
+     "To teach parents how to train children to delay gratification.",
+     "To describe the history of Stanford University’s preschool."
     ],
     "a": 0,
-    "why": "第一段：它被用來主張自制力是成功關鍵。",
-    "evidence": "has been used to argue that self-control is a key ingredient of later success"
+    "evidence": "how easily a correlation, observed in a narrow group, can harden into a cultural belief about destiny",
+    "why": "第五段點出主旨：窄樣本中的相關，如何變成關於命運的文化信念。",
+    "traps": [
+     "",
+     "以偏概全：原文 None of this proves that self-control is irrelevant。",
+     "捏造：作者反而指出只訓練等待效果有限。",
+     "以偏概全：幼兒園只是研究地點。"
+    ]
    },
    {
-    "q": "Why does the writer mention that the 2018 sample was “far more representative”?",
+    "type": "WD",
+    "q": "Which of the following is closest in meaning to “homogeneous” as used in the second paragraph?",
     "options": [
-     "To show it better reflected the wider population",
-     "To criticize mothers without degrees",
-     "To prove the original study was fake",
-     "To explain why marshmallows were used"
+     "Poor in income.",
+     "Large in number.",
+     "Similar in background.",
+     "Careful in research."
     ],
-    "a": 0,
-    "why": "第三段：這個群體更能代表一般人口。",
-    "evidence": "a group far more representative of the wider population"
+    "a": 2,
+    "evidence": "drawn from an unusually homogeneous university community",
+    "why": "對照第三段 a far more representative group：homogeneous 指背景相似、缺乏多樣性。",
+    "traps": [
+     "捏造：大學社區沒有說是低收入。",
+     "正反顛倒：樣本其實很小（約 185 人）。",
+     "",
+     "原文字眼、錯誤關係：research 是研究，不是字義。"
+    ]
    },
    {
-    "q": "By how much did the association shrink after controls were added?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "Roughly two-thirds",
-     "Roughly ten percent",
-     "It doubled",
-     "It did not change"
-    ],
-    "a": 0,
-    "why": "第四段。",
-    "evidence": "the association shrank by roughly two-thirds and lost statistical significance"
-   },
-   {
-    "q": "What alternative explanation for not waiting does the final paragraph suggest?",
-    "options": [
-     "Children who did not wait were lazy",
-     "A child used to unreliable promises may reasonably value the treat in hand",
-     "The marshmallows were too small",
-     "The adults left too quickly"
+     "Most of the 600 children were reached for the 1990 follow-up.",
+     "After controlling for other factors, the association shrank by about two-thirds.",
+     "The 2018 study used only children from university families.",
+     "Delay time strongly predicted later behavioural outcomes."
     ],
     "a": 1,
-    "why": "最後一段：在承諾常落空的環境，手上的一顆更有價值。",
-    "evidence": "A child who grows up with unreliable promises may reasonably decide that a marshmallow in hand is worth more than two in the future."
+    "evidence": "the association shrank by roughly two-thirds and lost statistical significance",
+    "why": "第四段：控制其他因素後，關聯縮小約三分之二並失去統計顯著。",
+    "traps": [
+     "數字錯位：只有約 185 人追蹤得到。",
+     "",
+     "正反顛倒：2018 年聚焦母親沒有大學學歷的孩子。",
+     "正反顛倒：原文 almost no relationship with later behavioural outcomes。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Why does the author mention a child who grows up with unreliable promises?",
+    "options": [
+     "To explain why marshmallows were used in the test.",
+     "To prove that such children cannot develop self-control.",
+     "To criticise parents who break their promises.",
+     "To show that waiting may be a sensible choice shaped by circumstance."
+    ],
+    "a": 3,
+    "evidence": "A child who grows up with unreliable promises may reasonably decide that a marshmallow in hand is worth more than two in the future.",
+    "why": "第五段：不等待也可能是對環境的合理反應，呼應 waiting reflects not only character but circumstance。",
+    "traps": [
+     "捏造：文中沒解釋為何用棉花糖。",
+     "過度推論：作者沒有說他們學不會自制。",
+     "捏造：作者沒有批評父母。",
+     ""
+    ]
    }
   ]
  },

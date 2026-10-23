@@ -291,152 +291,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "What is the writer’s question about the $499 jacket?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "Is it the right colour?",
-     "Is $499 really cheap?",
-     "Is the shop open?",
-     "Is it too big?"
+     "How Gandhi became famous around the world.",
+     "How to find the cheapest jacket in a shop.",
+     "Why countries in Africa joined the United Nations.",
+     "How first numbers and fear of losing affect our choices."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "But is $499 really cheap?"
+    "a": 3,
+    "evidence": "The first number you saw is changing how you think.",
+    "why": "全文：定錨效應與損失規避如何影響判斷與消費。",
+    "traps": [
+     "原文字眼、錯誤關係：甘地的年齡只是實驗題目。",
+     "以偏概全：外套只是開頭的例子。",
+     "原文字眼、錯誤關係：聯合國的問題只是實驗題目。",
+     ""
+    ]
    },
    {
-    "q": "What did people who saw 65 on the wheel guess?",
+    "type": "WD",
+    "q": "Why do psychologists use the word “anchor” for this effect?",
     "options": [
-     "About 10%",
-     "About 25%",
-     "About 45%",
-     "About 65%"
+     "Ships use numbers to find their way.",
+     "The first number holds our mind in one place.",
+     "The price tag is heavy and hard to move.",
+     "Shops are often found near the sea."
+    ],
+    "a": 1,
+    "evidence": "In the same way, the first number we see holds our mind in one place.",
+    "why": "第二段：錨把船固定在一處，第一個數字也把想法固定住。",
+    "traps": [
+     "原文字眼、錯誤關係：船只是比喻的來源，重點在錨把船固定住。",
+     "",
+     "字面誤讀：不是說價錢很重。",
+     "字面誤讀：錨只是比喻，不是說商店在海邊。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Students asked about age 9 guessed Gandhi died at about 67.",
+     "People who saw 10 on the wheel guessed about 45%.",
+     "People who saw 65 on the wheel guessed about 45%.",
+     "Kahneman won the Nobel Prize in 1979."
     ],
     "a": 2,
+    "evidence": "People who saw 65 guessed about 45%.",
     "why": "第三段。",
-    "evidence": "People who saw 65 guessed about 45%."
+    "traps": [
+     "數字錯位：被問 9 歲的人猜約 50 歲，問 140 歲的人才猜 67。",
+     "數字錯位：看到 10 的人猜 25%。",
+     "",
+     "數字錯位：得獎是 2002 年。"
+    ]
    },
    {
-    "q": "What is loss aversion?",
+    "type": "INF",
+    "q": "What does the writer advise shoppers to do?",
     "options": [
-     "Losing feels worse than winning feels good",
-     "Liking to lose",
-     "Never buying anything",
-     "Winning the Nobel Prize"
+     "Ignore the “was” price when deciding what to pay.",
+     "Buy quickly before the item is gone.",
+     "Always choose the most expensive item in the shop.",
+     "Compare prices only on the day of the sale."
     ],
     "a": 0,
-    "why": "第四段。",
-    "evidence": "losing feels worse than winning feels good"
-   },
-   {
-    "q": "What does the writer suggest you ask before buying?",
-    "options": [
-     "Is this the last one?",
-     "Would I pay $499 if I never saw the first number?",
-     "Can I get it cheaper online?",
-     "Do my friends have one?"
-    ],
-    "a": 1,
+    "evidence": "Before you buy, forget the “was” price.",
     "why": "最後一段。",
-    "evidence": "Would I pay $499 for this if I never saw the first number?"
+    "traps": [
+     "",
+     "正反顛倒：這正是商家利用損失規避的話術。",
+     "捏造：作者反而提醒別被高價影響。",
+     "捏造：文中沒有談比價的時機。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "What was the median estimate when the sequence started with 8 × 7 × 6?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "512",
-     "2,250",
-     "40,320",
-     "8"
+     "Anchoring and loss aversion are normal habits that marketers use.",
+     "People always choose prices rationally when shopping.",
+     "Wine and chocolate are cheaper with a social security number.",
+     "Kahneman proved that shoppers are stupid."
     ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "When it started with 8 × 7 × 6, the median was 2,250."
+    "a": 0,
+    "evidence": "Marketers use both habits.",
+    "why": "第一段預告兩種習慣，第五段說商家兩者都用。",
+    "traps": [
+     "",
+     "正反顛倒：研究顯示判斷會被干擾。",
+     "原文字眼、錯誤關係：酒和巧克力是 Ariely 的實驗物品。",
+     "正反顛倒：原文 not signs of stupidity。"
+    ]
    },
    {
-    "q": "What does the wheel study show?",
+    "type": "WD",
+    "q": "What does the phrase “irrelevant numbers” in the third paragraph mean?",
     "options": [
-     "Wheels are fun",
-     "Even meaningless numbers can shift judgements",
-     "People know a lot about Africa",
-     "The UN has 65 members"
-    ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "A meaningless number had shifted a factual judgement by twenty points."
-   },
-   {
-    "q": "In the 1990 mug experiment, how much did owners ask for?",
-    "options": [
-     "About $3",
-     "About $5",
-     "About $7",
-     "About $10"
+     "Numbers printed on price tags.",
+     "Numbers that are too large to count.",
+     "Numbers that have nothing to do with the question.",
+     "Numbers that give the correct answer."
     ],
     "a": 2,
-    "why": "第四段。",
-    "evidence": "students who were given a mug asked for about $7 to sell it"
+    "evidence": "A meaningless number had shifted a factual judgement by twenty points.",
+    "why": "轉盤數字和非洲國家比例毫無關係，卻改變了估計。",
+    "traps": [
+     "原文字眼、錯誤關係：價格標籤是另一個例子。",
+     "捏造：大小不是重點。",
+     "",
+     "正反顛倒：它們跟正確答案沒有關係。"
+    ]
    },
    {
-    "q": "According to Kahneman, what are these reactions?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "Signs of stupidity",
-     "Normal features of human thinking",
-     "Rare mistakes",
-     "Tricks invented by shops"
+     "Buyers were willing to pay about $7 for a mug.",
+     "Students who owned a mug asked for about $7 to sell it.",
+     "The correct answer to the multiplication problem was 2,250.",
+     "Loss aversion was introduced in 2002."
     ],
     "a": 1,
-    "why": "最後一段。",
-    "evidence": "these reactions are not signs of stupidity but normal features of human thinking"
+    "evidence": "students who were given a mug asked for about $7 to sell it",
+    "why": "第四段。",
+    "traps": [
+     "數字錯位：買方只願出約 3 美元。",
+     "",
+     "數字錯位：2,250 是估計中位數，正解是 40,320。",
+     "數字錯位：1979 年提出，2002 年是得諾貝爾獎。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Why does a phrase such as “Only three left!” work on shoppers?",
+    "options": [
+     "It proves the item is popular.",
+     "It shows the true value of the item.",
+     "It lowers the original price.",
+     "It makes not buying feel like a loss."
+    ],
+    "a": 3,
+    "evidence": "phrases such as “Only three left!” turn not buying into a kind of loss",
+    "why": "第五段。",
+    "traps": [
+     "過度推論：文中沒這樣說。",
+     "捏造：它不提供商品價值的資訊。",
+     "原文字眼、錯誤關係：原價是另一種手法（錨點）。",
+     ""
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "What assumption of traditional economics does the price tag challenge?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "That prices always rise",
-     "That people evaluate prices and risks more or less rationally",
-     "That shops are honest",
-     "That jackets are expensive"
+     "To prove that traditional economics was completely correct.",
+     "To explain how predictable biases shape judgement and how sellers use them.",
+     "To show that every anchoring study has been replicated.",
+     "To describe the life of Richard Thaler."
     ],
     "a": 1,
-    "why": "第一段。",
-    "evidence": "people evaluate prices and risks more or less rationally"
+    "evidence": "he showed that intuitive judgement follows predictable patterns",
+    "why": "全文：定錨與損失規避，以及商家的運用。",
+    "traps": [
+     "正反顛倒：研究正是在挑戰傳統經濟學的假設。",
+     "",
+     "正反顛倒：有少數研究無法重現。",
+     "以偏概全：Thaler 只是馬克杯研究的作者之一。"
+    ]
    },
    {
-    "q": "Why do anchors bias estimates, according to the writer?",
+    "type": "WD",
+    "q": "What does “adjust away from it insufficiently” in the second paragraph mean?",
     "options": [
-     "People adjust away from them insufficiently",
-     "People forget them",
-     "People always choose the higher number",
-     "Anchors are always correct"
+     "People move far beyond the first value.",
+     "People ignore the first value completely.",
+     "People always guess the correct answer.",
+     "People move too little from the first value."
+    ],
+    "a": 3,
+    "evidence": "because people adjust away from it insufficiently",
+    "why": "從初始值調整得不夠，所以估計被拉向它。",
+    "traps": [
+     "正反顛倒：是調整得太少。",
+     "正反顛倒：問題正是沒有忽略它。",
+     "正反顛倒：兩組都錯得很離譜。",
+     ""
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Some studies using a die failed to reproduce the anchoring effect.",
+     "Losses are weighted about half as heavily as gains.",
+     "All scholars agree that loss aversion is universal.",
+     "The mug study was carried out in 1979."
     ],
     "a": 0,
-    "why": "第二段。",
-    "evidence": "because people adjust away from it insufficiently"
-   },
-   {
-    "q": "What do studies that failed to reproduce anchoring suggest?",
-    "options": [
-     "Anchoring never happens",
-     "Participants may sometimes treat an anchor as a hint",
-     "Dice are unreliable",
-     "Gandhi lived to 140"
-    ],
-    "a": 1,
+    "evidence": "have failed to reproduce the effect",
     "why": "第三段。",
-    "evidence": "suggesting that participants may sometimes treat an anchor as a hint"
+    "traps": [
+     "",
+     "數字錯位：損失約是收益的兩倍重。",
+     "正反顛倒：原文 Not every scholar accepts the universality。",
+     "數字錯位：馬克杯研究在 1990 年。"
+    ]
    },
    {
-    "q": "How do retailers “frame inaction as loss”?",
+    "type": "INF",
+    "q": "What does the author suggest readers can gain by recognising these patterns?",
     "options": [
-     "By lowering prices permanently",
-     "Through countdown timers and warnings that stock is running out",
-     "By giving free mugs",
-     "By hiding prices"
+     "A way to make retailers lower their prices.",
+     "The power to become perfectly rational in every choice.",
+     "The ability to pause and question the first number they see.",
+     "A method for winning a prize like Kahneman’s Nobel."
     ],
-    "a": 1,
+    "a": 2,
+    "evidence": "it allows us to pause, question the first number we see",
     "why": "最後一段。",
-    "evidence": "through countdown timers and warnings that stock is running out"
+    "traps": [
+     "捏造：作者說的是改變自己的反應，不是讓商家降價。",
+     "正反顛倒：原文 cannot make us perfectly rational。",
+     "",
+     "原文字眼、錯誤關係：諾貝爾獎是 Kahneman 的成就，不是讀者的收穫。"
+    ]
    }
   ]
  },

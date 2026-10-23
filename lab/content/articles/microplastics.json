@@ -274,152 +274,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "What happens to plastic over time after we throw it away?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "It disappears completely",
-     "It breaks into smaller and smaller pieces",
-     "It turns into water",
-     "It becomes stronger"
-    ],
-    "a": 1,
-    "why": "第一段最後一句。",
-    "evidence": "Over time, it breaks into smaller and smaller pieces."
-   },
-   {
-    "q": "How many of the 22 adults had plastic in their blood?",
-    "options": [
-     "5",
-     "11",
-     "17",
-     "22"
+     "Why plastic is cheap, light and strong.",
+     "How plastic bottles are turned into clothes.",
+     "How scientists found tiny pieces of plastic in human blood.",
+     "Why microplastics are dangerous to our health."
     ],
     "a": 2,
-    "why": "第三段：22 人中有 17 人。",
-    "evidence": "They found tiny plastic particles in the blood of 17 of them."
+    "evidence": "They found tiny plastic particles in the blood of 17 of them.",
+    "why": "第三、四段是重點：科學家在人類血液裡找到塑膠微粒。",
+    "traps": [
+     "以偏概全：只是第一段的背景。",
+     "捏造：文中只說衣服可能是塑膠做的。",
+     "",
+     "過度推論：原文 scientists do not know yet。"
+    ]
    },
    {
-    "q": "Which kind of plastic was the most common?",
+    "type": "REF",
+    "q": "What does “them” in “in the blood of 17 of them” refer to?",
     "options": [
-     "Plastic used in drink bottles",
-     "Plastic used in toys",
-     "Plastic used in phones",
-     "Plastic used in cars"
+     "The healthy adults whose blood was tested.",
+     "The scientists in the Netherlands.",
+     "The plastic drink bottles.",
+     "The special machines used in the study."
     ],
     "a": 0,
-    "why": "第四段第一句。",
-    "evidence": "The most common kind was the plastic used in drink bottles."
+    "evidence": "a team of scientists in the Netherlands tested blood from 22 healthy adults",
+    "why": "前一句：測了 22 位健康成人的血，其中 17 人有塑膠微粒。",
+    "traps": [
+     "",
+     "原文字眼、錯誤關係：科學家是做檢測的人。",
+     "原文字眼、錯誤關係：飲料瓶在第四段。",
+     "原文字眼、錯誤關係：機器是用來測量的工具。"
+    ]
    },
    {
-    "q": "Do scientists know if this plastic is dangerous?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "Yes, it is very dangerous",
-     "Yes, it is completely safe",
-     "Not yet; more research is needed",
-     "They are not interested"
+     "Plastic from drink bottles appeared in about a third of the samples.",
+     "Scientists found plastic in the blood of all 22 adults.",
+     "Plastic used for food packaging was the most common kind.",
+     "Microplastics have been found in rivers, soil and even the air."
     ],
-    "a": 2,
-    "why": "第四段：科學家還不知道，需要更多研究。",
-    "evidence": "The honest answer is that scientists do not know yet."
+    "a": 3,
+    "evidence": "Scientists have found them in the ocean, in rivers, in the soil and even in the air.",
+    "why": "第二段：海洋、河流、土壤、空氣裡都找得到。",
+    "traps": [
+     "數字錯位：飲料瓶塑膠約占一半樣本。",
+     "數字錯位：22 人中只有 17 人。",
+     "張冠李戴：最常見的是飲料瓶的塑膠。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What can be inferred from the last paragraph?",
+    "options": [
+     "Plastic disappears from our world once we throw it away.",
+     "Using fewer single-use bottles may help reduce the problem.",
+     "One person alone cannot make any difference.",
+     "Scientists have proved that plastic in blood is harmless."
+    ],
+    "a": 1,
+    "evidence": "Using fewer single-use bottles and bags is a small step.",
+    "why": "最後一段：少用一次性瓶子和袋子是一小步，很多人一起做就有差別。",
+    "traps": [
+     "正反顛倒：原文 What we throw away does not leave our world。",
+     "",
+     "曲解：原文說許多人的小步驟能造成改變，並不是說一個人沒用。",
+     "正反顛倒：第四段說科學家還不知道是否有害。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "According to the first paragraph, what is plastic’s “greatest problem”?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "It is expensive",
-     "It is designed to last",
-     "It is heavy",
-     "It is hard to make"
+     "Plastic is useful because it keeps food fresh and medical tools safe.",
+     "A small study found plastic in human blood, but its health effects are unknown.",
+     "Most of the plastic in our blood comes from plastic bags.",
+     "Microplastics in blood have been proved to cause disease."
     ],
     "a": 1,
-    "why": "第一段：最大的優點也是最大的問題——它耐久。",
-    "evidence": "plastic is designed to last"
+    "evidence": "The researchers stressed that the impact on health is not yet known",
+    "why": "第三到五段：首次測到血液中的塑膠，但健康影響未知。",
+    "traps": [
+     "以偏概全：第一段的背景。",
+     "",
+     "數字錯位：塑膠袋材質（聚乙烯）只占約四分之一。",
+     "過度推論：原文 the impact on health is not yet known。"
+    ]
    },
    {
-    "q": "Why had measuring plastic in blood been difficult?",
+    "type": "REF",
+    "q": "What does “Its greatest strength” in the first paragraph refer to?",
     "options": [
-     "Nobody was interested",
-     "It was technically difficult",
-     "Blood samples were illegal",
-     "Plastic dissolves in blood"
-    ],
-    "a": 1,
-    "why": "第二段最後一句。",
-    "evidence": "measuring them in blood was technically difficult"
-   },
-   {
-    "q": "What was the average measurable amount of plastic?",
-    "options": [
-     "1.6 micrograms per millilitre",
-     "16 grams per litre",
-     "22 micrograms per person",
-     "17 percent"
+     "The fact that plastic is designed to last.",
+     "Plastic’s ability to keep food fresh.",
+     "Plastic’s use in medical equipment.",
+     "Plastic’s ability to break into fragments."
     ],
     "a": 0,
-    "why": "第三段最後一句。",
-    "evidence": "1.6 micrograms per millilitre of blood"
+    "evidence": "plastic is designed to last",
+    "why": "冒號後面就是答案：塑膠的設計就是要耐久，這同時也是它最大的問題。",
+    "traps": [
+     "",
+     "以偏概全：保鮮是前一句列舉的用途之一。",
+     "以偏概全：醫療用途是前一句列舉的用途之一。",
+     "正反顛倒：碎裂成微粒是耐久帶來的「問題」，不是優點。"
+    ]
    },
    {
-    "q": "What can a study of 22 people NOT tell us, according to the last paragraph?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "Whether plastic can be detected in blood",
-     "How much plastic is in everyone’s blood or whether it is harmful",
-     "Which plastics were found",
-     "Where the donors came from"
+     "The researchers found 1.6 grams of plastic per litre of blood.",
+     "About half of the samples contained polystyrene.",
+     "The blood donors were patients with serious illnesses.",
+     "Plastic particles were found in 17 of the 22 blood samples."
     ],
-    "a": 1,
-    "why": "最後一段說明了研究的限制。",
-    "evidence": "A study of 22 people cannot tell us how much plastic is in everyone’s blood, or whether it is harmful."
+    "a": 3,
+    "evidence": "They analysed blood samples from 22 anonymous, healthy adult donors and found plastic particles in 17 of them.",
+    "why": "第三段：22 位捐血者中 17 人的血裡有塑膠微粒。",
+    "traps": [
+     "數字錯位：原文是每毫升 1.6 微克。",
+     "張冠李戴：一半樣本含的是 PET（飲料瓶）。",
+     "正反顛倒：原文 healthy adult donors。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What can be inferred from the last paragraph?",
+    "options": [
+     "The study shows that everyone has plastic in their blood.",
+     "People should panic about the plastic they use.",
+     "Pollution in the environment can end up inside our bodies.",
+     "Plastic stays in the environment for only a few minutes."
+    ],
+    "a": 2,
+    "evidence": "some of it may find its way back to us",
+    "why": "最後一段：「外面」和「體內」的界線比想像中薄，塑膠可能回到我們身上。",
+    "traps": [
+     "過度推論：原文說 22 人的研究 cannot tell us how much plastic is in everyone’s blood。",
+     "正反顛倒：原文 neither panic nor indifference。",
+     "",
+     "張冠李戴：只用幾分鐘的是我們，塑膠會在環境中留存數十年。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "What assumption does the first paragraph say recent research challenges?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "That plastic is useful",
-     "That pollution is out there, not inside us",
-     "That oceans are clean",
-     "That plastic is cheap"
+     "To prove that microplastics cause serious diseases.",
+     "To argue that plastic should be banned around the world.",
+     "To describe a study and explain how its findings should be understood.",
+     "To explain how plastic is engineered to resist decay."
     ],
-    "a": 1,
-    "why": "第一段最後：污染在外面、不在我們體內的假設。",
-    "evidence": "The pollution, we assume, is out there in the environment, not inside us."
+    "a": 2,
+    "evidence": "It is important to read these findings precisely.",
+    "why": "全文介紹 2022 年的研究，並說明該如何解讀結果（第四段）與它更深的意義（第五段）。",
+    "traps": [
+     "過度推論：原文 the health impact remains unknown。",
+     "捏造：作者沒有主張禁用塑膠。",
+     "",
+     "以偏概全：只是第二段的背景。"
+    ]
    },
    {
-    "q": "Why does plastic “fragment” instead of disappearing?",
+    "type": "WD",
+    "q": "What does the author mean by calling the line between the environment and our bodies “a convenient fiction”?",
     "options": [
-     "It is engineered to resist decay",
-     "It dissolves in water",
-     "It is eaten by animals",
-     "It is burned"
+     "It is a comforting idea that is not really true.",
+     "It is a story told in science fiction.",
+     "It is a useful rule for measuring plastic in blood.",
+     "It is a fact proved by the 2022 study."
     ],
     "a": 0,
-    "why": "第二段：塑膠被設計成不易腐壞。",
-    "evidence": "Plastic is engineered to resist decay"
+    "evidence": "the line we draw between the environment and our own bodies is, at best, a convenient fiction",
+    "why": "convenient fiction＝讓人方便、安心，卻不真實的想法；呼應第一段「讓我們保持舒服的距離」。",
+    "traps": [
+     "",
+     "字面誤讀：fiction 在這裡不是小說。",
+     "原文字眼、錯誤關係：測量方法在第二段，跟「界線」的比喻是兩回事。",
+     "正反顛倒：研究動搖了這條界線，而不是證明它存在。"
+    ]
    },
    {
-    "q": "What was the study designed to show?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "How harmful plastic is",
-     "That plastic particles could be detected and measured",
-     "How widespread plastic is worldwide",
-     "Which companies produce the most plastic"
+     "PET was found in about a quarter of the samples.",
+     "The study was designed to show how harmful the particles are.",
+     "Finding several kinds of plastic suggested the particles came from many sources.",
+     "Researchers did not need to worry about plastic in their own equipment."
+    ],
+    "a": 2,
+    "evidence": "the study suggested that the particles came from a variety of everyday sources rather than a single product",
+    "why": "第三段：找到好幾種聚合物，顯示來源是多種日常用品。",
+    "traps": [
+     "數字錯位：PET 出現在一半的樣本，四分之一的是聚乙烯。",
+     "正反顛倒：第四段 not to establish … what harm they cause。",
+     "",
+     "正反顛倒：第二段說必須確認塑膠不是來自自己的器材。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "According to the fourth paragraph, how should the results of the study be treated?",
+    "options": [
+     "As proof that plastic in blood is dangerous.",
+     "As a new question that deserves further research.",
+     "As unimportant because the sample was small.",
+     "As evidence that plastic is found in everyone."
     ],
     "a": 1,
-    "why": "第四段：設計目的是證明可以偵測與測量。",
-    "evidence": "it was designed to show that plastic particles could be detected and measured"
-   },
-   {
-    "q": "What does the writer mean by calling the line between environment and body “a convenient fiction”?",
-    "options": [
-     "The boundary is not as real as we like to think",
-     "Our bodies are not affected by anything",
-     "Pollution is imaginary",
-     "Scientists invented the problem"
-    ],
-    "a": 0,
-    "why": "最後一段：我們畫的那條線充其量只是方便的假象。",
-    "evidence": "the line we draw between the environment and our own bodies is, at best, a convenient fiction"
+    "evidence": "The responsible conclusion is that a new question has been opened, not closed.",
+    "why": "第四段：當成危險的證據是高估，因樣本小而忽略是低估，負責任的結論是「開啟了新問題」。",
+    "traps": [
+     "正反顛倒：原文說這是 overstatement。",
+     "",
+     "正反顛倒：原文說這是 understatement。",
+     "過度推論：研究不是為了確定普遍程度。"
+    ]
    }
   ]
  },

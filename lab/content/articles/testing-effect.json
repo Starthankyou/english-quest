@@ -275,152 +275,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "What did some students do instead of reading again?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "They watched a video",
-     "They wrote down everything they could remember",
-     "They asked the teacher",
-     "They went to sleep"
+     "Why students feel stressed on the night before a test.",
+     "Why testing yourself works better than reading again.",
+     "How two psychologists taught science to college students.",
+     "Why reading a chapter twice is the best way to study."
     ],
     "a": 1,
-    "why": "第二段：另一些學生闔上書，寫下記得的所有內容。",
-    "evidence": "Other students closed the book and wrote down everything they could remember."
+    "evidence": "The students who had tested themselves remembered much more.",
+    "why": "全文主軸：自我測驗比重讀記得更久（第三、四段）。",
+    "traps": [
+     "以偏概全：只是第一段的開場情境。",
+     "",
+     "原文字眼、錯誤關係：學生讀的是科學短文，但研究在比較記憶方法，不是教科學。",
+     "正反顛倒：作者正是要說重讀會騙人。"
+    ]
    },
    {
-    "q": "Who remembered more after five minutes?",
+    "type": "REF",
+    "q": "What does “This effort” in the fourth paragraph refer to?",
     "options": [
-     "The students who had read twice",
-     "The students who had tested themselves",
-     "Both groups the same",
-     "Nobody remembered anything"
+     "Reading the chapter one more time.",
+     "Asking a friend to test you.",
+     "Checking whether your answers are right.",
+     "Searching your memory for what you learned."
+    ],
+    "a": 3,
+    "evidence": "When you try to remember something, your brain has to search for it.",
+    "why": "前一句：想記起某件事時，大腦得去「搜尋」，This effort 就是這個搜尋的努力。",
+    "traps": [
+     "正反顛倒：重讀是「輕鬆」的，作者說它 easy。",
+     "位置陷阱：請朋友考你出現在第五段，不在 This effort 之前。",
+     "原文字眼、錯誤關係：第二段說 Nobody told them if their answers were right。",
+     ""
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true about the 2006 study?",
+    "options": [
+     "After one week, students who tested themselves recalled 56 percent of the ideas.",
+     "Five minutes later, students who tested themselves remembered much more.",
+     "The students were told whether their answers were right or wrong.",
+     "After one week, students who only reread recalled 56 percent of the ideas."
     ],
     "a": 0,
-    "why": "第三段：五分鐘後，讀兩次的學生記得稍多。",
-    "evidence": "Five minutes later, the students who had read twice remembered a little more."
+    "evidence": "After one week, they recalled 56 percent of the ideas.",
+    "why": "第三段：一週後自我測驗組記得 56%，重讀組 42%。",
+    "traps": [
+     "",
+     "時序錯置：五分鐘後是重讀組記得「稍多」。",
+     "正反顛倒：Nobody told them if their answers were right。",
+     "張冠李戴：56% 是自我測驗組，重讀組是 42%。"
+    ]
    },
    {
-    "q": "After one week, what percentage did the self-testing students recall?",
+    "type": "INF",
+    "q": "What can be inferred from the passage?",
     "options": [
-     "42 percent",
-     "50 percent",
-     "56 percent",
-     "80 percent"
+     "Rereading helps only if you do it many times.",
+     "Students should study for only five minutes before a test.",
+     "A study method that feels easy may not help you remember for long.",
+     "Writing down what you remember is less stressful than rereading."
     ],
     "a": 2,
-    "why": "第三段：一星期後 56%，重讀組 42%。",
-    "evidence": "After one week, they recalled 56 percent of the ideas."
-   },
-   {
-    "q": "Why does testing yourself make memories stronger?",
-    "options": [
-     "Because it is easy",
-     "Because your brain has to search for the information",
-     "Because tests are short",
-     "Because you read faster"
-    ],
-    "a": 1,
-    "why": "第四段：回想時大腦要去搜尋，這份努力讓記憶更牢固。",
-    "evidence": "When you try to remember something, your brain has to search for it."
+    "evidence": "Rereading feels easy because the answers are right in front of you, but easy is not always effective.",
+    "why": "第四段：重讀感覺輕鬆，但輕鬆不等於有效。",
+    "traps": [
+     "捏造：文中沒有說重讀次數多就有用。",
+     "過度推論：五分鐘是實驗的測驗時間，不是讀書建議。",
+     "",
+     "正反顛倒：第一段說重讀 does not feel stressful，自我測驗反而 feel harder。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "What is important about the feedback in the experiment?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "Students got detailed feedback",
-     "Students received no feedback on their answers",
-     "Only the rereaders got feedback",
-     "Teachers graded every answer"
+     "Students should never read their notes more than once.",
+     "Rereading works better than testing when the test comes soon.",
+     "Pulling information out of memory helps us remember it longer than rereading.",
+     "Students usually know which study methods work best for them."
     ],
-    "a": 1,
-    "why": "第二段最後一句。",
-    "evidence": "they received no feedback on their answers"
+    "a": 2,
+    "evidence": "The act of pulling information out of memory strengthens it, while rereading mainly makes the page look familiar.",
+    "why": "第五段總結：從記憶中提取資訊會強化記憶，這就是測驗效應。",
+    "traps": [
+     "以偏概全：作者沒說「絕不」重讀。",
+     "以偏概全：五分鐘後重讀較好只是第三段的一個細節。",
+     "",
+     "正反顛倒：第四段說學生常依「感覺」選方法，而感覺最好的並不是最有效的。"
+    ]
    },
    {
-    "q": "According to paragraph 3, what did the results depend on?",
+    "type": "WD",
+    "q": "What does the author mean by calling the familiar feeling “a poor guide” in the first paragraph?",
     "options": [
-     "The students’ age",
-     "Timing",
-     "The length of the passages",
-     "The subject of the passages"
-    ],
-    "a": 1,
-    "why": "第三段第一句：結果取決於時間點。",
-    "evidence": "The results depended on timing."
-   },
-   {
-    "q": "What was surprising about the rereaders in the second experiment?",
-    "options": [
-     "They felt more confident but remembered the least",
-     "They refused to reread",
-     "They remembered the most",
-     "They took more tests"
+     "It cannot reliably tell us what we will remember later.",
+     "It makes students feel worried before an exam.",
+     "It helps teachers find out which students have reread.",
+     "It shows that the material is too difficult to learn."
     ],
     "a": 0,
-    "why": "第四段：信心最高，一週後記得最少。",
-    "evidence": "The rereaders felt more confident that they would remember the material, yet after a week they remembered the least."
+    "evidence": "this familiar feeling is a poor guide to what we will actually remember",
+    "why": "poor guide＝不可靠的指標：熟悉的感覺無法告訴我們之後真正記得多少。",
+    "traps": [
+     "",
+     "捏造：熟悉感讓人「安心」（comfortable），不是擔心。",
+     "張冠李戴：老師只出現在「學生重讀仍考不好」的觀察裡。",
+     "過度推論：文中沒說教材太難。"
+    ]
    },
    {
-    "q": "What does “the testing effect” refer to?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "Tests make students nervous",
-     "Pulling information out of memory strengthens it",
-     "Tests are always fair",
-     "Rereading improves test scores"
+     "On the test given five minutes later, testing produced better recall.",
+     "Each student used only one of the two study methods.",
+     "In the second experiment, the students who tested themselves felt most confident.",
+     "When the final test came a week later, self-testing led to better recall."
+    ],
+    "a": 3,
+    "evidence": "But when the final test was delayed by two days or a week, the pattern reversed.",
+    "why": "第三段：延後兩天或一週考時，結果反轉，測驗組較好。",
+    "traps": [
+     "時序錯置：五分鐘後是重讀稍好。",
+     "正反顛倒：每個學生兩種方法都用過（some passages one way and other passages the other way）。",
+     "張冠李戴：最有信心的是重讀組。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Why does the author describe the result of the second experiment as “worrying”?",
+    "options": [
+     "Because the rereaders forgot most of the material within five minutes of reading.",
+     "Because students tend to pick the method that feels best, not the one that works.",
+     "Because teachers had told the students to test themselves again and again.",
+     "Because a difference of fourteen percentage points is too small to matter on exams."
     ],
     "a": 1,
-    "why": "第五段定義：提取資訊會讓它更牢固。",
-    "evidence": "The act of pulling information out of memory strengthens it"
+    "evidence": "This is worrying, because students usually choose study methods based on how those methods feel.",
+    "why": "第四段最後一句直接說明原因：學生依「感覺」挑方法，而感覺最好的方法效果最差。",
+    "traps": [
+     "時序錯置：重讀組是在一週後記得最少。",
+     "",
+     "捏造：文中沒有老師的指示。",
+     "正反顛倒：第三段說 14 個百分點可能決定及格與否。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "What does the writer mean by “fluency is easily mistaken for mastery”?",
+    "type": "MI",
+    "q": "Which of the following is the best title for the passage?",
     "options": [
-     "Reading smoothly can feel like truly knowing",
-     "Fluent readers always master the material",
-     "Mastery requires reading aloud",
-     "Fluency and mastery are the same"
+     "Rereading: The Habit That Builds Mastery",
+     "Five Minutes or One Week: When to Take a Test",
+     "Confidence Is the Key to Long-Term Learning",
+     "Feeling Fluent Is Not the Same as Remembering"
     ],
-    "a": 0,
-    "why": "第一段：讀得流暢的感覺，容易被誤當成精熟。",
-    "evidence": "fluency is easily mistaken for mastery"
+    "a": 3,
+    "evidence": "fluency is easily mistaken for mastery",
+    "why": "第一段的核心句：流暢感容易被誤認為真正掌握；全文都在拆解這個落差。",
+    "traps": [
+     "正反顛倒：作者說重讀帶來的是流暢感，不是掌握。",
+     "以偏概全：測驗時間只是研究設計的一部分。",
+     "正反顛倒：重複測驗組信心最弱、記得最好。",
+     ""
+    ]
    },
    {
-    "q": "Why was the timing of the final test important to the design?",
+    "type": "WD",
+    "q": "Which of the following is closest in meaning to “desirable difficulty” in the fourth paragraph?",
     "options": [
-     "It let researchers ask when each method worked",
-     "It made the test easier",
-     "It reduced the number of students",
-     "It allowed feedback"
+     "A challenge that slows learning at first but makes it last longer.",
+     "A task that is too hard for most students to finish.",
+     "A test that students like to take because it is easy.",
+     "A problem that disappears once the material is reread."
     ],
     "a": 0,
-    "why": "第二段最後一句。",
-    "evidence": "The design allowed the researchers to ask not only which method worked, but when it worked."
+    "evidence": "a challenge that slows learning down in the short term but strengthens it in the long run",
+    "why": "冒號後面直接定義：短期內放慢學習、長期反而強化。",
+    "traps": [
+     "",
+     "字面誤讀：只看到 difficulty，忽略 desirable（值得的）。",
+     "一字多義：desirable 不是「喜歡、輕鬆」。",
+     "正反顛倒：重讀正是沒有這種困難的方法。"
+    ]
    },
    {
-    "q": "What “paradox” does the second experiment reveal?",
+    "type": "TF",
+    "q": "According to the passage, which of the following is true about the second experiment?",
     "options": [
-     "Students who tested more felt less tired",
-     "The most confident group recalled less after a week",
-     "Reading four times improved recall the most",
-     "Testing reduced confidence and memory"
+     "Students who read a passage four times remembered the most after a week.",
+     "Students who were tested repeatedly felt the least confident yet remembered the most.",
+     "Students who were tested were also the most confident about remembering.",
+     "Students who read once and recalled once did better than all other groups."
     ],
     "a": 1,
-    "why": "第三段：讀四遍的人最有信心，一週後卻記得較少。",
-    "evidence": "Students who read a passage four times were the most confident about remembering it, yet after a week they recalled less"
+    "evidence": "repeated testing produced the best long-term retention but the weakest sense of confidence",
+    "why": "第三段：重複測驗記得最好，信心卻最弱。",
+    "traps": [
+     "正反顛倒：讀四次的組最有信心，一週後記得較少。",
+     "",
+     "張冠李戴：最有信心的是讀四次的組。",
+     "數字錯位：原文是讀一次、回想三次。"
+    ]
    },
    {
-    "q": "According to the fourth paragraph, how does rereading differ from retrieval?",
+    "type": "ORG",
+    "q": "Why does the author mention that each student experienced both conditions with different passages?",
     "options": [
-     "Rereading offers recognition without reconstruction",
-     "Rereading is harder than retrieval",
-     "Retrieval only reads out stored memories",
-     "They work in exactly the same way"
+     "To explain why the study needed three final tests.",
+     "To show that the difference was not caused by some students being more able.",
+     "To show that rereading and testing took the same amount of time.",
+     "To prove that rereading is useless for most learners."
     ],
-    "a": 0,
-    "why": "第四段：重讀給的是認得的安心感，少了重建的功夫。",
-    "evidence": "Rereading, by contrast, offers the comfort of recognition without the work of reconstruction."
+    "a": 1,
+    "evidence": "which ruled out the possibility that one group was simply more able than the other",
+    "why": "作者手法題：說明實驗設計的用意——排除「某組學生本來就比較厲害」的可能。",
+    "traps": [
+     "原文字眼、錯誤關係：三次期末測驗（5 分鐘、2 天、1 週）是另一個設計。",
+     "",
+     "捏造：文中沒比較兩種方法花的時間。",
+     "正反顛倒：第五段 None of this means that rereading is useless。"
+    ]
    }
   ]
  },

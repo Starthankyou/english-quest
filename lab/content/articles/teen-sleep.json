@@ -275,152 +275,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "What does the body clock tell us?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "What to eat",
-     "When to feel sleepy and when to feel awake",
-     "How fast to walk",
-     "When to study"
+     "How parents can make teenagers go to bed earlier.",
+     "Why many teenagers find it hard to fall asleep early.",
+     "Why schools in the United States start at 8:30 a.m.",
+     "How melatonin helps children grow during puberty."
     ],
     "a": 1,
-    "why": "第二段：生理時鐘告訴我們何時想睡、何時清醒。",
-    "evidence": "It tells us when to feel sleepy and when to feel awake."
+    "evidence": "the average teenager finds it hard to fall asleep before 11 p.m.",
+    "why": "全文解釋青少年早睡困難的原因（生理時鐘、褪黑激素）。",
+    "traps": [
+     "以偏概全：只是第一段「家長叫孩子早睡」的情境。",
+     "",
+     "正反顛倒：8:30 是建議，文中說 Not every school can change。",
+     "原文字眼、錯誤關係：褪黑激素讓人想睡，不是幫助成長。"
+    ]
    },
    {
-    "q": "By how much can teenagers’ sleep times shift later?",
+    "type": "REF",
+    "q": "What does “this clock” in the second paragraph refer to?",
     "options": [
-     "Up to 30 minutes",
-     "Up to one hour",
-     "Up to two hours",
-     "Up to five hours"
+     "The alarm clock that rings in the morning.",
+     "The clock that sets the school timetable.",
+     "The body clock that tells us when to sleep.",
+     "The clock that shows ten o’clock at night."
     ],
     "a": 2,
-    "why": "第二段：最多延後兩小時。",
-    "evidence": "many teenagers’ sleep times shift later by up to two hours"
+    "evidence": "Everyone has a body clock.",
+    "why": "前一句提到 Everyone has a body clock，this clock 指的就是生理時鐘。",
+    "traps": [
+     "原文字眼、錯誤關係：鬧鐘出現在第一段。",
+     "捏造：初級文章沒有提到學校的時鐘。",
+     "",
+     "原文字眼、錯誤關係：十點是第一段關燈的時間。"
+    ]
    },
    {
-    "q": "How much sleep do teenagers need?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "About 6 hours",
-     "About 7 hours",
-     "About 8.5 to 9.5 hours",
-     "About 12 hours"
+     "Teenagers need less sleep at night than younger children do.",
+     "Teenagers’ bodies release melatonin earlier at night than children’s bodies do.",
+     "Doctors say that most teenagers are simply lazy in the morning.",
+     "Teenagers still need about 8.5 to 9.5 hours of sleep a night."
     ],
-    "a": 2,
-    "why": "第四段。",
-    "evidence": "about 8.5 to 9.5 hours a night"
+    "a": 3,
+    "evidence": "teenagers still need a lot of sleep — about 8.5 to 9.5 hours a night",
+    "why": "第四段：青少年仍需要 8.5 到 9.5 小時的睡眠。",
+    "traps": [
+     "正反顛倒：原文 still need a lot of sleep。",
+     "正反顛倒：是 later at night。",
+     "正反顛倒：第一段 Are they lazy? Scientists say the answer is usually no。",
+     ""
+    ]
    },
    {
-    "q": "What did the American Academy of Pediatrics recommend in 2014?",
+    "type": "INF",
+    "q": "What does the writer most likely want teenagers to understand?",
     "options": [
-     "Schools should start at 8:30 a.m. or later",
-     "Students should sleep less",
-     "Schools should end earlier",
-     "Teenagers should stop using phones"
+     "Feeling tired in the morning can be caused by biology, not laziness.",
+     "They should turn off the light at ten o’clock every night.",
+     "Every school must change its schedule right away.",
+     "Drinking coffee in the morning can solve the problem."
     ],
     "a": 0,
-    "why": "最後一段。",
-    "evidence": "recommended that middle and high schools start at 8:30 a.m. or later"
+    "evidence": "Being tired in the morning may not be a character problem. It may be biology.",
+    "why": "最後兩句是作者要傳達的訊息：早上累可能是生理，不是性格問題。",
+    "traps": [
+     "",
+     "原文字眼、錯誤關係：第一段說他們十點關燈卻睡不著。",
+     "正反顛倒：原文 Not every school can change its schedule。",
+     "捏造：初級文章沒有提到咖啡。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "According to the first paragraph, what do doctors argue?",
+    "type": "MI",
+    "q": "Which of the following best describes the main point of the passage?",
     "options": [
-     "Teenagers lack discipline",
-     "The issue is not mainly about willpower",
-     "Parents should be stricter",
-     "Schools should start earlier"
+     "Teenagers stay up late mainly because they lack discipline.",
+     "Biology and early school times, not willpower, explain much of teens’ tiredness.",
+     "Napping and coffee are good ways to make up for lost sleep.",
+     "Only a few night owls experience a change in sleep timing."
     ],
     "a": 1,
-    "why": "第一段：醫師認為主要不是意志力問題。",
-    "evidence": "the issue is not mainly about willpower"
+    "evidence": "the issue is not mainly about willpower",
+    "why": "第一段：問題主要不是意志力，而是生理與學校時間。",
+    "traps": [
+     "正反顛倒：這正是作者反駁的家長看法。",
+     "",
+     "正反顛倒：第四段說它們 cannot replace regular, sufficient sleep。",
+     "正反顛倒：第二段 not just to a few night owls。"
+    ]
    },
    {
-    "q": "What is a “phase delay”?",
+    "type": "WD",
+    "q": "What does “phase delay” in the second paragraph refer to?",
     "options": [
-     "A later shift in sleep and wake times",
-     "A shorter sleep time",
-     "A problem with eyesight",
-     "A delay in school buses"
+     "A shift of sleep and wake times to later hours.",
+     "A delay in the start of the school day.",
+     "The time it takes to fall asleep after going to bed.",
+     "A slower growth of the body during puberty."
     ],
     "a": 0,
-    "why": "第二段解釋。",
-    "evidence": "their sleep and wake times shift later"
+    "evidence": "their sleep and wake times shift later, by up to two hours compared with middle childhood",
+    "why": "冒號後面就是解釋：睡眠和起床時間往後延。",
+    "traps": [
+     "",
+     "原文字眼、錯誤關係：延後上學是 AAP 的建議，不是 phase delay 的意思。",
+     "概念混淆：入睡要多久不是「時間往後移」。",
+     "捏造：文中沒說身體成長變慢。"
+    ]
    },
    {
-    "q": "Which of the following is one of the two biological changes?",
+    "type": "TF",
+    "q": "According to the passage, which of the following is true?",
     "options": [
-     "Teenagers need less sleep",
-     "Melatonin is released later in the evening",
-     "Teenagers have more energy at night because of food",
-     "The brain stops growing"
+     "The pressure to fall asleep builds up faster in teens than in younger children.",
+     "Napping and sleeping in on weekends can fully replace regular sleep.",
+     "The AAP linked too little sleep to risks for health, safety and schoolwork.",
+     "Melatonin is released earlier in the evening once puberty begins."
     ],
-    "a": 1,
-    "why": "第三段的第一個變化。",
-    "evidence": "the body releases melatonin, a hormone linked to sleepiness, later in the evening"
+    "a": 2,
+    "evidence": "The AAP linked insufficient sleep to risks for physical and mental health, safety and academic performance.",
+    "why": "第四段：睡眠不足和身心健康、安全、課業表現的風險有關。",
+    "traps": [
+     "正反顛倒：原文 builds up more slowly。",
+     "正反顛倒：原文 cannot replace regular, sufficient sleep。",
+     "",
+     "正反顛倒：原文 later in the evening。"
+    ]
    },
    {
-    "q": "Why is the AAP’s recommendation “not simple to put into practice”?",
+    "type": "ORG",
+    "q": "Why does the author mention bus schedules, after-school activities and family routines?",
     "options": [
-     "Teachers refuse to teach later",
-     "Bus schedules, activities and family routines depend on the timetable",
-     "Students prefer early classes",
-     "It is too expensive to buy clocks"
+     "To suggest that families are to blame for teenagers’ tiredness.",
+     "To prove that later start times do not improve sleep.",
+     "To list the activities that keep teenagers awake at night.",
+     "To show why later start times are hard to put into practice."
     ],
-    "a": 1,
-    "why": "最後一段說明了落實的困難。",
-    "evidence": "bus schedules, after-school activities and family routines all depend on the timetable"
+    "a": 3,
+    "evidence": "The recommendation is not simple to put into practice",
+    "why": "第五段：這些都依賴課表，所以延後上學不容易實施。",
+    "traps": [
+     "捏造因果：作者沒有怪家庭。",
+     "過度推論：文中沒有否定延後上學的效果。",
+     "原文字眼、錯誤關係：這些活動是依賴課表的安排，不是讓人熬夜的原因。",
+     ""
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "What does the first paragraph claim the usual explanation leaves out?",
+    "type": "MI",
+    "q": "Which of the following is the best title for the passage?",
     "options": [
-     "The role of phones",
-     "The timing of the body itself",
-     "Parents’ opinions",
-     "The cost of sleep"
+     "Phones in Bed: The Real Cause of Teen Sleep Loss",
+     "Why Weekend Lie-ins Are Good for Students",
+     "Teen Tiredness: A Design Problem, Not a Moral Failing",
+     "How Melatonin Makes Teenagers Wake Up Early"
     ],
-    "a": 1,
-    "why": "第一段：困難源自身體本身的時間設定。",
-    "evidence": "Much of the difficulty begins not in a teenager’s habits but in the timing of the body itself."
+    "a": 2,
+    "evidence": "the resulting exhaustion is better understood as a design problem than as a moral failing",
+    "why": "最後一句是全文結論：疲倦是制度設計問題，不是道德缺陷。",
+    "traps": [
+     "以偏概全：手機只是第一段列出的常見解釋之一，作者說它 leave out a crucial part。",
+     "正反顛倒：第四段說補眠 no substitute for regular sufficient sleep。",
+     "",
+     "正反顛倒：褪黑激素延後分泌，讓人晚睡。"
+    ]
    },
    {
-    "q": "What happens to the sleep drive in older adolescents?",
+    "type": "WD",
+    "q": "Which of the following is closest in meaning to “modifiable” in the fourth paragraph?",
     "options": [
-     "It disappears",
-     "It accumulates more slowly across the day",
-     "It becomes stronger in the morning",
-     "It depends only on melatonin"
-    ],
-    "a": 1,
-    "why": "第三段的第二個機制。",
-    "evidence": "the pressure to fall asleep accumulates more slowly across the day"
-   },
-   {
-    "q": "Why does the writer call early start times a “structural problem rather than a personal one”?",
-    "options": [
-     "Because students cannot get enough sleep no matter how hard they try",
-     "Because school buildings are poorly designed",
-     "Because teenagers are not responsible",
-     "Because parents work late"
+     "Able to be changed by people.",
+     "Built into teenagers’ biology.",
+     "Easy to hide with caffeine.",
+     "Agreed on by all experts."
     ],
     "a": 0,
-    "why": "第四段：再好的意圖也換不來九小時睡眠。",
-    "evidence": "no amount of good intentions will produce nine hours of sleep"
+    "evidence": "The AAP therefore identified early start times as a key modifiable contributor to insufficient sleep",
+    "why": "上學時間是可以調整的；相對地，生理時鐘改不了。",
+    "traps": [
+     "",
+     "正反顛倒：生理正是「改不了」的那一邊。",
+     "原文字眼、錯誤關係：咖啡因 disguise（掩飾）睡眠不足，不是「可改變」的意思。",
+     "原文字眼、錯誤關係：第五段說這個議題 controversial。"
+    ]
    },
    {
-    "q": "What does the writer suggest in the final sentence?",
+    "type": "NOT",
+    "q": "Which of the following is NOT mentioned as a result linked to insufficient sleep?",
     "options": [
-     "Exhaustion is a moral failing",
-     "Exhaustion caused by such systems is better seen as a design problem",
-     "Teenagers should adapt to the system",
-     "The AAP is wrong"
+     "Poorer physical and mental health.",
+     "Crashes caused by drowsy driving.",
+     "Weaker performance at school.",
+     "Gaining weight during adolescence."
     ],
-    "a": 1,
-    "why": "最後一句重新詮釋疲憊的原因。",
-    "evidence": "the resulting exhaustion is better understood as a design problem than as a moral failing"
+    "a": 3,
+    "evidence": "a condition it associated with poorer physical and mental health, drowsy-driving crashes and weaker academic performance",
+    "why": "第四段列出身心健康、疲勞駕駛車禍、課業表現；沒有提到體重。",
+    "traps": [
+     "有提到：poorer physical and mental health。",
+     "有提到：drowsy-driving crashes。",
+     "有提到：weaker academic performance。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What can be inferred about the author’s view of the AAP recommendation?",
+    "options": [
+     "The author thinks it is too controversial to be worth discussing.",
+     "The author believes it applies only to schools in the United States.",
+     "The author admits it is hard to carry out but finds its argument important.",
+     "The author doubts the science behind the phase delay."
+    ],
+    "a": 2,
+    "evidence": "Yet the underlying argument deserves attention well beyond the United States.",
+    "why": "第五段：作者承認實施困難（complicated），但認為論點值得重視。",
+    "traps": [
+     "正反顛倒：作者說 deserves attention。",
+     "正反顛倒：原文 well beyond the United States。",
+     "",
+     "捏造：作者全文都以這些科學為依據。"
+    ]
    }
   ]
  },

@@ -286,152 +286,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "What did the robbers put on their faces?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "Masks",
-     "Lemon juice",
-     "Paint",
-     "Sunglasses"
+     "How to win the Ig Nobel Prize.",
+     "How lemon juice makes faces invisible.",
+     "Why students should study grammar.",
+     "An effect in which unskilled people overrate their skill."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "they put lemon juice on their faces"
+    "a": 3,
+    "evidence": "This is now called the Dunning–Kruger effect.",
+    "why": "全文：能力差的人常高估自己，以及這個效應的爭議。",
+    "traps": [
+     "以偏概全：得獎只是一個細節。",
+     "字面誤讀：那是搶匪的誤解。",
+     "以偏概全：文法只是測驗項目之一。",
+     ""
+    ]
    },
    {
-    "q": "What did Dunning and Kruger test students on?",
+    "type": "REF",
+    "q": "What does “the idea” in “had even tested the idea first” refer to?",
     "options": [
-     "Maths and science",
-     "Logical reasoning, grammar and humour",
-     "Sports",
-     "Driving"
+     "That banks have security cameras.",
+     "That lemon juice would hide his face.",
+     "That masks are needed for robbery.",
+     "That photos can be taken quickly."
     ],
     "a": 1,
-    "why": "第二段。",
-    "evidence": "they tested university students on logical reasoning, grammar and humour"
+    "evidence": "They believed lemon juice would make them invisible to security cameras.",
+    "why": "前一句：以為檸檬汁能讓自己隱形。",
+    "traps": [
+     "原文字眼、錯誤關係：攝影機是他們想躲的。",
+     "",
+     "正反顛倒：他們沒戴面罩。",
+     "原文字眼、錯誤關係：拍照是測試方法。"
+    ]
    },
    {
-    "q": "Where did the lowest scorers think they were?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "12th percentile",
-     "Around the 62nd percentile",
-     "The bottom",
-     "Exactly average"
+     "The study tested students on maths and science.",
+     "The lowest scorers were around the 62nd percentile.",
+     "The lowest scorers thought they were around the 62nd percentile.",
+     "The robbers were never caught by the police."
     ],
-    "a": 1,
+    "a": 2,
+    "evidence": "But they thought they were around the 62nd percentile",
     "why": "第三段。",
-    "evidence": "they thought they were around the 62nd percentile"
+    "traps": [
+     "捏造：測的是邏輯、文法、幽默。",
+     "數字錯位：實際約第 12 百分位。",
+     "",
+     "正反顛倒：兩人都被抓。"
+    ]
    },
    {
-    "q": "What does the effect NOT say?",
+    "type": "INF",
+    "q": "What does the writer suggest we do when we feel very sure about something new?",
     "options": [
-     "Low skill in one area leads to overestimating that skill",
-     "People with low intelligence are always too confident",
-     "High-skill people may underestimate themselves",
-     "People can misjudge their ability"
+     "Ask whether we really know enough to judge.",
+     "Trust that feeling and act right away.",
+     "Ask someone less skilled for advice.",
+     "Stop learning about that subject."
     ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "It does not say that people with low intelligence are always too confident."
+    "a": 0,
+    "evidence": "ask yourself whether you really know enough to judge",
+    "why": "最後一段。",
+    "traps": [
+     "",
+     "正反顛倒：作者提醒要懷疑那種確信。",
+     "捏造：文中沒有這種建議。",
+     "捏造：作者沒叫人停止學習。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "Why did Wheeler believe lemon juice would work?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "Lemon juice can work as invisible ink",
-     "A doctor told him",
-     "He saw it on TV",
-     "It smells strong"
+     "Unskilled people may overrate themselves, though the effect is debated.",
+     "People with low intelligence are always overconfident.",
+     "Lemon juice works well as invisible ink on faces.",
+     "Top performers always overestimate their skills."
     ],
     "a": 0,
+    "evidence": "The debate itself is a good lesson",
+    "why": "第二到五段：發現、解釋、誤解與爭議。",
+    "traps": [
+     "",
+     "正反顛倒：原文 It does not claim that people with low intelligence are generally overconfident。",
+     "字面誤讀：只在紙上有用。",
+     "正反顛倒：頂尖者傾向低估自己。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does the “double burden” in the third paragraph mean?",
+    "options": [
+     "Being punished twice for the same bank robbery.",
+     "Having to take tests in both grammar and humour.",
+     "Lacking skill also means being unable to see one’s mistakes.",
+     "Scoring low on a test and also failing a class."
+    ],
+    "a": 2,
+    "evidence": "the skills needed to do a task well are often the same skills needed to recognise a good performance",
+    "why": "冒號後面說明：缺能力，也就缺判斷能力。",
+    "traps": [
+     "原文字眼、錯誤關係：搶案只是研究的靈感來源。",
+     "原文字眼、錯誤關係：文法和幽默是測驗科目，不是雙重負擔。",
+     "",
+     "捏造：文中沒說他們被當，重點是看不出自己的錯。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The robbery happened in 1999.",
+     "Wheeler’s partner was arrested a few days after the robberies.",
+     "Dunning and Kruger ran only one study.",
+     "Poor performers saw their errors when offered rewards."
+    ],
+    "a": 1,
+    "evidence": "His partner was arrested a few days after the robberies",
     "why": "第一段。",
-    "evidence": "just as lemon juice can work as invisible ink"
+    "traps": [
+     "數字錯位：搶案在 1995 年，研究在 1999 年。",
+     "",
+     "數字錯位：共四項研究。",
+     "正反顛倒：有誘因也看不出錯誤。"
+    ]
    },
    {
-    "q": "What is the “double burden”?",
+    "type": "INF",
+    "q": "Why do some researchers call the pattern a “statistical artefact”?",
     "options": [
-     "Having two jobs",
-     "The skills to do a task well are the same skills needed to recognise good performance",
-     "Being tested twice",
-     "Paying double"
+     "The students lied about their real test results.",
+     "The researchers invented some of the original test data.",
+     "Statistics should not be used to study human behaviour.",
+     "Low scorers may seem to overestimate because of how scores relate."
     ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "the skills needed to do a task well are often the same skills needed to recognise a good performance"
-   },
-   {
-    "q": "What do some studies show about top performers?",
-    "options": [
-     "They overestimate themselves",
-     "They tend to underestimate themselves",
-     "They never take tests",
-     "They cheat"
-    ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "top performers tend to underestimate themselves"
-   },
-   {
-    "q": "How did Dunning reply to the statistical criticism?",
-    "options": [
-     "He agreed completely",
-     "He said it relabels the problem rather than explaining it",
-     "He withdrew the study",
-     "He ignored it"
-    ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "Dunning has replied that this relabels the problem rather than explaining it."
+    "a": 3,
+    "evidence": "the lowest scorers will almost automatically appear to overestimate themselves",
+    "why": "最後一段：均值回歸讓低分者看似高估。",
+    "traps": [
+     "捏造：問題在分數的統計關係，不在學生說謊。",
+     "捏造：批評者沒有指控造假，只說是統計造成的假象。",
+     "過度推論：批評者正是用統計來分析。",
+     ""
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "How did Wheeler “test” the lemon juice method?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "With a Polaroid camera",
-     "With a security camera",
-     "By asking a friend",
-     "He did not test it"
-    ],
-    "a": 0,
-    "why": "第一段。",
-    "evidence": "Wheeler had reportedly tested the method with a Polaroid camera"
-   },
-   {
-    "q": "What kind of explanation did Dunning and Kruger propose?",
-    "options": [
-     "Metacognitive",
-     "Genetic",
-     "Economic",
-     "Cultural"
-    ],
-    "a": 0,
-    "why": "第二段。",
-    "evidence": "Their proposed explanation was metacognitive."
-   },
-   {
-    "q": "Which two factors can produce the classic graph without any psychological cause, according to critics?",
-    "options": [
-     "Regression toward the mean and the better-than-average effect",
-     "Lemon juice and cameras",
-     "Grammar and humour",
-     "Age and gender"
-    ],
-    "a": 0,
-    "why": "第四段。",
-    "evidence": "Combined with the widespread better-than-average effect, this alone can generate a graph"
-   },
-   {
-    "q": "What is the most useful application of the idea, according to the writer?",
-    "options": [
-     "Accusing others of ignorance",
-     "Applying it to ourselves and seeking feedback when we feel most certain",
-     "Avoiding new subjects",
-     "Trusting first impressions"
+     "To prove that lemon juice fools cameras.",
+     "To present a famous effect and the debate about it.",
+     "To argue that unintelligent people are overconfident.",
+     "To describe how to score in the top quartile."
     ],
     "a": 1,
+    "evidence": "Dunning has responded that describing the effect as regression toward the mean merely relabels the phenomenon",
+    "why": "全文：效應的起源、解釋、推廣、誤解和統計爭議。",
+    "traps": [
+     "字面誤讀：這是搶匪的錯誤信念。",
+     "",
+     "正反顛倒：研究不支持這種泛化。",
+     "原文字眼、錯誤關係：bottom quartile 是研究分組，不是教人得高分。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “metacognitive” in the second paragraph most likely refer to?",
+    "options": [
+     "Using cameras to record what people do.",
+     "Remembering facts learned from a textbook.",
+     "Working together with peers in a group.",
+     "Thinking about one’s own thinking and performance."
+    ],
+    "a": 3,
+    "evidence": "The competence required to perform well in a domain is often the same competence required to judge performance in it",
+    "why": "後面說明：判斷自己表現的能力。",
+    "traps": [
+     "原文字眼、錯誤關係：攝影機是搶案的細節。",
+     "捏造：重點在判斷自己的表現，不是背誦。",
+     "原文字眼、錯誤關係：peers 是比較的對象，不是合作夥伴。",
+     ""
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Simulations with random data can reproduce much of the familiar shape.",
+     "Bottom-quartile students ranked themselves in the 12th percentile.",
+     "The effect has been found only in school exams.",
+     "Dunning agreed it is merely regression toward the mean."
+    ],
+    "a": 0,
+    "evidence": "Simulations using random data can reproduce much of the familiar shape",
+    "why": "第四段。",
+    "traps": [
+     "",
+     "數字錯位：他們自評第 62 百分位。",
+     "以偏概全：醫學、航空、駕駛也有。",
+     "正反顛倒：他認為這只是換個名稱。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What does the author suggest is the most useful application of the idea?",
+    "options": [
+     "Avoiding any area where we lack experience.",
+     "Pointing out other people’s ignorance in public.",
+     "Seeking feedback when we feel most certain about something unfamiliar.",
+     "Trusting our first judgement in new fields."
+    ],
+    "a": 2,
+    "evidence": "when we feel most certain in an unfamiliar area, that may be precisely the moment to seek feedback",
     "why": "最後一段。",
-    "evidence": "the most useful application of the idea may be personal rather than accusatory"
+    "traps": [
+     "過度推論：作者說要尋求回饋。",
+     "正反顛倒：作者說應用於自己而非指責別人。",
+     "",
+     "正反顛倒：越確信越該多問。"
+    ]
    }
   ]
  },

@@ -281,152 +281,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "When was the story first published?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "1743",
-     "1843",
-     "1943",
-     "2003"
+     "Why old men often have pale blue eyes.",
+     "How police officers solve murders in old houses.",
+     "A story told by a speaker we cannot fully trust.",
+     "How to build a floor that hides things well."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "It was first published in 1843."
+    "a": 2,
+    "evidence": "The story is told by an “unreliable narrator” — a storyteller we cannot fully trust.",
+    "why": "全文：敘述者一直說自己沒瘋，讀者卻越來越懷疑他。",
+    "traps": [
+     "原文字眼、錯誤關係：藍眼睛只是他殺人的藉口。",
+     "以偏概全：警察只是故事中的人物，沒有破案過程。",
+     "",
+     "字面誤讀：地板只是藏屍的地方。"
+    ]
    },
    {
-    "q": "What does the speaker hate about the old man?",
+    "type": "REF",
+    "q": "What does “this eye” in the second paragraph refer to?",
     "options": [
-     "His money",
-     "His pale blue eye",
-     "His voice",
-     "His house"
-    ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "the old man has a strange pale blue eye, like the eye of a vulture"
-   },
-   {
-    "q": "How does the speaker act when the police come?",
-    "options": [
-     "He runs away",
-     "He is calm and friendly",
-     "He hides",
-     "He cries"
-    ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "When the police come, he is calm and friendly."
-   },
-   {
-    "q": "What is an “unreliable narrator”?",
-    "options": [
-     "A storyteller we cannot fully trust",
-     "A police officer",
-     "A narrator who is always right",
-     "A writer who is late"
+     "The old man’s pale blue eye.",
+     "The speaker’s own eye.",
+     "The eye of a real vulture.",
+     "The police officer’s eye."
     ],
     "a": 0,
+    "evidence": "But the old man has a strange pale blue eye, like the eye of a vulture.",
+    "why": "前一句：老人那隻像禿鷹的淡藍色眼睛。",
+    "traps": [
+     "",
+     "張冠李戴：是老人的眼睛。",
+     "字面誤讀：禿鷹只是比喻。",
+     "時序錯置：警察在第三段才出現。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The story was first published in 1934.",
+     "The speaker hated the old man because he was cruel.",
+     "The police heard the heart beating very loudly.",
+     "The speaker opened the old man’s door for seven nights."
+    ],
+    "a": 3,
+    "evidence": "For seven nights, he opens the old man’s door very slowly at midnight.",
+    "why": "第三段。",
+    "traps": [
+     "數字錯位：1843 年。",
+     "正反顛倒：他說老人從沒對不起他。",
+     "正反顛倒：警察似乎沒聽到。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Why do readers doubt the speaker more and more?",
+    "options": [
+     "He tells the story in a calm and quiet voice.",
+     "The more he insists he is not mad, the less we believe him.",
+     "He never explains what he did that night.",
+     "The police say that he is telling the truth."
+    ],
+    "a": 1,
+    "evidence": "The more he says he is not mad, the more we doubt him.",
     "why": "最後一段。",
-    "evidence": "a storyteller we cannot fully trust"
+    "traps": [
+     "以偏概全：他越強調自己冷靜，越顯得不正常。",
+     "",
+     "正反顛倒：他詳細描述了經過。",
+     "捏造：文中沒有警察替他作證。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "What does the narrator say his disease did to his senses?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "Destroyed them",
-     "Sharpened them",
-     "Made them normal",
-     "Nothing"
-    ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "a mysterious disease has sharpened his senses, especially his hearing"
-   },
-   {
-    "q": "Why does the narrator say he is not mad?",
-    "options": [
-     "Because a doctor said so",
-     "Because he planned so carefully",
-     "Because the police believed him",
-     "Because he loved the old man"
-    ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "The narrator presents his careful planning as proof of his sanity."
-   },
-   {
-    "q": "Why does the narrator finally confess?",
-    "options": [
-     "He feels sorry",
-     "He is convinced the officers know the truth and are mocking him",
-     "The police find the body",
-     "The old man returns"
-    ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "Convinced that they know the truth and are mocking him"
-   },
-   {
-    "q": "Which is NOT one of the explanations for the sound?",
-    "options": [
-     "The narrator’s imagination",
-     "His own racing heart",
-     "Insects in the walls",
-     "A radio"
+     "The sound was clearly caused by insects.",
+     "The old man was killed because of his gold.",
+     "The police discovered the crime by searching carefully.",
+     "The narrator’s words reveal more than he intends."
     ],
     "a": 3,
-    "why": "最後一段沒有提到收音機。",
-    "evidence": "the narrator’s imagination, his own racing heart, or even insects in the walls"
+    "evidence": "noticing when a speaker’s words reveal more than he intends",
+    "why": "最後一段點題。",
+    "traps": [
+     "以偏概全：昆蟲只是讀者的解釋之一。",
+     "正反顛倒：原文 He did not want his gold。",
+     "正反顛倒：是他自己崩潰認罪。",
+     ""
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “dissemble” mean in “Villains! dissemble no more!”?",
+    "options": [
+     "Take something apart into pieces.",
+     "Hide one’s true feelings or knowledge.",
+     "Speak loudly in a public place.",
+     "Search a room very carefully."
+    ],
+    "a": 1,
+    "evidence": "Convinced that they know the truth and are mocking him",
+    "why": "他以為警察早知道真相、只是在裝，所以喊「別再裝了」。",
+    "traps": [
+     "字面誤讀：disassemble 才是拆開。",
+     "",
+     "原文字眼、錯誤關係：大喊的是敘述者本人。",
+     "捏造：警察只是在閒聊。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The officers heard the beating heart clearly.",
+     "The narrator wanted the old man’s gold.",
+     "The narrator placed his chair over the hidden body.",
+     "Poe tells us that the narrator is a woman."
+    ],
+    "a": 2,
+    "evidence": "even places his chair over the very spot",
+    "why": "第三段。",
+    "traps": [
+     "正反顛倒：警察似乎什麼都沒聽到。",
+     "正反顛倒：他不要老人的金子。",
+     "",
+     "正反顛倒：Poe 沒說性別。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What does the narrator’s careful planning actually suggest to readers?",
+    "options": [
+     "His obsession, not his sanity.",
+     "His love for the old man.",
+     "His skill as a police officer.",
+     "His fear of the dark."
+    ],
+    "a": 0,
+    "evidence": "The narrator presents his careful planning as proof of his sanity.",
+    "why": "他拿周密計畫證明自己沒瘋，反而顯示他的執迷。",
+    "traps": [
+     "",
+     "原文字眼、錯誤關係：他說愛老人，但計畫是殺人。",
+     "張冠李戴：警察是來調查的人。",
+     "捏造：文中沒提他怕黑。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "Where does the story’s power mainly come from, according to the writer?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "Its plot",
-     "Its voice",
-     "Its length",
-     "Its setting"
-    ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "Its power derives less from its plot than from its voice."
-   },
-   {
-    "q": "Where does the reader’s doubt begin?",
-    "options": [
-     "In the gap between the narrator’s insistence on reason and his irrational motive",
-     "When the police arrive",
-     "In the title",
-     "At the very end"
+     "To show how the narrator’s own words work against him.",
+     "To explain how the police caught a dangerous criminal.",
+     "To describe everyday life in the city of Boston in 1843.",
+     "To prove that deathwatch beetles really cause death."
     ],
     "a": 0,
-    "why": "第二段。",
-    "evidence": "The gap between his insistence on reason and the irrationality of his motive is where the reader’s doubt begins."
+    "evidence": "Poe constructs the story so that the narrator’s evidence for his sanity becomes evidence against it.",
+    "why": "第三段點題。",
+    "traps": [
+     "",
+     "正反顛倒：是他自己招供。",
+     "以偏概全：波士頓只是刊物所在地。",
+     "捏造：甲蟲只和迷信有關。"
+    ]
    },
    {
-    "q": "What are deathwatch beetles associated with?",
+    "type": "WD",
+    "q": "What does the author mean by calling the narrator’s argument “self-defeating”?",
     "options": [
-     "Good luck",
-     "Approaching death, by superstition",
-     "Heartbeats",
-     "Police"
+     "It is told by more than one speaker.",
+     "It wins the reader’s full trust.",
+     "It ends up proving the opposite of what he wants.",
+     "It is too short to understand."
     ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "insects associated by superstition with approaching death"
+    "a": 2,
+    "evidence": "The gap between his insistence on reason and the irrationality of his motive is where the reader’s doubt begins.",
+    "why": "他越強調理性，越暴露自己的不理性。",
+    "traps": [
+     "捏造：故事只有一個敘述者。",
+     "正反顛倒：讀者反而起疑。",
+     "",
+     "捏造：作者說故事雖短但值得研究。"
+    ]
    },
    {
-    "q": "What skill does the writer say “transfers well beyond fiction”?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "Writing horror stories",
-     "Testing a confident account and noticing what it reveals",
-     "Hiding evidence",
-     "Hearing heartbeats"
+     "The narrator gives a clear and rational motive.",
+     "The story first appeared in The Pioneer, a Boston magazine.",
+     "The narrator took an hour to leave the room each night.",
+     "Critics agree on exactly what the sound was."
     ],
     "a": 1,
+    "evidence": "first published in the Boston magazine The Pioneer in January 1843",
+    "why": "第一段。",
+    "traps": [
+     "正反顛倒：原文 Object there was none。",
+     "",
+     "原文字眼、錯誤關係：花一小時是把頭伸進房間。",
+     "正反顛倒：作者說刻意留下不確定。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "According to the last paragraph, what skill does the story train readers in?",
+    "options": [
+     "Believing anyone who sounds reasonable.",
+     "Hearing sounds that other people cannot hear.",
+     "Writing confessions for the police.",
+     "Testing a confident account instead of simply accepting it."
+    ],
+    "a": 3,
+    "evidence": "a voice whose account the reader must test rather than accept",
     "why": "最後一段。",
-    "evidence": "listening to a confident explanation while noticing what it inadvertently reveals"
+    "traps": [
+     "正反顛倒：作者提醒越強調合理越要小心。",
+     "原文字眼、錯誤關係：那是敘述者的幻覺。",
+     "捏造：文中沒提替警方寫自白書。",
+     ""
+    ]
    }
   ]
  },

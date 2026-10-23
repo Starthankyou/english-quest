@@ -280,152 +280,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "When is a language in danger, according to UNESCO?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "When it has no dictionary",
-     "When children no longer learn it at home",
-     "When it is difficult",
-     "When it is spoken on TV"
+     "How students in Taiwan can learn English more quickly.",
+     "How UNESCO teaches indigenous languages to children in Taiwan.",
+     "Why grandparents speak more languages than their grandchildren do.",
+     "Why languages can disappear and how they can be saved."
     ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "A language is in danger when children no longer learn it at home."
+    "a": 3,
+    "evidence": "But languages can also come back.",
+    "why": "全文：語言為什麼會消失、為什麼重要、怎麼復振。",
+    "traps": [
+     "捏造：文中沒談學英文。",
+     "張冠李戴：UNESCO 列名單，教孩子的是學校。",
+     "過度推論：只說只有祖父母會說時危險更大。",
+     ""
+    ]
    },
    {
-    "q": "How many speakers did Pazeh have in 2010?",
+    "type": "REF",
+    "q": "What does “this” in “all of this can be lost” in the fourth paragraph refer to?",
     "options": [
-     "One",
-     "Six",
-     "Twenty",
-     "One hundred"
+     "A list of languages that are in danger.",
+     "A language’s songs, stories and ways of seeing the world.",
+     "A law that made indigenous languages national languages.",
+     "The young people who never learned the old names."
+    ],
+    "a": 1,
+    "evidence": "It holds songs, stories, jokes and special ways of seeing the world.",
+    "why": "前面列出語言承載的歌、故事、笑話和看世界的方式。",
+    "traps": [
+     "原文字眼、錯誤關係：UNESCO 的名單在第二段。",
+     "",
+     "時序錯置：法律在第五段。",
+     "原文字眼、錯誤關係：年輕人是「沒學到」的人，不是會消失的內容。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Taiwan passed its indigenous languages law in 2010.",
+     "UNESCO described all of Taiwan’s languages as safe.",
+     "In 2010, Pazeh had only one speaker left.",
+     "A language is safe if only grandparents speak it."
+    ],
+    "a": 2,
+    "evidence": "One of them, Pazeh, had only one speaker left at that time.",
+    "why": "第三段：2010 年時巴宰語只剩一位使用者。",
+    "traps": [
+     "數字錯位：法律是 2017 年。",
+     "正反顛倒：有六種被列為極度瀕危。",
+     "",
+     "正反顛倒：只有祖父母會說時危險更大。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What does the writer suggest readers can do?",
+    "options": [
+     "Ask a grandparent to teach them a word in their language.",
+     "Write a dictionary of every language in Taiwan.",
+     "Choose a bigger language to find a good job.",
+     "Wait for experts to save endangered languages."
     ],
     "a": 0,
-    "why": "第三段。",
-    "evidence": "had only one speaker left at that time"
-   },
-   {
-    "q": "According to the writer, what does a language hold?",
-    "options": [
-     "Only words",
-     "Songs, stories, jokes and ways of seeing the world",
-     "Only grammar rules",
-     "Money"
-    ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "It holds songs, stories, jokes and special ways of seeing the world."
-   },
-   {
-    "q": "What did Taiwan do in 2017?",
-    "options": [
-     "Closed indigenous schools",
-     "Passed a law recognizing indigenous languages as national languages",
-     "Banned English",
-     "Created a new language"
-    ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "In 2017, Taiwan passed a law that recognized indigenous languages as national languages."
+    "evidence": "Asking a grandparent to teach you one word is a good start.",
+    "why": "最後一句：請祖父母教你一個字就是好的開始。",
+    "traps": [
+     "",
+     "以偏概全：寫字典是專家做的復振方法之一。",
+     "正反顛倒：這是語言消失的原因。",
+     "正反顛倒：原文 You do not need to be an expert to help。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "Besides communication, what are languages described as?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "Records of human history",
-     "Mathematical systems",
-     "Government tools",
-     "Computer codes"
+     "Languages carry knowledge, and lost ones can sometimes be revived.",
+     "English is quickly replacing all the indigenous languages in Taiwan.",
+     "UNESCO has stopped tracking which languages are in danger.",
+     "Manx and Livonian have disappeared forever and cannot return."
     ],
     "a": 0,
-    "why": "第一段。",
-    "evidence": "they are also records of human history"
+    "evidence": "Reviving a language requires effort from many directions",
+    "why": "第一段說語言的價值，第二到四段說消失的過程，第五段說復振。",
+    "traps": [
+     "",
+     "張冠李戴：文中說台灣孩子是改說華語。",
+     "正反顛倒：UNESCO 出版瀕危語言地圖。",
+     "正反顛倒：利沃尼亞語仍有人當第二語言學。"
+    ]
    },
    {
-    "q": "When is a language “severely endangered”?",
+    "type": "WD",
+    "q": "According to the passage, when is a language described as “severely endangered”?",
     "options": [
-     "When it is spoken mostly by the grandparents’ generation and older",
-     "When it has no written form",
-     "When it is spoken in only one city",
-     "When it has fewer than 1,000 words"
+     "When its last speaker has died.",
+     "When children still learn it at home.",
+     "When it is spoken mostly by grandparents and older people.",
+     "When it has fewer than a hundred words."
     ],
-    "a": 0,
-    "why": "第二段。",
-    "evidence": "“severely endangered” when it is spoken mostly by the grandparents’ generation and older"
+    "a": 2,
+    "evidence": "“severely endangered” when it is spoken mostly by the grandparents’ generation and older",
+    "why": "第二段的定義。",
+    "traps": [
+     "張冠李戴：那是 extinct。",
+     "正反顛倒：孩子在家不學時就已是 definitely endangered。",
+     "",
+     "捏造：分級看傳承，不看字數。"
+    ]
    },
    {
-    "q": "What happened to Livonian after its last first-language speaker died?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "It was forgotten completely",
-     "It continues to be learned as a second language",
-     "It became the official language of Europe",
-     "It was replaced by Manx"
+     "Livonian is no longer learned by anyone.",
+     "The last first-language speaker of Manx died in 1974.",
+     "Taiwan’s 2010 Atlas listed Kavalan as extinct.",
+     "Laws alone can save a language."
     ],
     "a": 1,
+    "evidence": "the last first-language speaker of Manx, on the Isle of Man, died in 1974",
     "why": "第四段。",
-    "evidence": "Livonian, for instance, continues to be learned as a second language"
+    "traps": [
+     "正反顛倒：利沃尼亞語仍被當成第二語言學習。",
+     "",
+     "捏造：噶瑪蘭語只說使用者很少。",
+     "正反顛倒：原文 Laws alone cannot save a language。"
+    ]
    },
    {
-    "q": "What does the writer say about laws and language survival?",
+    "type": "INF",
+    "q": "What can be inferred from the third paragraph?",
     "options": [
-     "Laws alone can save a language",
-     "Laws alone cannot save a language, but they can help",
-     "Laws make languages disappear",
-     "Laws are unrelated to language"
+     "Every indigenous language in Taiwan has many speakers.",
+     "Mandarin was never spoken at home in Taiwan.",
+     "Austronesian languages are spoken only in Europe.",
+     "Language loss in many families happened quite quickly."
     ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "Laws alone cannot save a language — only speakers can — but they can make it easier for the next generation to choose to learn."
+    "a": 3,
+    "evidence": "the shift happened within one or two generations",
+    "why": "第三段：轉變在一兩代內就發生了。",
+    "traps": [
+     "正反顛倒：有六種極度瀕危。",
+     "正反顛倒：孩子在學校和家裡都說華語。",
+     "張冠李戴：南島語言在台灣。",
+     ""
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "According to the first paragraph, how can a chain of transmission break?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "Through war only",
-     "When parents decide their children should speak a dominant language",
-     "When dictionaries are lost",
-     "When schools close"
+     "To argue that everyone should stop learning English.",
+     "To explain how languages are lost and how they can be revived.",
+     "To list all the endangered languages in Europe.",
+     "To describe the history of the Isle of Man."
     ],
     "a": 1,
-    "why": "第一段：父母決定孩子說主流語言較有前途時。",
-    "evidence": "When parents decide — often for understandable economic or social reasons — that their children will be better off speaking a dominant language"
+    "evidence": "Extinction, however, is not always the end of the story.",
+    "why": "全文談語言傳承如何中斷、消失，以及復振與學習者的角色。",
+    "traps": [
+     "正反顛倒：作者說學強勢語言不必放棄自己的語言。",
+     "",
+     "以偏概全：歐洲只是例子之一。",
+     "以偏概全：曼島只出現一次。"
+    ]
    },
    {
-    "q": "Why is UNESCO’s scale useful, according to the writer?",
+    "type": "WD",
+    "q": "What does the author mean by “a chain of transmission” in the first paragraph?",
     "options": [
-     "It counts every speaker exactly",
-     "It focuses on transmission rather than the number of speakers",
-     "It ranks languages by beauty",
-     "It predicts which languages will become global"
+     "A line of people who speak different languages.",
+     "A system for broadcasting radio programs in many languages.",
+     "A list of words collected in a dictionary.",
+     "The passing of a language from one generation to the next."
     ],
-    "a": 1,
-    "why": "第二段最後一句。",
-    "evidence": "it focuses not on the number of speakers but on transmission"
+    "a": 3,
+    "evidence": "a chain of transmission that may have lasted for thousands of years can break in a single household",
+    "why": "父母不再傳給孩子，延續千年的代代相傳就斷了。",
+    "traps": [
+     "字面誤讀：chain 不是人排成一列。",
+     "字面誤讀：transmission 也有「廣播」之意，但這裡不是。",
+     "原文字眼、錯誤關係：字典是復振工具。",
+     ""
+    ]
    },
    {
-    "q": "What does the writer say ends when a last speaker dies?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "Only a word list",
-     "A living system of thought, humour and memory",
-     "A government program",
-     "A dictionary project"
+     "UNESCO’s scale focuses on transmission rather than the number of speakers.",
+     "The 2010 Atlas said Taiwan had no critically endangered languages.",
+     "Livonian is no longer studied as a second language.",
+     "Taiwan’s 2017 law treated indigenous languages as relics."
     ],
-    "a": 1,
-    "why": "第三段最後一句。",
-    "evidence": "Each such moment marks the end not of a word list but of a living system of thought, humour and memory."
+    "a": 0,
+    "evidence": "The scale is useful precisely because it focuses not on the number of speakers but on transmission",
+    "why": "第二段。",
+    "traps": [
+     "",
+     "正反顛倒：有六種極度瀕危。",
+     "正反顛倒：仍被當成第二語言培養。",
+     "正反顛倒：法律讓它們從「遺物」轉為共同資產。"
+    ]
    },
    {
-    "q": "What “unexpected lesson” does the final paragraph offer English learners?",
+    "type": "INF",
+    "q": "Why might a language with thousands of speakers be in greater danger than one with fewer?",
     "options": [
-     "English is not useful",
-     "The forces that make English useful can also crowd out smaller languages",
-     "People should only speak one language",
-     "Learning English is impossible"
+     "Because dominant languages are usually spoken by fewer people.",
+     "Because a large number of speakers makes UNESCO’s scale less useful.",
+     "Because its speakers may be mostly elderly while children no longer learn it.",
+     "Because the Atlas records only languages with many speakers."
     ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "The same forces that make English useful can also crowd out smaller languages."
+    "a": 2,
+    "evidence": "a language with many elderly speakers and no young ones is already in decline",
+    "why": "第二段：重點在有沒有傳給孩子，不在人數。",
+    "traps": [
+     "正反顛倒：強勢語言的使用者通常更多，例如英語有數億人。",
+     "正反顛倒：作者說這個量表正因為看「傳承」而不是人數，所以有用。",
+     "",
+     "以偏概全：地圖也收錄只剩一位使用者的巴宰語。"
+    ]
    }
   ]
  },

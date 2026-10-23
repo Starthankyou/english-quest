@@ -281,152 +281,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "How much money does Della have?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "$1.87",
-     "$8",
-     "$20",
-     "$21"
+     "How O. Henry became a famous New York writer.",
+     "A rich family who buy expensive Christmas gifts.",
+     "A poor couple who each give up their treasure for the other.",
+     "Why Della wanted to cut her hair short."
+    ],
+    "a": 2,
+    "evidence": "But they have learned how much they love each other.",
+    "why": "全文：夫妻各自賣掉最珍貴的東西為對方買禮物。",
+    "traps": [
+     "以偏概全：作者只在最後一段介紹。",
+     "正反顛倒：Della 只有 1.87 元，他們很窮。",
+     "",
+     "捏造：她是為了買禮物才賣頭髮。"
+    ]
+   },
+   {
+    "type": "REF",
+    "q": "What does “them” in “Della has wanted them for a long time” refer to?",
+    "options": [
+     "The beautiful combs.",
+     "Jim’s gold watch.",
+     "The twenty dollars.",
+     "Della and Jim."
     ],
     "a": 0,
-    "why": "第一段。",
-    "evidence": "She has only one dollar and eighty-seven cents."
+    "evidence": "He gives her his present: a set of beautiful combs for her long hair.",
+    "why": "前一句提到的是梳子。",
+    "traps": [
+     "",
+     "原文字眼、錯誤關係：錶是 Jim 的寶物。",
+     "原文字眼、錯誤關係：錢是賣頭髮得到的。",
+     "原文字眼、錯誤關係：他們是送禮的人。"
+    ]
    },
    {
-    "q": "What does Della sell?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "Her couch",
-     "Her hair",
-     "Jim’s watch",
-     "Her combs"
+     "Jim’s gold watch was a gift from Della.",
+     "The watch chain cost one dollar and eighty-seven cents.",
+     "Jim was angry when he saw Della’s short hair.",
+     "Della sold her hair for twenty dollars."
     ],
-    "a": 1,
+    "a": 3,
+    "evidence": "She goes to a shop and sells her hair for twenty dollars.",
     "why": "第二段。",
-    "evidence": "She goes to a shop and sells her hair for twenty dollars."
+    "traps": [
+     "捏造：錶是父親和祖父傳下來的。",
+     "數字錯位：錶鏈要 21 元，1.87 元是她原本的錢。",
+     "正反顛倒：原文 He is not angry。",
+     ""
+    ]
    },
    {
-    "q": "What does Jim give Della?",
+    "type": "INF",
+    "q": "Why does O. Henry say Della and Jim were the wisest of all?",
     "options": [
-     "A watch chain",
-     "A set of beautiful combs",
-     "Twenty dollars",
-     "A new couch"
+     "They bought the most expensive presents in the shop.",
+     "They gave up what they valued most out of love.",
+     "They had saved their money for a long time.",
+     "They used their new gifts every single day."
     ],
     "a": 1,
-    "why": "第三段。",
-    "evidence": "a set of beautiful combs for her long hair"
-   },
-   {
-    "q": "Why does O. Henry say Della and Jim were the wisest?",
-    "options": [
-     "They saved a lot of money",
-     "They gave the most important thing: themselves",
-     "They bought expensive gifts",
-     "They were very clever"
-    ],
-    "a": 1,
+    "evidence": "Because they gave the most important thing: themselves.",
     "why": "最後一段。",
-    "evidence": "Because they gave the most important thing: themselves."
+    "traps": [
+     "正反顛倒：她只有 1.87 元，買不起昂貴的禮物。",
+     "",
+     "以偏概全：存錢不足以買禮物。",
+     "正反顛倒：兩人都用不到收到的禮物。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "Why has Della’s saving not been enough?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "Jim’s income was cut to twenty dollars a week",
-     "She lost her money",
-     "Prices went down",
-     "She spent it on food"
+     "O. Henry’s real name was more famous than his pen name.",
+     "Poor people should never spend money on Christmas presents.",
+     "Della and Jim made foolish choices and regretted them.",
+     "A gift’s true value lies in what the giver is willing to give up."
     ],
-    "a": 0,
-    "why": "第一段。",
-    "evidence": "With his income cut to twenty dollars a week, it has not been enough."
+    "a": 3,
+    "evidence": "The value of a gift, the story suggests, lies not in what it is worth, but in what the giver was willing to give up.",
+    "why": "最後一段。",
+    "traps": [
+     "捏造：文中沒有比較兩個名字的知名度。",
+     "捏造：故事沒有這種說教。",
+     "正反顛倒：Jim 並不難過，作者稱他們最有智慧。",
+     ""
+    ]
    },
    {
-    "q": "How much does Della spend on the watch chain?",
+    "type": "WD",
+    "q": "What does “pen name” in the fourth paragraph mean?",
     "options": [
-     "$1.87",
-     "$20",
-     "$21",
-     "$30"
+     "The name written on a gift.",
+     "A name a writer uses instead of their real name.",
+     "A name given to a pen by a shop.",
+     "The title of a short story."
+    ],
+    "a": 1,
+    "evidence": "O. Henry, the pen name of William Sydney Porter",
+    "why": "O. Henry 是 William Sydney Porter 寫作時用的筆名。",
+    "traps": [
+     "原文字眼、錯誤關係：禮物上沒寫名字。",
+     "",
+     "字面誤讀：pen 不是指筆本身。",
+     "原文字眼、錯誤關係：故事名稱是另一回事。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The story first appeared in a book called The Four Million.",
+     "Della bought a gold watch for Jim.",
+     "Jim’s weekly income had been cut to twenty dollars.",
+     "Madame Sofronie sold the combs to Jim."
     ],
     "a": 2,
-    "why": "第二段。",
-    "evidence": "She then spends twenty-one dollars on a platinum chain for Jim’s watch."
+    "evidence": "With his income cut to twenty dollars a week",
+    "why": "第一段。",
+    "traps": [
+     "時序錯置：先刊在報紙，後來才收進那本書。",
+     "張冠李戴：她買的是白金錶鏈。",
+     "",
+     "張冠李戴：Madame Sofronie 是買下頭髮的店主。"
+    ]
    },
    {
-    "q": "What was O. Henry’s real name?",
+    "type": "INF",
+    "q": "What can be inferred about Jim’s reaction to the gifts?",
     "options": [
-     "Jim Young",
-     "William Sydney Porter",
-     "Charles Dickens",
-     "Madame Sofronie"
+     "He cared more about Della than about the watch he lost.",
+     "He was angry that Della had sold her hair.",
+     "He planned to buy the watch back the next day.",
+     "He refused to accept the watch chain."
     ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "O. Henry, the pen name of William Sydney Porter"
-   },
-   {
-    "q": "According to the story, where does the value of a gift lie?",
-    "options": [
-     "In its price",
-     "In what the giver was willing to give up",
-     "In how new it is",
-     "In its size"
-    ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "but in what the giver was willing to give up"
+    "a": 0,
+    "evidence": "Instead of being upset, he suggests that they put their presents away for a while",
+    "why": "他沒有難過，只說先把禮物收起來、開始做晚餐。",
+    "traps": [
+     "",
+     "正反顛倒：原文 Instead of being upset。",
+     "捏造：文中沒提他想把錶買回來，他只說先把禮物收起來。",
+     "捏造：他沒有拒絕，只是提議先把禮物收起來。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "What was the story’s original title in the newspaper?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "“The Four Million”",
-     "“Gifts of the Magi”",
-     "“The Wise Men”",
-     "“Della’s Hair”"
+     "To show how the story redefines what makes a gift wise.",
+     "To prove that O. Henry wrote the story at Pete’s Tavern.",
+     "To describe life in a New York flat in 1905.",
+     "To explain how platinum chains were made."
+    ],
+    "a": 0,
+    "evidence": "The story thus redefines wisdom itself.",
+    "why": "最後一段：故事重新定義了「智慧」。",
+    "traps": [
+     "",
+     "正反顛倒：作者說這個說法 difficult to prove。",
+     "以偏概全：只是第二段的背景。",
+     "原文字眼、錯誤關係：白金錶鏈只是禮物，文中沒談製作方法。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does the author mean by calling O. Henry’s self-mockery “a rhetorical move”?",
+    "options": [
+     "It is a mistake that editors failed to notice.",
+     "It shows that O. Henry did not like his own story.",
+     "It is a deliberate way of preparing to change the reader’s judgement.",
+     "It proves that the characters really were foolish."
+    ],
+    "a": 2,
+    "evidence": "by naming the reader’s likely judgement first, he prepares to overturn it",
+    "why": "第四段：先說出讀者可能的評價，再準備推翻它。",
+    "traps": [
+     "捏造：作者說這是刻意的修辭，不是編輯疏失。",
+     "正反顛倒：他是刻意這樣寫的。",
+     "",
+     "正反顛倒：最後他說他們最有智慧。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Sixty cents of Della’s money came from selling her hair.",
+     "The story was first published under the title “Gifts of the Magi.”",
+     "Jim mourned the loss of his gold watch.",
+     "Della had no wish to own the combs."
     ],
     "a": 1,
+    "evidence": "under the title “Gifts of the Magi,”",
     "why": "第一段。",
-    "evidence": "under the title “Gifts of the Magi,”"
+    "traps": [
+     "張冠李戴：六十分是跟雜貨商討價還價省下的硬幣。",
+     "",
+     "正反顛倒：原文 Jim does not mourn his watch。",
+     "正反顛倒：她渴望那組梳子很久了。"
+    ]
    },
    {
-    "q": "How does O. Henry treat the details of poverty?",
+    "type": "INF",
+    "q": "Why does the author point out that the two sacrifices are symmetrical?",
     "options": [
-     "With anger",
-     "With gentle irony, without pretending they do not hurt",
-     "By ignoring them",
-     "With exaggerated sadness"
+     "Both characters lost their jobs.",
+     "Both characters spent exactly the same money.",
+     "Both gifts were bought on Broadway.",
+     "Each sacrifice makes the other person’s gift useless."
     ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "O. Henry treats these facts with gentle irony, but he never pretends they do not hurt."
-   },
-   {
-    "q": "Why does O. Henry call the couple “two foolish children”?",
-    "options": [
-     "He truly thinks they are foolish",
-     "It is a rhetorical move to name the reader’s judgement before overturning it",
-     "They are actually children",
-     "He dislikes them"
-    ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "by naming the reader’s likely judgement first, he prepares to overturn it"
-   },
-   {
-    "q": "How does the story redefine a “wise gift”?",
-    "options": [
-     "A practical, cleverly chosen gift",
-     "A gift that shows how completely the giver puts another person first",
-     "An expensive gift",
-     "A gift from the Magi"
-    ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "one that reveals how completely the giver is prepared to put another person first"
+    "a": 3,
+    "evidence": "Each sacrifice destroys the usefulness of the other’s gift.",
+    "why": "第三段。",
+    "traps": [
+     "捏造：文中只說 Jim 收入減少，沒有人失業。",
+     "數字錯位：Della 花了 21 元，Jim 是賣錶，金額並不相同。",
+     "以偏概全：只有梳子在百老匯櫥窗裡。",
+     ""
+    ]
    }
   ]
  },

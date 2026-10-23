@@ -279,152 +279,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "Where did the experiment take place?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "In a university in the US",
-     "In a big high school in Turkey",
-     "In a library",
-     "Online at home"
-    ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "Researchers tested this in a big high school in Turkey."
-   },
-   {
-    "q": "How did the normal chatbot group do on the test?",
-    "options": [
-     "48% better",
-     "The same",
-     "17% lower than students who never used AI",
-     "127% better"
+     "How to build an AI tutor for a high school.",
+     "Why students in Turkey are better at math than others.",
+     "How the way students use AI affects how much they learn.",
+     "Why AI chatbots always give wrong math answers."
     ],
     "a": 2,
-    "why": "第三段。",
-    "evidence": "17% lower than the students who never used AI"
+    "evidence": "It depends on how we use it.",
+    "why": "全文：同樣是 AI，拿來抄答案會學得更少，拿來輔助思考則不會。",
+    "traps": [
+     "以偏概全：AI 家教只是實驗中的一組。",
+     "捏造：文中沒有跨國比較數學能力。",
+     "",
+     "正反顛倒：AI 組練習時分數反而更高。"
+    ]
    },
    {
-    "q": "What did the students who copied answers think?",
+    "type": "REF",
+    "q": "What does “Their tutor” in the fourth paragraph refer to?",
     "options": [
-     "They had learned less",
-     "They had not learned less",
-     "The test was unfair",
-     "AI was bad"
+     "The special AI tutor used by one group.",
+     "The math teacher at the high school.",
+     "The normal chatbot like ChatGPT.",
+     "The test that everyone took alone."
     ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "the students who copied answers did not think they had learned less"
+    "a": 0,
+    "evidence": "The AI tutor group was different.",
+    "why": "前一句說的是 AI 家教組，Their tutor 就是他們用的 AI 家教。",
+    "traps": [
+     "",
+     "捏造：文中沒有提到老師當家教。",
+     "張冠李戴：一般聊天機器人是另一組用的。",
+     "原文字眼、錯誤關係：測驗是最後的評量，不是家教。"
+    ]
    },
    {
-    "q": "What does the writer suggest you do?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "Never use AI",
-     "Write your own answer first, then ask AI to check it",
-     "Copy AI answers quickly",
-     "Use AI only for tests"
+     "The students who copied answers knew they had learned less.",
+     "The normal chatbot group did 48% better on the final test.",
+     "The AI tutor group did much better on the test than everyone.",
+     "The normal chatbot group did 17% worse on the test than the no-AI group."
+    ],
+    "a": 3,
+    "evidence": "the normal chatbot group did worse — 17% lower than the students who never used AI",
+    "why": "第三段：考試時一般聊天機器人組比沒用 AI 的低 17%。",
+    "traps": [
+     "正反顛倒：他們並不覺得自己學得比較少。",
+     "時序錯置：48% 是練習時的表現，不是考試。",
+     "過度推論：AI 家教組只是和沒用 AI 的差不多。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What does the writer suggest students should do?",
+    "options": [
+     "Copy the AI’s answers to finish homework faster.",
+     "Write their own answer first and then ask AI to check it.",
+     "Stop using every kind of AI tool at school.",
+     "Ask the AI to take the test for them."
     ],
     "a": 1,
-    "why": "最後一段。",
-    "evidence": "write your own answer first, and then ask AI to check it"
+    "evidence": "write your own answer first, and then ask AI to check it",
+    "why": "最後一句的建議。",
+    "traps": [
+     "正反顛倒：抄答案正是讓人學得少的用法。",
+     "",
+     "過度推論：作者說 AI 本身沒有好壞，不是要全部停用。",
+     "捏造：考試時本來就不能用任何幫助。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "What was special about GPT Tutor?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "It was faster",
-     "It had guardrails designed with teachers’ input",
-     "It used a different language",
-     "It gave answers for the exam"
+     "GPT Tutor helped students do much better than the control group.",
+     "Students who use AI always learn more than those who do not.",
+     "Teachers in Turkey have banned AI from maths classes.",
+     "AI can boost practice scores but hurt learning unless it is designed and used well."
     ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "a version with guardrails designed with teachers’ input"
+    "a": 3,
+    "evidence": "The lesson is not that students should avoid AI, but that design and habits matter.",
+    "why": "最後一段點出主旨：設計和使用習慣決定 AI 是幫手還是替身。",
+    "traps": [
+     "正反顛倒：GPT Tutor 只是和對照組差不多。",
+     "正反顛倒：GPT Base 組考試反而較差。",
+     "捏造：學校是和研究者合作做實驗。",
+     ""
+    ]
    },
    {
-    "q": "How did many GPT Base students use the chatbot?",
+    "type": "WD",
+    "q": "What does the word “crutch” in the third paragraph suggest about how students used GPT Base?",
     "options": [
-     "As a crutch, asking for solutions and copying them",
-     "Only to check spelling",
-     "To play games",
-     "They didn’t use it"
+     "They used it to check their own reasoning.",
+     "They relied on it to do the work for them.",
+     "They used it to review topics with the teacher.",
+     "They avoided it because it was too difficult."
+    ],
+    "a": 1,
+    "evidence": "many had used it as a “crutch”, asking for solutions and copying them",
+    "why": "拐杖的比喻：依賴它代替自己走路，也就是直接要答案來抄。",
+    "traps": [
+     "張冠李戴：這是作者建議的好習慣。",
+     "",
+     "原文字眼、錯誤關係：老師複習是每節課的第一步。",
+     "正反顛倒：他們是過度使用，不是不用。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Students could not use notes or textbooks during practice.",
+     "On the exam, GPT Tutor students scored 17% lower than others.",
+     "During practice, scores rose by 127% with GPT Tutor.",
+     "The students took two 90-minute maths sessions in total."
+    ],
+    "a": 2,
+    "evidence": "scores rose by 48% with GPT Base and by 127% with GPT Tutor",
+    "why": "第三段。",
+    "traps": [
+     "正反顛倒：原文 every group could also use their notes and textbook。",
+     "張冠李戴：考試低 17% 的是 GPT Base 組。",
+     "",
+     "數字錯位：一共四次、每次 90 分鐘。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Why does the author call one finding “most worrying”?",
+    "options": [
+     "Students who copied answers felt more capable than they really were.",
+     "Students who used GPT Tutor refused to take the exam.",
+     "Teachers could not tell which students had used AI.",
+     "The chatbot gave many students wrong maths answers."
     ],
     "a": 0,
-    "why": "第三段。",
-    "evidence": "many had used it as a “crutch”, asking for solutions and copying them"
-   },
-   {
-    "q": "What happened to the GPT Tutor group on the exam?",
-    "options": [
-     "They did much better than the control group",
-     "The harmful effect essentially disappeared, but they did not do better",
-     "They failed",
-     "They scored 17% lower"
-    ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "Their harmful effect essentially disappeared, though they did not do better than the control group either."
-   },
-   {
-    "q": "What is the writer’s main lesson?",
-    "options": [
-     "Students should avoid AI",
-     "Design and habits matter",
-     "AI is always harmful",
-     "Tests are unnecessary"
-    ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "but that design and habits matter"
+    "evidence": "The tool made them feel more capable than they were.",
+    "why": "第四段：抄答案的學生不覺得自己學得少，工具讓他們高估了自己。",
+    "traps": [
+     "",
+     "捏造：所有學生都參加了考試。",
+     "捏造：文中沒討論老師能否分辨。",
+     "捏造：問題在學生抄答案，不是答案錯。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "What “more fundamental question” does the writer raise?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "Whether AI makes cheating easier",
-     "Whether improving what students produce also improves what they can do without the tool",
-     "Whether AI is expensive",
-     "Whether teachers like AI"
-    ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "does it also improve what they can do once the tool is gone?"
-   },
-   {
-    "q": "Which statement about the study’s results is accurate?",
-    "options": [
-     "GPT Tutor produced a large gain on the exam",
-     "GPT Base improved practice scores but lowered exam scores",
-     "No group improved in practice",
-     "All groups scored the same"
-    ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "On the unassisted exam, however, GPT Base students scored 17% lower"
-   },
-   {
-    "q": "Why does the writer describe the MIT study cautiously?",
-    "options": [
-     "It is a preprint with only 54 participants",
-     "It was done in Turkey",
-     "It found no effects",
-     "It studied maths"
+     "To show that AI can improve performance without improving learning.",
+     "To argue that AI should be banned from every school.",
+     "To describe how a chatbot is built from teacher input.",
+     "To prove that AI tools always make students cheat."
     ],
     "a": 0,
-    "why": "第四段。",
-    "evidence": "released as a preprint and involving only 54 participants"
+    "evidence": "The results separate performance from learning with unusual clarity.",
+    "why": "第三段：研究清楚區分了「表現」和「學習」。",
+    "traps": [
+     "",
+     "正反顛倒：原文 None of this implies that AI should be banned。",
+     "以偏概全：GPT Tutor 的設計只是實驗的一部分。",
+     "以偏概全：作者說作弊只是表面的討論，重點在學習。"
+    ]
    },
    {
-    "q": "According to the writer, what does learning require?",
+    "type": "WD",
+    "q": "Which of the following is closest in meaning to “guardrails” as used in the second paragraph?",
     "options": [
-     "Fast access to answers",
-     "That the learner does the cognitive work",
-     "Expensive tools",
-     "Avoiding mistakes"
+     "Teachers who watch students during exams.",
+     "Fences that protect students in the school.",
+     "Built-in limits that steer how a tool is used.",
+     "Rules that ban AI from the classroom."
+    ],
+    "a": 2,
+    "evidence": "GPT Tutor, built on the same model but with guardrails designed from teacher input",
+    "why": "同一個模型加上依教師意見設計的限制，引導學生正確使用。",
+    "traps": [
+     "捏造：監考不是這個詞的意思。",
+     "字面誤讀：guardrail 原指護欄，這裡是比喻。",
+     "",
+     "正反顛倒：GPT Tutor 正是在教室裡使用的 AI。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "GPT Base students realised that they had learned less.",
+     "GPT Tutor students believed they had done better than they actually had.",
+     "GPT Tutor produced a large gain on the unassisted exam.",
+     "The MIT study involved about 1,000 participants."
     ],
     "a": 1,
-    "why": "最後一段。",
-    "evidence": "learning requires the learner to do the cognitive work"
+    "evidence": "GPT Tutor students believed they had done significantly better than they actually had",
+    "why": "第四段。",
+    "traps": [
+     "正反顛倒：他們並不覺得自己學得少。",
+     "",
+     "正反顛倒：原文 they produced no measurable gain。",
+     "數字錯位：MIT 研究只有 54 人，1,000 人是土耳其的實驗。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "According to the last paragraph, why do tools that remove effort “optimise for the wrong outcome”?",
+    "options": [
+     "AI models are too expensive for schools.",
+     "Students prefer tools that are difficult to use.",
+     "Teachers cannot grade work done with AI.",
+     "Learning depends on the learner doing the cognitive work."
+    ],
+    "a": 3,
+    "evidence": "learning requires the learner to do the cognitive work",
+    "why": "最後一段：學習需要學習者自己提取、掙扎、犯錯再修正。",
+    "traps": [
+     "捏造：文中沒談成本。",
+     "捏造：文中沒提學生的偏好。",
+     "捏造：文中沒談評分。",
+     ""
+    ]
    }
   ]
  },

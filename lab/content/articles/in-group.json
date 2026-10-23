@@ -281,152 +281,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "How were the boys really put into groups?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "By their test scores",
-     "At random",
-     "By their age",
-     "By their favorite sport"
+     "How to divide a class into two teams by tossing a coin.",
+     "How even random groups can make people treat others unfairly.",
+     "Why schoolboys in Britain liked some paintings better.",
+     "Why people never care about which team they are on."
     ],
     "a": 1,
-    "why": "第二段：他們被告知依答案分組，但其實是隨機的。",
-    "evidence": "but in fact the groups were random"
+    "evidence": "Most boys gave more money to boys in their own group.",
+    "why": "實驗顯示：連隨機分出來的組別，都會讓人偏袒自己的組。",
+    "traps": [
+     "以偏概全：擲硬幣分組只是第一段的想像情境。",
+     "",
+     "原文字眼、錯誤關係：選畫只是分組前的小任務。",
+     "正反顛倒：實驗顯示人很快就偏袒自己的組。"
+    ]
    },
    {
-    "q": "Who could a boy give money to?",
+    "type": "REF",
+    "q": "What does “He” in “He could never give any money to himself” in the third paragraph refer to?",
     "options": [
-     "Only himself",
-     "His best friend",
-     "Two other boys he did not know",
-     "The teacher"
+     "A boy in the other group.",
+     "Henri Tajfel, the scholar.",
+     "The teacher who tossed a coin.",
+     "Each boy who was dividing the money."
+    ],
+    "a": 3,
+    "evidence": "Next, each boy decided how to share money between two other boys.",
+    "why": "前文的主詞是 each boy，也就是負責分錢的男孩。",
+    "traps": [
+     "原文字眼、錯誤關係：另一組的男孩是可能「收錢」的人。",
+     "原文字眼、錯誤關係：Tajfel 是設計實驗的人。",
+     "時序錯置：老師擲硬幣是第一段的想像情境。",
+     ""
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true about the experiment?",
+    "options": [
+     "The groups were made at random, not by the boys’ answers.",
+     "The boys knew exactly who would receive the money.",
+     "The boys could keep some of the money for themselves.",
+     "Most boys shared the money equally between both groups."
+    ],
+    "a": 0,
+    "evidence": "They were told the groups were based on their answers, but in fact the groups were random.",
+    "why": "第二段：孩子以為分組依據答案，其實是隨機的。",
+    "traps": [
+     "",
+     "正反顛倒：原文 He did not know who they were。",
+     "正反顛倒：原文 He could never give any money to himself。",
+     "正反顛倒：多數男孩給自己組比較多。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What does the writer suggest we can do about this habit?",
+    "options": [
+     "Always give a little more money to our own group.",
+     "Avoid joining any teams or clubs at school from now on.",
+     "Ask whether we would think the same on the other team.",
+     "Let our teachers choose our friends and teams for us."
     ],
     "a": 2,
-    "why": "第三段：分給另外兩個不認識的男孩，不能給自己。",
-    "evidence": "each boy decided how to share money between two other boys"
-   },
-   {
-    "q": "What seemed more important to many boys?",
-    "options": [
-     "Getting the most money",
-     "Being ahead of the other group",
-     "Finishing quickly",
-     "Making friends"
-    ],
-    "a": 1,
-    "why": "第四段：領先似乎比拿到最多更重要。",
-    "evidence": "Being ahead seemed more important than getting the most."
-   },
-   {
-    "q": "What question does the writer suggest asking ourselves?",
-    "options": [
-     "Which team is the strongest?",
-     "Would I still think this if I were on the other team?",
-     "How can my team win?",
-     "Who chose the teams?"
-    ],
-    "a": 1,
-    "why": "最後一段提出的自問句。",
-    "evidence": "Would I still think this if I were on the other team?"
+    "evidence": "We can stop and ask, “Would I still think this if I were on the other team?”",
+    "why": "最後一段：停下來問自己「如果我在另一隊，還會這樣想嗎？」",
+    "traps": [
+     "正反顛倒：這正是要提醒的不公平。",
+     "過度推論：作者沒叫人不要加入團體。",
+     "",
+     "捏造：文中沒提到老師選朋友。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "What was Tajfel trying to find?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "The best way to divide money",
-     "The smallest reason for one group to treat another unfairly",
-     "Which painter students preferred",
-     "How well boys could count dots"
+     "Schoolboys in Britain prefer Klee to Kandinsky.",
+     "Long rivalries are the only cause of unfair treatment.",
+     "Very little is needed to make people favor their own group.",
+     "People always judge others fairly when there is money involved."
     ],
-    "a": 1,
-    "why": "第二段第一句說明研究目的。",
-    "evidence": "wanted to find the smallest possible reason for one group to treat another unfairly"
+    "a": 2,
+    "evidence": "it takes surprisingly little to make us favor our own group",
+    "why": "第一段點題：要讓人偏袒自己的團體，需要的條件出奇地少。",
+    "traps": [
+     "原文字眼、錯誤關係：選畫只是分組前的小任務。",
+     "正反顛倒：作者說遠少於共同歷史或長期對立。",
+     "",
+     "正反顛倒：即使沒有私利，多數人仍偏袒自己組。"
+    ]
    },
    {
-    "q": "Why does the writer say there was “no personal gain”?",
+    "type": "WD",
+    "q": "What does “trivial” in the second paragraph most likely mean?",
     "options": [
-     "The boys could not reward themselves",
-     "The money was not real",
-     "The boys were not paid at all",
-     "The groups were too small"
+     "Unimportant and meaningless.",
+     "Carefully planned.",
+     "Kept secret from the boys.",
+     "Based on artistic skill."
     ],
     "a": 0,
-    "why": "第三段：不能獎勵自己，也不會見到收錢的人。",
-    "evidence": "He could never reward himself"
+    "evidence": "In reality, the groups were assigned at random, and the reason they were given was completely trivial.",
+    "why": "分組理由（例如估點數、喜歡哪幅畫）完全無關緊要。",
+    "traps": [
+     "",
+     "正反顛倒：分組其實是隨機的。",
+     "原文字眼、錯誤關係：隱瞞的是「隨機分組」這件事，trivial 不是這個意思。",
+     "捏造：選畫只是表達喜好，不考技巧。"
+    ]
    },
    {
-    "q": "What does “trivial” in paragraph 2 most likely mean?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "Very important",
-     "Unimportant",
-     "Dangerous",
-     "Secret"
+     "The boys knew the names of the people they were paying.",
+     "The boys were strangers who had never met before.",
+     "Each boy could reward himself with part of the money.",
+     "Many boys chose to widen the gap even if their group received less in total."
     ],
-    "a": 1,
-    "why": "分組理由是隨便的任務（數點、選畫），所以 trivial 是「無關緊要的」。",
-    "evidence": "the reason they were given was completely trivial"
+    "a": 3,
+    "evidence": "even when another choice would have given their own group more money in total",
+    "why": "第四段：寧可自己組拿少一點，也要拉大兩組的差距。",
+    "traps": [
+     "正反顛倒：只知道代號和組別。",
+     "正反顛倒：原文 The boys already knew one another well。",
+     "正反顛倒：原文 He could never reward himself。",
+     ""
+    ]
    },
    {
-    "q": "According to the last paragraph, why is knowing about this pattern useful?",
+    "type": "INF",
+    "q": "According to Tajfel, why do people want “us” to look better than “them”?",
     "options": [
-     "It proves our group is better",
-     "It helps us notice when our feeling of superiority has no real basis",
-     "It makes us win more often",
-     "It removes all bias forever"
+     "It helps them earn more money.",
+     "It helps them feel good about themselves.",
+     "It helps them make new friends.",
+     "It helps them win long rivalries."
     ],
     "a": 1,
-    "why": "知道模式能讓我們察覺優越感只建立在擲硬幣上。",
-    "evidence": "it allows us to notice when a stubborn feeling that our side is superior is based on nothing more than a coin toss"
+    "evidence": "making “us” look better than “them” helps us feel good about ourselves",
+    "why": "第五段：人從所屬團體得到部分身分認同，讓「我們」比較好能讓自己感覺良好。",
+    "traps": [
+     "正反顛倒：很多人寧可少拿錢。",
+     "",
+     "捏造：文中沒提交朋友。",
+     "原文字眼、錯誤關係：長期對立是第一段說「不需要」的條件。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "How does the first paragraph frame Tajfel’s question?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "As a question about history",
-     "As more unsettling than the usual explanations of prejudice",
-     "As already answered by earlier research",
-     "As a question about money"
+     "To describe how to design fair school teams.",
+     "To prove that prejudice can never be reduced.",
+     "To explain how history causes every conflict.",
+     "To show that bias can arise from a group label alone."
     ],
-    "a": 1,
-    "why": "第一段先列出常見解釋，再說泰菲爾問了「更令人不安」的問題。",
-    "evidence": "asked a more unsettling question"
+    "a": 3,
+    "evidence": "Yet the experiments remain a sobering reminder that bias can arise before any genuine disagreement exists.",
+    "why": "全文：最小團體實驗顯示，光是組別標籤就足以產生偏見。",
+    "traps": [
+     "以偏概全：學校分隊只是最後一句的應用。",
+     "正反顛倒：原文 do not imply that prejudice is inevitable。",
+     "正反顛倒：實驗正是要找出比歷史更小的條件。",
+     ""
+    ]
    },
    {
-    "q": "Why were self-interest and personal loyalty “removed from the equation”?",
+    "type": "WD",
+    "q": "Which of the following is closest in meaning to “maximum differentiation” in the fourth paragraph?",
     "options": [
-     "The boys were strangers",
-     "The boys could not reward themselves and would never meet the recipients",
-     "The money was divided equally",
-     "The researchers chose the recipients"
+     "Giving the largest possible reward to one’s own group.",
+     "Making the gap between the groups as large as possible.",
+     "Treating both groups exactly the same.",
+     "Choosing a group by flipping a coin."
     ],
     "a": 1,
-    "why": "第三段說明了排除這兩個因素的設計。",
-    "evidence": "Because they could not reward themselves and would never meet the recipients"
+    "evidence": "many chose distributions that widened the gap between the groups, even at the cost of a smaller absolute reward for their own side",
+    "why": "冒號後面直接解釋：拉大兩組差距，即使自己組拿得更少。",
+    "traps": [
+     "正反顛倒：他們甚至犧牲自己組的總額。",
+     "",
+     "正反顛倒：這是「公平」，不是拉大差距。",
+     "原文字眼、錯誤關係：擲硬幣是最後一段的比喻。"
+    ]
    },
    {
-    "q": "What does “maximum differentiation” refer to?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "Giving everyone the same amount",
-     "Choosing the option that widened the gap between groups",
-     "Giving the most money to the other group",
-     "Refusing to choose"
-    ],
-    "a": 1,
-    "why": "第四段解釋：選擇能拉大差距的分法。",
-    "evidence": "many chose distributions that widened the gap between the groups"
-   },
-   {
-    "q": "Which statement best reflects the writer’s conclusion?",
-    "options": [
-     "Prejudice is inevitable",
-     "Laboratory results apply directly to all real conflicts",
-     "Sympathy for the other side must be practised deliberately",
-     "Group membership has no effect on judgment"
+     "The groups were based on how well the boys painted.",
+     "The boys could see who received their money.",
+     "The boys were told nothing about the other members of their group.",
+     "The boys showed no concern for fairness at all."
     ],
     "a": 2,
-    "why": "最後一段：同理不是天生預設，而是要刻意練習的習慣；同時也否定了「偏見無法避免」。",
-    "evidence": "a habit that has to be practised — deliberately, and often against our own instincts"
+    "evidence": "the boys were told nothing about the other members of their group",
+    "why": "第二段：男孩對同組成員一無所知。",
+    "traps": [
+     "張冠李戴：選畫是「偏好」，而且分組其實是隨機的。",
+     "正反顛倒：受款人只知道代號和組別。",
+     "",
+     "正反顛倒：原文 showed some concern for fairness。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What can be inferred from the last paragraph?",
+    "options": [
+     "Fairness toward other groups needs to be practised on purpose.",
+     "Schools should stop dividing students into teams.",
+     "Laboratory results always match real-world conflicts.",
+     "Bias appears only after a real disagreement."
+    ],
+    "a": 0,
+    "evidence": "sympathy for “the other side” is not a natural default but a habit that has to be practised",
+    "why": "最後一段：對「另一方」的同理不是天生預設，而要刻意練習。",
+    "traps": [
+     "",
+     "過度推論：作者說團隊能建立歸屬感，只是需要跨組合作。",
+     "正反顛倒：原文說學者仍在爭論能推論到多遠。",
+     "正反顛倒：偏見可能在真正分歧出現前就產生。"
+    ]
    }
   ]
  },

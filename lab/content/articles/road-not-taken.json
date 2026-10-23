@@ -279,152 +279,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "When was “The Road Not Taken” published in the book mentioned?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "1816",
-     "1916",
-     "1966",
-     "2016"
-    ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "it was published in 1916"
-   },
-   {
-    "q": "What does the poem say about the two roads?",
-    "options": [
-     "One was much busier",
-     "They were really about the same",
-     "One was dangerous",
-     "One had no leaves"
-    ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "the two roads were “really about the same”"
-   },
-   {
-    "q": "Why did Frost write the poem, at least partly?",
-    "options": [
-     "As a joke for his friend Edward Thomas",
-     "For a school exam",
-     "To sell posters",
-     "For a graduation speech"
+     "How a famous poem may mean something different from what we think.",
+     "How to give a good speech at a graduation ceremony.",
+     "Why Robert Frost moved from America to England as a poet.",
+     "Why the traveller chose the more dangerous of the two roads."
     ],
     "a": 0,
-    "why": "第四段。",
-    "evidence": "Frost wrote the poem partly as a joke for his friend, the poet Edward Thomas."
+    "evidence": "Most people think the poem says: be brave and choose your own path. But is that really what it says?",
+    "why": "全文：這首名詩常被誤讀，仔細讀會發現另一層意思。",
+    "traps": [
+     "",
+     "原文字眼、錯誤關係：畢業演講只是引用這首詩的場合。",
+     "捏造：初級文章沒有提到搬家。",
+     "捏造：文中沒說哪條路危險。"
+    ]
    },
    {
-    "q": "How will the traveller tell the story in the future?",
+    "type": "REF",
+    "q": "What does “both” in “both were covered with leaves” in the third paragraph refer to?",
     "options": [
-     "With a laugh",
-     "With a sigh",
-     "With a song",
-     "With anger"
+     "The posters.",
+     "The two poets.",
+     "The two roads.",
+     "The graduation speeches."
+    ],
+    "a": 2,
+    "evidence": "If you read carefully, the poem says the two roads were “really about the same”.",
+    "why": "第三段說的「兩者」都是指那兩條路。",
+    "traps": [
+     "原文字眼、錯誤關係：海報在第一段。",
+     "時序錯置：兩位詩人在第四段。",
+     "",
+     "原文字眼、錯誤關係：演講在第一段。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "One road was clearly used more than the other.",
+     "Both roads were covered with leaves that no one had walked on.",
+     "Edward Thomas always chose the right path easily.",
+     "The poem was first published in the year 1961."
     ],
     "a": 1,
-    "why": "最後一段。",
-    "evidence": "he will tell this story “with a sigh”"
+    "evidence": "both were covered with leaves that no one had walked on",
+    "why": "第三段。",
+    "traps": [
+     "正反顛倒：兩條路其實差不多。",
+     "",
+     "正反顛倒：Thomas 總是拿不定主意，事後常後悔。",
+     "數字錯位：是 1916 年。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What does the last paragraph suggest?",
+    "options": [
+     "The traveller will never tell anyone the story.",
+     "The traveller was always happy with his choice.",
+     "Poems should never be read carefully.",
+     "People may make their choices sound more important than they were."
+    ],
+    "a": 3,
+    "evidence": "Maybe he will make his choice sound more important than it was.",
+    "why": "最後一段：人可能把選擇講得比實際更重要。",
+    "traps": [
+     "正反顛倒：他說將來會講這個故事。",
+     "正反顛倒：他說會「嘆口氣」講這個故事。",
+     "正反顛倒：作者正是鼓勵仔細閱讀。",
+     ""
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "How are the final lines often used?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "As a celebration of independence and courage",
-     "As a warning against travel",
-     "As a joke about roads",
-     "As instructions for walking"
+     "Frost wanted readers to always choose unusual paths.",
+     "A careful reading shows the poem is not simply about bold choices.",
+     "The poem was written as a serious tribute to courage.",
+     "Edward Thomas wrote the poem as a joke about Frost."
+    ],
+    "a": 1,
+    "evidence": "Yet a careful reading suggests that the poem may be saying something quite different.",
+    "why": "第一段點題：細讀會發現這首詩不只是在歌頌勇敢的選擇。",
+    "traps": [
+     "正反顛倒：這正是被質疑的常見讀法。",
+     "",
+     "正反顛倒：Frost 說自己是在 fooling。",
+     "張冠李戴：是 Frost 寫來開 Thomas 的玩笑。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “undercuts” in the third paragraph most likely mean?",
+    "options": [
+     "Celebrates.",
+     "Repeats.",
+     "Explains.",
+     "Weakens."
+    ],
+    "a": 3,
+    "evidence": "But Frost immediately undercuts this difference.",
+    "why": "下一句承認兩條路其實差不多，削弱了剛才的差別。",
+    "traps": [
+     "正反顛倒：慶祝的是一般讀者的誤讀。",
+     "原文字眼、錯誤關係：後面不是重複，而是推翻。",
+     "以偏概全：不只是解釋，而是削弱。",
+     ""
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The poem first appeared in 1915 and opened a 1916 collection.",
+     "Frost lived in England from 1915 to 1920.",
+     "Thomas always felt sure about which path to take.",
+     "Audiences understood at once that Frost was joking."
     ],
     "a": 0,
-    "why": "第一段。",
-    "evidence": "as a celebration of independence and courage"
+    "evidence": "The poem was first published in 1915 and then appeared as the opening poem of Frost’s 1916 collection",
+    "why": "第二段。",
+    "traps": [
+     "",
+     "數字錯位：1912 到 1915 年。",
+     "正反顛倒：Thomas 總在苦惱並事後後悔。",
+     "正反顛倒：Frost 抱怨觀眾太認真看待。"
+    ]
    },
    {
-    "q": "What does the speaker admit right after choosing the “grassy” road?",
+    "type": "INF",
+    "q": "What does the author suggest about the speaker’s “sigh”?",
     "options": [
-     "That he was lost",
-     "That the roads had been worn really about the same",
-     "That he would go back the next day",
-     "That the road was dangerous"
+     "It proves that the speaker chose the wrong road.",
+     "It clearly shows that the speaker is proud of his courage.",
+     "Its meaning is open, and it may reveal how we retell our choices.",
+     "It shows that Frost disliked Edward Thomas."
     ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "“the passing there / Had worn them really about the same”"
-   },
-   {
-    "q": "What did Frost complain about, according to the Poetry Foundation?",
-    "options": [
-     "That the poem was too short",
-     "That audiences took it seriously even though he was fooling",
-     "That Thomas did not like it",
-     "That it was not published"
-    ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "he complained that audiences took it “pretty seriously"
-   },
-   {
-    "q": "What might be “the poem’s deepest point”, according to the last paragraph?",
-    "options": [
-     "Roads in England are confusing",
-     "How we tell stories about our own lives",
-     "Never make decisions",
-     "Always choose the grassy road"
-    ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "Perhaps the poem’s deepest point is about how we tell stories about our own lives"
+    "a": 2,
+    "evidence": "that sigh is open to interpretation",
+    "why": "最後一段：這聲嘆息可以有多種解讀。",
+    "traps": [
+     "過度推論：兩條路差不多，談不上選錯。",
+     "以偏概全：驕傲只是可能的解讀之一。",
+     "",
+     "捏造：兩人是好友。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "What is “the irony” described in the first paragraph?",
+    "type": "MI",
+    "q": "Which of the following is the best title for the passage?",
     "options": [
-     "The poem unsettles the individualist reading it is famous for",
-     "Frost disliked poetry",
-     "The poem was never published",
-     "The lines are rarely quoted"
+     "A Simple Celebration of Individualism",
+     "Why Frost Loved Unconventional Paths",
+     "The Poem That Warns Us About Our Own Stories",
+     "The Life of Edward Thomas in the War"
     ],
-    "a": 0,
-    "why": "第一段。",
-    "evidence": "the poem itself goes out of its way to unsettle precisely that reading"
+    "a": 2,
+    "evidence": "It is a study of self-mythology",
+    "why": "最後一段：這首詩探討人如何把選擇編成自己的神話。",
+    "traps": [
+     "正反顛倒：作者說詩本身動搖了這種讀法。",
+     "正反顛倒：這正是被質疑的讀法。",
+     "",
+     "以偏概全：Thomas 戰死只在第四段帶過。"
+    ]
    },
    {
-    "q": "What does the writer mean by “The hedging is already audible”?",
+    "type": "WD",
+    "q": "Which of the following is closest in meaning to “arbitrary” in the second paragraph?",
     "options": [
-     "Words like “just as fair” and “perhaps” show uncertainty",
-     "The speaker is shouting",
-     "There are hedges along the road",
-     "The poem rhymes"
+     "Made without a strong reason.",
+     "Carefully planned in advance.",
+     "Bold and courageous.",
+     "Based on long experience."
     ],
     "a": 0,
-    "why": "第二段：猶疑的字眼已經聽得出來。",
-    "evidence": "The hedging is already audible: “just as fair”, “perhaps”."
+    "evidence": "Frost is describing not a bold decision but a nearly arbitrary one dressed in the language of reasons",
+    "why": "和 bold decision 對照：幾乎隨意、沒有充分理由的選擇。",
+    "traps": [
+     "",
+     "正反顛倒：用了 perhaps、just as fair 這些猶豫的字。",
+     "正反顛倒：原文 not a bold decision。",
+     "捏造：文中沒提經驗。"
+    ]
    },
    {
-    "q": "According to paragraph 3, how is the celebrated claim framed?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "As a proven fact",
-     "As a story told later, with a sigh",
-     "As advice from Thomas",
-     "As a quotation from another poet"
+     "Frost sent the poem to Thomas as a serious warning.",
+     "Frost warned audiences that the poem was simple and clear.",
+     "The speaker admits the roads were very different.",
+     "Edward Thomas was killed at the Battle of Arras in 1917."
+    ],
+    "a": 3,
+    "evidence": "was killed at the Battle of Arras in 1917",
+    "why": "第四段。",
+    "traps": [
+     "正反顛倒：是 partly as a gentle joke。",
+     "正反顛倒：他說 it’s a tricky poem — very tricky。",
+     "正反顛倒：原文 worn them really about the same。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "According to the author, what is “self-mythology”?",
+    "options": [
+     "Writing poems about the gods of ancient times.",
+     "Turning chance decisions into a story in which we were brave.",
+     "Refusing to make any important choices at all.",
+     "Remembering every choice exactly as it really happened."
     ],
     "a": 1,
-    "why": "第三段。",
-    "evidence": "The celebrated claim is framed explicitly as a story told later"
-   },
-   {
-    "q": "What does the writer call the poem in the final paragraph?",
-    "options": [
-     "A study of self-mythology",
-     "A guide to hiking",
-     "A war poem",
-     "A failed joke"
-    ],
-    "a": 0,
-    "why": "最後一段。",
-    "evidence": "It is a study of self-mythology"
+    "evidence": "the human habit of looking back on chance decisions and arranging them into a meaningful story in which we were brave and different",
+    "why": "冒號後面直接說明。",
+    "traps": [
+     "字面誤讀：mythology 在這裡不是神話故事。",
+     "",
+     "捏造：文中沒有這種說法。",
+     "正反顛倒：重點是事後重新編排。"
+    ]
    }
   ]
  },

@@ -14,6 +14,11 @@
    "title": "Wikipedia: The Necklace",
    "url": "https://en.wikipedia.org/wiki/The_Necklace",
    "accessed": "2026-10-22"
+  },
+  {
+   "title": "Wikipedia: Guy de Maupassant",
+   "url": "https://en.wikipedia.org/wiki/Guy_de_Maupassant",
+   "accessed": "2026-10-22"
   }
  ],
  "levels": {
@@ -33,8 +38,8 @@
      "她向有錢的朋友佛萊斯蒂埃夫人借了一條鑽石項鍊。在舞會上，瑪蒂爾德美麗動人，人人都欣賞她。但回到家時，項鍊不見了！他們到處找，卻怎麼也找不到。"
     ],
     [
-     "Too ashamed to tell her friend, they buy a similar necklace for thirty-six thousand francs. They borrow most of the money. For ten long years, they work very hard to pay it back. Mathilde does heavy housework and becomes old and tired. When Mathilde returns the necklace, her friend does not even open the box.",
-     "因為太羞愧而不敢告訴朋友，他們花了三萬六千法郎買了一條相似的項鍊，大部分的錢都是借來的。整整十年，他們拚命工作來還債。瑪蒂爾德做著粗重的家事，變得又老又疲憊。瑪蒂爾德歸還項鍊時，朋友連盒子都沒打開。"
+     "Too ashamed to tell her friend, they buy a similar necklace for thirty-six thousand francs. They borrow most of the money. When Mathilde returns the necklace, her friend does not even open the box. For ten long years, they work very hard to pay it back. Mathilde does heavy housework and becomes old and tired.",
+     "因為太羞愧而不敢告訴朋友，他們花了三萬六千法郎買了一條相似的項鍊，大部分的錢都是借來的。瑪蒂爾德歸還項鍊時，朋友連盒子都沒打開。整整十年，他們拚命工作來還債。瑪蒂爾德做著粗重的家事，變得又老又疲憊。"
     ],
     [
      "After ten years, Mathilde meets Madame Forestier in the street and tells her the truth. Her friend is shocked. “Oh, my poor Mathilde!” she says. The necklace was not real diamonds. It was worth at most five hundred francs! This 1884 story is famous for its surprise ending.",
@@ -281,152 +286,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "What is Mathilde’s husband’s job?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "A minister",
-     "A clerk",
-     "A jeweller",
-     "A soldier"
-    ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "Her husband is a clerk"
-   },
-   {
-    "q": "What was the four hundred francs for?",
-    "options": [
-     "A gun",
-     "A house",
-     "A necklace",
-     "A trip"
-    ],
-    "a": 0,
-    "why": "第二段。",
-    "evidence": "four hundred francs that he was saving for a gun"
-   },
-   {
-    "q": "How long do they work to pay the money back?",
-    "options": [
-     "One year",
-     "Five years",
-     "Ten years",
-     "Twenty years"
+     "Why Mathilde’s husband wanted to buy a gun.",
+     "How to buy a cheap diamond necklace in Paris.",
+     "A woman who loses a borrowed necklace and pays dearly.",
+     "How the minister planned a grand party."
     ],
     "a": 2,
-    "why": "第四段。",
-    "evidence": "For ten long years, they work very hard to pay it back."
+    "evidence": "For ten long years, they work very hard to pay it back.",
+    "why": "全文：借來的項鍊弄丟了，付出十年的代價。",
+    "traps": [
+     "以偏概全：買槍的錢只是細節。",
+     "原文字眼、錯誤關係：鑽石項鍊是借來的，不是去買便宜貨。",
+     "",
+     "以偏概全：舞會只是起點。"
+    ]
    },
    {
-    "q": "What was the borrowed necklace really worth?",
+    "type": "REF",
+    "q": "What does “it” in “they cannot find it” refer to?",
     "options": [
-     "Thirty-six thousand francs",
-     "At most five hundred francs",
-     "Four hundred francs",
-     "Nothing at all"
+     "The diamond necklace.",
+     "The new dress.",
+     "The invitation.",
+     "The four hundred francs."
+    ],
+    "a": 0,
+    "evidence": "But when she gets home, the necklace is gone!",
+    "why": "前一句：回家發現項鍊不見了。",
+    "traps": [
+     "",
+     "原文字眼、錯誤關係：禮服已經買了。",
+     "時序錯置：邀請函在第二段。",
+     "原文字眼、錯誤關係：錢拿去買禮服了。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The real necklace was worth five thousand francs.",
+     "Mathilde told her friend the truth right away.",
+     "Her husband gave her money he saved for a car.",
+     "The replacement necklace cost thirty-six thousand francs."
+    ],
+    "a": 3,
+    "evidence": "they buy a similar necklace for thirty-six thousand francs",
+    "why": "第四段。",
+    "traps": [
+     "數字錯位：最多五百法郎。",
+     "正反顛倒：十年後才說。",
+     "張冠李戴：是存來買槍的錢。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What makes the ending a surprise?",
+    "options": [
+     "Madame Forestier refused to take the necklace back.",
+     "The necklace they worked ten years for was not real.",
+     "Mathilde found the old necklace in her house.",
+     "Her husband secretly paid all the money back."
     ],
     "a": 1,
-    "why": "最後一段。",
-    "evidence": "It was worth at most five hundred francs!"
+    "evidence": "The necklace was not real diamonds.",
+    "why": "最後一段：原來是假鑽。",
+    "traps": [
+     "正反顛倒：她收下了，甚至沒打開盒子。",
+     "",
+     "正反顛倒：他們到處都找不到。",
+     "正反顛倒：兩人一起辛苦十年。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "Where was the story first published?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "In a book in London",
-     "In the French newspaper Le Gaulois",
-     "In a magazine in New York",
-     "On the radio"
+     "The ball made Mathilde rich and famous.",
+     "Mathilde was so poor that she had no home at all.",
+     "Madame Forestier tricked Mathilde on purpose.",
+     "Hiding a loss to look rich costs the Loisels ten years."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "first published in the French newspaper Le Gaulois on 17 February 1884"
+    "a": 3,
+    "evidence": "This life lasts ten years, and by the end, Mathilde has lost her youthful beauty.",
+    "why": "全文：不肯承認弄丟項鍊，付出十年代價。",
+    "traps": [
+     "正反顛倒：舞會後她失去一切。",
+     "正反顛倒：她其實生活還算舒適。",
+     "捏造：朋友得知真相時深受感動，並非故意騙她。",
+     ""
+    ]
    },
    {
-    "q": "Why does Mathilde cry when she sees the invitation?",
+    "type": "WD",
+    "q": "What does “humiliating” in the second paragraph most likely mean?",
     "options": [
-     "She is happy",
-     "She has nothing suitable to wear",
-     "She does not like the minister",
-     "She is ill"
+     "Making someone feel rich.",
+     "Making someone feel ashamed.",
+     "Costing very little money.",
+     "Taking a long time."
     ],
     "a": 1,
-    "why": "第二段。",
-    "evidence": "because she has nothing suitable to wear"
+    "evidence": "nothing, she says, is more humiliating than looking poor among rich women",
+    "why": "在有錢女人中顯得寒酸，讓她覺得丟臉。",
+    "traps": [
+     "正反顛倒：她怕的正是顯得窮。",
+     "",
+     "原文字眼、錯誤關係：十法郎是玫瑰的價錢。",
+     "字面誤讀：humiliating 和時間長短沒有關係。"
+    ]
    },
    {
-    "q": "How does Monsieur Loisel pay for the new necklace?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "With his salary",
-     "With an inheritance and money borrowed at high interest",
-     "With Mathilde’s savings",
-     "The minister pays"
+     "Mathilde’s husband suggested wearing jewels.",
+     "Madame Forestier opened the case at once.",
+     "Monsieur Loisel used an inheritance from his father.",
+     "The story was published in 1844."
     ],
-    "a": 1,
+    "a": 2,
+    "evidence": "Monsieur Loisel uses an inheritance from his father",
     "why": "第三段。",
-    "evidence": "uses an inheritance from his father and borrows the rest at high interest"
+    "traps": [
+     "張冠李戴：他建議戴鮮花。",
+     "正反顛倒：她從沒打開盒子。",
+     "",
+     "數字錯位：1884 年。"
+    ]
    },
    {
+    "type": "INF",
     "q": "What question does the twist ending force readers to ask?",
     "options": [
-     "Who stole the necklace",
-     "Whether Mathilde was ruined by bad luck, pride, or refusing to tell the truth",
-     "Where the ball was",
-     "How much a dress costs"
+     "What ruined Mathilde: luck, pride or hiding the truth.",
+     "Where the real necklace had been hidden all along.",
+     "Why the minister decided to hold a grand ball.",
+     "How much a fresh rose cost in Paris at that time."
     ],
-    "a": 1,
+    "a": 0,
+    "evidence": "forces readers to ask whether Mathilde was ruined by bad luck, by pride, or by her refusal to tell the truth",
     "why": "最後一段。",
-    "evidence": "whether Mathilde was ruined by bad luck, by pride, or by her refusal to tell the truth"
+    "traps": [
+     "",
+     "捏造：項鍊是真的弄丟了，沒有被藏起來。",
+     "原文字眼、錯誤關係：舞會只是事件的起點。",
+     "原文字眼、錯誤關係：玫瑰只是丈夫的建議。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "Why does the twist work, according to the writer?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "Because the preceding pages are constructed with great economy",
-     "Because it is very long",
-     "Because it is a true story",
-     "Because of the illustrations"
+     "To show how the story’s economy builds a powerful twist.",
+     "To prove that Mathilde deserved to be punished.",
+     "To describe life at the Ministry of Public Instruction.",
+     "To explain how diamonds are tested."
     ],
     "a": 0,
-    "why": "第一段。",
-    "evidence": "the twist works only because the preceding pages have been constructed with such economy"
+    "evidence": "Yet the twist works only because the preceding pages have been constructed with such economy.",
+    "why": "第一段點題。",
+    "traps": [
+     "",
+     "以偏概全：作者說讀者仍在爭論。",
+     "以偏概全：部會只是背景。",
+     "原文字眼、錯誤關係：故事重點是項鍊是假的，不是怎麼鑑定。"
+    ]
    },
    {
-    "q": "Where does Mathilde’s unhappiness mainly come from?",
+    "type": "WD",
+    "q": "What does the author mean by “a moral trap from which there is no escape”?",
     "options": [
-     "Poverty",
-     "Comparison with an imagined world of wealth",
-     "Her husband’s cruelty",
-     "Illness"
+     "A law that punished poor people.",
+     "A real trap set by the minister.",
+     "A situation where each choice leads deeper into trouble.",
+     "A game played at the ball."
+    ],
+    "a": 2,
+    "evidence": "The invitation to the minister’s ball sets the trap.",
+    "why": "每一步選擇（借項鍊、隱瞞、借錢）都讓她陷得更深。",
+    "traps": [
+     "原文字眼、錯誤關係：部長只是舉辦舞會的人。",
+     "字面誤讀：不是真的陷阱。",
+     "",
+     "原文字眼、錯誤關係：舞會只是起點。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Mathilde was born into a wealthy family.",
+     "The Loisels moved into a garret after losing the necklace.",
+     "Her husband gave up money saved for a horse.",
+     "Mathilde stayed young and beautiful for ten years."
     ],
     "a": 1,
+    "evidence": "The Loisels dismiss their maid and move into a garret",
+    "why": "第四段。",
+    "traps": [
+     "正反顛倒：她生在職員家庭。",
+     "",
+     "張冠李戴：是打獵用的槍。",
+     "正反顛倒：她提早老去。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What does the author suggest about Mathilde’s unhappiness?",
+    "options": [
+     "It is caused by her husband’s cruelty.",
+     "It comes from a serious illness.",
+     "It ends as soon as she reaches the ball.",
+     "It comes more from comparison than from poverty."
+    ],
+    "a": 3,
+    "evidence": "Her unhappiness springs less from poverty than from comparison",
     "why": "第二段。",
-    "evidence": "Her unhappiness springs less from poverty than from comparison"
-   },
-   {
-    "q": "What detail shows that the substitution was never noticed?",
-    "options": [
-     "Madame Forestier does not even open the case",
-     "The jeweller tells her",
-     "Mathilde wears it again",
-     "The police check it"
-    ],
-    "a": 0,
-    "why": "第三段。",
-    "evidence": "Madame Forestier does not even open the case"
-   },
-   {
-    "q": "What could have saved the Loisels’ reputation, according to the writer?",
-    "options": [
-     "More money",
-     "A single honest conversation",
-     "A better job",
-     "Another ball"
-    ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "a reputation that a single honest conversation would have saved"
+    "traps": [
+     "正反顛倒：丈夫為她犧牲。",
+     "原文字眼、錯誤關係：她不快樂來自比較，不是疾病。",
+     "以偏概全：舞會只讓她快樂一晚。",
+     ""
+    ]
    }
   ]
  },
@@ -453,5 +542,165 @@
    "zh": "簡短的動畫情節重述。（5 分鐘）",
    "question": "Which important details from this article does the animation leave out?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "On 17 February 1884, readers of the Paris newspaper Le Gaulois were introduced to Mathilde Loisel, a pretty young woman married to a clerk at the Ministry of Public Instruction. Though she lives comfortably enough, she suffers constantly, dreaming of a wealth she will never have. The author, Guy de Maupassant, knew her husband’s world well; he had worked as a clerk in that very ministry himself.",
+    "1884 年 2 月 17 日，巴黎《高盧人報》的讀者認識了瑪蒂德・羅瓦塞爾——一位嫁給公共教育部職員的漂亮年輕女子。她生活其實還算舒適，卻總是受苦，夢想著永遠得不到的財富。作者莫泊桑對她丈夫的世界再熟悉不過：他自己就在同一個部會當過職員。"
+   ],
+   [
+    "Born in Normandy in 1850, Maupassant moved to Paris in 1871 and spent years as a government clerk, first in the Navy Department and later, from 1878, in the Ministry of Public Instruction. Office work, however, was only part of his life. Guided by the novelist Gustave Flaubert, who acted as a kind of literary guardian to him, he wrote for leading newspapers such as Le Gaulois and devoted his spare time to writing fiction.",
+    "莫泊桑 1850 年生於諾曼第，1871 年搬到巴黎，當了多年公務員，先在海軍部，1878 年起轉到公共教育部。不過，辦公室工作只是他生活的一部分。在小說家福樓拜的指導下——福樓拜可說是他的文學監護人——他替《高盧人報》等大報寫稿，並把閒暇都投入小說創作。"
+   ],
+   [
+    "His breakthrough came in 1880 with “Boule de Suif,” a story that met with instant success and that Flaubert called “a masterpiece that will endure.” So productive was the following decade that Maupassant, working methodically, published two or sometimes four volumes a year. By the end of his career, he had written some 300 short stories and six novels.",
+    "他的突破來自 1880 年的〈羊脂球〉，一推出就大獲成功，福樓拜稱它是「會流傳下去的傑作」。接下來的十年產量驚人，莫泊桑有條不紊地工作，每年出版兩本、有時四本書。到創作生涯結束時，他共寫了約 300 篇短篇小說和六部長篇小說。"
+   ],
+   [
+    "“The Necklace” displays the qualities that made his stories famous: an economy of style and a sharp, unexpected ending. When Mathilde is invited to a minister’s ball, her husband gives her the four hundred francs he had been saving for a gun so that she can buy a dress. Still feeling poor without jewels, she borrows a diamond necklace from a wealthy friend, Madame Forestier—and loses it. Rather than admit the loss, the couple buy a replacement for thirty-six thousand francs, using an inheritance and borrowing the rest at high interest. Only after ten years of hard work have paid off the debt does Mathilde learn the truth: the original necklace was paste, worth at most five hundred francs.",
+    "〈項鍊〉展現了他作品出名的特質：文字精簡，結局犀利出人意料。瑪蒂德受邀參加部長的舞會，丈夫把原本存來買槍的四百法郎給她買禮服。她仍覺得沒有珠寶很寒酸，於是向富有的朋友佛瑞斯杰夫人借了一條鑽石項鍊——然後弄丟了。夫妻倆不肯承認，用一筆遺產加上高利借款，花三萬六千法郎買了替代品。直到辛苦工作十年還清債務，瑪蒂德才得知真相：原本那條是假鑽，最多只值五百法郎。"
+   ],
+   [
+    "Readers still debate whether Mathilde is punished for her pride, defeated by bad luck, or quietly redeemed by the hard-working dignity she discovers. What is certain is the story’s influence. Its clever plotting made Maupassant a model for later writers such as Somerset Maugham and O. Henry; Maugham even imitated “The Necklace” with a twist of his own. Maupassant died in 1893 at the age of 42, yet the tale of the borrowed necklace remains one of the most widely taught short stories in the world.",
+    "讀者至今仍在爭論：瑪蒂德是因驕傲受罰、被厄運擊垮，還是在辛勤勞動中找到尊嚴而得到救贖。可以確定的是這篇小說的影響力。它巧妙的情節讓莫泊桑成為毛姆、歐・亨利等後世作家的典範；毛姆甚至仿照〈項鍊〉，寫出帶有自己轉折的作品。莫泊桑 1893 年去世，年僅 42 歲，但這則借項鍊的故事至今仍是全世界最常被教的短篇小說之一。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "How Mathilde Loisel lost a necklace she had borrowed.",
+     "Why Maupassant left his job as a government clerk.",
+     "How Flaubert taught Maupassant to write short stories.",
+     "How a writer’s experience and skill shaped a story that is still widely read."
+    ],
+    "a": 3,
+    "evidence": "remains one of the most widely taught short stories in the world",
+    "why": "全文串起作者經歷（第 1–3 段）、〈項鍊〉的特色（第 4 段）與影響（第 5 段）。",
+    "traps": [
+     "以偏概全：情節只占第四段。",
+     "過度推論：文中只說辦公室工作 only part of his life，沒說他離職或為什麼離職。",
+     "以偏概全＋誇大：福樓拜是 guided 他，只出現在第二、三段。",
+     ""
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "Which of the following is closest in meaning to “paste” in the fourth paragraph?",
+    "options": [
+     "A kind of glue used in making jewelry.",
+     "Imitation gems made to look like real ones.",
+     "A rare diamond worth five hundred francs.",
+     "A necklace bought with borrowed money."
+    ],
+    "a": 1,
+    "evidence": "the original necklace was paste, worth at most five hundred francs",
+    "why": "線索在對比：以為是鑽石（替代品花了三萬六千法郎），其實最多只值五百法郎，可知 paste 是仿造的假寶石。",
+    "traps": [
+     "一字多義：paste 常見的意思是糨糊，但 the necklace was paste 講的是項鍊的材質。",
+     "",
+     "數字陷阱：五百法郎證明它「不是」真鑽石。",
+     "張冠李戴：用借來的錢買的是替代品，不是原本那條。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "“Boule de Suif” was ignored at first but later became famous.",
+     "Mathilde’s husband paid for her dress with an inheritance.",
+     "The Loisels borrowed money to pay for the replacement necklace.",
+     "Maupassant wrote six novels before he turned to short stories."
+    ],
+    "a": 2,
+    "evidence": "using an inheritance and borrowing the rest at high interest",
+    "why": "正解改寫自第四段 borrowing the rest at high interest。",
+    "traps": [
+     "正反顛倒：原文是 met with instant success。",
+     "張冠李戴：買禮服的是存來買槍的四百法郎；遺產是拿來買替代品的。",
+     "",
+     "時序捏造：文中只說他一共寫了六部長篇，沒說先後。"
+    ]
+   },
+   {
+    "type": "ORG",
+    "q": "Why does the author mention that Maupassant had worked at the Ministry of Public Instruction?",
+    "options": [
+     "To suggest that the world of the story was one he knew from experience.",
+     "To explain how he began writing for Le Gaulois.",
+     "To show that Mathilde was based on someone he worked with.",
+     "To point out that government clerks were poorly paid at the time."
+    ],
+    "a": 0,
+    "evidence": "The author, Guy de Maupassant, knew her husband’s world well",
+    "why": "作者手法題：用他本人的經歷，說明小說的背景來自他熟悉的世界（knew her husband’s world well）。",
+    "traps": [
+     "",
+     "原文字眼、錯誤關係：替報紙寫稿是第二段的另一件事，跟在部會工作沒有因果關係。",
+     "過度推論：文中沒說瑪蒂德真有其人。",
+     "捏造：文中沒提到職員的薪水，Mathilde 甚至 lives comfortably enough。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Maupassant’s stories are admired for their [47] of style and their sharp endings, and later writers such as Maugham even [48] “The Necklace.”",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "economy"
+      ],
+      "partial": [
+       "economic",
+       "economical",
+       "economies"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "imitated"
+      ],
+      "partial": [
+       "imitate",
+       "imitates",
+       "imitation"
+      ]
+     }
+    ],
+    "why": "第一格出自第四段 an economy of style（economy 在這裡是「精簡」，不是「經濟」）；第二格出自第五段 imitated，敘述過去的事用過去式。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are true about Maupassant? Choose ALL that apply.",
+    "options": [
+     "He was born in Normandy.",
+     "He was guided by Gustave Flaubert.",
+     "He wrote only short stories.",
+     "He worked in the Navy Department.",
+     "He published exactly one volume every year.",
+     "He lived to the age of 80."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A、B、D 見第二段。C 與原文相反（還有六部長篇）；E 數字錯位（每年兩本、有時四本）；F 數字錯位（42 歲）。"
+   },
+   {
+    "kind": "short",
+    "q": "What phrase did Flaubert use to describe “Boule de Suif”?",
+    "answer": [
+     "a masterpiece that will endure"
+    ],
+    "why": "第三段的引言。"
+   }
+  ]
+ }
 }

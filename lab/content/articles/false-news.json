@@ -289,152 +289,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "What did the study find about false stories?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "They were shared less than true stories",
-     "They were more likely to be shared again",
-     "They were all shared by robots",
-     "They were never checked by anyone"
+     "How to write news stories for Twitter.",
+     "A study showing that false stories spread faster than true ones.",
+     "Why robots share most of the false news.",
+     "How MIT checks every story on the internet."
     ],
     "a": 1,
-    "why": "第三段：假新聞被再次轉發的機率高 70%。",
-    "evidence": "False stories were 70 percent more likely to be shared again than true ones."
+    "evidence": "False stories were 70 percent more likely to be shared again than true ones.",
+    "why": "全文：大型研究發現假新聞傳得比真新聞快，主因是人。",
+    "traps": [
+     "捏造：文中沒談怎麼寫新聞。",
+     "",
+     "正反顛倒：原文 Robots … were not the main problem。",
+     "張冠李戴：判斷真假的是六個事實查核機構。"
+    ]
    },
    {
-    "q": "How did the researchers know which stories were true or false?",
+    "type": "REF",
+    "q": "What does “them” in “When the researchers removed them” in the fourth paragraph refer to?",
     "options": [
-     "They asked the people who shared them",
-     "They guessed from the headlines",
-     "Six fact-checking groups had already checked them",
-     "Twitter told them"
+     "Replies showing disgust.",
+     "False stories.",
+     "The researchers.",
+     "Robots, or “bots”."
     ],
-    "a": 2,
-    "why": "第二段：六個事實查核組織已判定真假。",
-    "evidence": "Six fact-checking groups had already decided whether each story was true or false"
+    "a": 3,
+    "evidence": "Robots, or “bots”, were not the main problem.",
+    "why": "前一句提到機器人帳號，被移除的就是它們。",
+    "traps": [
+     "原文字眼、錯誤關係：回應只是觀察到的現象。",
+     "原文字眼、錯誤關係：假新聞是被研究的對象。",
+     "原文字眼、錯誤關係：研究者是做移除的人。",
+     ""
+    ]
    },
    {
-    "q": "What happened when the researchers removed the bots?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "The result stayed the same",
-     "False news stopped spreading",
-     "True news spread faster",
-     "The study ended"
+     "True stories took about six times longer to reach 1,500 people.",
+     "False stories were six times more likely to be shared again.",
+     "The study looked at about 1,500 news stories.",
+     "The researchers decided themselves which stories were true."
     ],
     "a": 0,
-    "why": "第四段：移除機器人帳號後結果不變，主要散播者是人。",
-    "evidence": "When the researchers removed them, the result stayed the same."
+    "evidence": "True stories took about six times longer to reach 1,500 people.",
+    "why": "第三段。",
+    "traps": [
+     "",
+     "數字錯位：被轉傳的機率高 70%，「六倍」是到達 1,500 人的時間。",
+     "數字錯位：研究看了約 126,000 則。",
+     "張冠李戴：是六個事實查核機構判定的。"
+    ]
    },
    {
-    "q": "What is the main idea of the last paragraph?",
+    "type": "INF",
+    "q": "What does the writer suggest each of us can do?",
     "options": [
-     "Phones are dangerous",
-     "We should never share news",
-     "Checking a story for a few seconds can slow false news",
-     "Anonymous writers are always lying"
+     "Remove all robots from social media.",
+     "Share surprising stories as quickly as possible.",
+     "Check a story for a few seconds before sharing it.",
+     "Stop reading the news on our phones."
     ],
     "a": 2,
-    "why": "最後一段：幾秒鐘的查證就能讓假消息慢下來。",
-    "evidence": "A few seconds of checking can slow down a false story."
+    "evidence": "A few seconds of checking can slow down a false story.",
+    "why": "最後一段：分享前花幾秒查證。",
+    "traps": [
+     "原文字眼、錯誤關係：移除機器人後結果不變。",
+     "正反顛倒：這正是假新聞傳得快的原因。",
+     "",
+     "過度推論：作者沒叫人不看新聞。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "According to the article, why might people share false stories?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "False stories are usually shorter",
-     "Sharing surprising news can make people seem in the know",
-     "Bots force people to share them",
-     "Fact-checkers recommend them"
-    ],
-    "a": 1,
-    "why": "第四段：分享意外消息的人看起來像「消息靈通」。",
-    "evidence": "people who share surprising information can appear to be “in the know.”"
-   },
-   {
-    "q": "What does the word “striking” in paragraph 3 most likely mean?",
-    "options": [
-     "Very noticeable",
-     "Very violent",
-     "Slightly different",
-     "Hard to measure"
-    ],
-    "a": 0,
-    "why": "前文說差距很大，後面列出 70% 與六倍，所以 striking 指「非常顯著」。",
-    "evidence": "The gap between true and false news was striking."
-   },
-   {
-    "q": "Which statement about the study’s conclusion is accurate?",
-    "options": [
-     "It proves that novelty causes sharing",
-     "It shows that bots spread most false news",
-     "It suggests human choices drive the problem but does not prove novelty alone causes sharing",
-     "It finds no difference between true and false news"
+     "Automated accounts are the main source of false stories.",
+     "Political news is the only kind of news that spreads online.",
+     "False news spreads faster than true news, mainly because of human choices.",
+     "Fact-checking organizations rarely agree with each other."
     ],
     "a": 2,
-    "why": "第四段最後一句明確區分「沒有證明」和「顯示」。",
-    "evidence": "The study does not prove that novelty alone causes sharing, but it suggests that human choices, rather than machines, drive the problem."
+    "evidence": "it suggests that human choices, rather than machines, drive the problem",
+    "why": "第三、四段：假新聞傳得快，驅動者是人而不是機器。",
+    "traps": [
+     "正反顛倒：移除機器人後差異仍在。",
+     "以偏概全：政治新聞只是傳得特別快的一類。",
+     "",
+     "正反顛倒：它們的判斷一致率超過 95%。"
+    ]
    },
    {
-    "q": "Why does the writer mention that the fact-checkers agreed more than 95 percent of the time?",
+    "type": "WD",
+    "q": "What does the phrase “in the know” in the fourth paragraph mean?",
     "options": [
-     "To show the true/false labels were reliable",
-     "To criticize the fact-checkers",
-     "To explain why bots were removed",
-     "To prove political news spreads fastest"
+     "Having information that others do not have yet.",
+     "Being unable to tell true from false.",
+     "Working for a fact-checking group.",
+     "Feeling sad after reading the news."
     ],
     "a": 0,
-    "why": "判定高度一致，表示真假標籤可信，研究結果才站得住。",
-    "evidence": "they relied on six independent fact-checking organizations, whose judgments agreed more than 95 percent of the time."
+    "evidence": "people who share surprising information can appear to be “in the know.”",
+    "why": "分享新奇資訊的人看起來「消息靈通」。",
+    "traps": [
+     "",
+     "正反顛倒：重點是看起來知道得多。",
+     "原文字眼、錯誤關係：查核機構是判斷真假的單位。",
+     "原文字眼、錯誤關係：悲傷是對「真新聞」的回應。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The study tracked stories on Twitter for only one year.",
+     "Replies to false stories showed more trust and sadness.",
+     "The six fact-checkers agreed less than half of the time.",
+     "Replies to true stories showed more sadness, anticipation and trust."
+    ],
+    "a": 3,
+    "evidence": "replies to true stories showed more sadness, anticipation and trust",
+    "why": "第四段。",
+    "traps": [
+     "數字錯位：2006 到 2017 年。",
+     "張冠李戴：假新聞的回應是驚訝和厭惡。",
+     "數字錯位：一致率超過 95%。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What can be inferred from the fourth paragraph?",
+    "options": [
+     "Removing bots made false news disappear almost completely.",
+     "The study does not show for certain that novelty causes sharing.",
+     "Surprising stories that people share are always false.",
+     "People share news mainly to make their friends feel sad."
+    ],
+    "a": 1,
+    "evidence": "The study does not prove that novelty alone causes sharing",
+    "why": "第四段最後：研究並未證明新奇性單獨造成分享。",
+    "traps": [
+     "正反顛倒：移除後差異仍在。",
+     "",
+     "以偏概全：只是假新聞「往往」比較新奇。",
+     "捏造：文中說分享新奇事讓人看起來消息靈通。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "What “comforting assumption” does the first paragraph challenge?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "That social media is always harmful",
-     "That true claims will eventually outcompete false ones",
-     "That readers prefer short stories",
-     "That fact-checkers are biased"
+     "To compare Twitter with other social media platforms.",
+     "To explain how to build a reliable fact-checking website.",
+     "To prove that social media should be banned for students.",
+     "To report how false news spreads and what this says about human behavior."
     ],
-    "a": 1,
-    "why": "第一段：我們以為真的說法終究會勝過假的，社群媒體讓這個假設變複雜。",
-    "evidence": "given enough time and enough readers, true claims will outcompete false ones."
+    "a": 3,
+    "evidence": "the speed of a story tells us little about whether it is true, and a great deal about ourselves",
+    "why": "全文介紹研究結果，最後指出傳播速度反映的是人的行為。",
+    "traps": [
+     "正反顛倒：作者說只研究一個平台，無法斷定能否推論。",
+     "捏造：文中沒談架網站。",
+     "捏造：作者沒有這樣主張。",
+     ""
+    ]
    },
    {
-    "q": "Why does the writer call the result about responsibility “more unsettling”?",
+    "type": "WD",
+    "q": "What does “cascades” refer to in the second paragraph?",
     "options": [
-     "Because bots were more dangerous than expected",
-     "Because humans, not bots, drove the difference",
-     "Because the data were incomplete",
-     "Because political news was excluded"
+     "Waterfalls in the natural world.",
+     "Unbroken chains of retweets.",
+     "Groups of fact-checkers.",
+     "Categories of news topics."
     ],
     "a": 1,
-    "why": "第四段：移除機器人後模式不變，差距來自人類使用者。",
-    "evidence": "the difference was driven by human users."
+    "evidence": "roughly 126,000 news cascades — unbroken chains of retweets",
+    "why": "破折號後面直接解釋：連續不斷的轉推鏈。",
+    "traps": [
+     "字面誤讀：cascade 原意是瀑布，這裡是比喻。",
+     "",
+     "原文字眼、錯誤關係：查核機構是判斷真假的單位。",
+     "原文字眼、錯誤關係：類別是用來分類 cascades 的。"
+    ]
    },
    {
-    "q": "What does the writer imply about how research findings are retold?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "They are usually more cautious than the original",
-     "The difference between correlation and causation is often lost",
-     "They always include the original data",
-     "They are rarely shared"
+     "Science was the largest category of cascades.",
+     "Bots spread false stories much faster than true ones.",
+     "Bots spread true and false stories at similar rates.",
+     "The researchers proved that novelty causes retweets."
     ],
-    "a": 1,
-    "why": "第四段末：相關與因果的區別在轉述時容易消失——文章本身也在示範這種謹慎。",
-    "evidence": "a distinction between correlation and causation that is easily lost when findings are retold."
+    "a": 2,
+    "evidence": "Automated bots spread true and false stories at similar rates",
+    "why": "第四段。",
+    "traps": [
+     "張冠李戴：最大類別是政治。",
+     "正反顛倒：機器人傳真假的速度差不多。",
+     "",
+     "正反顛倒：原文 they could not claim novelty causes retweets。"
+    ]
    },
    {
-    "q": "Which limitation of the study does the writer acknowledge?",
+    "type": "INF",
+    "q": "According to Aral, why are behavioral interventions especially important?",
     "options": [
-     "It used too few fact-checkers",
-     "It studied only one platform, so its patterns may not generalize",
-     "It ignored political news",
-     "It did not count retweets"
+     "Because people, not bots, are the main drivers of false news.",
+     "Because technology cannot detect any of the false stories.",
+     "Because fact-checking labels have already failed on Twitter.",
+     "Because political news no longer spreads very quickly."
     ],
-    "a": 1,
-    "why": "第五段：只研究單一平台，無法斷定能推廣多遠。",
-    "evidence": "a study limited to one platform cannot settle how far its patterns generalize."
+    "a": 0,
+    "evidence": "because people are the main drivers, behavioral interventions become even more important",
+    "why": "第五段。",
+    "traps": [
+     "",
+     "捏造：文中沒有這種說法。",
+     "正反顛倒：作者說它們不是完整解方，不是失敗。",
+     "正反顛倒：政治新聞的效應最強。"
+    ]
    }
   ]
  },

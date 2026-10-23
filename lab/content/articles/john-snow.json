@@ -29,16 +29,16 @@
      "當時，大多數醫生相信霍亂是透過「壞空氣」——垃圾和汙水發出的髒臭味——傳播的。但一位名叫約翰．斯諾的醫生有不同的想法。他認為這種疾病是透過骯髒的飲用水傳播的。"
     ],
     [
-     "Snow talked to the people living there and found out where each sick person got their water. Most of them had used the same public water pump on Broad Street. Later, he drew a map with a mark for each death. Many marks were close to the pump. A local priest helped him.",
-     "斯諾和當地居民談話，查出每個病人是從哪裡取水的。他們大多數都用過寬街上同一個公共抽水機。後來，他畫了一張地圖，每有一人死亡就做一個記號。許多記號都集中在抽水機附近。一位當地的牧師協助了他。"
+     "Snow talked to the people living there and found out where each sick person got their water. A local priest helped him. Most of them had used the same public water pump on Broad Street. Later, he drew a map with a mark for each death. Many marks were close to the pump.",
+     "斯諾和當地居民談話，查出每個病人是從哪裡取水的。一位當地的牧師協助了他。他們大多數都用過寬街上同一個公共抽水機。後來，他畫了一張地圖，每有一人死亡就做一個記號。許多記號都集中在抽水機附近。"
     ],
     [
      "There was one strange clue. Workers at a nearby brewery did not get sick. Why? They drank beer, not water from the pump! On 7 September, Snow spoke to the local leaders. The next day, they removed the pump’s handle so nobody could use it.",
      "還有一條奇怪的線索：附近一家啤酒廠的工人都沒有生病。為什麼？因為他們喝啤酒，不喝抽水機的水！9 月 7 日，斯諾向地方官員說明。隔天，官員們拆掉了抽水機的把手，讓沒有人能再使用它。"
     ],
     [
-     "In total, 420 people died. Later, people found that the pump’s well was very close to an old toilet pit that was leaking. Snow’s careful detective work helped start a new science that studies how diseases spread. It is called epidemiology. Water used to wash a sick baby’s nappies had drained into that pit.",
-     "這次疫情總共造成 420 人死亡。後來人們發現，抽水機的水井離一個正在滲漏的舊糞坑非常近。斯諾細心的偵探工作，幫助開創了一門研究疾病如何傳播的新科學，叫作流行病學。清洗一個生病嬰兒尿布的水，流進了那個糞坑。"
+     "In total, 420 people died. Later, people found that the pump’s well was very close to an old toilet pit that was leaking. Water used to wash a sick baby’s nappies had drained into that pit. Snow’s careful detective work helped start a new science that studies how diseases spread. It is called epidemiology.",
+     "這次疫情總共造成 420 人死亡。後來人們發現，抽水機的水井離一個正在滲漏的舊糞坑非常近。清洗一個生病嬰兒尿布的水，流進了那個糞坑。斯諾細心的偵探工作，幫助開創了一門研究疾病如何傳播的新科學，叫作流行病學。"
     ]
    ]
   },
@@ -62,8 +62,8 @@
      "9 月 7 日晚上，斯諾向教區的濟貧委員會提出證據，隔天抽水機的把手就被拆除了。斯諾後來畫了一張著名的點狀地圖，顯示死亡案例如何聚集在抽水機周圍。有趣的是，他也承認，把手被拆除時疫情已經在下降，部分原因是太多人已經逃離。"
     ],
     [
-     "It was later discovered that the well had been dug just a few feet from an old cesspit that was leaking. Yet once the crisis passed, officials replaced the handle and rejected Snow’s theory. Accepting it meant admitting that disease spread through human waste, which most people found too unpleasant to consider. Today, Snow is remembered as a founder of epidemiology — proof that careful evidence can matter even when the experts are not yet ready to listen. Water from washing the nappies of a baby who had caught cholera elsewhere had drained into it.",
-     "後來人們發現，這口井離一個正在滲漏的舊糞坑只有幾英尺遠。然而危機一過，官員們就把把手裝了回去，並否定了斯諾的理論。接受它，就等於承認疾病是透過人類排泄物傳播的，而大多數人覺得這太噁心，不願去想。今天，斯諾被尊為流行病學的奠基者之一——這證明了：即使專家還沒準備好傾聽，嚴謹的證據仍然重要。一個在別處染上霍亂的嬰兒，其尿布的洗滌水流進了那個糞坑。"
+     "It was later discovered that the well had been dug just a few feet from an old cesspit that was leaking. Water from washing the nappies of a baby who had caught cholera elsewhere had drained into it. Yet once the crisis passed, officials replaced the handle and rejected Snow’s theory. Accepting it meant admitting that disease spread through human waste, which most people found too unpleasant to consider. Today, Snow is remembered as a founder of epidemiology — proof that careful evidence can matter even when the experts are not yet ready to listen.",
+     "後來人們發現，這口井離一個正在滲漏的舊糞坑只有幾英尺遠。一個在別處染上霍亂的嬰兒，其尿布的洗滌水流進了那個糞坑。然而危機一過，官員們就把把手裝了回去，並否定了斯諾的理論。接受它，就等於承認疾病是透過人類排泄物傳播的，而大多數人覺得這太噁心，不願去想。今天，斯諾被尊為流行病學的奠基者之一——這證明了：即使專家還沒準備好傾聽，嚴謹的證據仍然重要。"
     ]
    ]
   },
@@ -281,152 +281,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "How many people died in the first three days?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "31",
-     "127",
-     "420",
-     "1,854"
+     "How a doctor traced cholera to a water pump.",
+     "How Florence Nightingale stopped a disease in London.",
+     "Why beer is healthier to drink than water.",
+     "How to draw a useful map of London’s streets."
+    ],
+    "a": 0,
+    "evidence": "Most of them had used the same public water pump on Broad Street.",
+    "why": "全文：斯諾找出霍亂來自公共抽水機。",
+    "traps": [
+     "",
+     "張冠李戴：Nightingale 只是照顧病人。",
+     "過度推論：工人沒喝井水，不是啤酒比較健康。",
+     "以偏概全：地圖只是他的工具。"
+    ]
+   },
+   {
+    "type": "REF",
+    "q": "What does “it” in “so nobody could use it” in the fourth paragraph refer to?",
+    "options": [
+     "The local hospital.",
+     "The nearby brewery.",
+     "The pump on Broad Street.",
+     "The old toilet pit."
+    ],
+    "a": 2,
+    "evidence": "they removed the pump’s handle so nobody could use it",
+    "why": "同一句：把手拆了，沒人能用抽水機。",
+    "traps": [
+     "捏造：醫院不是被封的地方。",
+     "原文字眼、錯誤關係：啤酒廠是線索來源。",
+     "",
+     "時序錯置：糞坑是後來才發現的。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Most doctors believed cholera spread through water.",
+     "In just three days, 127 people died.",
+     "The brewery workers drank water from the pump.",
+     "In total, 1,270 people died."
     ],
     "a": 1,
+    "evidence": "In just three days, 127 people died.",
     "why": "第一段。",
-    "evidence": "In just three days, 127 people died."
+    "traps": [
+     "正反顛倒：多數醫生相信「壞空氣」說。",
+     "",
+     "正反顛倒：他們喝啤酒。",
+     "數字錯位：總共 420 人。"
+    ]
    },
    {
-    "q": "What did most doctors believe caused cholera?",
+    "type": "INF",
+    "q": "Why were the brewery workers an important clue?",
     "options": [
-     "Dirty water",
-     "Bad air",
-     "Beer",
-     "Insects"
+     "They were the very first people to get sick.",
+     "They knew exactly where the toilet pit was.",
+     "They helped Snow draw his map of the deaths.",
+     "They stayed healthy without drinking the pump water."
     ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "most doctors believed cholera spread through “bad air”"
-   },
-   {
-    "q": "Why didn’t the brewery workers get sick?",
-    "options": [
-     "They were young",
-     "They drank beer, not water from the pump",
-     "They lived far away",
-     "They had medicine"
-    ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "They drank beer, not water from the pump!"
-   },
-   {
-    "q": "What was the pump’s well close to?",
-    "options": [
-     "A river",
-     "An old toilet pit that was leaking",
-     "A hospital",
-     "A brewery"
-    ],
-    "a": 1,
-    "why": "最後一段。",
-    "evidence": "the pump’s well was very close to an old toilet pit that was leaking"
+    "a": 3,
+    "evidence": "They drank beer, not water from the pump!",
+    "why": "沒喝抽水機的水就沒生病，支持水源傳染說。",
+    "traps": [
+     "正反顛倒：他們沒生病。",
+     "捏造：糞坑是後來才被發現。",
+     "張冠李戴：協助他的是當地牧師。",
+     ""
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "What is the miasma theory?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "Disease spreads through water",
-     "Disease is caused by bad air from filth",
-     "Disease comes from beer",
-     "Disease is caused by maps"
+     "Officials quickly accepted Snow’s theory after the crisis.",
+     "Snow’s careful evidence pointed to the water before experts accepted it.",
+     "The miasma theory explained the 1854 outbreak.",
+     "Removing the pump handle ended the outbreak at once."
     ],
     "a": 1,
-    "why": "第二段。",
-    "evidence": "diseases like cholera were caused by “bad air” rising from filth and rotting matter"
+    "evidence": "careful evidence can matter even when the experts are not yet ready to listen",
+    "why": "最後一段。",
+    "traps": [
+     "正反顛倒：官員否定了他的理論。",
+     "",
+     "正反顛倒：瘴氣說是當時錯誤的看法。",
+     "正反顛倒：他承認疫情已在減緩。"
+    ]
    },
    {
-    "q": "Who helped Snow with his investigation?",
+    "type": "WD",
+    "q": "What does “miasma” refer to in the second paragraph?",
     "options": [
-     "Florence Nightingale",
-     "A local clergyman, Henry Whitehead",
-     "The Mayor",
-     "A brewer"
+     "A map that shows deaths in an area.",
+     "Dirty water from a public pump.",
+     "A disease carried by brewery workers.",
+     "“Bad air” believed to rise from filth."
     ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "with help from a local clergyman, Henry Whitehead"
+    "a": 3,
+    "evidence": "the idea that diseases like cholera were caused by “bad air” rising from filth and rotting matter",
+    "why": "冒號後面就是解釋。",
+    "traps": [
+     "原文字眼、錯誤關係：地圖是斯諾的工具。",
+     "張冠李戴：那是斯諾的看法。",
+     "捏造：工人沒生病。",
+     ""
+    ]
    },
    {
-    "q": "What did Snow admit about the outbreak?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "It was already declining when the handle was removed",
-     "It started at the brewery",
-     "It was caused by bad air",
-     "It killed no one"
+     "Henry Whitehead, a clergyman, helped Snow.",
+     "The pump handle was removed on 31 August.",
+     "Snow drew his dot map before the outbreak.",
+     "Most residents stayed in Soho during the outbreak."
     ],
     "a": 0,
-    "why": "第四段。",
-    "evidence": "he admitted that the outbreak was already declining when the handle was removed"
+    "evidence": "with help from a local clergyman, Henry Whitehead",
+    "why": "第三段。",
+    "traps": [
+     "",
+     "時序錯置：8/31 是爆發日，9/8 才拆。",
+     "時序錯置：地圖是事後畫的。",
+     "正反顛倒：一週內四分之三的人離開。"
+    ]
    },
    {
+    "type": "INF",
     "q": "Why did officials reject Snow’s theory after the crisis?",
     "options": [
-     "It was too expensive",
-     "Accepting it meant admitting disease spread through human waste",
-     "Snow had no map",
-     "The pump was new"
+     "Snow refused to share his evidence.",
+     "They found a better explanation in the water.",
+     "Accepting it meant admitting disease spread through human waste.",
+     "The pump had never been used by victims."
     ],
-    "a": 1,
+    "a": 2,
+    "evidence": "Accepting it meant admitting that disease spread through human waste, which most people found too unpleasant to consider.",
     "why": "最後一段。",
-    "evidence": "Accepting it meant admitting that disease spread through human waste"
+    "traps": [
+     "正反顛倒：他把證據報告給教區委員會。",
+     "捏造：文中沒說找到更好的解釋。",
+     "",
+     "正反顛倒：多數死者都用過那台抽水機。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "Why is the episode mainly remembered, according to the writer?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "Its death toll",
-     "The investigation it provoked",
-     "Florence Nightingale",
-     "The brewery"
+     "To describe the history of Voronoi diagrams in maths.",
+     "To prove that the miasma theory was correct after all.",
+     "To show how careful fieldwork revealed an outbreak’s cause.",
+     "To explain how drinking beer prevents cholera."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "remembered less for its toll, however, than for the investigation it provoked"
+    "a": 2,
+    "evidence": "careful observation, attention to anomalies and honesty about uncertainty can establish the truth",
+    "why": "最後一句點題。",
+    "traps": [
+     "以偏概全：Voronoi 只是一句延伸。",
+     "正反顛倒：證據支持水源說。",
+     "",
+     "過度推論：工人只是沒喝井水。"
+    ]
    },
    {
-    "q": "What did NOT conclusively prove the water’s danger?",
+    "type": "WD",
+    "q": "What does “anomalies” mean in the third paragraph?",
     "options": [
-     "The pattern of illness and death",
-     "Snow’s chemical and microscopic examination",
-     "The dot map",
-     "Interviews"
-    ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "Snow’s chemical and microscopic examination of the water did not conclusively prove its danger"
-   },
-   {
-    "q": "What does Snow’s method of relating cases to their nearest water source anticipate?",
-    "options": [
-     "A Voronoi diagram",
-     "A pie chart",
-     "A family tree",
-     "A timeline"
+     "Cases that do not fit the usual pattern.",
+     "Deaths that happened near the pump.",
+     "Chemical tests of the water.",
+     "Meetings with local officials."
     ],
     "a": 0,
-    "why": "第四段。",
-    "evidence": "anticipates what is now called a Voronoi diagram"
+    "evidence": "Anomalies proved as instructive as patterns.",
+    "why": "和 patterns 對照；啤酒廠工人就是不符合模式的例外。",
+    "traps": [
+     "",
+     "正反顛倒：那是符合模式的案例。",
+     "原文字眼、錯誤關係：化學檢驗沒能證明危險。",
+     "原文字眼、錯誤關係：會議是另一件事。"
+    ]
    },
    {
-    "q": "What “lasting lesson” does the story offer?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "Experts are always right",
-     "Careful observation, attention to anomalies and honesty about uncertainty can establish the truth",
-     "Maps are useless",
-     "Beer prevents disease"
+     "Officials kept the handle off for many years.",
+     "The well was dug far away from any cesspit.",
+     "Snow claimed the handle’s removal ended the outbreak.",
+     "Snow’s chemical tests did not conclusively prove the water was dangerous."
+    ],
+    "a": 3,
+    "evidence": "Snow’s chemical and microscopic examination of the water did not conclusively prove its danger",
+    "why": "第三段。",
+    "traps": [
+     "正反顛倒：危機一過就裝回去了。",
+     "正反顛倒：只距離約三英尺。",
+     "正反顛倒：他承認疫情早已減緩。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Why does the author describe Snow as “admirably candid”?",
+    "options": [
+     "He spoke loudly at public meetings.",
+     "He openly admitted the limits of his own evidence.",
+     "He refused to draw any maps.",
+     "He blamed the brewery for the outbreak."
     ],
     "a": 1,
-    "why": "最後一段。",
-    "evidence": "careful observation, attention to anomalies and honesty about uncertainty can establish the truth"
+    "evidence": "He acknowledged that the outbreak had diminished substantially before the handle was removed",
+    "why": "第四段：他坦白承認拆把手前疫情已減緩。",
+    "traps": [
+     "字面誤讀：candid 是坦白，不是大聲。",
+     "",
+     "正反顛倒：他畫了著名的點狀地圖。",
+     "正反顛倒：啤酒廠工人沒生病。"
+    ]
    }
   ]
  },
@@ -462,5 +546,166 @@
    "zh": "哈佛線上課程影片：斯諾的調查及其對公共衛生的意義。（8 分鐘）",
    "question": "What does the video say about why Snow’s ideas were resisted?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "Within three days, 127 people living on or near Broad Street in Soho, London, had died. Within a week, three quarters of the residents had fled, and by the time the outbreak subsided, 420 people were dead. Described by the physician John Snow as “the most terrible outbreak of cholera which ever occurred in this kingdom,” the epidemic that began on 31 August 1854 is remembered today less for its death toll than for the investigation it provoked—one often cited as the birth of modern epidemiology (the study of how diseases spread).",
+    "三天之內，住在倫敦蘇活區寬街一帶的 127 人死亡。一週內，四分之三的居民逃離；疫情平息時，共 420 人喪生。這場始於 1854 年 8 月 31 日、被醫師約翰・斯諾形容為「這個王國有史以來最可怕的霍亂爆發」的疫情，今天被記住，與其說是因為死亡人數，不如說是因為它引發的調查——這項調查常被視為現代流行病學（研究疾病如何傳播的學問）的起點。"
+   ],
+   [
+    "At the time, most doctors favored the miasma theory, according to which diseases arose from foul air rising from rotting matter. London offered ample evidence for anyone inclined to believe it: cesspools overflowed into cellars, waste was dumped into the River Thames, and earlier epidemics in 1832 and 1849 had killed thousands. Snow, however, had already argued that cholera was spread through contaminated water. He saw the Soho outbreak as a chance to test that idea against the dominant view.",
+    "當時多數醫生支持瘴氣說，認為疾病來自腐爛物冒出的污濁空氣。對願意相信的人來說，倫敦處處是證據：化糞池滿溢到地下室，廢物被倒進泰晤士河，1832 年和 1849 年的疫情也奪走了數千條人命。然而斯諾早已主張霍亂經由受污染的水傳播。他把蘇活區的疫情看成挑戰主流看法的機會。"
+   ],
+   [
+    "Assisted by the Reverend Henry Whitehead, Snow went from door to door, asking where each victim had obtained water. Most, he found, had drawn it from the public pump on Broad Street. Just as revealing were the cases that did not fit. Workers at a nearby brewery, who received a daily allowance of beer and did not drink from the pump, escaped the disease entirely. Snow’s examination of the water did not conclusively prove that it was dangerous; it was the pattern of illness and death that persuaded the authorities, who removed the pump’s handle on 8 September.",
+    "在亨利・懷海德牧師協助下，斯諾挨家挨戶詢問每位死者的水從哪裡來。他發現多數人都從寬街的公共抽水機取水。不符合模式的案例同樣具有啟發性：附近啤酒廠的工人每天配給啤酒、不喝抽水機的水，結果完全沒有染病。斯諾檢驗水本身並不能確切證明水有危險；真正說服當局的，是患病與死亡的分布模式。當局在 9 月 8 日拆下了抽水機的把手。"
+   ],
+   [
+    "Snow was also honest about the limits of his work. He admitted that the outbreak had already been declining before the handle was removed, partly because so many residents had fled, so it was impossible to say whether the well was still dangerous. His dot map, which showed deaths clustering around the pump, nevertheless became one of the most famous images in the history of science.",
+    "斯諾也坦白承認研究的侷限。他承認在拆把手之前疫情就已經減緩，部分原因是大量居民逃離，因此無法斷定井水是否仍有危險。儘管如此，他那張顯示死亡案例聚集在抽水機周圍的點狀地圖，仍成為科學史上最著名的圖像之一。"
+   ],
+   [
+    "Not until later was it discovered that the well had been dug only about three feet from an old cesspit that had begun to leak. Even then, recognition was slow. Once the crisis had passed, officials put the handle back and rejected Snow’s theory, partly because accepting it meant admitting that disease could travel from human waste into drinking water—an idea so unpleasant that few could bear to consider it. Snow’s story suggests that careful observation can establish the truth long before institutions are ready to accept it.",
+    "直到後來，人們才發現那口井距離一個開始滲漏的舊糞坑只有約三英尺。即便如此，肯定仍然來得很慢。危機一過，官員就把把手裝回去並否定斯諾的理論，部分原因是接受它就等於承認疾病會從人類排泄物進入飲用水——這個想法令人不快到幾乎沒人願意去想。斯諾的故事說明：仔細的觀察能在體制準備好接受之前，就確立真相。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "How the miasma theory helped doctors control cholera in London.",
+     "How a careful investigation revealed the source of a deadly outbreak.",
+     "How Snow’s dot map persuaded officials to remove the pump handle.",
+     "Why officials refused to accept that cholera spread through water."
+    ],
+    "a": 1,
+    "evidence": "remembered today less for its death toll than for the investigation it provoked",
+    "why": "第一段點明重點是 the investigation it provoked，第二到五段依序講假說、調查、侷限與結果。",
+    "traps": [
+     "原文字眼、錯誤關係：瘴氣說是當時的錯誤理論，並沒有幫助控制疫情。",
+     "",
+     "張冠李戴：說服官員的是 the pattern of illness and death，點狀地圖是後來才出名的。",
+     "以偏概全：只是第五段的內容，太窄。"
+    ]
+   },
+   {
+    "type": "REF",
+    "q": "What does “it” in “anyone inclined to believe it” in the second paragraph refer to?",
+    "options": [
+     "The River Thames.",
+     "The Soho outbreak.",
+     "The miasma theory.",
+     "Snow’s idea about water."
+    ],
+    "a": 2,
+    "evidence": "most doctors favored the miasma theory, according to which diseases arose from foul air",
+    "why": "倫敦的髒亂（化糞池、廢物）是「相信瘴氣說的人」眼中的證據，it 指前一句的 the miasma theory。",
+    "traps": [
+     "距離陷阱：Thames 出現在 it 之後，而且「相信一條河」不合理。",
+     "原文字眼、錯誤關係：蘇活疫情是斯諾的機會，不是要被相信的理論。",
+     "",
+     "正反顛倒：斯諾的水源說在後面，而且倫敦的髒亂被當作瘴氣說的證據。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Snow’s examination of the water clearly proved that it was dangerous.",
+     "The pump handle was removed before the outbreak began to decline.",
+     "Brewery workers stayed healthy because beer protected them from cholera.",
+     "The Broad Street well was located a short distance from a leaking cesspit."
+    ],
+    "a": 3,
+    "evidence": "the well had been dug only about three feet from an old cesspit that had begun to leak",
+    "why": "正解把 only about three feet 改寫成 a short distance。",
+    "traps": [
+     "正反顛倒：原文是 did not conclusively prove。",
+     "時序顛倒：原文說拆把手之前疫情就已經 declining。",
+     "捏造因果：原文只說他們沒喝抽水機的水，沒說啤酒能防病。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Which of the following can be inferred from the passage?",
+    "options": [
+     "It is uncertain how much removing the handle itself helped end the outbreak.",
+     "Snow’s theory was widely accepted once the well was found near a cesspit.",
+     "Most of the 420 victims had left Soho before they died.",
+     "Doctors in 1854 already knew that earlier epidemics came from dirty water."
+    ],
+    "a": 0,
+    "evidence": "it was impossible to say whether the well was still dangerous",
+    "why": "疫情在拆把手前已減緩，也無法確定那時井水是否仍危險，可推知拆把手本身的效果難以判斷。",
+    "traps": [
+     "",
+     "正反顛倒：原文 Even then, recognition was slow，官員仍否定他的理論。",
+     "數字錯位：逃離的是四分之三的居民，不是 420 位死者。",
+     "與原文相反：當時多數醫生相信瘴氣說；1832、1849 年的疫情只被當作瘴氣說的證據。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Snow’s investigation pointed to the [47] of drinking water as the cause of cholera, but his theory was [48] by officials once the crisis had passed.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "contamination"
+      ],
+      "partial": [
+       "contaminated",
+       "contaminate",
+       "contaminating"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "rejected"
+      ],
+      "partial": [
+       "reject",
+       "rejects",
+       "rejecting",
+       "rejection"
+      ]
+     }
+    ],
+    "why": "第一格：第二段 contaminated water 的形容詞要改成名詞 contamination（the ___ of）。第二格：第五段 rejected，被動語態用過去分詞。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are true about the 1854 outbreak and Snow’s investigation? Choose ALL that apply.",
+    "options": [
+     "Within a week, most residents of the area had left.",
+     "Snow carried out his investigation entirely on his own.",
+     "The brewery workers did not drink from the Broad Street pump.",
+     "The pump handle was removed on 31 August.",
+     "Officials later put the pump handle back.",
+     "Snow claimed that removing the handle ended the outbreak."
+    ],
+    "a": [
+     0,
+     2,
+     4
+    ],
+    "why": "A 第一段（四分之三＝多數）；C 第三段；E 第五段。B 與原文相反（有懷海德牧師協助）；D 日期錯置（8/31 是爆發日，9/8 才拆）；F 與原文相反（他承認疫情早已減緩）。"
+   },
+   {
+    "kind": "short",
+    "q": "Which phrase in the first paragraph explains the meaning of “epidemiology”?",
+    "answer": [
+     "the study of how diseases spread"
+    ],
+    "why": "括號註解是學測處理難字的典型寫法。"
+   }
+  ]
+ }
 }

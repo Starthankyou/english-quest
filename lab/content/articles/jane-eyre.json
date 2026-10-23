@@ -54,8 +54,8 @@
      "這部小說跟隨簡從童年走到成年。身為孤兒的她，在蓋茲黑德府受到舅媽和表兄妹的虐待，接著被送到羅伍德——一所專收貧窮與孤兒女孩的嚴苛學校，她的朋友海倫．伯恩斯在那裡死於肺結核。勃朗特取材自痛苦的親身經歷：她的兩個姊姊瑪麗亞和伊莉莎白，在一所條件類似的學校就讀後，也死於同樣的疾病。"
     ],
     [
-     "As an adult, Jane becomes a governess at Thornfield Hall and falls in love with her employer, Edward Rochester. In one of the most famous scenes in English fiction, she refuses to accept that her lower position makes her less of a person: “Do you think, because I am poor, obscure, plain, and little, I am soulless and heartless? You think wrong!” When Rochester compares her to a struggling bird, she replies: “I am no bird; and no net ensnares me; I am a free human being with an independent will.” Brontë knew this role well, having worked as a governess herself.",
-     "成年後，簡在桑菲爾德府擔任家庭教師，並愛上了她的雇主愛德華．羅徹斯特。在英國小說最著名的場景之一中，她拒絕接受較低的地位就讓她低人一等：「你以為，因為我貧窮、卑微、不美、矮小，我就沒有靈魂、沒有心嗎？你想錯了！」當羅徹斯特把她比作一隻掙扎的鳥時，她回答：「我不是鳥；沒有網能困住我；我是一個有獨立意志的自由人。」勃朗特很熟悉這個角色，因為她自己就當過家庭教師。"
+     "As an adult, Jane becomes a governess at Thornfield Hall and falls in love with her employer, Edward Rochester. Brontë knew this role well, having worked as a governess herself. In one of the most famous scenes in English fiction, she refuses to accept that her lower position makes her less of a person: “Do you think, because I am poor, obscure, plain, and little, I am soulless and heartless? You think wrong!” When Rochester compares her to a struggling bird, she replies: “I am no bird; and no net ensnares me; I am a free human being with an independent will.”",
+     "成年後，簡在桑菲爾德府擔任家庭教師，並愛上了她的雇主愛德華．羅徹斯特。勃朗特很熟悉這個角色，因為她自己就當過家庭教師。在英國小說最著名的場景之一中，她拒絕接受較低的地位就讓她低人一等：「你以為，因為我貧窮、卑微、不美、矮小，我就沒有靈魂、沒有心嗎？你想錯了！」當羅徹斯特把她比作一隻掙扎的鳥時，她回答：「我不是鳥；沒有網能困住我；我是一個有獨立意志的自由人。」"
     ],
     [
      "Brontë also gives Jane a striking reflection on the lives of women. Women are supposed to be calm, Jane observes, “but women feel just as men feel”; they need exercise for their abilities and a field for their efforts, just as their brothers do. For a novel published in 1847, it was a bold statement about the limits placed on women’s lives.",
@@ -281,152 +281,236 @@
  "quiz": {
   "beginner": [
    {
-    "q": "Who does Jane live with when she is ten?",
+    "type": "MI",
+    "q": "What is the passage mainly about?",
     "options": [
-     "Her parents",
-     "Her aunt, Mrs Reed",
-     "Mr Rochester",
-     "Helen"
+     "Why Mr Rochester was cruel to his aunt.",
+     "How Charlotte Brontë became a teacher at Thornfield.",
+     "A poor girl in a novel who stays strong and honest.",
+     "How to run a school for poor girls."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "she lives with her aunt, Mrs Reed"
+    "a": 2,
+    "evidence": "The book is famous because Jane is strong and honest.",
+    "why": "全文：簡愛雖然貧窮，卻堅強、誠實、自重。",
+    "traps": [
+     "張冠李戴：對 Jane 殘忍的是舅媽一家。",
+     "張冠李戴：在 Thornfield 當家教的是 Jane。",
+     "",
+     "以偏概全：學校只是 Jane 的經歷之一。"
+    ]
    },
    {
-    "q": "Why did Brontë use the name “Currer Bell”?",
+    "type": "WD",
+    "q": "What does Jane mean when she says, “I am no bird; and no net ensnares me”?",
     "options": [
-     "It was her real name",
-     "People often did not take women’s writing seriously",
-     "Her publisher liked it",
-     "She wanted to be a man"
+     "She is free and cannot be trapped.",
+     "She wants to fly away from England.",
+     "She is afraid of wild birds.",
+     "She likes to catch birds with nets."
     ],
-    "a": 1,
+    "a": 0,
+    "evidence": "“I am no bird; and no net ensnares me.”",
+    "why": "她拒絕被比喻成被困的鳥：自己是自由的，沒有網能困住她。",
+    "traps": [
+     "",
+     "字面誤讀：不是真的要飛走。",
+     "字面誤讀：她不是在說害怕鳥。",
+     "字面誤讀：不是在說捕鳥。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Jane stayed at Thornfield after learning the secret.",
+     "Jane Eyre was published in 1874.",
+     "Jane’s best friend Helen became a teacher.",
+     "Brontë used a man’s name when the book was published."
+    ],
+    "a": 3,
+    "evidence": "At that time, Brontë used a man’s name, “Currer Bell”, on the book.",
     "why": "第二段。",
-    "evidence": "people often did not take women’s writing seriously"
+    "traps": [
+     "正反顛倒：她得知秘密後離開了。",
+     "數字錯位：1847 年。",
+     "正反顛倒：Helen 病死了。",
+     ""
+    ]
    },
    {
-    "q": "What does Jane answer when Rochester says she is like a wild bird?",
+    "type": "INF",
+    "q": "Why did Jane leave Thornfield even though she loved Mr Rochester?",
     "options": [
-     "I am a bird",
-     "I am no bird; and no net ensnares me",
-     "I want to fly",
-     "I am tired"
+     "She wanted to become a rich woman.",
+     "She respected herself too much to stay.",
+     "Her aunt told her to come home.",
+     "She was afraid of the school at Lowood."
     ],
     "a": 1,
-    "why": "第四段。",
-    "evidence": "“I am no bird; and no net ensnares me.”"
-   },
-   {
-    "q": "Why does Jane leave Thornfield?",
-    "options": [
-     "She does not love Rochester",
-     "She respects herself",
-     "She is fired",
-     "She wants money"
-    ],
-    "a": 1,
+    "evidence": "she leaves Thornfield anyway because she respects herself",
     "why": "最後一段。",
-    "evidence": "she leaves Thornfield anyway because she respects herself"
+    "traps": [
+     "捏造：文中沒有。她選擇了自尊而非財富。",
+     "",
+     "時序錯置：舅媽是童年的事。",
+     "時序錯置：Lowood 是她小時候的學校。"
+    ]
    }
   ],
   "intermediate": [
    {
-    "q": "What did writing under a male-sounding name give Brontë?",
+    "type": "MI",
+    "q": "Which of the following best states the main idea of the passage?",
     "options": [
-     "More money",
-     "A better chance of being judged on her work alone",
-     "A job",
-     "A famous family"
+     "The novel argues that governesses should never marry.",
+     "Charlotte Brontë wrote the novel to describe Yorkshire.",
+     "Rochester teaches Jane how to be free.",
+     "Jane Eyre is admired for its heroine’s self-respect and independence."
     ],
-    "a": 1,
-    "why": "第一段。",
-    "evidence": "gave her a better chance of being judged on her work alone"
-   },
-   {
-    "q": "How did Brontë’s own life connect to Lowood?",
-    "options": [
-     "She was a teacher there",
-     "Two of her elder sisters died after attending a school with similar conditions",
-     "She was born there",
-     "Her father ran it"
-    ],
-    "a": 1,
-    "why": "第二段。",
-    "evidence": "two of her own elder sisters, Maria and Elizabeth, died of the same disease after attending a school with similar conditions"
-   },
-   {
-    "q": "According to Jane, what do women need “just as their brothers do”?",
-    "options": [
-     "Money and houses",
-     "Exercise for their abilities and a field for their efforts",
-     "Fine clothes",
-     "Quiet and rest"
-    ],
-    "a": 1,
-    "why": "第四段。",
-    "evidence": "they need exercise for their abilities and a field for their efforts, just as their brothers do"
-   },
-   {
-    "q": "When do rules matter most, according to Jane’s explanation?",
-    "options": [
-     "When life is easy",
-     "At the moments when we are most tempted to break them",
-     "Only at school",
-     "Never"
-    ],
-    "a": 1,
+    "a": 3,
+    "evidence": "readers still find in Jane a model of self-respect",
     "why": "最後一段。",
-    "evidence": "rules matter most at the moments when we are most tempted to break them"
+    "traps": [
+     "捏造：小說沒有這種主張。",
+     "以偏概全：約克郡只是作者的出身。",
+     "正反顛倒：Jane 自己主張自由。",
+     ""
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “obscure” in Jane’s words “poor, obscure, plain, and little” mean?",
+    "options": [
+     "Very rich and famous.",
+     "Not well known or important.",
+     "Hard to see in the dark.",
+     "Good at hiding feelings."
+    ],
+    "a": 1,
+    "evidence": "she refuses to accept that her lower position makes her less of a person",
+    "why": "和 poor、plain、little 並列，形容她地位低、不起眼。",
+    "traps": [
+     "正反顛倒：她說自己貧窮、不起眼。",
+     "",
+     "一字多義：obscure 也有「模糊不清」，但這裡形容人。",
+     "捏造：她正好說出了自己的感受。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Jane Eyre first appeared in 1874.",
+     "Helen Burns died of a fever at Thornfield.",
+     "Brontë had worked as a governess herself.",
+     "Maria and Elizabeth were Brontë’s younger sisters."
+    ],
+    "a": 2,
+    "evidence": "Brontë knew this role well, having worked as a governess herself.",
+    "why": "第三段。",
+    "traps": [
+     "數字錯位：1847 年。",
+     "張冠李戴：Helen 在 Lowood 死於肺結核。",
+     "",
+     "正反顛倒：她們是姊姊（elder sisters）。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What does Jane’s reflection that “women feel just as men feel” suggest?",
+    "options": [
+     "Women deserve the same chances to use their abilities.",
+     "Women should stay calm and quiet at home.",
+     "Men are better at expressing their feelings.",
+     "Women and men should live separately."
+    ],
+    "a": 0,
+    "evidence": "they need exercise for their abilities and a field for their efforts, just as their brothers do",
+    "why": "第四段：女性也需要發揮能力的空間。",
+    "traps": [
+     "",
+     "正反顛倒：這是社會對女性的期待，Jane 在反駁。",
+     "捏造：Jane 說的是女性和男性感受一樣。",
+     "捏造：Jane 要的是發揮能力的空間，不是分開生活。"
+    ]
    }
   ],
   "advanced": [
    {
-    "q": "Why does the writer call the pseudonym’s concealment “fitting”?",
+    "type": "MI",
+    "q": "What is the main purpose of the passage?",
     "options": [
-     "The novel is about being seen and judged accurately",
-     "Brontë was shy",
-     "The book was a secret",
-     "Currer Bell was a real person"
+     "To show how the novel insists on Jane’s inner worth and equality of selfhood.",
+     "To describe the publishing history of Smith, Elder & Co.",
+     "To prove that Rochester was the true hero of the novel.",
+     "To summarise Jean Rhys’s novel Wide Sargasso Sea."
     ],
     "a": 0,
-    "why": "第一段。",
-    "evidence": "the novel itself is preoccupied with being seen and judged accurately"
+    "evidence": "The sentence asserts equality not of status, which Jane lacks, but of selfhood.",
+    "why": "第三段點出核心：人格的平等。",
+    "traps": [
+     "",
+     "以偏概全：出版社只是第一段的背景。",
+     "捏造：作者沒有這樣主張。",
+     "以偏概全：這只是最後一段提到的回應。"
+    ]
    },
    {
-    "q": "What kind of equality does “I am no bird” assert?",
+    "type": "WD",
+    "q": "What does “pseudonym” in the first paragraph mean?",
     "options": [
-     "Equality of status",
-     "Equality of selfhood",
-     "Equality of wealth",
-     "Equality of education"
+     "A word that sounds like another word.",
+     "A title given to a novel’s first chapter.",
+     "A name a writer uses instead of their real one.",
+     "A name given by a publisher to a series."
     ],
-    "a": 1,
-    "why": "第三段。",
-    "evidence": "The sentence asserts equality not of status, which Jane lacks, but of selfhood."
+    "a": 2,
+    "evidence": "The pseudonym concealed Charlotte Brontë",
+    "why": "Currer Bell 掩蓋了真名 Charlotte Brontë：筆名。",
+    "traps": [
+     "字面誤讀：不是同音字。",
+     "捏造：筆名是作者的名字，不是章節標題。",
+     "",
+     "捏造：是作者自己選的名字。"
+    ]
    },
    {
-    "q": "Where does Jane reflect that “women feel just as men feel”?",
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
     "options": [
-     "In church",
-     "Pacing the third-storey corridor at Thornfield",
-     "At Lowood",
-     "At Moor House"
+     "Jean Rhys’s novel was published in 1847.",
+     "Jane reflects on women’s lives while walking the third-storey corridor.",
+     "St John Rivers is Jane’s warm and gentle uncle.",
+     "The novel follows Jane through three stages."
     ],
     "a": 1,
+    "evidence": "Pacing the third-storey corridor at Thornfield",
     "why": "第四段。",
-    "evidence": "Pacing the third-storey corridor at Thornfield"
+    "traps": [
+     "數字錯位：1966 年。",
+     "",
+     "張冠李戴：他是冷淡的牧師表哥。",
+     "數字錯位：原文說有五個階段。"
+    ]
    },
    {
-    "q": "What does Wide Sargasso Sea do, according to the writer?",
+    "type": "INF",
+    "q": "What does the author suggest about Jane’s decision to leave Rochester?",
     "options": [
-     "It continues Jane’s story",
-     "It gives a voice to Rochester’s first wife",
-     "It is Brontë’s second novel",
-     "It criticises Rhys"
+     "It shows that she was afraid of being poor.",
+     "It shows that she no longer loved him.",
+     "It proves that she wanted to marry St John.",
+     "It asserts that love must not cost her self-respect."
     ],
-    "a": 1,
+    "a": 3,
+    "evidence": "an assertion that love must not require the surrender of self-respect",
     "why": "最後一段。",
-    "evidence": "which gives a voice to Rochester’s first wife"
+    "traps": [
+     "正反顛倒：她身無分文仍選擇離開。",
+     "正反顛倒：原文 not a rejection of love。",
+     "捏造：文中沒提她想嫁給 St John。",
+     ""
+    ]
    }
   ]
  },
