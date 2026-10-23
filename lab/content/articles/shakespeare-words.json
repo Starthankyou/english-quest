@@ -542,5 +542,163 @@
    "zh": "莎士比亞詩句的節奏，如何幫助傳達意義。",
    "question": "How does this video support the idea that Shakespeare’s genius was in how he used words?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "Few claims about English are repeated as confidently as the idea that William Shakespeare invented somewhere between 1,700 and 2,000 words. It appears in classrooms and popular histories; Bill Bryson’s The Mother Tongue states that he “coined some 2,000 words”. The claim is appealing because it fits the belief that a language is shaped by solitary geniuses. The evidence, however, points to a messier and more shared process.",
+    "很少有關於英語的說法，像「莎士比亞發明了一千七百到兩千個字」這樣被說得這麼篤定。它出現在課堂和通俗歷史書裡；布萊森的《母語》就說他「創造了大約兩千個字」。這個說法很吸引人，因為它符合「語言由孤獨的天才塑造」這種信念。然而證據指向一個更雜亂、更集體的過程。"
+   ],
+   [
+    "The figure comes from the Oxford English Dictionary (OED), which records the earliest written example its editors could find for each word — its “first attested use”. The difference matters. A first attested use shows the limits of a search, not the moment a word was born. When the OED was first compiled, between 1884 and 1928, Shakespeare’s works were among the easiest to examine thoroughly, and the first edition included roughly 33,000 quotations from him, far more than from any other single author.",
+    "這個數字來自《牛津英語詞典》（OED），它記錄編者為每個字找到的最早書面例子——也就是「最早有據可查的用法」。這個差別很重要：最早有據可查的用法，反映的是搜尋的極限，而不是一個字誕生的時刻。OED 在 1884 到 1928 年間首次編纂時，莎士比亞的作品是最容易徹底查閱的文本之一，第一版收錄了他約三萬三千則引文，遠多於任何其他作者。"
+   ],
+   [
+    "Once other writers were examined with equal care, the picture changed. In 1980, the German scholar Jürgen Schäfer worked through the writings of just one writer of the same period, Thomas Nashe (a writer of pamphlets), and found more than fifty cases in which Nashe used a word before Shakespeare’s supposed first use. “Assassination”, long linked with Macbeth, appears in a 1572 letter by the diplomat Sir Thomas Smith, thirty-four years earlier. In one sample of 117 words once credited to Shakespeare, nearly half have now been found in earlier texts.",
+    "當其他作家也被同樣仔細檢視後，情況就變了。1980 年，德國學者謝弗只研究了同時代的一位作家納許，就找到五十多個納許比莎士比亞「首次使用」更早用過的字。長久以來和《馬克白》連在一起的 assassination，早在 1572 年外交官湯瑪斯．史密斯爵士的一封信裡就出現了，早了三十四年。在一份曾被歸功於莎士比亞的 117 個字的樣本中，將近一半如今已在更早的文本中找到。"
+   ],
+   [
+    "Two further factors distort the picture. The early editors, as the scholar David McInnis has argued, were inclined to search famous works of literature for examples, even when ordinary speakers had probably used the same words earlier. And much of what was actually printed in Shakespeare’s time, such as cheap pamphlets, has not survived. It is partly what happened to be kept and searched that makes Shakespeare look so original.",
+    "還有兩個因素扭曲了這幅圖像。學者麥金尼斯指出，早期編者傾向從著名文學作品裡找例子，即使一般人很可能更早就用過那些字。此外，莎士比亞時代實際印行的大量東西，例如廉價小冊子，都沒有留存下來。讓莎士比亞看起來如此原創的，有一部分是「剛好被保存、被搜尋」的結果。"
+   ],
+   [
+    "Yet none of this makes him less impressive. A writer who produced over 800,000 words of published text would almost certainly have coined some terms, and a few, such as “laughable”, are still credited to him. So skilfully did he use a vocabulary of about 20,000 words that his real achievement lies there, not in a list of inventions. The myth of the lonely inventor hides a more interesting truth: Shakespeare drew on the creativity of the people around him and turned it into lasting art.",
+    "然而這一切都無損於他的偉大。一位留下超過八十萬字出版文字的作家，幾乎一定創造過一些詞，其中少數像 laughable 至今仍記在他名下。他運用約兩萬字詞彙的技巧如此高超，他真正的成就在那裡，而不在一張發明清單上。「孤獨發明家」的神話，掩蓋了一個更有趣的真相：莎士比亞吸收了身邊人們的創造力，並把它變成不朽的藝術。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "Why Thomas Nashe was a better writer than Shakespeare.",
+     "How the Oxford English Dictionary was first printed.",
+     "Why the claim that Shakespeare invented 1,700 words is doubtful.",
+     "How to read Macbeth in its original language."
+    ],
+    "a": 2,
+    "evidence": "The evidence, however, points to a messier and more shared process.",
+    "why": "全文：莎士比亞造字數的說法來自字典的偏差，證據並不支持。",
+    "traps": [
+     "過度推論：文中只說 Nashe 更早用過一些字。",
+     "以偏概全：OED 只是數字的來源。",
+     "",
+     "捏造：文中沒教人讀劇本。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “first attested use” mean in the second paragraph?",
+    "options": [
+     "The earliest written example that has been found.",
+     "The very first time anyone ever said a word.",
+     "The year a word was added to the dictionary.",
+     "The most famous use of a word in a play."
+    ],
+    "a": 0,
+    "evidence": "which records the earliest written example its editors could find for each word",
+    "why": "前面的關係子句直接說明：編者找得到的最早書面例子。",
+    "traps": [
+     "",
+     "正反顛倒：作者說它不等於字誕生的時刻。",
+     "原文字眼、錯誤關係：收錄年份是另一回事。",
+     "以偏概全：不一定是最有名的用法。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Most cheap pamphlets from that time have survived.",
+     "The OED was first compiled between 1928 and 1984.",
+     "Schäfer studied every writer of Shakespeare’s time.",
+     "Sir Thomas Smith used “assassination” in a letter in 1572."
+    ],
+    "a": 3,
+    "evidence": "appears in a 1572 letter by the diplomat Sir Thomas Smith",
+    "why": "第三段。",
+    "traps": [
+     "正反顛倒：大多沒有留存。",
+     "數字錯位：1884 到 1928 年。",
+     "以偏概全：他只研究了 Nashe 一人。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Which of the following can be inferred from the passage?",
+    "options": [
+     "Shakespeare used fewer words than other writers of his time.",
+     "More words may be found in earlier texts as archives are searched.",
+     "Bill Bryson discovered the true history of English words.",
+     "Ordinary speakers never used new words in Shakespeare’s time."
+    ],
+    "a": 1,
+    "evidence": "In one sample of 117 words once credited to Shakespeare, nearly half have now been found in earlier texts.",
+    "why": "仔細搜尋其他作家後就陸續找到更早的例子，可推知搜尋越多，可能還會發現更多。",
+    "traps": [
+     "正反顛倒：他寫了八十萬字、詞彙約兩萬。",
+     "",
+     "張冠李戴：Bryson 是重複這個說法的人。",
+     "正反顛倒：一般人可能更早就用過這些字。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Shakespeare’s apparent originality is partly an effect of how his works were [47], while many cheap pamphlets of his time have not [48].",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "searched"
+      ],
+      "partial": [
+       "search",
+       "examined"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "survived"
+      ],
+      "partial": [
+       "survive"
+      ]
+     }
+    ],
+    "why": "第一格出自第四段 kept and searched（被動）；第二格出自 has not survived（現在完成式）。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "The first OED included about 33,000 Shakespeare quotations.",
+     "Schäfer found over fifty earlier uses in Nashe’s writing.",
+     "Shakespeare used a vocabulary of about 800,000 words.",
+     "“Laughable” is still credited to Shakespeare.",
+     "Bryson said Shakespeare coined only a few words.",
+     "The OED records the moment each word was born."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A 第二段；B 第三段；D 第五段。C 數字錯位（80 萬是出版總字數，詞彙約兩萬）；E 正反顛倒（他說約兩千個）；F 正反顛倒（只是最早的書面例子）。"
+   },
+   {
+    "kind": "short",
+    "q": "Which word, long linked with Macbeth, appeared in a letter in 1572?",
+    "answer": [
+     "assassination",
+     "“assassination”"
+    ],
+    "why": "第三段。"
+   }
+  ]
+ }
 }

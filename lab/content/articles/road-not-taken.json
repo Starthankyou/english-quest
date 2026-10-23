@@ -535,5 +535,160 @@
    "zh": "這首詩背後的故事，以及它為什麼常被誤讀。",
    "question": "Which detail of the story surprised you most?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "Robert Frost’s “The Road Not Taken” may be the most quoted American poem of the twentieth century, and also one of the most misunderstood. Its closing lines — “I took the one less traveled by, / And that has made all the difference” — appear on posters and in graduation speeches as a celebration of anyone who chooses an unusual path. The irony is that the poem itself goes out of its way to unsettle that reading.",
+    "佛洛斯特的〈未走之路〉也許是二十世紀被引用最多的美國詩，也是最常被誤解的詩之一。它的結尾——「我選了人跡較少的那條，／而那造成了一切的不同」——出現在海報和畢業演講裡，被當成對每個選擇非凡道路的人的讚美。諷刺的是，這首詩本身刻意動搖了這種讀法。"
+   ],
+   [
+    "First published in 1915 and placed at the opening of Frost’s 1916 collection, Mountain Interval, the poem describes a moment of choice in a “yellow wood”. The speaker looks down one road as far as he can, then takes “the other, as just as fair, / And having perhaps the better claim, / Because it was grassy and wanted wear”. The hesitation is already audible in words such as “just as fair” and “perhaps”.",
+    "這首詩 1915 年首次發表，後來放在佛洛斯特 1916 年詩集《山間》的開頭，描寫在「黃色樹林」裡做選擇的一刻。說話者沿著一條路盡量望遠，接著選了「另一條，一樣美好，／也許更有理由，／因為它長滿青草，少有人走」。從「一樣美好」、「也許」這些字眼，就已經聽得出猶豫。"
+   ],
+   [
+    "The next lines remove even that small difference. The speaker admits that “the passing there / Had worn them really about the same”, and that both roads that morning lay “In leaves no step had trodden black.” In other words, neither road was truly less traveled. It is only in the future that one road will become the road less traveled, when he tells the story “with a sigh / Somewhere ages and ages hence”.",
+    "接下來的詩句連這點小差別都抹去了。說話者承認「路過的腳步／把兩條路磨得其實差不多」，而且那天早上兩條路都「鋪滿落葉，沒有腳步踩黑」。換句話說，哪一條都稱不上人跡較少。要到未來，當他「嘆一口氣／在很久很久以後」講起這個故事時，其中一條才會變成人跡較少的那條。"
+   ],
+   [
+    "The poem’s background sharpens the irony. During his years in England, from 1912 to 1915, Frost often walked with his friend Edward Thomas, a writer who tended to agonise over which path to follow and then regret the one he had chosen. Frost sent him the poem partly as a gentle joke, and later complained that audiences took it seriously despite his efforts to show that he was “fooling”. So often was it misread that, before one reading, he warned his audience: “You have to be careful of that one; it’s a tricky poem — very tricky.” Thomas, who enlisted in the First World War, was killed at the Battle of Arras in 1917.",
+    "詩的背景讓諷刺更鮮明。佛洛斯特 1912 到 1915 年住在英國期間，常和朋友愛德華．湯瑪斯一起散步。湯瑪斯是位作家，總為該走哪條路苦惱，事後又後悔自己的選擇。佛洛斯特把這首詩寄給他，有一部分是善意的玩笑；後來他抱怨，儘管他努力表現出自己在「開玩笑」，聽眾還是太當真。這首詩常被誤讀到他在一次朗讀前警告聽眾：「那首得小心；它是首狡猾的詩——非常狡猾。」湯瑪斯後來投身第一次世界大戰，1917 年在阿拉斯戰役中陣亡。"
+   ],
+   [
+    "Read this way, the poem becomes more interesting, not less. It is a study of how we look back on chance decisions and arrange them into a story in which we were brave and different. That habit is not simply foolish; it may be how we make sense of lives built from countless small, uncertain choices. Yet the poem asks us to notice when we are doing it.",
+    "這樣讀，這首詩不是變得無趣，而是更耐人尋味。它探討的是：我們如何回顧偶然的決定，把它們編排成一個自己勇敢又與眾不同的故事。這個習慣不全然是愚蠢的；我們或許正是靠它，來理解由無數微小而不確定的選擇構成的人生。但這首詩要我們留意自己什麼時候在這麼做。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "Why Edward Thomas joined the army during the First World War.",
+     "How Robert Frost became the most quoted poet in America.",
+     "How a famous poem says something different from its popular reading.",
+     "How to choose the best path when walking in the woods."
+    ],
+    "a": 2,
+    "evidence": "The irony is that the poem itself goes out of its way to unsettle that reading.",
+    "why": "全文：這首詩常被當成歌頌勇敢選擇，細讀卻發現它在談我們如何事後編故事。",
+    "traps": [
+     "以偏概全：湯瑪斯從軍只是第四段的細節。",
+     "以偏概全：被引用多只是第一段的背景。",
+     "",
+     "字面誤讀：樹林裡的路只是詩的意象。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does the word “hesitation” in the second paragraph refer to?",
+    "options": [
+     "The speaker’s uncertainty about which road is better.",
+     "The audience’s fear of reading the poem aloud.",
+     "Edward Thomas’s regret after choosing a path.",
+     "Frost’s delay in publishing the poem."
+    ],
+    "a": 0,
+    "evidence": "The hesitation is already audible in words such as “just as fair” and “perhaps”.",
+    "why": "「一樣美好」、「也許」這些字眼透露說話者拿不定哪條路較好。",
+    "traps": [
+     "",
+     "捏造：文中沒有聽眾害怕朗讀。",
+     "張冠李戴：湯瑪斯的後悔是第四段的背景。",
+     "捏造：文中沒說他延遲發表。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Frost wanted audiences to read the poem very seriously.",
+     "The speaker says one road was clearly less traveled.",
+     "Frost lived in England from 1915 to 1920.",
+     "The poem first appeared in 1915 and opened a 1916 collection."
+    ],
+    "a": 3,
+    "evidence": "First published in 1915 and placed at the opening of Frost’s 1916 collection",
+    "why": "第二段。",
+    "traps": [
+     "正反顛倒：他抱怨聽眾太當真。",
+     "正反顛倒：兩條路其實差不多。",
+     "數字錯位：1912 到 1915 年。",
+     ""
+    ]
+   },
+   {
+    "type": "ORG",
+    "q": "Why does the author mention Frost’s friendship with Edward Thomas?",
+    "options": [
+     "To prove that Thomas wrote part of the poem.",
+     "To show that the poem began partly as a gentle joke.",
+     "To explain how the Battle of Arras was fought.",
+     "To describe the roads near Frost’s home in America."
+    ],
+    "a": 1,
+    "evidence": "Frost sent him the poem partly as a gentle joke",
+    "why": "作者手法：用背景說明這首詩原本有開玩笑的成分，支持「常被誤讀」的論點。",
+    "traps": [
+     "捏造：詩是佛洛斯特寫的。",
+     "",
+     "以偏概全：戰役只是湯瑪斯的結局。",
+     "張冠李戴：他們散步是在英國。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Although readers often treat the poem as a celebration of bold choices, both roads were worn “really about the [47]”, and Frost complained that audiences took it too [48].",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "same"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "seriously"
+      ],
+      "partial": [
+       "serious"
+      ]
+     }
+    ],
+    "why": "第一格出自第三段 really about the same；第二格出自第四段 took it seriously，修飾動詞要用副詞。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "The poem opened Frost’s collection Mountain Interval.",
+     "Frost often walked with Edward Thomas in England.",
+     "Thomas always chose his path quickly and happily.",
+     "Frost warned that it was “a tricky poem”.",
+     "The speaker says one road had many more footprints.",
+     "Thomas died in the Second World War."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A 第二段；B、D 第四段。C 正反顛倒（他總是苦惱又後悔）；E 正反顛倒（兩條路差不多）；F 張冠李戴（是第一次世界大戰）。"
+   },
+   {
+    "kind": "short",
+    "q": "In which battle was Edward Thomas killed?",
+    "answer": [
+     "the Battle of Arras",
+     "Battle of Arras",
+     "Arras"
+    ],
+    "why": "第四段最後。"
+   }
+  ]
+ }
 }

@@ -537,5 +537,164 @@
    "zh": "一位氣象學家解釋影響我們世界觀的幾種常見偏誤。",
    "question": "Which of the biases have you noticed in yourself?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "Explanations of prejudice often begin with history: long-standing conflict, competition for scarce resources, cultural misunderstanding — all factors that genuinely matter. In the early 1970s, however, the social psychologist Henri Tajfel asked a more unsettling question: what is the smallest possible reason for one group to treat another unfairly? If prejudice required a long history, the solution would have to be historical too; if it could appear almost instantly, part of the problem would lie in ordinary psychology.",
+    "解釋偏見時，人們常從歷史談起：長期衝突、搶奪稀少的資源、文化誤解——這些因素確實都很重要。然而在 1970 年代初，社會心理學家泰弗爾提出一個更令人不安的問題：一個群體不公平地對待另一個群體，最小的理由可以是什麼？如果偏見需要長久的歷史，解方也得從歷史下手；但如果它幾乎能立刻出現，問題就有一部分出在平凡的人性心理上。"
+   ],
+   [
+    "To find out, Tajfel and his colleagues brought 64 British schoolboys aged 14 to 15, who already knew one another well, into a laboratory. The boys first completed a trivial task, such as estimating the number of dots on a screen or choosing between paintings by Paul Klee and Wassily Kandinsky. Each was then told that he belonged to one group or another. In reality, the groups were assigned at random, and the boys were told nothing about the other members of their own group.",
+    "為了找出答案，泰弗爾和同事把 64 名 14 到 15 歲、彼此早已熟識的英國男學生帶進實驗室。男孩們先做一個無關緊要的任務，例如估計螢幕上有幾個點，或在克利和康丁斯基的畫作之間選一幅。接著，每個人被告知自己屬於某一組。實際上，分組完全隨機，而且男孩們對同組其他成員一無所知。"
+   ],
+   [
+    "Each boy then decided how to divide money between two other participants, who were identified only by a code number and a group label. He could never reward himself, and he would never meet the people he was paying. With self-interest and personal loyalty removed, it was the group label alone that remained.",
+    "接著，每個男孩要決定怎麼把錢分給另外兩名參與者，這兩人只以代號和組別標示。他永遠不能把錢分給自己，也永遠不會見到收錢的人。私利和個人情誼都被排除後，剩下的只有組別標籤。"
+   ],
+   [
+    "That label proved surprisingly powerful. Although the boys showed some concern for fairness, most gave more to members of their own group. Most revealing was a preference for “maximum differentiation” (making the gap between the groups as wide as possible): many chose options that widened the gap even when another choice would have given their own group more money in total. So strong was this pull that relative standing mattered more than the reward itself. Tajfel later explained the pattern in his social identity theory: people draw part of their self-esteem from the groups they belong to, so feeling superior to another group makes them feel good about themselves.",
+    "結果，這個標籤的力量出奇地大。雖然男孩們也有些在意公平，但多數人分給自己組的錢比較多。最能說明問題的是對「最大差異」（讓兩組差距越大越好）的偏好：很多人選擇拉大差距的方案，即使另一個選擇能讓自己組總共拿到更多錢。這股拉力強到相對地位比獎賞本身更重要。泰弗爾後來用「社會認同理論」解釋這個現象：人的自尊有一部分來自所屬的群體，所以覺得自己的群體比別人好，會讓自己感覺良好。"
+   ],
+   [
+    "The findings do not mean that prejudice is inevitable, and scholars still debate how far results from such artificial groups apply to real conflicts. Yet the experiments remain a sobering reminder that bias can arise before any genuine disagreement exists. If a coin toss is enough to tilt our judgment, then sympathy for “the other side” is not a natural default but a habit that has to be practised.",
+    "這些發現並不代表偏見無法避免，學者也仍在爭論，這種人為分組的結果能套用到真實衝突到什麼程度。但這些實驗仍是一記清醒的提醒：在任何真正的分歧出現之前，偏見就可能產生。如果擲一次硬幣就足以讓判斷傾斜，那麼對「另一方」的同理就不是天生的預設，而是必須練習的習慣。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "How money should be shared fairly between two groups.",
+     "How British schoolboys learned to judge famous paintings.",
+     "Why long conflicts are the only cause of prejudice.",
+     "How a random group label alone can produce unfair treatment."
+    ],
+    "a": 3,
+    "evidence": "it was the group label alone that remained",
+    "why": "全文：最小團體實驗顯示，光是隨機的組別標籤就能讓人偏袒自己人。",
+    "traps": [
+     "捏造：作者沒有教人怎麼分錢。",
+     "原文字眼、錯誤關係：選畫只是分組前的小任務。",
+     "正反顛倒：實驗正是要找比歷史更小的理由。",
+     ""
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “maximum differentiation” in the fourth paragraph mean?",
+    "options": [
+     "Giving the largest possible reward to one’s own group.",
+     "Making the gap between the groups as wide as possible.",
+     "Treating both groups in exactly the same way.",
+     "Choosing one’s group by tossing a coin."
+    ],
+    "a": 1,
+    "evidence": "making the gap between the groups as wide as possible",
+    "why": "括號直接解釋。",
+    "traps": [
+     "正反顛倒：他們甚至犧牲自己組的總額。",
+     "",
+     "正反顛倒：那是公平分配，不是拉大差距。",
+     "原文字眼、錯誤關係：擲硬幣是最後一段的比喻。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The groups were based on the boys’ painting choices.",
+     "The boys were strangers who had never met before.",
+     "The boys could not give any of the money to themselves.",
+     "The boys knew the names of the people they paid."
+    ],
+    "a": 2,
+    "evidence": "He could never reward himself",
+    "why": "第三段。",
+    "traps": [
+     "正反顛倒：分組其實是隨機的。",
+     "正反顛倒：他們早已彼此熟識。",
+     "",
+     "正反顛倒：只知道代號和組別。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Which of the following can be inferred from the last paragraph?",
+    "options": [
+     "Fairness toward other groups often needs deliberate effort.",
+     "Schools should stop dividing students into teams.",
+     "Laboratory groups are exactly like real-world conflicts.",
+     "Bias appears only after a serious disagreement."
+    ],
+    "a": 0,
+    "evidence": "sympathy for “the other side” is not a natural default but a habit that has to be practised",
+    "why": "同理心不是天生預設，要練習，可推知公平對待他組需要刻意努力。",
+    "traps": [
+     "",
+     "過度推論：作者沒有反對分隊。",
+     "正反顛倒：學者仍在爭論能推論到多遠。",
+     "正反顛倒：偏見可能在分歧出現之前就產生。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Although the groups were assigned at [47], most boys still gave more money to members of their own group, which suggests that the group [48] alone was enough to create bias.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "random"
+      ],
+      "partial": [
+       "randomly"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "label"
+      ],
+      "partial": [
+       "labels",
+       "labelled",
+       "labeled"
+      ]
+     }
+    ],
+    "why": "第一格出自第二段 assigned at random；第二格出自第三段 the group label alone。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "The study involved 64 British schoolboys.",
+     "The boys already knew one another well.",
+     "The boys were told who else was in their group.",
+     "Many boys chose to widen the gap between the groups.",
+     "Most boys divided the money equally.",
+     "The findings prove that prejudice can never be reduced."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A、B 第二段；D 第四段。C 正反顛倒（對同組成員一無所知）；E 正反顛倒（多數偏袒自己組）；F 正反顛倒（原文說偏見並非無法避免）。"
+   },
+   {
+    "kind": "short",
+    "q": "What is the name of the theory Tajfel later used to explain the pattern?",
+    "answer": [
+     "social identity theory",
+     "his social identity theory"
+    ],
+    "why": "第四段。"
+   }
+  ]
+ }
 }

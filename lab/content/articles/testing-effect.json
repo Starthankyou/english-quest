@@ -531,5 +531,163 @@
    "zh": "練習如何改變大腦，以及什麼樣的練習才有效。",
    "question": "How could you make your English practice more effective?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "Asked how they prepare for an exam, many students describe the same ritual: reading their notes again and again until every page looks familiar. It is a comfortable habit, and it seems logical; many teachers have seen students who reread carefully and still struggle on the exam. Yet the feeling it produces — that the material is finally “in there” — may be one of the least reliable signals a learner can trust.",
+    "問學生怎麼準備考試，很多人會描述同一套儀式：把筆記讀了又讀，直到每一頁都很眼熟。這是個舒服的習慣，看起來也合理；不少老師都見過認真重讀、考試卻仍然吃力的學生。然而它帶來的感覺——好像內容終於「進到腦袋裡了」——可能是學習者最不可靠的訊號之一。"
+   ],
+   [
+    "In 2006, the psychologists Henry Roediger and Jeffrey Karpicke put this habit to the test. College students first read short passages on scientific topics. Afterwards, they either studied the passages again or took a recall test, which required them to write down as much as they could remember without looking — and without being told whether their answers were right. A final test followed five minutes, two days or one week later, with each student using both methods on different passages so that the comparison would be fair.",
+    "2006 年，心理學家羅迪格與卡皮克把這個習慣拿來檢驗。大學生先讀幾篇科學主題的短文，接著不是再讀一次，就是做回想測驗——不看書，盡可能寫下記得的內容，而且沒人告訴他們答得對不對。最後的測驗安排在五分鐘、兩天或一週之後；每位學生兩種方法都用過，只是用在不同的短文上，好讓比較公平。"
+   ],
+   [
+    "The results depended on timing. On the test given only five minutes later, rereading held a small advantage. When the final test was delayed, however, the pattern reversed. After one week, students who had tested themselves recalled 56 percent of the ideas, while those who had simply reread recalled only 42 percent — a gap large enough to separate passing from failing.",
+    "結果取決於時間點。在五分鐘後的測驗裡，重讀稍占上風。但測驗延後時，情況就反轉了。一週後，自我測驗的學生記得 56% 的概念，只是重讀的學生只記得 42%——這個差距大到足以決定及格或不及格。"
+   ],
+   [
+    "Even more striking was a second experiment. Students who read a passage four times felt the most confident that they would remember it. So confident were they that few would have predicted the outcome: a week later, they recalled less than students who had read the passage once and then recalled it three times. It was the method that felt weakest that produced the strongest memory. In other words, repeated testing led to the best long-term memory but the weakest sense of confidence.",
+    "更驚人的是第二個實驗。把短文讀了四次的學生，最有信心自己會記得。他們信心滿滿到沒幾個人料得到結果：一週後，他們記得的比「讀一次、回想三次」的學生還少。感覺最弱的方法，反而帶來最牢的記憶。換句話說，反覆測驗帶來最好的長期記憶，卻也帶來最弱的信心。"
+   ],
+   [
+    "Why should pulling information out of memory work so well? One explanation is that recalling is not simply reading out what is stored; it reshapes memory, making the information easier to find later. Rereading, by contrast, offers the comfort of recognition without the work of rebuilding. Researchers call this kind of productive struggle a “desirable difficulty” — a challenge that slows learning down in the short term but strengthens it in the long run. None of this means that rereading is useless, since a careful first reading is needed before there is anything to recall.",
+    "為什麼從記憶裡把資訊提取出來這麼有效？一種解釋是：回想不只是把存好的東西讀出來，而是在重塑記憶，讓資訊之後更容易找到。相對地，重讀只給人「認得」的安心感，卻省掉了重建的功夫。研究者把這種有益的掙扎稱為「值得的困難」——短期內拖慢學習，長期卻讓它更牢固。這並不表示重讀沒用，因為總要先仔細讀過一次，才有東西可以回想。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "How to read a chapter four times without getting bored.",
+     "Why recalling information beats rereading for lasting memory.",
+     "Why students always feel confident before an exam.",
+     "How psychologists choose science passages for students."
+    ],
+    "a": 1,
+    "evidence": "students who had tested themselves recalled 56 percent of the ideas",
+    "why": "全文：研究顯示自我測驗比重讀記得更久，熟悉感會騙人。",
+    "traps": [
+     "以偏概全：讀四次只是第二個實驗的一組。",
+     "",
+     "以偏概全：信心只是被檢討的感覺，不是主旨。",
+     "原文字眼、錯誤關係：科學短文只是實驗材料。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "Which of the following is closest in meaning to “desirable difficulty” in the last paragraph?",
+    "options": [
+     "A problem that disappears once the material is reread.",
+     "A task that is too hard for most students to finish.",
+     "A test that students like because it is easy.",
+     "A challenge that slows learning now but makes it last."
+    ],
+    "a": 3,
+    "evidence": "a challenge that slows learning down in the short term but strengthens it in the long run",
+    "why": "破折號後面直接定義。",
+    "traps": [
+     "正反顛倒：重讀正是缺少這種困難的方法。",
+     "字面誤讀：只看到 difficulty，忽略 desirable。",
+     "一字多義：desirable 不是「喜歡、輕鬆」。",
+     ""
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Rereading did slightly better on the five-minute test.",
+     "After one week, rereaders recalled 56 percent of the ideas.",
+     "Students were told whether their recall answers were right.",
+     "Each student used only one of the two study methods."
+    ],
+    "a": 0,
+    "evidence": "On the test given only five minutes later, rereading held a small advantage.",
+    "why": "第三段。",
+    "traps": [
+     "",
+     "張冠李戴：56% 是自我測驗組，重讀組是 42%。",
+     "正反顛倒：原文 without being told whether their answers were right。",
+     "正反顛倒：每個學生兩種方法都用過。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Which of the following can be inferred from the passage?",
+    "options": [
+     "Rereading is useless and should never be done.",
+     "Reading a passage four times is the best way to prepare.",
+     "Feeling confident about material does not guarantee remembering it.",
+     "A test after five minutes shows long-term memory best."
+    ],
+    "a": 2,
+    "evidence": "Students who read a passage four times felt the most confident",
+    "why": "最有信心的那組反而記得較少，可推知信心不等於記得住。",
+    "traps": [
+     "過度推論：原文 None of this means that rereading is useless。",
+     "正反顛倒：讀四次的組一週後記得較少。",
+     "",
+     "正反顛倒：長期記憶要看延後的測驗。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Students who reread a passage four times felt the most [47], yet a week later they remembered less than those who had [48] it from memory three times.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "confident"
+      ],
+      "partial": [
+       "confidence"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "recalled"
+      ],
+      "partial": [
+       "recall",
+       "recalling"
+      ]
+     }
+    ],
+    "why": "第一格出自第四段 felt the most confident；第二格出自 recalled it three times，過去完成式用過去分詞。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are true about the 2006 research? Choose ALL that apply.",
+    "options": [
+     "Final tests were given at three different times.",
+     "Students received feedback on their recall tests.",
+     "After a week, the testing group recalled 56 percent.",
+     "Students who read four times felt the least confident.",
+     "A careful first reading is still needed before recall.",
+     "Rereading had the advantage on the one-week test."
+    ],
+    "a": [
+     0,
+     2,
+     4
+    ],
+    "why": "A 第二段；C 第三段；E 第五段。B 正反顛倒（沒有回饋）；D 正反顛倒（讀四次的最有信心）；F 時序錯置（重讀只在五分鐘後占優勢）。"
+   },
+   {
+    "kind": "short",
+    "q": "What term do researchers use for a challenge that slows learning down at first but strengthens it later?",
+    "answer": [
+     "a desirable difficulty",
+     "desirable difficulty"
+    ],
+    "why": "第五段。"
+   }
+  ]
+ }
 }

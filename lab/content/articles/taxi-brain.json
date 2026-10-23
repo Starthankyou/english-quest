@@ -531,5 +531,163 @@
    "zh": "動畫課程：記憶如何形成，又為什麼會消退。",
    "question": "Why do you think some memories last longer than others?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "To earn a licence to drive one of London’s famous black cabs, drivers must pass The Knowledge, a test that requires them to memorise the layout of a huge and irregular city and plan routes entirely from memory. For much of the twentieth century, the adult brain was widely believed to change little after childhood. London’s taxi drivers, who spend years in intensive training for a single skill, offered scientists a rare chance to test that belief.",
+    "想取得駕駛倫敦著名黑色計程車的執照，司機必須通過「知識大考」：記住這座龐大又不規則的城市的街道配置，並完全憑記憶規劃路線。二十世紀大部分時間裡，人們普遍認為成人的大腦在童年之後就很少改變。倫敦計程車司機為了單一技能接受多年的密集訓練，正好給科學家一個難得的機會來檢驗這個看法。"
+   ],
+   [
+    "In a study published in 2000, the neuroscientist Eleanor Maguire and her colleagues used brain scans to compare 16 licensed London taxi drivers with men who did not drive taxis. The drivers had spent about two years, on average, training for The Knowledge, and some had been driving for decades. All of them had been licensed for more than a year and a half. The researchers focused on the hippocampus, a region long associated with spatial memory (our memory for places and routes).",
+    "在 2000 年發表的研究中，神經科學家艾莉諾．馬奎爾和同事用腦部掃描，比較 16 位領有執照的倫敦計程車司機和不開計程車的男性。這些司機平均花了約兩年準備知識大考，有些人已經開了幾十年車；所有人都已取得執照超過一年半。研究者聚焦在海馬迴——這個腦區長久以來被認為和空間記憶（我們對地點與路線的記憶）有關。"
+   ],
+   [
+    "What they found was not a simple enlargement but a redistribution. The rear, or posterior, part of the hippocampus was significantly larger in the drivers, whereas a front region was larger in the comparison group. In other words, the drivers’ brains showed a different distribution of tissue, not simply more of it. Moreover, the longer someone had worked as a taxi driver, the larger the right posterior hippocampus tended to be. If people had simply chosen the job because of the brains they were born with, there would be little reason for the difference to grow with every year of driving.",
+    "他們發現的不是單純的變大，而是重新分配。海馬迴的後段在司機身上明顯較大，前段則是對照組較大。換句話說，司機大腦的組織分布不同，而不只是比較多。而且，開計程車的時間越久，右側海馬迴後段往往越大。如果人們只是因為天生的大腦才選了這份工作，這個差異就沒有理由隨著開車的年資逐年增加。"
+   ],
+   [
+    "Like any single study, this one has limits. The sample was small and included only men, and a link with experience is not the same as watching the brain change over time. Even so, the finding was so striking that it helped shift scientific opinion towards the view that sustained mental effort can leave physical traces in the adult brain — a property the authors called plasticity.",
+    "就像任何單一研究，這項研究也有限制：樣本小、只有男性，而且「和經驗有關聯」並不等於親眼看到大腦隨時間改變。即便如此，這個發現驚人到幫助扭轉了科學界的看法，讓人們相信持續的心智努力能在成人大腦留下實體痕跡——作者稱之為可塑性。"
+   ],
+   [
+    "Only now, in an age of phone maps, are we beginning to ask what happens when we hand the task of navigating to a device. The question is still under investigation, and convenience is not a crime. Yet the taxi drivers offer a reminder worth keeping: abilities we stop practising may not disappear overnight, but they are unlikely to grow on their own.",
+    "直到現在這個手機地圖的時代，我們才開始追問：把導航這件事交給裝置，會發生什麼事？這個問題仍在研究中，而方便也不是罪過。但計程車司機給了我們一個值得記住的提醒：不再練習的能力也許不會一夜消失，卻不太可能自己長大。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "Why phone maps are better than human memory.",
+     "How drivers prepare for London’s Knowledge test.",
+     "How taxi drivers’ training may have reshaped their brains.",
+     "Why the adult brain cannot change after childhood."
+    ],
+    "a": 2,
+    "evidence": "What they found was not a simple enlargement but a redistribution.",
+    "why": "全文：計程車司機研究顯示，密集學習可能改變成人大腦的結構。",
+    "traps": [
+     "捏造：作者只說這個問題仍在研究中。",
+     "以偏概全：考試只是第一段的背景。",
+     "",
+     "正反顛倒：這正是被研究挑戰的舊觀念。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "Which of the following is closest in meaning to “redistribution” in the third paragraph?",
+    "options": [
+     "A change in where the brain tissue was found.",
+     "A simple increase in the size of the brain.",
+     "A transfer of memories from one driver to another.",
+     "A loss of tissue across the whole brain."
+    ],
+    "a": 0,
+    "evidence": "The rear, or posterior, part of the hippocampus was significantly larger in the drivers, whereas a front region was larger in the comparison group.",
+    "why": "後段變大、前段變小：組織的分布改變，不是整體變大。",
+    "traps": [
+     "",
+     "正反顛倒：原文 not a simple enlargement。",
+     "字面誤讀：distribution 不是在人與人之間轉移。",
+     "捏造：文中沒說整個大腦變小。"
+    ]
+   },
+   {
+    "type": "NOT",
+    "q": "Which of the following is NOT mentioned as a limit of the study?",
+    "options": [
+     "It showed a link rather than change over time.",
+     "The number of drivers studied was small.",
+     "Only men took part in the study.",
+     "The drivers were scanned only at night."
+    ],
+    "a": 3,
+    "evidence": "The sample was small and included only men",
+    "why": "第四段列出的限制是：樣本小、只有男性、只是關聯。",
+    "traps": [
+     "有提到：a link with experience is not the same as watching the brain change over time。",
+     "有提到：The sample was small。",
+     "有提到：included only men。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Which of the following can be inferred from the third paragraph?",
+    "options": [
+     "The drivers were born with a larger hippocampus.",
+     "The brain difference was probably gained through experience.",
+     "Phone maps have been proved to shrink the brain.",
+     "The front of the hippocampus grows with more driving."
+    ],
+    "a": 1,
+    "evidence": "there would be little reason for the difference to grow with every year of driving",
+    "why": "差異隨年資增加，難以用天生解釋，所以較可能是後天經驗造成的。",
+    "traps": [
+     "正反顛倒：作者正是在排除這個可能。",
+     "",
+     "過度推論：原文 The question is still under investigation。",
+     "張冠李戴：前段是對照組較大。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "The posterior hippocampus was [47] in the taxi drivers, and the [48] someone had worked as a driver, the bigger it tended to be.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "larger"
+      ],
+      "partial": [
+       "large",
+       "largest"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "longer"
+      ],
+      "partial": [
+       "long",
+       "longest"
+      ]
+     }
+    ],
+    "why": "第一格出自第三段 significantly larger；第二格出自 the longer someone had worked（the 比較級, the 比較級）。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are true about Maguire’s study? Choose ALL that apply.",
+    "options": [
+     "It was published in 2000.",
+     "It compared 16 licensed taxi drivers with other men.",
+     "It compared taxi drivers with women.",
+     "The drivers had trained for about two years on average.",
+     "A front region was larger in the taxi drivers.",
+     "It watched the drivers’ brains change over many years."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A、B、D 第二段。C 張冠李戴（對照組是不開計程車的男性）；E 張冠李戴（前段是對照組較大）；F 正反顛倒（只是關聯）。"
+   },
+   {
+    "kind": "short",
+    "q": "What did the authors call the brain’s ability to be physically changed by sustained mental effort?",
+    "answer": [
+     "plasticity"
+    ],
+    "why": "第四段最後。"
+   }
+  ]
+ }
 }

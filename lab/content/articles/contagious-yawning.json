@@ -547,5 +547,163 @@
    "zh": "快速又有趣地介紹打哈欠的事實與理論。（6 分鐘）",
    "question": "How many times did you yawn while watching?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "Few behaviours are as universal, or as poorly understood, as the yawn. Lasting about six seconds, a typical yawn consists of a long breath in with the mouth slowly opening wide, a brief peak with stretching muscles, and a quick breath out. Yawning appears in many kinds of animals with backbones and has even been seen in babies before birth. Yet scholars have proposed roughly twenty explanations for it, with little agreement on which matters most.",
+    "很少有行為像打哈欠這樣普遍，又這樣不被了解。一個典型的哈欠大約持續六秒：嘴巴慢慢張大、長長吸一口氣，短暫的高峰時肌肉伸展，然後快速吐氣。許多有脊椎的動物都會打哈欠，甚至在嬰兒出生前就看得到。然而學者提出了大約二十種解釋，對哪一種最重要卻沒有共識。"
+   ],
+   [
+    "One body-based idea has attracted particular attention. In a 2008 review, Gallup and Gallup argued that yawning may help control temperature by cooling the brain when other methods fail. They noted that excessive yawning tends to come with conditions that raise brain or body temperature, such as lack of sleep, and that drowsiness, which is linked to yawning, goes along with rises in body temperature.",
+    "有一種從身體出發的觀點特別受到關注。在 2008 年的一篇回顧中，蓋洛普父子主張，打哈欠可能在其他方法失效時，透過替大腦降溫來調節溫度。他們指出，過度打哈欠往往伴隨著讓大腦或身體溫度升高的情況，例如睡眠不足；而和打哈欠有關的睏倦，也和體溫上升同時出現。"
+   ],
+   [
+    "Contagious yawning poses a separate question. It can be set off by seeing, hearing, reading about or merely thinking about a yawn, and it has been observed in chimpanzees and dogs, sometimes even between different species. An old French saying captures this sociable quality: “One good gaper makes seven others gape.” A widely cited 2004 study found that people more likely to catch yawns also performed better on tasks involving understanding other people’s minds, which suggested a link with empathy (the ability to understand how others feel).",
+    "會傳染的哈欠是另一個問題。看到、聽到、讀到，甚至只是想到打哈欠，都可能引發它；人們也在黑猩猩和狗身上觀察到這種現象，有時甚至跨越不同物種。一句法國老諺語捕捉到它的社交特質：「一個人好好張嘴打哈欠，會讓另外七個人跟著打。」2004 年一項常被引用的研究發現，比較容易被傳染的人，在理解他人心智的任務上表現也較好，這暗示它和同理心（理解別人感受的能力）有關。"
+   ],
+   [
+    "So popular was this explanation that it became a widely repeated “fact”. Yet the empathy link has not held up well in larger tests. In 2014, Alex Bartholomew and Elizabeth Cirulli showed a three-minute yawning video to 328 participants and gave them tests and questionnaires. Whether someone caught yawns proved highly stable across sessions, in the laboratory or online, and most people who did not yawn said they did not even feel the urge. Once age was taken into account, however, empathy, time of day and intelligence had no measurable influence.",
+    "這個解釋流行到成了被廣為傳誦的「事實」。然而在規模更大的檢驗中，同理心的關聯並沒有站穩。2014 年，巴瑟洛繆和西魯利讓 328 名參與者看一段三分鐘的打哈欠影片，再做測驗和問卷。一個人會不會被傳染，在不同次測試中都非常穩定，無論在實驗室或線上；而且大多數沒打哈欠的人說，他們連想打的感覺都沒有。不過把年齡考慮進去之後，同理心、一天中的時段和智力都沒有可測量的影響。"
+   ],
+   [
+    "Age itself mattered, since older people were less likely to catch yawns, but it explained only 8 percent of the differences. It is most of the variation that remains unexplained. The yawn therefore offers a lesson in how scientific stories form: an appealing explanation, supported by early and fairly small studies, can spread widely before larger studies reveal a more uncertain picture. Some unanswered questions, it seems, are as close as the next yawn.",
+    "年齡本身有影響——年紀越大越不容易被傳染——但它只解釋了 8% 的差異。大部分的差異至今仍無法解釋。因此，打哈欠為「科學故事如何形成」上了一課：一個吸引人的解釋，在早期且規模不大的研究支持下，可能早在大型研究揭露更不確定的樣貌之前，就已廣為流傳。看來，有些尚未解答的問題，就近在下一個哈欠裡。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "Why yawning spreads, and how a popular explanation has weakened.",
+     "How to stop yawning during a long class.",
+     "Why babies yawn more than adults do.",
+     "How dogs learn to yawn from their owners."
+    ],
+    "a": 0,
+    "evidence": "Yet the empathy link has not held up well in larger tests.",
+    "why": "全文：打哈欠的可能功能、傳染性，以及同理心解釋在大型研究中站不住腳。",
+    "traps": [
+     "",
+     "捏造：文中沒教人停止打哈欠。",
+     "捏造：文中只說胎兒會打哈欠。",
+     "過度推論：只說狗也會傳染哈欠。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “contagious” mean in the third paragraph?",
+    "options": [
+     "Caused by feeling very cold.",
+     "Lasting for about six seconds.",
+     "Able to spread from one person to another.",
+     "Happening only to people who are tired."
+    ],
+    "a": 2,
+    "evidence": "It can be set off by seeing, hearing, reading about or merely thinking about a yawn",
+    "why": "看到、聽到別人打哈欠就會跟著打：會傳染。",
+    "traps": [
+     "正反顛倒：有一說是打哈欠在替大腦降溫。",
+     "原文字眼、錯誤關係：六秒是哈欠的長度。",
+     "",
+     "以偏概全：睏倦只是相關因素之一。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The 2014 study showed participants a thirty-minute video.",
+     "Age explained only 8 percent of the differences in 2014.",
+     "Results differed between the laboratory and online tests.",
+     "Gallup and Gallup published their review in 2004."
+    ],
+    "a": 1,
+    "evidence": "it explained only 8 percent of the differences",
+    "why": "第五段。",
+    "traps": [
+     "數字錯位：影片三分鐘。",
+     "",
+     "正反顛倒：無論實驗室或線上都很穩定。",
+     "數字錯位：2008 年，2004 年是另一項研究。"
+    ]
+   },
+   {
+    "type": "ORG",
+    "q": "Why does the author mention the French saying in the third paragraph?",
+    "options": [
+     "To show that yawning is linked to intelligence.",
+     "To prove that French people yawn more often.",
+     "To explain how yawning cools the brain.",
+     "To show how sociable and catching yawning can be."
+    ],
+    "a": 3,
+    "evidence": "An old French saying captures this sociable quality",
+    "why": "作者手法：用諺語生動說明打哈欠的「社交、會傳染」特質。",
+    "traps": [
+     "正反顛倒：研究發現智力沒有影響。",
+     "過度推論：諺語不代表法國人比較常打哈欠。",
+     "張冠李戴：降溫說是第二段的內容。",
+     ""
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "An early study linked contagious yawning to [47], but a larger study found that, once age was considered, it had no measurable [48].",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "empathy"
+      ],
+      "partial": [
+       "empathic"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "influence"
+      ],
+      "partial": [
+       "influences",
+       "influenced"
+      ]
+     }
+    ],
+    "why": "第一格出自第三段 a link with empathy；第二格出自第四段 no measurable influence。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "A typical yawn lasts about six seconds.",
+     "Babies have been seen yawning before birth.",
+     "Scientists agree on one main reason for yawning.",
+     "The 2014 study involved 328 participants.",
+     "Older people were more likely to catch yawns.",
+     "Empathy strongly predicted yawning after age was considered."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A、B 第一段；D 第四段。C 正反顛倒（約二十種說法，沒有共識）；E 正反顛倒（年紀越大越不容易）；F 正反顛倒（沒有可測量的影響）。"
+   },
+   {
+    "kind": "short",
+    "q": "What does the 2008 review suggest yawning may help cool?",
+    "answer": [
+     "the brain",
+     "brain"
+    ],
+    "why": "第二段。"
+   }
+  ]
+ }
 }

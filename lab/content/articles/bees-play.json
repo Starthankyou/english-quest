@@ -531,5 +531,163 @@
    "zh": "一位生物學家談蜜蜂對城市的重要性，以及牠們面臨的威脅。",
    "question": "How could your school or neighbourhood help bees?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "Puppies chase their tails, kittens bat at string and children kick balls just for fun. Play, however, is easier to recognise than to define. Researchers generally require that it have no immediate practical purpose, that it be voluntary and repeated, and that it happen when an animal is relaxed rather than stressed. By these standards, play has been found in many mammals and birds. Whether an insect with a brain smaller than a sesame seed could meet them is another matter.",
+    "小狗追自己的尾巴，小貓撥弄毛線，孩子踢球只為好玩。不過，遊戲容易辨認，卻很難定義。研究者一般要求：遊戲沒有立即的實用目的，是自願且重複的，而且發生在動物放鬆而非緊張的時候。依照這些標準，許多哺乳類和鳥類都被發現會遊戲。但大腦比芝麻還小的昆蟲能否符合這些標準，就是另一回事了。"
+   ],
+   [
+    "In 2022, a team based in London set out to test this with bumblebees. They connected a nest to an arena in which a clear path led to sugar water and pollen. On either side lay small wooden balls, which could be moved in one area but were glued down in the other. The design mattered: since the bees could reach the food without touching any balls, rolling them could not easily be explained as part of feeding. The balls were also cleaned every day so that the bees could not simply follow the scent of their nestmates.",
+    "2022 年，倫敦的一個團隊用熊蜂來檢驗這件事。他們把蜂巢接到一個場地，裡面有一條暢通的小路通往糖水和花粉。小路兩側放著小木球，一區的球可以移動，另一區的球則黏在地上。這個設計很關鍵：既然蜜蜂不碰球也能拿到食物，滾球就很難解釋成覓食的一部分。木球也每天清洗，讓蜜蜂無法只是跟著同巢夥伴的氣味走。"
+   ],
+   [
+    "Yet many bees chose to roll the balls anyway, holding on to them and moving them across the floor. Over eighteen days, 45 bees performed 910 ball-rolling actions, with some rolling balls more than a hundred times. Most kept coming back on later days, even leaving the direct route to food in order to do so. The rolling was not only voluntary but also repeated, and because the length of each roll varied widely, it did not look like the rigid habits seen in stressed animals kept in cages.",
+    "然而許多蜜蜂還是選擇滾球，抱住木球、推著它在地上移動。十八天內，45 隻蜜蜂一共滾了 910 次球，有些甚至滾了一百多次。大多數蜜蜂之後幾天還會回來，甚至偏離通往食物的直線路徑去滾球。滾球不只是自願的，也是重複的；而且每次滾動的長短差異很大，不像是籠中受壓力的動物那種僵化的習慣動作。"
+   ],
+   [
+    "Further tests strengthened the case. When bees were trained with two differently coloured rooms, only one of which allowed ball rolling, they later preferred the colour linked to rolling — evidence that the activity was rewarding in itself. It was the younger bees, moreover, that rolled most, a pattern resembling the play of young mammals. The researchers also made sure food was available at all times, so it was unlikely that hunger or stress drove the behaviour.",
+    "進一步的測試讓論點更有力。研究者讓蜜蜂熟悉兩間顏色不同的房間，只有其中一間能滾球；之後蜜蜂偏好和滾球連在一起的那個顏色——證明這個活動本身就是獎勵。而且，滾得最多的是年輕的蜜蜂，這種模式很像幼小哺乳動物的遊戲。研究者也確保食物隨時都有，所以這個行為不太可能是飢餓或壓力造成的。"
+   ],
+   [
+    "The study does not show that bees feel pleasure as humans do, and the authors called for research on whether such behaviour occurs in the wild. Its significance lies elsewhere. If even a bumblebee will pause on its way to food to roll a ball, then curiosity and enjoyment may be far more widespread in the animal kingdom than we tend to assume — a possibility that could change how we study, farm and protect the smallest creatures around us.",
+    "這項研究並沒有證明蜜蜂像人類一樣感到愉悅，作者也呼籲研究野外是否也有這種行為。它的意義在別處：如果連熊蜂都會在覓食途中停下來滾球，那麼好奇和享受在動物界可能比我們以為的普遍得多——這個可能性也許會改變我們研究、飼養和保護身邊最小生物的方式。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "How scientists clean wooden balls for experiments.",
+     "How bumblebees collect sugar water and pollen.",
+     "Why young mammals play more than adults do.",
+     "A study suggesting that bumblebees may play."
+    ],
+    "a": 3,
+    "evidence": "Yet many bees chose to roll the balls anyway",
+    "why": "全文：實驗顯示熊蜂滾球符合遊戲的標準。",
+    "traps": [
+     "原文字眼、錯誤關係：清洗木球只是排除氣味的步驟。",
+     "以偏概全：食物只是實驗設計的一部分。",
+     "以偏概全：哺乳動物只是拿來對照。",
+     ""
+    ]
+   },
+   {
+    "type": "REF",
+    "q": "What does “them” in “could meet them” in the first paragraph refer to?",
+    "options": [
+     "The mammals and birds that are known to play.",
+     "The standards researchers use to define play.",
+     "The puppies and kittens playing with toys.",
+     "The wooden balls placed beside the path."
+    ],
+    "a": 1,
+    "evidence": "By these standards, play has been found in many mammals and birds.",
+    "why": "前一句的 these standards：研究者用來定義遊戲的標準。",
+    "traps": [
+     "原文字眼、錯誤關係：哺乳類和鳥類是「符合」標準的對象。",
+     "",
+     "原文字眼、錯誤關係：小狗小貓只是開頭的例子。",
+     "時序錯置：木球在第二段才出現。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Older bees rolled the balls more than younger ones.",
+     "The bees had to roll balls to reach the food.",
+     "The balls in one area were glued to the floor.",
+     "Food was given to the bees only once a day."
+    ],
+    "a": 2,
+    "evidence": "which could be moved in one area but were glued down in the other",
+    "why": "第二段。",
+    "traps": [
+     "正反顛倒：年輕的蜜蜂滾得最多。",
+     "正反顛倒：不碰球也能拿到食物。",
+     "",
+     "正反顛倒：食物隨時都有。"
+    ]
+   },
+   {
+    "type": "INS",
+    "q": "Here is a sentence: “The researchers also ruled out other explanations, such as clearing clutter or attempted mating.” Which paragraph is most suitable to have it as the final sentence?",
+    "options": [
+     "Paragraph 2.",
+     "Paragraph 3.",
+     "Paragraph 4.",
+     "Paragraph 5."
+    ],
+    "a": 2,
+    "evidence": "so it was unlikely that hunger or stress drove the behaviour",
+    "why": "第四段最後在排除飢餓與壓力，正好接「也排除了清理雜物或交配等其他解釋」，also 呼應前一句。",
+    "traps": [
+     "位置陷阱：第二段還在說明實驗設計。",
+     "位置陷阱：第三段在描述滾球的數據。",
+     "",
+     "位置陷阱：第五段在談研究的意義與限制。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Ball rolling appeared to be [47] in itself, and it was done most often by [48] bees.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "rewarding"
+      ],
+      "partial": [
+       "reward",
+       "rewarded"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "younger"
+      ],
+      "partial": [
+       "young",
+       "youngest"
+      ]
+     }
+    ],
+    "why": "第一格出自第四段 rewarding in itself；第二格出自 the younger bees。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "45 bees performed 910 ball-rolling actions.",
+     "The balls in both areas could be moved freely.",
+     "The balls were cleaned every day.",
+     "Bees had to roll a ball to reach the food.",
+     "Food was available to the bees at all times.",
+     "The study proved that bees feel pleasure like humans."
+    ],
+    "a": [
+     0,
+     2,
+     4
+    ],
+    "why": "A 第三段；C 第二段；E 第四段。B 正反顛倒（一區黏住）；D 正反顛倒（不碰球也能吃到）；F 正反顛倒（研究沒有證明這點）。"
+   },
+   {
+    "kind": "short",
+    "q": "Where did the authors say future research should check whether such behaviour occurs?",
+    "answer": [
+     "in the wild"
+    ],
+    "why": "第五段。"
+   }
+  ]
+ }
 }

@@ -537,5 +537,162 @@
    "zh": "以英式英語朗讀完整故事，畫面附原文，適合聽力練習。（31 分鐘）",
    "question": "Listen to the final scene. How does the reader’s voice build suspense?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "“The Monkey’s Paw”, by the English writer W. W. Jacobs, first appeared in Harper’s Monthly in September 1902 and was reprinted later that year in his collection The Lady of the Barge. Its idea is as old as folklore — three wishes granted by a magic object — yet Jacobs turned it into one of the most influential horror stories in English. It was adapted for the stage as early as 1903 and first filmed in 1915.",
+    "英國作家雅各布斯的〈猴爪〉，1902 年 9 月首次刊登在《哈潑月刊》，同年稍後收進他的短篇集《駁船上的女士》。它的構想和民間故事一樣古老——一件魔法物品許你三個願望——雅各布斯卻把它寫成英語世界最具影響力的恐怖故事之一。它早在 1903 年就被改編成舞台劇，1915 年首次拍成電影。"
+   ],
+   [
+    "The story’s horror depends on restraint. The White family’s evening is warm and affectionate, and their visitor, Sergeant-Major Morris (an old soldier friend), entertains them with stories of India. When he produces a dried monkey’s paw, he explains that a holy man placed a spell on it “to show that fate ruled people’s lives, and that those who interfered with it did so to their sorrow.” Morris throws the paw into the fire, but Mr White pulls it out. “If you must wish,” Morris warns, “wish for something sensible.”",
+    "故事的恐怖建立在克制上。懷特一家的夜晚溫馨又親密，來訪的老軍人朋友莫里斯士官長向他們說著印度的故事。當他拿出一隻乾枯的猴爪時，他說一位聖人對它下了咒，「為了證明命運支配人的一生，凡是干涉命運的人，都會因此悲傷」。莫里斯把猴爪丟進火裡，懷特先生卻把它拿了出來。莫里斯警告：「如果你非許願不可，就許個合理的願望。」"
+   ],
+   [
+    "The first wish is modest and almost comic: two hundred pounds to clear the debt on the house, suggested by the cheerful son, Herbert. Nothing seems to happen. The next day, however, a man from Maw and Meggins arrives to report that Herbert has been “caught in the machinery”. The firm, which admits no responsibility, offers compensation of exactly two hundred pounds. So naturally does the wish come true that no supernatural event need be seen at all.",
+    "第一個願望很小，幾乎有點好笑：要兩百英鎊來付清房子的債，是開朗的兒子赫伯特提議的。似乎什麼都沒發生。然而第二天，茂與梅金斯公司派人來，說赫伯特「被捲進了機器裡」。公司不承認任何責任，但提供了剛好兩百英鎊的補償金。這個願望實現得如此自然，根本不需要看到任何超自然現象。"
+   ],
+   [
+    "Grief then drives the second wish. Mrs White demands that her husband wish Herbert alive, brushing aside his reminder that their son has been dead for ten days and could be recognised only by his clothing. Mr White obeys, and in the dark a knocking begins, faint at first and then louder. While his wife struggles with the lock, he finds the paw and makes his third and last wish. The knocking stops, and the door opens on an empty road.",
+    "接著，悲痛驅使了第二個願望。懷特太太要丈夫許願讓赫伯特復活，完全不理會丈夫提醒：兒子已經死了十天，只能靠衣服辨認。懷特先生照做了，黑暗中開始響起敲門聲，起初很輕，後來越來越響。妻子還在和門鎖奮戰時，他找到猴爪，許下第三個、也是最後一個願望。敲門聲停了，門打開時，外面只有空蕩蕩的路。"
+   ],
+   [
+    "Jacobs never states what stood outside or what the final wish was. It is this silence that gives the story its lasting power, because readers supply the horror themselves. Beneath the magic lies a serious idea. Each wish tries to override the ordinary course of events — poverty, death, grief — and each produces a cost greater than the problem it addressed. Whether we read the paw as magic or the events as cruel coincidence, the story leaves an uncomfortable question about the limits of human control.",
+    "雅各布斯從沒說門外站著什麼，也沒說最後一個願望是什麼。正是這份沉默，讓這個故事歷久不衰，因為讀者會自己補上恐怖。在魔法之下，藏著一個嚴肅的想法：每個願望都想推翻事情的正常走向——貧窮、死亡、悲傷——而每個願望都帶來比原本問題更大的代價。不論把猴爪看成魔法，還是把一切看成殘酷的巧合，這個故事都留下一個令人不安的問題：人能掌控的範圍究竟有多大？"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "Why the White family moved to a new house.",
+     "How to find a magic monkey’s paw in India.",
+     "How a horror story uses restraint to explore the cost of controlling fate.",
+     "How W. W. Jacobs became a famous film director."
+    ],
+    "a": 2,
+    "evidence": "It is this silence that gives the story its lasting power",
+    "why": "全文：故事如何靠克制製造恐怖，以及干涉命運的代價。",
+    "traps": [
+     "捏造：他們是想付清房貸，沒有搬家。",
+     "以偏概全：印度只是猴爪的來歷。",
+     "",
+     "張冠李戴：他是作家，故事後來被拍成電影。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “restraint” in the second paragraph mean as used in the passage?",
+    "options": [
+     "Holding back details instead of showing everything.",
+     "Tying someone up so they cannot move.",
+     "Spending very little money on a house.",
+     "Refusing to listen to stories about India."
+    ],
+    "a": 0,
+    "evidence": "Jacobs never states what stood outside or what the final wish was.",
+    "why": "克制：不把一切寫明，讓讀者自己補上恐怖。",
+    "traps": [
+     "",
+     "字面誤讀：restraint 也有束縛的意思，但這裡指寫作上的克制。",
+     "原文字眼、錯誤關係：房貸是第一個願望。",
+     "捏造：一家人很愛聽故事。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Mrs White made the third wish.",
+     "Morris made the first wish in the Whites’ home.",
+     "Herbert had been dead for two days.",
+     "The firm offered exactly two hundred pounds."
+    ],
+    "a": 3,
+    "evidence": "offers compensation of exactly two hundred pounds",
+    "why": "第三段。",
+    "traps": [
+     "張冠李戴：第三個願望是懷特先生許的。",
+     "張冠李戴：許願的是懷特先生。",
+     "數字錯位：原文說已經死了十天。",
+     ""
+    ]
+   },
+   {
+    "type": "ORG",
+    "q": "Why does the author say the story’s horror “depends on restraint”?",
+    "options": [
+     "Because the family is calm and never afraid.",
+     "Because the most frightening events are left unseen.",
+     "Because Morris refuses to tell any stories.",
+     "Because the story is very short."
+    ],
+    "a": 1,
+    "evidence": "readers supply the horror themselves",
+    "why": "作者手法：最可怕的部分都沒寫出來，由讀者自己想像。",
+    "traps": [
+     "正反顛倒：一家人最後非常恐懼。",
+     "",
+     "正反顛倒：莫里斯說了很多印度的故事。",
+     "以偏概全：篇幅不是恐怖的來源。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "The holy man wanted to show that those who [47] with fate do so to their sorrow, and the first wish came true so [48] that no magic was seen.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "interfere"
+      ],
+      "partial": [
+       "interfered",
+       "interferes"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "naturally"
+      ],
+      "partial": [
+       "natural"
+      ]
+     }
+    ],
+    "why": "第一格出自第二段 those who interfered with it（現在式用 interfere）；第二格出自第三段 So naturally（修飾動詞用副詞）。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "The story first appeared in Harper’s Monthly.",
+     "Morris threw the paw into the fire.",
+     "Mr White wished for two thousand pounds.",
+     "Herbert could be recognised only by his clothing.",
+     "The firm admitted full responsibility.",
+     "Jacobs reveals what was standing outside the door."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A 第一段；B 第二段；D 第四段。C 數字錯位（兩百英鎊）；E 正反顛倒（不承認責任）；F 正反顛倒（從沒說）。"
+   },
+   {
+    "kind": "short",
+    "q": "What does Morris tell Mr White to wish for, if he must wish?",
+    "answer": [
+     "something sensible"
+    ],
+    "why": "第二段。"
+   }
+  ]
+ }
 }

@@ -536,5 +536,162 @@
    "zh": "一位星空攝影師談光害如何影響夜空與自然。",
    "question": "Why might darkness matter for animals as well as for people?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "For most of human history, anyone who looked up on a clear night could see thousands of stars and the pale band of the Milky Way. Today, many children growing up in cities have seen the Milky Way only in photographs. The stars have not gone anywhere. What has changed is the amount of artificial light we send into the sky every night, a glow known as skyglow.",
+    "在人類歷史的大部分時間裡，晴朗的夜晚抬頭就能看見成千上萬顆星星和淡淡的銀河。如今，許多在城市長大的孩子只在照片裡見過銀河。星星並沒有消失，改變的是我們每晚送進天空的人造光——這種光暈叫做「天空輝光」。"
+   ],
+   [
+    "Measuring this glow on a global scale has proved surprisingly difficult. The satellites that photograph Earth at night are most sensitive to light directed upward, whereas much of the glow that hides the stars comes from light sent out sideways. They also miss much of the blue light from white LEDs, which have replaced older orange street lamps in many cities. Satellite data alone, in other words, may tell only part of the story.",
+    "要在全球尺度上測量這種光暈，困難得出奇。在夜間拍攝地球的衛星，對往上射的光最敏感，但遮住星星的光暈有很大一部分來自往側面射出的光。衛星也偵測不到白光 LED 發出的大部分藍光，而許多城市已經用白光 LED 取代了舊式的橘色路燈。換句話說，光靠衛星資料，可能只看到故事的一部分。"
+   ],
+   [
+    "To fill this gap, Christopher Kyba and his colleagues turned to Globe at Night, a citizen science project (research in which ordinary people help collect data). Volunteers compare the night sky with a set of charts showing different numbers of stars and report which one matches what they see. In a 2023 study published in Science, the team analysed 51,351 such observations made between 2011 and 2022. Individual reports are imprecise, yet tens of thousands of them, gathered over more than a decade, can reveal trends that no single observer would notice.",
+    "為了補上這個缺口，凱巴和同事求助於「夜空地球」——一個公民科學計畫（由一般民眾協助蒐集資料的研究）。志工把夜空和一組顯示不同星星數量的星圖比對，回報哪一張最符合自己看到的。在 2023 年刊登於《科學》期刊的研究中，團隊分析了 2011 到 2022 年間的 51,351 筆觀測。單一筆回報並不精確，但十多年來累積的數萬筆，能揭露任何一個觀察者都察覺不到的趨勢。"
+   ],
+   [
+    "The results were stark. The loss of visible stars suggested that the sky was growing brighter by 9.6 percent a year on average — so fast that its brightness would double in about eight years, and far faster than the roughly 2 percent a year suggested by satellites. At such a rate, a place where 250 stars are visible would show only about 100 after eighteen years. A child, in effect, could watch the sky fade while growing up. The authors noted, however, that the trend varied by region.",
+    "結果令人震驚。可見星星的減少顯示，天空平均每年變亮 9.6%——快到大約八年亮度就會加倍，也遠快於衛星顯示的每年約 2%。照這個速度，一個看得到 250 顆星星的地方，十八年後只看得到大約 100 顆。實際上，一個孩子可能在長大的過程中，親眼看著天空褪色。不過作者也指出，這個趨勢因地區而異。"
+   ],
+   [
+    "Unlike plastic in the ocean, light pollution leaves nothing behind: it ends the instant a light is switched off or pointed downward. Shielded lamps, warmer colours, dimmers and timers are all cheap and widely available. The obstacle, then, is less technical than cultural — a habit of treating brightness as safety and darkness as waste. Only when we learn to value the dark will the stars return.",
+    "和海洋裡的塑膠不同，光害不會留下任何東西：燈一關掉或轉向下方，它就立刻結束。加遮罩的燈具、較暖的色溫、調光器和定時器，都便宜又容易取得。所以，障礙與其說是技術，不如說是文化——一種把明亮當成安全、把黑暗當成浪費的習慣。只有學會珍惜黑暗，星星才會回來。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "How volunteers revealed a fast rise in light pollution.",
+     "How satellites photograph every light on Earth.",
+     "Why the stars are moving away from our planet.",
+     "How cities choose the colour of their street lamps."
+    ],
+    "a": 0,
+    "evidence": "can reveal trends that no single observer would notice",
+    "why": "全文：公民科學揭露天空變亮的速度遠快於衛星估計，並指出光害可逆。",
+    "traps": [
+     "",
+     "正反顛倒：衛星漏掉了不少光。",
+     "正反顛倒：原文 The stars have not gone anywhere。",
+     "以偏概全：路燈只是衛星偵測不到藍光的原因。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "Which of the following is closest in meaning to “stark” in the fourth paragraph?",
+    "options": [
+     "Hard to measure.",
+     "Calm and hopeful.",
+     "Clear and alarming.",
+     "Bright and colourful."
+    ],
+    "a": 2,
+    "evidence": "The results were stark.",
+    "why": "後面說天空八年亮度就加倍、孩子會看著天空褪色，可知結果「鮮明而令人憂心」。",
+    "traps": [
+     "原文字眼、錯誤關係：難以測量是第二段的問題。",
+     "正反顛倒：結果令人擔憂。",
+     "",
+     "字面誤讀：bright 是天空變亮，不是 stark 的意思。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The trend was exactly the same in every region.",
+     "Satellites suggested a much slower rise in brightness.",
+     "Satellites are most sensitive to light sent sideways.",
+     "The 2023 study used reports collected over one year."
+    ],
+    "a": 1,
+    "evidence": "far faster than the roughly 2 percent a year suggested by satellites",
+    "why": "第四段：衛星顯示每年約 2%，志工資料是 9.6%。",
+    "traps": [
+     "正反顛倒：趨勢因地區而異。",
+     "",
+     "正反顛倒：衛星對往上的光最敏感。",
+     "數字錯位：2011 到 2022 年，十多年。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Which of the following can be inferred from the passage?",
+    "options": [
+     "Orange street lamps produce more blue light than LEDs.",
+     "Volunteers’ reports were more precise than satellites.",
+     "Light pollution is harder to remove than plastic.",
+     "Satellite records alone probably underestimated the problem."
+    ],
+    "a": 3,
+    "evidence": "Satellite data alone, in other words, may tell only part of the story.",
+    "why": "衛星漏掉側射光和藍光，數據又遠低於志工結果，可推知衛星低估了問題。",
+    "traps": [
+     "正反顛倒：藍光來自白光 LED。",
+     "正反顛倒：原文 Individual reports are imprecise。",
+     "正反顛倒：光害一關燈就結束，比塑膠容易處理。",
+     ""
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Volunteers compared the night sky with [47] showing different numbers of stars, and their reports suggested that the sky was growing [48] by 9.6 percent a year.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "charts"
+      ],
+      "partial": [
+       "chart"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "brighter"
+      ],
+      "partial": [
+       "bright",
+       "brightness"
+      ]
+     }
+    ],
+    "why": "第一格出自第三段 a set of charts（複數）；第二格出自第四段 growing brighter（grow 加比較級）。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "The team analysed 51,351 observations.",
+     "The observations were made between 2011 and 2022.",
+     "Satellites detect the blue light of white LEDs very well.",
+     "The trend was the same in every region.",
+     "At 9.6 percent a year, brightness doubles in about eight years.",
+     "Light pollution leaves a long-lasting residue."
+    ],
+    "a": [
+     0,
+     1,
+     4
+    ],
+    "why": "A、B 第三段；E 第四段。C 正反顛倒（衛星漏掉藍光）；D 正反顛倒（因地區而異）；F 正反顛倒（關燈就結束）。"
+   },
+   {
+    "kind": "short",
+    "q": "What name is given to the glow of artificial light that hides the stars?",
+    "answer": [
+     "skyglow"
+    ],
+    "why": "第一段最後。"
+   }
+  ]
+ }
 }

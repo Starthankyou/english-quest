@@ -556,5 +556,163 @@
    "zh": "簡短介紹關於伊索生平的傳說。（2 分鐘）",
    "question": "Which parts of Aesop’s story does the video present as legend rather than fact?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "Few literary forms are as economical as the fable. In one English translation, “The Fox and the Grapes” runs to barely sixty words: a hungry fox fails to reach some ripe grapes, turns away “hiding her disappointment” and declares them sour. Yet this tiny story has survived for more than two thousand years, been adapted by writers such as La Fontaine, and given English the expression “sour grapes”. Its long life raises an interesting question about what makes a story memorable.",
+    "很少有文學形式像寓言這麼精簡。在一個英譯本裡，〈狐狸與葡萄〉只有短短六十個字：一隻飢餓的狐狸搆不到熟透的葡萄，「掩飾著失望」轉身離開，說那些葡萄是酸的。然而，這個小故事流傳了兩千多年，被拉封丹等作家改寫，還讓英語多了「酸葡萄」這個說法。它的長壽引出一個有趣的問題：什麼讓一個故事令人難忘？"
+   ],
+   [
+    "The figure behind these tales is hard to pin down. Aesop is traditionally placed in the sixth century BCE, and scattered details of his life appear in the writings of Herodotus, Aristotle and Plutarch. An ancient text known as The Aesop Romance describes him as an ugly slave who wins his freedom through cleverness and becomes an adviser to kings, but it is probably largely fictional. No writings by him survive. Not until about three centuries after his supposed death were the fables collected, by which time many other stories had attached themselves to his name.",
+    "這些故事背後的人物很難確定。傳統上認為伊索生活在西元前六世紀，希羅多德、亞里斯多德和普魯塔克的著作裡零星記載了他的生平。一部名為《伊索傳奇》的古代作品，把他描寫成一個靠聰明贏得自由、後來成為國王顧問的醜陋奴隸，但這多半是虛構的。他沒有任何作品留存。直到他據說去世約三百年後，這些寓言才被收集成冊，那時已有許多其他故事被掛在他的名下。"
+   ],
+   [
+    "Part of the fables’ power lies in their structure. Each presents a short situation, an action and a result, often followed by a stated lesson. In “The North Wind and the Sun”, the two compete to make a traveller remove his cloak: the harder the wind blows, the more tightly the man wraps himself, until the sun’s warmth achieves what force could not. The lesson — “Persuasion is better than Force” — is almost unnecessary, because the image has already made the argument.",
+    "寓言的力量有一部分來自它的結構：每則都呈現一個簡短的情境、一個行動和一個結果，後面常附上一句明說的教訓。在〈北風與太陽〉中，兩者比賽誰能讓旅人脫下斗篷：風吹得越猛，那人裹得越緊，直到太陽的溫暖做到了強力做不到的事。那句教訓——「說服勝於強迫」——幾乎是多餘的，因為畫面已經把道理說完了。"
+   ],
+   [
+    "Several fables also anticipate ideas from modern psychology. The fox who looks down on what she cannot get has been read as an example of cognitive dissonance (the discomfort of holding two conflicting feelings): rather than admit failure, she decides the grapes were never worth having. Similarly, “The Shepherd’s Boy and the Wolf” captures the economics of trust. Having raised false alarms three or four times, the boy finds that no one pays any attention when the danger is real.",
+    "好幾則寓言也預示了現代心理學的觀念。狐狸瞧不起自己得不到的東西，被解讀為「認知失調」（同時懷著兩種相互衝突的感受所帶來的不適）的例子：與其承認失敗，牠乾脆認定那些葡萄從來就不值得要。同樣地，〈牧羊童與狼〉道出了信任的經濟學：謊報三、四次之後，等危險真的來了，男孩發現再也沒人理他。"
+   ],
+   [
+    "The first-century philosopher Apollonius of Tyana praised Aesop for using humble stories to teach great truths, and he added a subtler point: by telling stories that everyone knows are untrue, Aesop told the truth precisely because he never claimed to be describing real events. It is this distance that makes the fables work. By placing human weaknesses in animal bodies, they let listeners recognise themselves without feeling attacked.",
+    "一世紀的哲學家提亞納的阿波羅尼烏斯，稱讚伊索用平凡的故事教導偉大的真理，還補充了一個更細膩的觀點：伊索講的是人人都知道不是真的的故事，正因為他從不聲稱自己在描述真實事件，反而說出了真理。讓寓言發揮作用的，正是這種距離。把人的弱點放進動物的身體裡，讓聽眾能認出自己，卻不覺得被攻擊。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "Why foxes cannot reach grapes on a vine.",
+     "How Aesop won his freedom and advised kings.",
+     "How La Fontaine translated the fables into English.",
+     "Why such short fables have lasted for thousands of years."
+    ],
+    "a": 3,
+    "evidence": "Its long life raises an interesting question about what makes a story memorable.",
+    "why": "第一段提出問題，後面從結構、心理與距離感回答。",
+    "traps": [
+     "字面誤讀：狐狸只是寓言角色。",
+     "以偏概全：而且這段生平多半是虛構的。",
+     "張冠李戴：拉封丹是改寫者，文中沒說他譯成英文。",
+     ""
+    ]
+   },
+   {
+    "type": "REF",
+    "q": "What does “it” in “it is probably largely fictional” in the second paragraph refer to?",
+    "options": [
+     "The sixth century BCE.",
+     "The Aesop Romance.",
+     "Aesop’s freedom.",
+     "The fable about grapes."
+    ],
+    "a": 1,
+    "evidence": "An ancient text known as The Aesop Romance describes him as an ugly slave",
+    "why": "同一句前半：被說成多半虛構的是《伊索傳奇》。",
+    "traps": [
+     "原文字眼、錯誤關係：世紀是時間，不會是虛構的。",
+     "",
+     "原文字眼、錯誤關係：自由是書中描述的內容之一。",
+     "時序錯置：葡萄的寓言在第一段。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "In the fable, the wind made the traveller remove his cloak.",
+     "Many of Aesop’s own writings have survived.",
+     "The fables were collected about three centuries after Aesop’s death.",
+     "The shepherd’s boy raised a false alarm only once."
+    ],
+    "a": 2,
+    "evidence": "Not until about three centuries after his supposed death were the fables collected",
+    "why": "第二段。",
+    "traps": [
+     "張冠李戴：讓他脫下斗篷的是太陽。",
+     "正反顛倒：沒有任何作品留存。",
+     "",
+     "數字錯位：原文是三、四次。"
+    ]
+   },
+   {
+    "type": "ORG",
+    "q": "Why does the author mention Apollonius of Tyana in the last paragraph?",
+    "options": [
+     "To support the idea that untrue stories can teach truth.",
+     "To prove that Aesop really lived in the first century.",
+     "To show that Aesop’s stories were based on real events.",
+     "To explain how the fables were translated into Greek."
+    ],
+    "a": 0,
+    "evidence": "Aesop told the truth precisely because he never claimed to be describing real events",
+    "why": "作者手法：引用古代哲學家的看法，支持「故事雖假卻能傳達真理」。",
+    "traps": [
+     "",
+     "數字錯位：一世紀是阿波羅尼烏斯的年代，伊索在西元前六世紀。",
+     "正反顛倒：伊索從不聲稱在描述真實事件。",
+     "捏造：文中沒談翻譯成希臘文。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "The fox decides the grapes are sour to hide her [47], and the fables let listeners see their own faults without feeling [48].",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "disappointment"
+      ],
+      "partial": [
+       "disappointed"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "attacked"
+      ],
+      "partial": [
+       "attack",
+       "attacks"
+      ]
+     }
+    ],
+    "why": "第一格出自第一段 hiding her disappointment；第二格出自第五段 without feeling attacked（feel 後接過去分詞）。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "One translation of the fox fable has barely sixty words.",
+     "Details of Aesop’s life appear in Herodotus and Aristotle.",
+     "Aesop wrote down all of his fables himself.",
+     "The lesson of the wind and sun is that persuasion beats force.",
+     "The Aesop Romance is a reliable history.",
+     "Apollonius lived in the sixth century BCE."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A 第一段；B 第二段；D 第三段。C 正反顛倒（沒有作品留存，後人才收集）；E 正反顛倒（多半虛構）；F 數字錯位（一世紀）。"
+   },
+   {
+    "kind": "short",
+    "q": "What English expression comes from the fable of the fox and the grapes?",
+    "answer": [
+     "sour grapes",
+     "“sour grapes”"
+    ],
+    "why": "第一段。"
+   }
+  ]
+ }
 }

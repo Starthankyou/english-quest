@@ -537,5 +537,163 @@
    "zh": "鄧巴說明這個數字背後想法的短片。（5 分鐘）",
    "question": "After reading the 2021 study, how would you respond to the title of this video?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "Few numbers from the social sciences have escaped into popular culture as successfully as 150. Proposed by the British anthropologist Robin Dunbar in the early 1990s, it is said to represent the number of stable relationships a person can comfortably maintain. Dunbar described it informally as the number of people “you would not feel embarrassed about joining uninvited for a drink if you happened to bump into them in a bar.” In 2007, the Swedish Tax Agency even planned to limit its offices to 150 employees, citing his research.",
+    "很少有社會科學的數字像 150 這樣成功地走進大眾文化。這個數字由英國人類學家鄧巴在 1990 年代初提出，據說代表一個人能輕鬆維持的穩定人際關係數量。鄧巴非正式地把它形容為：如果在酒吧巧遇，你不請自來加入他們喝一杯也不會覺得尷尬的人數。2007 年，瑞典稅務局甚至援引他的研究，計畫把每個辦公室的員工限制在 150 人。"
+   ],
+   [
+    "The argument begins with primates. Monkeys and apes keep their groups together through grooming, and the number of companions an animal can track appears to grow with the size of its neocortex (the outer layer of the brain) compared with the rest of the brain. In 1992, using data from 38 groups of primates, Dunbar predicted an average human group size of 148, which was casually rounded to 150. He considered the result exploratory, since its 95% confidence interval ran from 100 to 230.",
+    "這個論證從靈長類開始。猴子和猿類靠互相理毛維繫群體，而一隻動物能掌握的同伴數量，似乎隨著新皮質（大腦外層）相對於大腦其他部分的大小而增加。1992 年，鄧巴用 38 個靈長類屬的資料，推算出人類的平均群體大小為 148，再隨手四捨五入成 150。他認為這只是探索性的結果，因為它的 95% 信賴區間從 100 到 230。"
+   ],
+   [
+    "Dunbar then looked for support in human societies. He pointed to the estimated size of Neolithic farming villages, the size at which Hutterite communities tend to split, and the basic unit of professional armies. He also argued that keeping a group this large together would require intense effort: as much as 42 percent of a group’s time might have to go into social grooming, which is why only groups under strong pressure to stay together tend to reach 150.",
+    "鄧巴接著在人類社會中尋找佐證。他指出新石器時代農村的估計規模、哈特派社群傾向分裂的人數，以及職業軍隊的基本單位。他也主張，要維持這麼大的群體需要大量投入：群體多達 42% 的時間可能得花在社交理毛上，這就是為什麼只有承受強大壓力、必須團結的群體，才會達到 150 人左右。"
+   ],
+   [
+    "In 2021, however, three researchers at Stockholm University re-examined the link between brain size and group size using updated data and newer methods. Not only did their analyses give very different numbers, but the uncertainty was enormous. One method suggested an average of 69 to 109; another suggested 16 to 42. The ranges of possible values were huge — from 4 to 520 in one case and 2 to 336 in another — leading the authors to conclude that choosing any single number is pointless.",
+    "然而在 2021 年，斯德哥爾摩大學的三位研究者用更新的資料和較新的方法，重新檢驗大腦大小和群體大小的關係。他們的分析不只得出差異很大的數字，不確定性也大得驚人：一種方法得出平均 69 到 109，另一種則是 16 到 42。可能數值的範圍更是龐大——一個是 4 到 520，另一個是 2 到 336——使作者得出結論：選定任何單一數字都沒有意義。"
+   ],
+   [
+    "The controversy shows how a cautious estimate can harden into an apparent law once it becomes popular. Dunbar himself presented his figure carefully, yet the wide range around it largely disappeared in public retelling, leaving a single memorable number. It is the precision of such numbers that should make us suspicious. None of this disproves the underlying idea that relationships take time and attention, both of which are limited.",
+    "這場爭議顯示：一個謹慎的估計，一旦流行起來，就可能凝固成看似定律的東西。鄧巴自己提出這個數字時很謹慎，但它周圍那段寬廣的範圍，在大眾轉述中幾乎消失了，只剩下一個好記的數字。正是這類數字的「精確」，才更該讓我們起疑。不過，這一切都無法推翻背後的道理：人際關係需要時間和注意力，而兩者都是有限的。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "How a cautious estimate about friendships became a popular law.",
+     "How to make 150 close friends in a short time.",
+     "Why Sweden’s tax offices have exactly 150 workers.",
+     "How monkeys and apes groom one another."
+    ],
+    "a": 0,
+    "evidence": "The controversy shows how a cautious estimate can harden into an apparent law once it becomes popular.",
+    "why": "全文：鄧巴數的由來、佐證、後來的質疑，以及它如何被當成定律。",
+    "traps": [
+     "",
+     "捏造：文中沒教人交朋友。",
+     "以偏概全：而且只說「計畫」限制在 150 人。",
+     "以偏概全：理毛只是論證的起點。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “exploratory” in the second paragraph suggest about Dunbar’s result?",
+    "options": [
+     "It was based on a long trip to many countries.",
+     "It was proved true by many later studies.",
+     "It was a first, uncertain attempt rather than a final answer.",
+     "It was copied from another scientist’s work."
+    ],
+    "a": 2,
+    "evidence": "since its 95% confidence interval ran from 100 to 230",
+    "why": "範圍從 100 到 230，所以只是初步、不確定的探索。",
+    "traps": [
+     "字面誤讀：explore 也有探險的意思。",
+     "正反顛倒：後來的研究反而質疑它。",
+     "",
+     "捏造：這是他自己的估計。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Dunbar used data from 38 human villages.",
+     "Dunbar’s original estimate was 148 before it was rounded.",
+     "The 2021 study confirmed the number 150.",
+     "Dunbar said 150 was an exact natural law."
+    ],
+    "a": 1,
+    "evidence": "Dunbar predicted an average human group size of 148, which was casually rounded to 150",
+    "why": "第二段。",
+    "traps": [
+     "張冠李戴：38 是靈長類的資料。",
+     "",
+     "正反顛倒：他們認為選任何數字都沒有意義。",
+     "正反顛倒：他自己說是探索性的。"
+    ]
+   },
+   {
+    "type": "NOT",
+    "q": "Which of the following is NOT mentioned as support Dunbar found in human societies?",
+    "options": [
+     "The basic unit of professional armies.",
+     "The size of Neolithic farming villages.",
+     "The size at which Hutterite communities split.",
+     "The size of modern school classes."
+    ],
+    "a": 3,
+    "evidence": "He pointed to the estimated size of Neolithic farming villages",
+    "why": "第三段列出新石器時代村落、哈特派社群、軍隊單位，沒有提到學校班級。",
+    "traps": [
+     "有提到：the basic unit of professional armies。",
+     "有提到：Neolithic farming villages。",
+     "有提到：Hutterite communities tend to split。",
+     ""
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Dunbar’s 1992 figure of 148 was casually [47] to 150, but the 2021 study concluded that choosing any single number is [48].",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "rounded"
+      ],
+      "partial": [
+       "round",
+       "rounding"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "pointless"
+      ],
+      "partial": [
+       "point"
+      ]
+     }
+    ],
+    "why": "第一格出自第二段 was casually rounded（被動）；第二格出自第四段 is pointless。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "Dunbar proposed the number in the early 1990s.",
+     "The neocortex is the outer layer of the brain.",
+     "The 2021 study used older and fewer data.",
+     "Up to 42 percent of a group’s time might go into grooming.",
+     "One 2021 method suggested an average of exactly 150.",
+     "Dunbar presented his figure without any caution."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A 第一段；B 第二段；D 第三段。C 正反顛倒（更新的資料與方法）；E 數字錯位（69–109 或 16–42）；F 正反顛倒（他很謹慎）。"
+   },
+   {
+    "kind": "short",
+    "q": "Which government agency planned to limit its offices to 150 employees in 2007?",
+    "answer": [
+     "the Swedish Tax Agency",
+     "Swedish Tax Agency"
+    ],
+    "why": "第一段。"
+   }
+  ]
+ }
 }

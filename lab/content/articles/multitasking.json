@@ -547,5 +547,165 @@
    "zh": "一位神經科學家說明為什麼一心多用要付出代價。（3 分鐘）",
    "question": "Does the video mention any uncertainty, as the 2018 review does?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "Students today rarely study without interruption. Assignments compete with messages, notifications and videos, and many young people describe themselves as skilled multitaskers. The idea, however, rests on an assumption that research has repeatedly challenged: that the mind can perform several demanding tasks at once. For tasks that require attention and thought, what feels like doing things together is usually rapid switching, and switching is never free.",
+    "現在的學生很少能不受打擾地讀書。作業要和訊息、通知、影片搶注意力，很多年輕人也自認擅長一心多用。然而這個想法建立在一個一再被研究挑戰的假設上：大腦能同時處理好幾件費神的工作。對需要專注和思考的工作來說，感覺像同時進行的事，通常只是快速切換，而切換從來不是免費的。"
+   ],
+   [
+    "Laboratory studies have measured these costs directly. In a 2001 set of experiments, Rubinstein, Meyer and Evans asked participants either to alternate between tasks, such as sorting shapes by different rules or solving arithmetic problems, or to repeat the same task. Switching took extra time, and the costs grew when the rules were more complex. Clear cues about which task came next reduced the cost, but they did not remove it. So consistent were the delays that the researchers proposed separate mental stages for shifting goals and switching on new rules.",
+    "實驗室研究直接測量了這些代價。在 2001 年的一系列實驗中，魯賓斯坦、梅爾和伊凡斯讓參與者在不同工作間輪替——例如按不同規則分類圖形、或解算術題——或是重複同一項工作。切換需要額外的時間，規則越複雜，代價越大。清楚提示下一項工作是什麼，能減少代價，卻無法消除它。延遲穩定到研究者提出：轉換目標和啟用新規則，是大腦中分開的不同階段。"
+   ],
+   [
+    "The real-world effects are starkest on the road. In driving-simulator studies, Strayer and Johnston found that phone conversations, whether handheld or hands-free, doubled the rate at which drivers missed traffic signals and slowed their reactions to the ones they did see. Listening to the radio or to a book on tape caused no such problem. It was not holding the phone that mattered, then, but being drawn into a conversation. Simply repeating words heard on the phone did not harm driving, whereas a task requiring drivers to think of new words did.",
+    "真實世界的影響在道路上最為明顯。在駕駛模擬研究中，史特雷爾和強斯頓發現，講電話——不論手持或免持——都讓駕駛漏看交通號誌的比率加倍，對看到的號誌反應也變慢。聽收音機或有聲書則不會造成這種問題。所以，重點不在手上拿著電話，而在被捲入一段對話。單純複述電話裡聽到的字不會影響駕駛，但要駕駛自己想出新詞的任務就會。"
+   ],
+   [
+    "A natural assumption is that practice makes people better at multitasking. In 2009, however, Ophir, Nass and Wagner at Stanford compared heavy and light media multitaskers (people who often or rarely use several media at once). Heavy multitaskers were more easily distracted by irrelevant information around them and in their memory. Surprisingly, they also did worse on a test of switching between tasks, the very skill they practised most, apparently because they found it harder to filter out the task they had just left.",
+    "人們很自然地以為，多練習就會更擅長一心多用。然而 2009 年，史丹佛的歐菲爾、納斯和華格納比較了重度和輕度的媒體多工者（經常或很少同時使用多種媒體的人）。重度多工者比較容易被周遭和記憶中不相關的資訊干擾。令人意外的是，他們在任務切換測驗上的表現也比較差——這正是他們練習最多的技能——原因似乎是他們比較難濾掉剛剛離開的那項工作。"
+   ],
+   [
+    "Later research has complicated, though not overturned, this picture. A 2018 review by Uncapher and Wagner noted that the evidence is limited and mixed, that many studies find no differences, and that the direction of cause is unknown: multitasking might weaken attention, or people with weaker attention might simply multitask more. Even so, the practical conclusion is clear. Deep understanding depends on attention, which is easier to protect than to win back once it has been divided.",
+    "後來的研究讓這幅圖像變得複雜，但沒有推翻它。2018 年，安卡佛和華格納的回顧指出，證據有限且分歧，許多研究沒有發現差異，而且因果方向不明：可能是多工削弱了注意力，也可能是注意力較弱的人本來就比較常多工。即便如此，實際的結論很清楚：深入的理解有賴於注意力，而注意力一旦被分散，保護它比事後找回來容易得多。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "Why the radio is dangerous for every driver.",
+     "How to send messages faster while studying.",
+     "Why multitasking usually means costly switching between tasks.",
+     "How Stanford students use social media at night."
+    ],
+    "a": 2,
+    "evidence": "what feels like doing things together is usually rapid switching, and switching is never free",
+    "why": "第一段點題，後面以實驗室、駕駛和多工者研究支持。",
+    "traps": [
+     "正反顛倒：聽收音機不會造成問題。",
+     "正反顛倒：作者建議保護注意力。",
+     "",
+     "以偏概全：史丹佛研究只是其中一項。"
+    ]
+   },
+   {
+    "type": "REF",
+    "q": "What does “the ones” in “the ones they did see” in the third paragraph refer to?",
+    "options": [
+     "Traffic signals.",
+     "Phone conversations.",
+     "Driving simulators.",
+     "Books on tape."
+    ],
+    "a": 0,
+    "evidence": "doubled the rate at which drivers missed traffic signals",
+    "why": "前面提到漏看的交通號誌，the ones 指看到的那些號誌。",
+    "traps": [
+     "",
+     "原文字眼、錯誤關係：電話交談是造成問題的原因。",
+     "原文字眼、錯誤關係：模擬器是研究工具。",
+     "時序錯置：有聲書在下一句。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Heavy multitaskers were better at switching tasks.",
+     "Clear cues completely removed switching costs.",
+     "Listening to the radio doubled missed signals.",
+     "Hands-free phones were no safer than handheld ones."
+    ],
+    "a": 3,
+    "evidence": "phone conversations, whether handheld or hands-free, doubled the rate",
+    "why": "第三段。",
+    "traps": [
+     "正反顛倒：他們表現比較差。",
+     "正反顛倒：提示只能減少，無法消除。",
+     "張冠李戴：聽收音機沒有影響。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What can be inferred from the third paragraph?",
+    "options": [
+     "Drivers should always listen to books on tape.",
+     "The danger lies in the conversation, not in holding a phone.",
+     "Repeating words is harder than thinking of new ones.",
+     "Hands-free phones make phone conversations much shorter and safer."
+    ],
+    "a": 1,
+    "evidence": "It was not holding the phone that mattered, then, but being drawn into a conversation.",
+    "why": "免持一樣危險、複述字不影響、想新詞才影響，可推知危險在於思考對話。",
+    "traps": [
+     "過度推論：只說有聲書不造成問題，沒有這樣建議。",
+     "",
+     "正反顛倒：想新詞才會影響駕駛。",
+     "捏造：文中沒說免持會讓對話變短。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Switching between tasks always has a cost, and clear cues can [47] it but not remove it; heavy multitaskers even did worse at [48] between tasks.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "reduce"
+      ],
+      "partial": [
+       "reduced",
+       "reduces"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "switching"
+      ],
+      "partial": [
+       "switch",
+       "switched"
+      ]
+     }
+    ],
+    "why": "第一格出自第二段 reduced the cost（can 後接原形）；第二格出自第四段 switching between tasks（介系詞後接動名詞）。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "Switching costs grew when the rules were more complex.",
+     "Phone conversations slowed drivers’ reactions.",
+     "Repeating words heard on the phone harmed driving.",
+     "The 2009 study was carried out at Stanford.",
+     "The 2018 review proved that multitasking causes weak attention.",
+     "Light multitaskers were more easily distracted."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A 第二段；B 第三段；D 第四段。C 正反顛倒（複述不影響）；E 正反顛倒（因果方向不明）；F 張冠李戴（是重度多工者）。"
+   },
+   {
+    "kind": "short",
+    "q": "What two things did NOT cause drivers to miss signals, according to the third paragraph?",
+    "answer": [
+     "the radio or a book on tape",
+     "listening to the radio or to a book on tape",
+     "the radio and books on tape"
+    ],
+    "why": "第三段。"
+   }
+  ]
+ }
 }

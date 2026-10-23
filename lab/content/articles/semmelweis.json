@@ -536,5 +536,166 @@
    "zh": "動畫重述：為什麼塞麥爾維斯的發現會被拒絕。",
    "question": "What could Semmelweis have done differently to persuade others?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "Washing your hands before touching a patient seems so obvious today that it is hard to imagine a time when doctors did not do it. In the middle of the nineteenth century, however, the idea that a doctor’s hands could carry disease was considered not only unproven but insulting. The story of Ignaz Semmelweis, the Hungarian doctor who first showed the power of handwashing, is a lesson in how sound evidence can be ignored when it challenges people’s sense of who they are.",
+    "今天，碰病人前先洗手顯得理所當然，很難想像曾有醫生不這麼做。然而在十九世紀中葉，「醫生的手可能帶著疾病」這個想法不只未經證實，還被視為一種侮辱。匈牙利醫生塞麥爾維斯率先證明了洗手的力量，他的故事告訴我們：當證據挑戰人們的自我認知時，再可靠的證據也可能被忽視。"
+   ],
+   [
+    "In 1846, Semmelweis began working at Vienna General Hospital, which ran two maternity clinics side by side. Staffed by doctors and medical students, the First Clinic had an average death rate of about 10 percent among mothers, mostly from childbed fever; the Second, run by midwives, averaged under 4 percent. So grim was the First Clinic’s reputation that women begged to be admitted to the Second. Because both clinics belonged to the same hospital in the same city, the gap could not easily be blamed on outside conditions.",
+    "1846 年，塞麥爾維斯開始在維也納總醫院工作，醫院裡並排設有兩間產科診所。由醫生和醫學生負責的第一診所，產婦平均死亡率約 10%，多半死於產褥熱；由助產士負責的第二診所，平均不到 4%。第一診所的名聲糟到產婦苦苦哀求住進第二診所。由於兩間診所屬於同一城市的同一家醫院，這個差距很難歸咎於外在條件。"
+   ],
+   [
+    "The decisive clue came in 1847, when his colleague Jakob Kolletschka died after being cut by a scalpel during an autopsy (the examination of a dead body). Kolletschka’s symptoms looked strikingly similar to those of the dying mothers. Semmelweis concluded that doctors were carrying “cadaverous particles” on their hands from the autopsy room to the women they examined — something the midwives, who did not perform autopsies, were not doing.",
+    "決定性的線索出現在 1847 年：他的同事科列奇卡在解剖（檢查屍體）時被手術刀割傷，不久死去，症狀和垂死的產婦驚人地相似。塞麥爾維斯推斷，醫生把「屍體微粒」從解剖室沾在手上，帶給他們檢查的產婦——而不做解剖的助產士不會這樣。"
+   ],
+   [
+    "He ordered staff to wash their hands in a solution of chlorinated lime before examining patients. The effect was dramatic: the death rate in the First Clinic, which had stood at 18.3 percent in April 1847, fell to below 2 percent. In other words, a single change, applied consistently, reduced deaths by roughly ninety percent within months. A simple basin of disinfectant had achieved what years of debate had not.",
+    "他下令員工在檢查病人前，先用漂白粉溶液洗手。效果非常驚人：第一診所 1847 年 4 月的死亡率是 18.3%，之後降到 2% 以下。換句話說，一個持續執行的簡單改變，在幾個月內讓死亡人數減少了大約九成。一盆消毒水，做到了多年爭論做不到的事。"
+   ],
+   [
+    "Yet many colleagues rejected his findings. Some were offended by the suggestion that they themselves were causing their patients’ deaths, and Semmelweis could not explain why washing worked, since germ theory had not yet been established. Increasingly isolated, he was committed to an asylum in 1865 and died within weeks. Not until Louis Pasteur established germ theory and Joseph Lister pioneered antiseptic surgery were his ideas widely accepted. Being right, Semmelweis discovered at great personal cost, is not the same as being heard.",
+    "然而許多同事否定了他的發現。有些人被「是你們害死了病人」的暗示激怒；塞麥爾維斯也解釋不了洗手為什麼有效，因為當時細菌理論還沒建立。他越來越孤立，1865 年被送進精神病院，幾週後就去世了。直到巴斯德建立細菌理論、李斯特開創無菌手術，他的想法才被廣泛接受。塞麥爾維斯付出慘痛代價才明白：說得對，並不等於有人聽。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "A doctor whose life-saving discovery was rejected at first.",
+     "How midwives were trained in nineteenth-century Vienna.",
+     "How Louis Pasteur discovered the power of handwashing.",
+     "Why mothers in Vienna refused to give birth in hospitals."
+    ],
+    "a": 0,
+    "evidence": "Yet many colleagues rejected his findings.",
+    "why": "全文：塞麥爾維斯證明洗手能救命，卻被同行否定。",
+    "traps": [
+     "",
+     "以偏概全：助產士只是對照的一方。",
+     "張冠李戴：Pasteur 建立的是細菌理論，洗手是塞麥爾維斯發現的。",
+     "正反顛倒：產婦是哀求住進第二診所。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “cadaverous particles” in the third paragraph most likely refer to?",
+    "options": [
+     "Drops of the chlorinated lime solution.",
+     "Pieces of the scalpel that cut Kolletschka.",
+     "Harmful matter carried from dead bodies.",
+     "Signs of fever seen in the dying mothers."
+    ],
+    "a": 2,
+    "evidence": "doctors were carrying “cadaverous particles” on their hands from the autopsy room",
+    "why": "從解剖室沾到手上、帶給產婦的東西：來自屍體的有害物質。",
+    "traps": [
+     "時序錯置：漂白粉溶液是後來的解方。",
+     "原文字眼、錯誤關係：手術刀是讓同事受傷的工具。",
+     "",
+     "因果混淆：發燒是結果，不是被帶過去的東西。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The First Clinic’s average death rate was under 4 percent.",
+     "The Second Clinic was run by midwives.",
+     "The death rate was 18.3 percent after handwashing began.",
+     "Semmelweis lived to see germ theory widely accepted."
+    ],
+    "a": 1,
+    "evidence": "the Second, run by midwives, averaged under 4 percent",
+    "why": "第二段。",
+    "traps": [
+     "張冠李戴：不到 4% 的是第二診所。",
+     "",
+     "時序錯置：18.3% 是 1847 年 4 月、洗手之前。",
+     "時序錯置：他 1865 年去世，之後才被接受。"
+    ]
+   },
+   {
+    "type": "SEQ",
+    "q": "Which of the following shows the correct order of events? a. Kolletschka dies after an autopsy. b. Semmelweis begins work in Vienna. c. Semmelweis is committed to an asylum. d. Handwashing with chlorinated lime is ordered.",
+    "options": [
+     "a → b → d → c",
+     "b → d → a → c",
+     "b → a → d → c",
+     "b → a → c → d"
+    ],
+    "a": 2,
+    "evidence": "The decisive clue came in 1847",
+    "why": "1846 年到維也納 → 1847 年同事死亡 → 下令洗手 → 1865 年被送進精神病院。",
+    "traps": [
+     "時序顛倒：他 1846 年先到醫院工作。",
+     "時序顛倒：是同事死亡給了他線索，才下令洗手。",
+     "",
+     "時序顛倒：送進精神病院是最後的事。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "By making doctors wash their hands, Semmelweis [47] deaths by about ninety percent, yet many of his colleagues [48] his findings.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "reduced"
+      ],
+      "partial": [
+       "reduce",
+       "reduces",
+       "reduction"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "rejected"
+      ],
+      "partial": [
+       "reject",
+       "rejects",
+       "rejection"
+      ]
+     }
+    ],
+    "why": "第一格出自第四段 reduced deaths；第二格出自第五段 rejected his findings，皆為過去式。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "The Second Clinic was run by midwives.",
+     "The First Clinic averaged about 10 percent maternal deaths.",
+     "Kolletschka died of childbed fever after giving birth.",
+     "Staff washed their hands in chlorinated lime.",
+     "Germ theory was already accepted in the 1840s.",
+     "Semmelweis lived to see his ideas accepted."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A、B 第二段；D 第四段。C 張冠李戴（他是解剖時被割傷）；E 正反顛倒（當時尚未建立）；F 正反顛倒（他死後才被接受）。"
+   },
+   {
+    "kind": "short",
+    "q": "What did Semmelweis believe doctors carried on their hands from the autopsy room?",
+    "answer": [
+     "cadaverous particles",
+     "“cadaverous particles”"
+    ],
+    "why": "第三段。"
+   }
+  ]
+ }
 }

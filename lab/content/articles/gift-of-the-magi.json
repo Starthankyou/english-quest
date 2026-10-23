@@ -537,5 +537,160 @@
    "zh": "故事與結局的簡短摘要。（4 分鐘）",
    "question": "After watching, explain in one sentence why O. Henry calls Della and Jim “the wisest”."
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "Few short stories are as compact, or as often retold, as O. Henry’s “The Gift of the Magi.” First published in The New York Sunday World on 10 December 1905 under the title “Gifts of the Magi,” and later collected in The Four Million, it fills only a few pages. According to a popular account, O. Henry, whose real name was William Sydney Porter, wrote it at Pete’s Tavern in New York City, although the claim is difficult to prove.",
+    "很少有短篇小說像歐．亨利的〈賢者的禮物〉這樣精簡，又這樣常被重述。它在 1905 年 12 月 10 日以〈賢者們的禮物〉為題首次刊登在《紐約週日世界報》，後來收進《四百萬》，只占短短幾頁。根據一個流行的說法，本名威廉．西德尼．波特的歐．亨利，是在紐約的皮特酒館寫下這篇故事的，不過這個說法很難證實。"
+   ],
+   [
+    "The story opens with a precise and painful figure: one dollar and eighty-seven cents, with sixty cents of it in pennies saved by bargaining with the grocer and the butcher. Della Young has counted it three times. The details of poverty pile up — a furnished flat at eight dollars a week, and a husband whose income has shrunk from thirty dollars to twenty. Tomorrow is Christmas, and the money is not enough to buy Jim a present worthy of him.",
+    "故事一開頭就是一個精確又令人難受的數字：一元八角七分，其中六角是跟雜貨商和肉販討價還價省下的一分硬幣。黛拉已經數了三遍。貧窮的細節一一堆疊——一週八元的附家具公寓，以及收入從三十元縮減到二十元的丈夫。明天就是聖誕節，這點錢不夠買一份配得上吉姆的禮物。"
+   ],
+   [
+    "Against this background stand the couple’s two treasures: Jim’s gold watch, passed down from his father and grandfather, and Della’s hair, which would have made the Queen of Sheba jealous. Della sells her hair to Madame Sofronie for twenty dollars and spends twenty-one on a platinum chain for the watch. Jim, unknown to her, sells his watch to buy the tortoise-shell combs she has admired in a Broadway window for a long time. Each sacrifice destroys the usefulness of the other’s gift.",
+    "在這樣的背景下，夫妻倆各有一件寶物：吉姆從父親和祖父傳下來的金錶，以及黛拉那頭連示巴女王都會嫉妒的秀髮。黛拉把頭髮以二十元賣給蘇芙朗妮夫人，花二十一元買了一條白金錶鍊。吉姆則瞞著她賣掉金錶，買下她在百老匯櫥窗裡渴望已久的玳瑁梳子。每一份犧牲，都讓對方的禮物失去了用處。"
+   ],
+   [
+    "Read purely as plot, the ending seems almost absurd, and O. Henry expects this objection. He calls his own tale “the uneventful chronicle of two foolish children” who “most unwisely sacrificed for each other the greatest treasures of their house.” It is this self-mockery that prepares the final turn: by naming the reader’s likely judgement first, he gets ready to overturn it. Tellingly, Jim does not mourn his watch; he simply suggests that they put their presents away for a while.",
+    "單看情節，結局幾乎荒謬，而歐．亨利預料到了這個反應。他把自己的故事稱為「兩個傻孩子平淡無奇的紀事」，說他們「極不明智地為對方犧牲了家中最寶貴的東西」。正是這種自嘲，為最後的轉折鋪路：他先說出讀者可能的評價，再準備推翻它。很能說明問題的是，吉姆並不為錶惋惜；他只是提議先把禮物收起來一陣子。"
+   ],
+   [
+    "The overturning comes in the final lines. The Magi, he reminds us, were wise men who invented the art of giving Christmas presents. Yet of all who give and receive gifts, Della and Jim are the wisest: “They are the magi.” So complete is this reversal that it changes the meaning of wisdom itself. A wise gift, in O. Henry’s sense, is not one that is practical or cleverly chosen, but one that shows how completely the giver is willing to put another person first.",
+    "推翻出現在最後幾行。他提醒我們，賢者是發明聖誕送禮藝術的智者。然而在所有送禮和收禮的人當中，黛拉和吉姆最有智慧：「他們就是賢者。」這個翻轉徹底到改變了「智慧」本身的意義。在歐．亨利看來，聰明的禮物不是實用或挑得巧的禮物，而是能顯示送禮的人多麼願意把對方放在第一位的禮物。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "How a short story redefines what makes a gift wise.",
+     "How O. Henry wrote the story at Pete’s Tavern.",
+     "How a poor couple saved money for many years.",
+     "Why platinum chains were popular in 1905."
+    ],
+    "a": 0,
+    "evidence": "So complete is this reversal that it changes the meaning of wisdom itself.",
+    "why": "全文：故事的情節與轉折，如何重新定義「聰明的禮物」。",
+    "traps": [
+     "",
+     "正反顛倒：原文說這個說法很難證實。",
+     "以偏概全：存錢只是開頭的細節。",
+     "捏造：文中沒談白金錶鍊是否流行。"
+    ]
+   },
+   {
+    "type": "REF",
+    "q": "What does “this objection” in the fourth paragraph refer to?",
+    "options": [
+     "Jim’s anger about losing his gold watch.",
+     "Della’s complaint about her short hair.",
+     "The view that the ending seems almost absurd.",
+     "The grocer’s refusal to lower his prices."
+    ],
+    "a": 2,
+    "evidence": "Read purely as plot, the ending seems almost absurd",
+    "why": "前半句：單看情節，結局幾乎荒謬，這就是作者預料到的反對意見。",
+    "traps": [
+     "正反顛倒：吉姆並不惋惜。",
+     "捏造：文中沒有黛拉抱怨。",
+     "",
+     "捏造：雜貨商讓她省下了錢。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Della sold her hair for twenty-one dollars.",
+     "Jim’s weekly income had shrunk from thirty dollars to twenty.",
+     "Jim bought a gold watch chain for Della.",
+     "The story first appeared in The Four Million."
+    ],
+    "a": 1,
+    "evidence": "a husband whose income has shrunk from thirty dollars to twenty",
+    "why": "第二段。",
+    "traps": [
+     "數字錯位：賣二十元，錶鍊二十一元。",
+     "",
+     "張冠李戴：錶鍊是黛拉買給吉姆的。",
+     "時序錯置：先刊在報紙，後來才收進那本書。"
+    ]
+   },
+   {
+    "type": "ORG",
+    "q": "Why does O. Henry call his own characters “two foolish children”?",
+    "options": [
+     "To explain why the story is only a few pages long.",
+     "To show that Della and Jim were very young.",
+     "To criticise the couple for spending money.",
+     "To voice the reader’s likely judgement before overturning it."
+    ],
+    "a": 3,
+    "evidence": "by naming the reader’s likely judgement first, he gets ready to overturn it",
+    "why": "作者手法：先自嘲說出讀者的評價，最後再推翻。",
+    "traps": [
+     "捏造：篇幅長短和這個稱呼沒有因果。",
+     "字面誤讀：children 在這裡是比喻，不是年齡。",
+     "正反顛倒：最後他說他們最有智慧。",
+     ""
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Della sells her hair to buy a [47] chain for Jim’s watch, while Jim sells his watch to buy the combs she has long [48].",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "platinum"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "admired"
+      ],
+      "partial": [
+       "admire",
+       "admiring"
+      ]
+     }
+    ],
+    "why": "第一格出自第三段 a platinum chain；第二格出自 she has admired（現在完成式用過去分詞）。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "The story first appeared in The New York Sunday World.",
+     "Sixty cents of Della’s money was in pennies.",
+     "Jim’s watch was a gift from Della.",
+     "Della sold her hair to Madame Sofronie.",
+     "Jim was angry about losing his watch.",
+     "O. Henry’s real name was Pete."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A 第一段；B 第二段；D 第三段。C 捏造（錶是父親和祖父傳下來的）；E 正反顛倒（他並不惋惜）；F 張冠李戴（Pete 是酒館名，本名是 William Sydney Porter）。"
+   },
+   {
+    "kind": "short",
+    "q": "Who, according to O. Henry, are “the magi” at the end of the story?",
+    "answer": [
+     "Della and Jim",
+     "Jim and Della"
+    ],
+    "why": "第五段。"
+   }
+  ]
+ }
 }

@@ -546,5 +546,165 @@
    "zh": "當我們預期治療有效時，大腦發生了什麼事。（7 分鐘）",
    "question": "Which brain mechanism in the video could explain why placebos help with pain?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "Modern medicine rests on a simple comparison. In a placebo-controlled trial, one group receives a real treatment and another receives a placebo, which looks genuine but has no medical effect, such as a sugar pill, a salt-water injection or even fake surgery. Only if the real treatment does clearly better than the placebo can doctors be confident that it works.",
+    "現代醫學建立在一個簡單的比較上。在安慰劑對照試驗中，一組接受真正的治療，另一組接受安慰劑——它看起來是真的，卻沒有醫療效果，例如糖丸、鹽水注射，甚至假手術。只有當真正的治療明顯比安慰劑有效時，醫生才能確信它有用。"
+   ],
+   [
+    "The word comes from the Latin for “I shall be pleasing”. Yet patients given placebos often do report feeling better. Expectation seems to be a key reason: believing that a treatment will help can change how we feel symptoms, especially pain. Even the form of the placebo matters. Capsules seem more powerful than tablets, and injections more powerful still. Expectation can also work in reverse — in the nocebo effect, people who expect harm report negative symptoms, and anxious people seem especially likely to experience it.",
+    "這個字源自拉丁文「我將討人喜歡」。然而，服用安慰劑的病人確實常說自己感覺好多了。期待似乎是關鍵原因：相信治療會有幫助，能改變我們對症狀——尤其是疼痛——的感受。連安慰劑的形式都有影響：膠囊似乎比藥片有效，注射又更有效。期待也可能反過來作用——在「反安慰劑效應」中，預期會受害的人會出現負面症狀，而焦慮的人似乎特別容易出現。"
+   ],
+   [
+    "Interpreting such improvement, however, requires care. What researchers see in a placebo group is the placebo response, which bundles several things together: natural healing, ups and downs in the illness, and regression toward the mean (patients who joined during a bad spell returning to their usual state). The placebo effect, strictly defined, is only the difference between this response and no treatment at all. So often is this distinction ignored that many popular claims about the “power” of placebos are exaggerated.",
+    "不過，解讀這樣的改善需要小心。研究者在安慰劑組看到的，是「安慰劑反應」，它把好幾件事綁在一起：自然痊癒、病情起伏，以及均值回歸（在狀況特別差時加入試驗的病人，之後回到平常的狀態）。嚴格來說，安慰劑效應只是這個反應和完全不治療之間的差別。這個區別太常被忽略，以致許多關於安慰劑「威力」的流行說法都誇大了。"
+   ],
+   [
+    "Recent research has nevertheless challenged the idea that placebos work only through deception. In a trial published in 2010, Ted Kaptchuk and colleagues at Harvard gave 80 patients with irritable bowel syndrome pills that were honestly described as placebos. Compared with a group that received no pills but equal attention from doctors, these patients reported significantly greater improvement at both eleven and twenty-one days. Reviews of such open-label trials, however, note that they have been small and should be treated with caution.",
+    "不過，近年的研究挑戰了「安慰劑只能靠欺騙起作用」的想法。在一項 2010 年發表的試驗中，哈佛的卡普丘克和同事給 80 名腸躁症病人服用明白告知是安慰劑的藥丸。和沒有服藥、但受到醫生同等關注的對照組相比，這些病人在第 11 天和第 21 天都回報了明顯更大的改善。不過，針對這類「公開標示」試驗的回顧指出，它們的規模都很小，應該謹慎看待。"
+   ],
+   [
+    "The broader evidence sets clear limits. Reviews by Asbjørn Hróbjartsson and Peter Gøtzsche concluded that placebo effects appear mainly in things patients feel, such as pain, and that placebos do not seem to affect the disease itself. It was pain, in fact, that showed the only significant effect in an earlier analysis of trials covering 40 conditions. The picture that results is balanced: expectation can genuinely change experience, but changing how illness feels is not the same as changing what illness is.",
+    "更廣泛的證據劃出了清楚的界線。赫羅布亞特松和格切的研究回顧認為，安慰劑效應主要出現在病人「感覺」到的東西上，例如疼痛，而安慰劑似乎不影響疾病本身。事實上，在一項涵蓋 40 種疾病試驗的早期分析中，唯一有顯著效果的就是疼痛。由此得到的圖像是平衡的：期待確實能改變感受，但改變疾病「感覺起來」的樣子，並不等於改變疾病「本身」。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "Why doctors should stop using placebos in trials.",
+     "How to make sugar pills that cure diseases.",
+     "What placebos can and cannot do, according to careful evidence.",
+     "How Harvard became famous for medical research."
+    ],
+    "a": 2,
+    "evidence": "expectation can genuinely change experience, but changing how illness feels is not the same as changing what illness is",
+    "why": "全文：安慰劑的作用、反應與效應的區別，以及證據的限制。",
+    "traps": [
+     "正反顛倒：安慰劑是試驗的比較基準。",
+     "過度推論：安慰劑不影響疾病本身。",
+     "",
+     "以偏概全：哈佛只是一項試驗的地點。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “regression toward the mean” in the third paragraph describe?",
+    "options": [
+     "Patients returning to their usual state after a bad spell.",
+     "Patients feeling worse because they expect harm.",
+     "Patients choosing capsules instead of tablets.",
+     "Patients refusing to join a medical trial."
+    ],
+    "a": 0,
+    "evidence": "patients who joined during a bad spell returning to their usual state",
+    "why": "括號直接解釋。",
+    "traps": [
+     "",
+     "張冠李戴：那是反安慰劑效應。",
+     "原文字眼、錯誤關係：膠囊和藥片是另一個發現。",
+     "捏造：文中沒有。他們是加入了試驗。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Placebos were found to change the disease itself.",
+     "Tablets seem more powerful than capsules.",
+     "Kaptchuk’s patients were not told they were taking placebos.",
+     "Injections seem more powerful than capsules as placebos."
+    ],
+    "a": 3,
+    "evidence": "Capsules seem more powerful than tablets, and injections more powerful still.",
+    "why": "第二段。",
+    "traps": [
+     "正反顛倒：似乎不影響疾病本身。",
+     "正反顛倒：膠囊比藥片有效。",
+     "正反顛倒：病人被明白告知。",
+     ""
+    ]
+   },
+   {
+    "type": "INS",
+    "q": "Here is a sentence: “Even so, the result suggests that deceiving patients may not always be necessary.” Which paragraph is most suitable to have it as the final sentence?",
+    "options": [
+     "Paragraph 1.",
+     "Paragraph 2.",
+     "Paragraph 3.",
+     "Paragraph 4."
+    ],
+    "a": 3,
+    "evidence": "pills that were honestly described as placebos",
+    "why": "第四段講的是「明白告知是安慰劑」仍有改善，結尾又提醒研究規模小；接 Even so（即便如此）點出「也許不一定要欺騙」最順。",
+    "traps": [
+     "位置陷阱：第一段只說明安慰劑是什麼，還沒談到告知病人。",
+     "位置陷阱：第二段談期待與劑型，沒有談是否欺騙。",
+     "位置陷阱：第三段談反應與效應的區別。",
+     ""
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Patients who expect a treatment to help may genuinely feel less [47], but reviews found that placebos do not seem to affect the [48] itself.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "pain"
+      ],
+      "partial": [
+       "painful",
+       "pains"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "disease"
+      ],
+      "partial": [
+       "diseases",
+       "illness"
+      ]
+     }
+    ],
+    "why": "第一格出自第二段 especially pain；第二格出自第五段 the disease itself。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "A placebo can be a sugar pill or a salt-water injection.",
+     "Anxious people seem more likely to feel the nocebo effect.",
+     "The placebo response is the same as the placebo effect.",
+     "Kaptchuk’s trial involved 80 patients.",
+     "Open-label trials have been very large.",
+     "The earlier analysis found effects for all 40 conditions."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A 第一段；B 第二段；D 第四段。C 正反顛倒（兩者不同）；E 正反顛倒（規模都很小）；F 數字錯位（只有疼痛有效果）。"
+   },
+   {
+    "kind": "short",
+    "q": "What is the name of the effect in which expecting harm produces negative symptoms?",
+    "answer": [
+     "the nocebo effect",
+     "nocebo effect",
+     "nocebo"
+    ],
+    "why": "第二段。"
+   }
+  ]
+ }
 }

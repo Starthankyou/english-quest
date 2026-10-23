@@ -536,5 +536,164 @@
    "zh": "一位研究者談自制力在今天的意義。",
    "question": "In what situations is self-control hardest for you?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "A young child sits alone at a table with a single marshmallow. If she can wait until the adult returns, she will receive two. Simple and charming, this scene from the “marshmallow test” has carried a powerful message for decades: self-control in early childhood shapes success later in life — and even that teaching children to wait could change the course of their lives. Few psychology experiments have travelled so far beyond the laboratory, into parenting books, classrooms and motivational speeches.",
+    "一個小孩獨自坐在桌前，面前只有一顆棉花糖。如果她能等到大人回來，就能得到兩顆。這個「棉花糖測驗」的畫面簡單又可愛，幾十年來傳達了一個強而有力的訊息：幼兒的自制力會決定日後的成功——甚至認為教孩子等待，就能改變他們的人生。很少有心理學實驗像它一樣走出實驗室，走進育兒書、教室和勵志演講。"
+   ],
+   [
+    "The original studies were carried out by the psychologist Walter Mischel, who worked with children at a preschool on the Stanford University campus in the 1960s and 1970s. At first, Mischel simply wanted to understand how young children resist temptation. It was only later, in a 1990 follow-up, that his colleagues reported a link between how long the children had waited and their SAT scores as teenagers. Yet only about 185 of the more than 600 children originally tested could be reached, all drawn from an unusually similar university community.",
+    "最初的研究由心理學家米歇爾進行，他在 1960、70 年代和史丹佛大學校園裡一所幼兒園的孩子合作。起初，他只是想了解幼兒如何抵抗誘惑。直到後來 1990 年的追蹤研究，他的同事才報告：孩子等待的時間長短和他們青少年時的 SAT 成績有關。然而，原本測過的六百多個孩子中，只追蹤到大約 185 人，而且全都來自一個背景異常相似的大學社區。"
+   ],
+   [
+    "In 2018, Tyler Watts, Greg Duncan and Haonan Quan revisited the question with data from more than 900 children in a large, more diverse American study. Focusing especially on children whose mothers had not completed college, a group far closer to the general population, they found that the link between waiting and achievement at age 15 was about half the size of the original findings. Their design allowed them to ask not only whether the link existed, but whether it survived once other influences were considered.",
+    "2018 年，瓦茲、鄧肯和全浩南用一項大型、更多元的美國研究中九百多個孩子的資料，重新檢視這個問題。他們特別聚焦在母親沒讀完大學的孩子——這群孩子更接近一般大眾——結果發現，等待和 15 歲時成就之間的關聯，只有原研究的一半左右。他們的研究設計不只能問這個關聯是否存在，還能問：把其他因素考慮進去後，它還站得住腳嗎？"
+   ],
+   [
+    "The decisive finding came next. Once the researchers took into account the children’s family background and early abilities, the link shrank by roughly two-thirds and was no longer statistically significant (that is, it could not be clearly separated from chance). They also found almost no connection between waiting and later behaviour. An intervention that changed only a child’s ability to wait, the authors concluded, would probably have limited long-term effects.",
+    "關鍵的發現在後頭。研究者把孩子的家庭背景和早期能力考慮進去後，這個關聯縮小了大約三分之二，而且不再具有統計顯著性（也就是說，無法明確和巧合區分開來）。他們也發現，等待和後來的行為幾乎沒有關係。作者的結論是：只改變孩子等待能力的介入措施，長期效果可能很有限。"
+   ],
+   [
+    "None of this proves that self-control is unimportant; Mischel himself had warned that larger studies might find smaller effects. What it does show is how easily a pattern observed in a narrow group can harden into a belief about destiny. A child who grows up with unreliable promises may reasonably decide that a marshmallow in hand is worth more than two in the future. Seen this way, waiting reflects not only character but also circumstance.",
+    "這一切並不證明自制力不重要；米歇爾自己就提醒過，規模更大的研究可能會發現較小的效果。它真正顯示的是：在一小群人身上觀察到的模式，多麼容易凝固成一種關於命運的信念。一個在承諾常落空的環境中長大的孩子，可能很合理地判斷：手上的一顆棉花糖，比未來的兩顆更有價值。這樣看來，等待反映的不只是性格，也是處境。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "How to teach young children to wait for a reward.",
+     "How a famous test’s message weakened under larger studies.",
+     "Why children at Stanford ate their marshmallows quickly.",
+     "How SAT scores are used to choose university students."
+    ],
+    "a": 1,
+    "evidence": "the link shrank by roughly two-thirds and was no longer statistically significant",
+    "why": "全文：棉花糖測驗的經典結論，在更大型的研究中大幅縮水。",
+    "traps": [
+     "捏造：作者反而說只改變等待能力效果有限。",
+     "",
+     "捏造：文中沒說史丹佛的孩子吃得快。",
+     "原文字眼、錯誤關係：SAT 只是追蹤研究的成就指標。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does the author mean by saying a pattern can “harden into a belief about destiny”?",
+    "options": [
+     "It becomes a rule that parents must follow at home.",
+     "It becomes too difficult for scientists to measure.",
+     "It becomes stronger each time a study is repeated.",
+     "It becomes accepted as a fixed truth about people’s futures."
+    ],
+    "a": 3,
+    "evidence": "What it does show is how easily a pattern observed in a narrow group can harden into a belief about destiny.",
+    "why": "在一小群人身上看到的關聯，被當成決定一生的定論。",
+    "traps": [
+     "過度推論：作者沒說父母必須遵守什麼。",
+     "捏造：重點不是測量難度。",
+     "正反顛倒：更大的研究反而讓效果變小。",
+     ""
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Only about 185 children could be reached for the 1990 follow-up.",
+     "The 2018 study used data from fewer than 200 children.",
+     "Waiting was strongly linked to later behaviour in 2018.",
+     "Mischel expected larger studies to find bigger effects."
+    ],
+    "a": 0,
+    "evidence": "Yet only about 185 of the more than 600 children originally tested could be reached",
+    "why": "第二段。",
+    "traps": [
+     "",
+     "數字錯位：2018 年有九百多個孩子，185 是 1990 年追蹤到的人數。",
+     "正反顛倒：原文 almost no connection between waiting and later behaviour。",
+     "正反顛倒：他提醒效果可能較小。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Why does the author mention a child who grows up with unreliable promises?",
+    "options": [
+     "To criticise parents who often break their promises.",
+     "To prove that such children cannot learn self-control.",
+     "To show that not waiting can be a sensible choice.",
+     "To explain why marshmallows were used in the test."
+    ],
+    "a": 2,
+    "evidence": "A child who grows up with unreliable promises may reasonably decide that a marshmallow in hand is worth more than two in the future.",
+    "why": "承諾常落空時，不等待反而是合理的判斷，呼應「等待反映處境」。",
+    "traps": [
+     "捏造：作者沒有批評父母。",
+     "過度推論：作者沒說他們學不會自制。",
+     "",
+     "捏造：文中沒解釋為什麼用棉花糖。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "The 2018 study found the link to be about [47] the size of the original findings, and it was no longer [48] significant once family background was considered.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "half"
+      ],
+      "partial": [
+       "halves"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "statistically"
+      ],
+      "partial": [
+       "statistical",
+       "statistic"
+      ]
+     }
+    ],
+    "why": "第一格出自第三段 about half the size；第二格出自第四段 statistically significant，修飾形容詞要用副詞。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "Mischel tested children at a preschool on the Stanford campus.",
+     "The 1990 follow-up reached all of the original children.",
+     "The 2018 study used data from more than 900 children.",
+     "It focused especially on children whose mothers had not finished college.",
+     "Waiting strongly predicted the children’s later behaviour.",
+     "Mischel said larger studies would surely find bigger effects."
+    ],
+    "a": [
+     0,
+     2,
+     3
+    ],
+    "why": "A 第二段；C、D 第三段。B 數字錯位（只追蹤到約 185 人）；E 正反顛倒（幾乎沒有關係）；F 正反顛倒（他說可能較小）。"
+   },
+   {
+    "kind": "short",
+    "q": "What two things about the children did the researchers take into account before the link shrank?",
+    "answer": [
+     "family background and early abilities",
+     "the children’s family background and early abilities",
+     "their family background and early abilities"
+    ],
+    "why": "第四段。"
+   }
+  ]
+ }
 }

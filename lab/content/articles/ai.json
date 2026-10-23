@@ -535,5 +535,162 @@
    "zh": "探索學習工具如何借鏡數位互動機制。",
    "question": "Can a learning app be engaging and still make you do the hard thinking?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "Few technologies have entered classrooms as quickly as generative AI. A chatbot can now produce a worked solution, a summary or a polished paragraph faster than most students can read the question. Much of the public debate has focused on cheating. A more basic question, however, concerns learning itself: if a tool improves what students produce, does it also improve what they can do once the tool is gone?",
+    "很少有科技像生成式 AI 這樣快速進入教室。聊天機器人產出解題過程、摘要或一段漂亮文字的速度，比多數學生讀完題目還快。大眾的討論多半聚焦在作弊。然而更根本的問題是學習本身：如果一個工具讓學生的作品變好，等工具拿走以後，學生的能力也變好了嗎？"
+   ],
+   [
+    "A large experiment published in 2025 addressed exactly this question. Working with a high school in Turkey, researchers ran four 90-minute maths sessions for about fifty classes, involving nearly 1,000 students. Students were randomly given one of three conditions: GPT Base, which copied a standard ChatGPT interface; GPT Tutor, built on the same model but with guardrails (limits designed with teachers’ input); or no AI. Each session followed three stages — a teacher’s review of a topic, a practice period in which every group could also use notes and textbooks, and finally an exam taken without any help.",
+    "2025 年發表的一項大型實驗，正好回答了這個問題。研究者和土耳其一所高中合作，為大約五十個班、將近一千名學生開了四次 90 分鐘的數學課。學生被隨機分到三種條件之一：GPT Base，仿照一般的 ChatGPT 介面；GPT Tutor，用同一個模型，但加上依教師意見設計的限制；或完全不用 AI。每次課程分三個階段——老師複習一個主題、一段每組都能使用筆記和課本的練習時間，最後是一場不能使用任何協助的考試。"
+   ],
+   [
+    "The results separate performance from learning with unusual clarity. On practice problems, GPT Base raised scores by 48 percent compared with the no-AI group, and GPT Tutor by 127 percent. Yet on the exam, GPT Base students scored 17 percent lower than students who had never had access. Records of the chats explained why: many had used GPT Base as a “crutch”, simply asking for solutions and copying them. GPT Tutor students, by contrast, asked for help and tried answers on their own, and the harm essentially disappeared, though they did not do better than the control group either.",
+    "結果罕見地清楚區分了「表現」和「學習」。練習題上，GPT Base 讓分數比不用 AI 的組高了 48%，GPT Tutor 更高出 127%。但到了考試，GPT Base 組的分數比從沒用過 AI 的學生低了 17%。對話紀錄說明了原因：很多人把 GPT Base 當「拐杖」，直接要答案來抄。相反地，GPT Tutor 組的學生是請求協助、自己嘗試作答，傷害基本上消失了，雖然他們也沒有考得比對照組好。"
+   ],
+   [
+    "Perhaps the most troubling finding concerns how students saw themselves. Those who had leaned on GPT Base did not believe they had learned less, and GPT Tutor students thought they had done much better than they actually had. So easily does effortless work feel like progress that students may not notice when little is being learned. A small early study at MIT, involving only 54 people, points in a similar direction: those who wrote essays with an AI assistant struggled to quote their own work.",
+    "最令人不安的發現，或許是學生怎麼看自己。依賴 GPT Base 的學生不覺得自己學得比較少，GPT Tutor 組的學生則以為自己考得比實際好很多。毫不費力的作業太容易讓人覺得有進步，以致學生可能察覺不到自己學得很少。麻省理工學院一項只有 54 人參與的小型初步研究也指向類似方向：用 AI 助手寫作文的人，很難引用自己寫過的內容。"
+   ],
+   [
+    "None of this means that AI should be banned from schools. It was the same model that produced very different outcomes, depending on how it was designed and used. Learning, after all, requires the learner to do the thinking: to recall, to struggle, and to make and correct mistakes. Tools that remove that effort aim at the wrong goal. The challenge for teachers and students alike is to keep the thinking firmly on the human side.",
+    "這一切並不表示學校應該禁用 AI。同一個模型，會因為設計和使用方式不同，帶來截然不同的結果。畢竟，學習需要學習者自己動腦：回想、掙扎、犯錯再修正。把這些努力拿掉的工具，追求的是錯的目標。老師和學生共同的挑戰，是讓思考牢牢留在人的這一邊。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "Why students prefer textbooks to AI tools.",
+     "Why every school in Turkey has banned AI chatbots.",
+     "How to build a chatbot that gives correct answers.",
+     "How AI can raise practice scores without improving learning."
+    ],
+    "a": 3,
+    "evidence": "The results separate performance from learning with unusual clarity.",
+    "why": "全文：AI 讓練習分數變高，卻可能讓真正的學習變差，關鍵在設計和使用。",
+    "traps": [
+     "捏造：文中沒有比較學生的偏好。",
+     "正反顛倒：作者說不應禁用，學校是和研究者合作做實驗。",
+     "捏造：問題不在答案對錯。",
+     ""
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does the word “crutch” in the third paragraph suggest?",
+    "options": [
+     "Students used the tool to check their reasoning.",
+     "Students relied on the tool instead of thinking.",
+     "Students were injured during the maths sessions.",
+     "Students avoided the tool because it was difficult."
+    ],
+    "a": 1,
+    "evidence": "simply asking for solutions and copying them",
+    "why": "拐杖的比喻：依賴它代替自己走，也就是直接要答案來抄。",
+    "traps": [
+     "張冠李戴：這比較像 GPT Tutor 組的用法。",
+     "",
+     "字面誤讀：crutch 是比喻，不是真的受傷。",
+     "正反顛倒：他們是過度使用。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Students could use AI during the final exam.",
+     "GPT Tutor students scored 17 percent lower on the exam.",
+     "GPT Tutor raised practice scores by 127 percent.",
+     "The study included only one class of students."
+    ],
+    "a": 2,
+    "evidence": "and GPT Tutor by 127 percent",
+    "why": "第三段。",
+    "traps": [
+     "正反顛倒：考試不能使用任何協助。",
+     "張冠李戴：考試低 17% 的是 GPT Base 組。",
+     "",
+     "數字錯位：大約五十個班。"
+    ]
+   },
+   {
+    "type": "SEQ",
+    "q": "In what order did each session take place? a. An exam taken without any help. b. A teacher’s review of a topic. c. A practice period with notes and textbooks.",
+    "options": [
+     "a → b → c",
+     "b → a → c",
+     "b → c → a",
+     "c → b → a"
+    ],
+    "a": 2,
+    "evidence": "Each session followed three stages",
+    "why": "第二段：先複習、再練習、最後考試。",
+    "traps": [
+     "時序顛倒：考試是最後一步。",
+     "時序顛倒：練習在考試之前。",
+     "",
+     "時序顛倒：老師先複習主題。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "GPT Base raised practice scores, but students who had [47] solutions from it later scored lower, while the [48] built into GPT Tutor largely removed this harm.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "copied"
+      ],
+      "partial": [
+       "copy",
+       "copying"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "guardrails"
+      ],
+      "partial": [
+       "guardrail"
+      ]
+     }
+    ],
+    "why": "第一格出自第三段 copying them（過去完成式用 copied）；第二格出自第二段 guardrails。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "Nearly 1,000 students took part in the study.",
+     "Each maths session lasted 90 minutes.",
+     "GPT Tutor students did much better than the control group on the exam.",
+     "GPT Base copied a standard ChatGPT interface.",
+     "GPT Base students knew they had learned less.",
+     "The MIT study involved about 1,000 people."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A、B、D 第二段。C 正反顛倒（沒有比對照組好）；E 正反顛倒（他們不覺得學得少）；F 數字錯位（54 人）。"
+   },
+   {
+    "kind": "short",
+    "q": "In which country was the high school in the 2025 experiment?",
+    "answer": [
+     "Turkey"
+    ],
+    "why": "第二段。"
+   }
+  ]
+ }
 }

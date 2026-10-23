@@ -531,5 +531,162 @@
    "zh": "動畫課程：太早上課與公共政策，如何讓青少年睡眠不足。",
    "question": "What is one change you could make to protect your sleep?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "“Go to bed earlier!” Few instructions are heard as often in homes with teenagers, and few are as hard to follow. Lying awake at eleven o’clock and struggling out of bed at dawn, many adolescents are told that their problem is a lack of discipline. Doctors who study adolescent sleep, however, see it differently: much of the difficulty begins not in a teenager’s habits but in the timing of the body itself.",
+    "「早點去睡！」在有青少年的家裡，很少有哪句話這麼常聽到，也很少有哪句話這麼難做到。十一點還醒著、天亮時掙扎著爬起來，很多青少年被說是缺乏自律。但研究青少年睡眠的醫生看法不同：困難大多不是從習慣開始，而是從身體本身的時間節奏開始。"
+   ],
+   [
+    "In 2014, the American Academy of Pediatrics (AAP), a large group of children’s doctors in the United States, published a policy statement on school start times. It explained that around the start of puberty, most adolescents experience a “phase delay” (a shift of the body clock to later hours): their sleep and wake times move later by up to two hours compared with middle childhood. A child who once felt sleepy at nine may now feel wide awake at eleven.",
+    "2014 年，美國兒科醫學會（AAP）——美國一個龐大的兒科醫師組織——發表了一份關於上學時間的政策聲明。聲明指出，大約在青春期開始時，多數青少年會經歷「時相延後」（生理時鐘往後移）：和兒童中期相比，他們的睡眠與起床時間最多往後延兩小時。以前九點就想睡的孩子，現在可能到十一點還很清醒。"
+   ],
+   [
+    "Two changes in the body help explain this shift. First, melatonin, a hormone linked to sleepiness, is released later in the evening. Second, the pressure to fall asleep builds up more slowly during the day than it does in younger children. Together, these changes make it easier for teenagers to stay awake later. Neither change, however, reduces how much sleep teenagers need, which the statement put at 8.5 to 9.5 hours a night.",
+    "身體的兩個變化有助於解釋這種推移。第一，與睡意有關的荷爾蒙褪黑激素在晚上分泌得比較晚。第二，白天累積的入睡壓力，比年紀小的孩子增加得慢。兩者加在一起，讓青少年更容易晚睡。然而，這兩個變化都沒有減少青少年需要的睡眠量——聲明指出每晚需要 8.5 到 9.5 小時。"
+   ],
+   [
+    "It is this mismatch that turns biology into a problem. According to the AAP, the average teenager has difficulty falling asleep before 11 p.m. and is best suited to wake at 8 a.m. or later. When school starts early, so little time is left for sleep that many students become chronically tired — a condition the statement linked to poorer physical and mental health, drowsy-driving crashes and weaker academic performance. Naps, weekend lie-ins and caffeine may hide the tiredness for a while, but they are no substitute for regular, sufficient sleep.",
+    "正是這種錯配，把生理變成了問題。根據 AAP，一般青少年很難在晚上 11 點前入睡，最適合在早上 8 點或更晚起床。當學校很早上課，留給睡眠的時間少到讓許多學生長期疲倦——聲明把這種狀態和較差的身心健康、疲勞駕駛車禍以及較弱的學業表現連在一起。午睡、週末補眠和咖啡因或許能暫時掩蓋疲倦，卻無法取代規律且充足的睡眠。"
+   ],
+   [
+    "The AAP therefore urged middle and high schools to start at 8:30 a.m. or later. Although the advice is not simple to put into practice, with bus schedules, sports and parents’ work hours all built around the existing timetable, its message for students is worth remembering. Feeling exhausted in the morning is not necessarily a sign of laziness. Sometimes it is simply a sign that the clock on the wall and the clock inside the body disagree.",
+    "因此，AAP 呼籲國中和高中在早上 8:30 或更晚才開始上課。雖然這項建議不容易落實——公車時刻、運動和父母的上班時間都是圍繞現有課表安排的——但它給學生的訊息值得記住：早上累得要命，不一定代表懶惰。有時只是牆上的時鐘和身體裡的時鐘意見不合。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "Why every American school now starts at 8:30 a.m.",
+     "Why teenagers lack the discipline to go to bed early.",
+     "How caffeine helps tired students stay awake in class.",
+     "How teen biology clashes with early school start times."
+    ],
+    "a": 3,
+    "evidence": "It is this mismatch that turns biology into a problem.",
+    "why": "全文：青春期的生理時鐘往後移，和早上課的學校時間衝突。",
+    "traps": [
+     "正反顛倒：8:30 只是建議，原文說不容易落實。",
+     "正反顛倒：作者說問題主要不在自律。",
+     "正反顛倒：咖啡因無法取代睡眠。",
+     ""
+    ]
+   },
+   {
+    "type": "REF",
+    "q": "What does “this mismatch” in the fourth paragraph refer to?",
+    "options": [
+     "The difference between bus times and parents’ work hours.",
+     "Teens’ later sleep timing combined with an unchanged need for sleep.",
+     "The gap between middle schools and high schools.",
+     "The disagreement between doctors and parents about discipline."
+    ],
+    "a": 1,
+    "evidence": "Neither change, however, reduces how much sleep teenagers need",
+    "why": "前一段：睡眠時間往後移，需要的睡眠量卻沒減少，這就是錯配。",
+    "traps": [
+     "時序錯置：公車與上班時間在第五段。",
+     "",
+     "捏造：文中沒比較國中和高中。",
+     "原文字眼、錯誤關係：第一段提到自律，但不是 this mismatch。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The AAP said teens are best suited to wake at 6 a.m.",
+     "Teenagers need less sleep than younger children do.",
+     "Melatonin is released later in the evening during adolescence.",
+     "Weekend lie-ins can fully replace regular sleep."
+    ],
+    "a": 2,
+    "evidence": "melatonin, a hormone linked to sleepiness, is released later in the evening",
+    "why": "第三段。",
+    "traps": [
+     "數字錯位：是早上 8 點或更晚。",
+     "正反顛倒：需要的睡眠量沒有減少。",
+     "",
+     "正反顛倒：原文 no substitute for regular, sufficient sleep。"
+    ]
+   },
+   {
+    "type": "ORG",
+    "q": "Why does the author mention bus schedules, sports and parents’ work hours?",
+    "options": [
+     "To explain why later start times are hard to put into practice.",
+     "To show that families are to blame for teens’ tiredness.",
+     "To prove that later start times do not help students.",
+     "To list activities that keep teenagers awake at night."
+    ],
+    "a": 0,
+    "evidence": "Although the advice is not simple to put into practice",
+    "why": "作者手法題：這些都依賴現有課表，所以延後上學不容易落實。",
+    "traps": [
+     "",
+     "捏造因果：作者沒有責怪家庭。",
+     "過度推論：文中沒有否定效果。",
+     "原文字眼、錯誤關係：這些是課表安排，不是讓人熬夜的原因。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Because of a [47] delay that begins around puberty, many teenagers cannot fall asleep early, so the AAP [48] schools to start at 8:30 a.m. or later.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "phase"
+      ],
+      "partial": [
+       "phases"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "urged"
+      ],
+      "partial": [
+       "urge",
+       "urges"
+      ]
+     }
+    ],
+    "why": "第一格出自第二段 a “phase delay”；第二格出自第五段 urged，敘述過去的事用過去式。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "The AAP statement was published in 2014.",
+     "Sleep times can shift later by up to two hours.",
+     "Teenagers need only six to seven hours of sleep.",
+     "Naps cannot replace regular, sufficient sleep.",
+     "The AAP said later start times are easy to arrange.",
+     "Most teenagers fall asleep easily before 10 p.m."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A、B 第二段；D 第四段。C 數字錯位（8.5–9.5 小時）；E 正反顛倒（不容易落實）；F 正反顛倒（11 點前都很難入睡）。"
+   },
+   {
+    "kind": "short",
+    "q": "Which hormone, linked to sleepiness, is released later in teenagers?",
+    "answer": [
+     "melatonin"
+    ],
+    "why": "第三段。"
+   }
+  ]
+ }
 }

@@ -542,5 +542,165 @@
    "zh": "約翰．葛林談狄金生的人生、破折號與思想。（10 分鐘）",
    "question": "What does the video say about Dickinson’s dashes? Why might editors have removed them?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "“I’m Nobody! Who are you?” opens with a question that turns the usual logic of ambition upside down. Rather than complaining about being unknown, the speaker treats it as a bond: finding a fellow nobody, she suggests that they keep their status secret. In the second stanza, the alternative is mocked with a single comic image. To be “Somebody” is to be public, like a frog announcing its own name all summer long to “an admiring Bog” (a wet, muddy place).",
+    "〈我是無名小卒！你是誰？〉以一個問題開場，把一般的野心邏輯整個顛倒過來。說話者不抱怨沒沒無聞，反而把它當成一種連結：遇到另一個無名小卒，她提議兩人保守這個秘密。在第二節，另一種人生被一個滑稽的畫面嘲笑：當個「大人物」，就是公開示人，像一隻整個夏天對著「仰慕的沼澤」（潮濕泥濘的地方）報自己名字的青蛙。"
+   ],
+   [
+    "The poem gains extra irony from its author’s life. Born in Amherst, Massachusetts, in 1830, Emily Dickinson wrote nearly 1,800 poems, yet only 10 were published while she was alive. Few people around her knew how much she had written. After her death in 1886, her younger sister Lavinia discovered the poems in her desk, and what had been a private habit became one of the most important bodies of poetry in American literature.",
+    "這首詩因作者的生平而更添諷刺。1830 年生於麻州安默斯特的艾蜜莉．狄金生，寫了將近 1,800 首詩，生前卻只發表了 10 首。她身邊很少有人知道她寫了多少。1886 年她去世後，妹妹拉薇妮雅在她的書桌裡發現了這些詩，原本私密的習慣，變成了美國文學中最重要的詩作之一。"
+   ],
+   [
+    "Her path to readers, however, involved serious distortion. When a selection appeared in 1890, edited by Thomas Wentworth Higginson and Mabel Loomis Todd, the poems were heavily changed to fit the fashions of the time. Her dashes and capital letters were smoothed out, and some words were replaced. In “I’m Nobody!”, her handwritten line “they’d advertise — you know!” became “They’d banish us, you know.” The change matters: banishment suggests punishment by an authority, whereas advertising suggests exposure by gossip, which is exactly the publicity the speaker wants to avoid.",
+    "然而，她的詩送到讀者手中的過程中，經過了嚴重的扭曲。1890 年由希金森和陶德編選的詩集出版時，詩被大幅修改，以符合當時的風尚：她的破折號和大寫字母被抹平，有些字被換掉。在〈我是無名小卒！〉裡，她手寫的「他們會到處宣揚——你知道的！」被改成「他們會把我們放逐，你知道的。」這個改動很關鍵：放逐意味著權威的懲罰，宣揚則意味著被八卦曝光——而後者正是說話者想避開的名聲。"
+   ],
+   [
+    "Not until 1955, when Thomas H. Johnson published a complete edition, were the poems presented nearly as Dickinson had left them: untitled, numbered, full of dashes and unusual capitals. The restored texts revealed a poet of great daring. She often worked within a familiar song-like stanza, yet she unsettled it with imperfect rhymes and sudden compression, as if testing how much meaning a short line could hold.",
+    "直到 1955 年強森出版全集，這些詩才幾乎以狄金生留下的樣子呈現：沒有標題、以數字編號、滿是破折號和不尋常的大寫字母。恢復原貌的詩作，展現出一位非常大膽的詩人。她常在熟悉、像歌謠般的詩節裡寫作，卻用不完全的押韻和突然的壓縮打破它，彷彿在測試一行短詩能承載多少意義。"
+   ],
+   [
+    "It is this gift for compression that her best-known lines show. “Hope is the thing with feathers / That perches in the soul” turns an abstract idea into a small bird that keeps singing and has never asked for “a crumb” in return. Elsewhere she made the same move with reading: “There is no frigate like a book.” The poems last partly because they are short enough to memorise and strange enough to reward rereading. They also offer a reminder for an age of constant visibility: a life lived largely out of public view can still produce work of lasting public value.",
+    "她最有名的詩句，展現的正是這種壓縮的天分。「希望是長著羽毛的東西／棲息在靈魂裡」把一個抽象的概念，變成一隻不停歌唱、從沒討過「一點麵包屑」的小鳥。在別處，她對閱讀也做了同樣的事：「沒有一艘戰艦比得上一本書。」這些詩之所以流傳，部分是因為它們短到能背下來，又奇特到值得一讀再讀。它們也給這個時時被看見的時代一個提醒：一個大多不在公眾視線下的人生，仍能創造出具有長久公共價值的作品。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "How to write a poem without any dashes.",
+     "How frogs announce their names in muddy places.",
+     "Why Higginson was a better poet than Dickinson.",
+     "How a poem about being unknown matches its author’s life and history."
+    ],
+    "a": 3,
+    "evidence": "The poem gains extra irony from its author’s life.",
+    "why": "全文：詩的內容、作者生前沒沒無聞，以及詩作被編輯改動又恢復的歷史。",
+    "traps": [
+     "正反顛倒：破折號正是她的特色。",
+     "字面誤讀：青蛙只是詩中的比喻。",
+     "捏造：希金森是編者，作者批評他的改動。",
+     ""
+    ]
+   },
+   {
+    "type": "REF",
+    "q": "What does “it” in “treats it as a bond” in the first paragraph refer to?",
+    "options": [
+     "The usual logic of ambition.",
+     "Being unknown.",
+     "The second stanza.",
+     "A comic image."
+    ],
+    "a": 1,
+    "evidence": "Rather than complaining about being unknown",
+    "why": "前面的 being unknown：沒沒無聞。",
+    "traps": [
+     "原文字眼、錯誤關係：野心的邏輯是被顛倒的對象。",
+     "",
+     "時序錯置：第二節在後面。",
+     "時序錯置：滑稽的畫面在下一句。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Lavinia was Dickinson’s older sister.",
+     "Dickinson published nearly 1,800 poems while she was alive.",
+     "Only 10 of Dickinson’s poems were published in her lifetime.",
+     "Johnson’s complete edition appeared in 1890."
+    ],
+    "a": 2,
+    "evidence": "yet only 10 were published while she was alive",
+    "why": "第二段。",
+    "traps": [
+     "正反顛倒：拉薇妮雅是妹妹。",
+     "數字錯位：寫了約 1,800 首，生前只發表 10 首。",
+     "",
+     "數字錯位：1955 年。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What can be inferred about the change from “advertise” to “banish”?",
+    "options": [
+     "It weakened the poem’s point about publicity and gossip.",
+     "It made the poem rhyme more perfectly.",
+     "It was the change Dickinson herself wanted.",
+     "It made the poem shorter and easier to remember."
+    ],
+    "a": 0,
+    "evidence": "which is exactly the publicity the speaker wants to avoid",
+    "why": "「宣揚」才扣合詩對曝光、八卦的嘲諷；換成「放逐」削弱了這個重點。",
+    "traps": [
+     "",
+     "捏造：作者分析的是意思，不是押韻。",
+     "正反顛倒：她手寫的是 advertise。",
+     "捏造：文中沒提長短。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Dickinson’s poems were heavily [47] by her first editors, and they were not restored nearly to her original form until a complete [48] appeared in 1955.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "changed"
+      ],
+      "partial": [
+       "change",
+       "altered"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "edition"
+      ],
+      "partial": [
+       "editions",
+       "editor",
+       "edited"
+      ]
+     }
+    ],
+    "why": "第一格出自第三段 were heavily changed（被動）；第二格出自第四段 a complete edition。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "Dickinson was born in Amherst, Massachusetts.",
+     "Lavinia found the poems in Dickinson’s desk.",
+     "The 1890 editors kept all of her dashes.",
+     "Johnson’s 1955 edition left the poems untitled and numbered.",
+     "Dickinson wrote that a ship is better than a book.",
+     "The 1890 selection was edited by Johnson."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A、B 第二段；D 第四段。C 正反顛倒（破折號被抹平）；E 正反顛倒（沒有戰艦比得上書）；F 張冠李戴（1890 年是希金森和陶德）。"
+   },
+   {
+    "kind": "short",
+    "q": "What was Dickinson’s original word that the editors replaced with “banish”?",
+    "answer": [
+     "advertise",
+     "they’d advertise"
+    ],
+    "why": "第三段。"
+   }
+  ]
+ }
 }

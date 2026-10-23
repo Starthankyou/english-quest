@@ -547,5 +547,164 @@
    "zh": "一位心理學教育者整理成長型思維研究受到的批評。（10 分鐘）",
    "question": "Is the video fair to both sides of the debate?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "Mindset theory, developed by the psychologist Carol Dweck, makes an appealing claim. People who hold a growth mindset — the belief that abilities such as intelligence can grow with effort — are said to achieve more than those with a fixed mindset. Because beliefs seem easier to change than circumstances, the theory has inspired lessons, posters and teacher-training programmes around the world. Its popularity makes it an ideal case study in how educational ideas should be judged.",
+    "心理學家杜維克發展出的思維模式理論，提出了一個吸引人的主張：抱持成長型思維——相信智力等能力能透過努力成長——的人，被認為比抱持定型思維的人成就更高。因為信念似乎比處境容易改變，這個理論啟發了世界各地的課程、海報和教師培訓。它的高人氣，讓它成為「該如何評估教育觀念」的理想案例。"
+   ],
+   [
+    "The early evidence was striking. In six studies published in 1998, Claudia Mueller and Dweck found that fifth graders praised for their intelligence later cared more about looking good than about learning. After failing, they showed less persistence and enjoyment and performed worse than children praised for effort. They were also more likely to describe intelligence as fixed. The message seemed clear: how we talk about ability shapes how children respond to challenge.",
+    "早期的證據很驚人。在 1998 年發表的六項研究中，穆勒和杜維克發現，被稱讚聰明的五年級學生，後來比較在意看起來表現好，而不是學到東西。失敗之後，他們比被稱讚努力的孩子更不堅持、更不享受，表現也更差。他們也比較會把智力描述成固定不變的。訊息似乎很清楚：我們怎麼談論能力，會影響孩子怎麼面對挑戰。"
+   ],
+   [
+    "Later reviews, however, lowered expectations. In 2018, two large analyses covering hundreds of thousands of students found only weak overall effects, though students from poorer backgrounds might benefit. A 2023 review of 63 studies was sharper still. It reported serious weaknesses in design, found that authors with a financial interest reported larger effects, and observed that the small overall effect disappeared after correcting for publication bias (the tendency for positive results to be published more often). So disappointing were the results that even in studies where the lessons did change students’ mindsets, grades did not improve significantly.",
+    "然而後來的研究回顧降低了期待。2018 年，兩項涵蓋數十萬名學生的大型分析發現，整體效果很弱，雖然家境較差的學生可能受益。2023 年一項檢視 63 篇研究的回顧更加尖銳：它指出研究設計有嚴重缺陷，發現有經濟利益的作者回報的效果較大，而且在校正發表偏誤（正面結果比較容易被發表的傾向）後，原本很小的整體效果就消失了。結果令人失望到：即使在課程確實改變了學生思維的研究中，成績也沒有明顯進步。"
+   ],
+   [
+    "Supporters respond that averages can hide important differences. In 2019, a large team including Dweck reported a national experiment in the United States in which an online lesson lasting less than an hour improved grades among lower-achieving students and led more of them to take advanced maths. Crucially, the effects depended on context: grades improved mainly in schools where classmates’ attitudes matched the lesson’s message. The team also checked its conclusions with a blinded analysis, which made the findings harder to dismiss.",
+    "支持者回應說，平均數可能掩蓋重要的差異。2019 年，一個包括杜維克在內的大型團隊，在美國進行了一項全國性實驗：一堂不到一小時的線上課程，提升了成績較差學生的成績，也讓更多人選修進階數學。關鍵在於，效果取決於環境：成績主要在同學態度和課程訊息一致的學校中提升。研究團隊也用盲測分析檢查結論，讓這些發現更難被輕易否定。"
+   ],
+   [
+    "The debate shows a pattern that appears again and again in applied psychology. It is when a real insight from small, careful studies is scaled up, simplified and marketed that its effects tend to shrink under rigorous testing. That does not make the original insight worthless. Praising effort and strategy is reasonable, yet no short lesson or poster can replace good teaching, steady practice and a supportive environment.",
+    "這場爭論顯示出應用心理學中一再出現的模式：當一個來自小型嚴謹研究的真知灼見被放大、簡化、包裝推銷時，它的效果在嚴格檢驗下往往會縮小。這並不會讓原本的洞見變得沒有價值。稱讚努力和策略是合理的，但沒有任何一堂短課或一張海報，能取代好的教學、穩定的練習和支持性的環境。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "Why praising intelligence is always better than praising effort.",
+     "How to design posters for a growth mindset classroom.",
+     "How a popular idea held up when its evidence was tested.",
+     "How Carol Dweck became a famous teacher."
+    ],
+    "a": 2,
+    "evidence": "Its popularity makes it an ideal case study in how educational ideas should be judged.",
+    "why": "全文：成長型思維的早期證據、後來的檢驗與支持者的回應。",
+    "traps": [
+     "正反顛倒：被誇聰明的孩子表現較差。",
+     "以偏概全：海報只是它流行的例子。",
+     "",
+     "捏造：她是心理學家。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “publication bias” mean in the third paragraph?",
+    "options": [
+     "Positive results being published more often than others.",
+     "Researchers refusing to publish any results.",
+     "Journals charging money to publish studies.",
+     "Teachers preferring studies with simple results."
+    ],
+    "a": 0,
+    "evidence": "the tendency for positive results to be published more often",
+    "why": "括號直接解釋。",
+    "traps": [
+     "",
+     "正反顛倒：問題是正面結果被發表得較多。",
+     "捏造：文中沒提發表費用。",
+     "捏造：文中沒談老師的偏好。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Authors with a financial interest reported smaller effects.",
+     "The 1998 studies were done with university students.",
+     "The 2023 review found strong effects on grades.",
+     "The 2019 online lesson lasted less than an hour."
+    ],
+    "a": 3,
+    "evidence": "an online lesson lasting less than an hour",
+    "why": "第四段。",
+    "traps": [
+     "正反顛倒：他們回報的效果較大。",
+     "張冠李戴：是五年級學生。",
+     "正反顛倒：校正後效果消失。",
+     ""
+    ]
+   },
+   {
+    "type": "INS",
+    "q": "Here is a sentence: “The study’s credibility was strengthened by independent data collection and pre-registered analyses.” Which paragraph is most suitable to have it as the final sentence?",
+    "options": [
+     "Paragraph 2.",
+     "Paragraph 3.",
+     "Paragraph 4.",
+     "Paragraph 5."
+    ],
+    "a": 2,
+    "evidence": "In 2019, a large team including Dweck reported a national experiment",
+    "why": "第四段介紹支持者的 2019 年研究，結尾補一句「這項研究的可信度因獨立蒐集資料和預先登記分析而提升」最合適。",
+    "traps": [
+     "位置陷阱：第二段是 1998 年的早期研究。",
+     "位置陷阱：第三段是批評的回顧，不是單一研究。",
+     "",
+     "位置陷阱：第五段是全文的結論。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Children praised for their intelligence showed less [47] after failure, but later reviews found that mindset lessons had only [48] effects overall.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "persistence"
+      ],
+      "partial": [
+       "persistent",
+       "persist"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "weak"
+      ],
+      "partial": [
+       "weaker",
+       "weakness"
+      ]
+     }
+    ],
+    "why": "第一格出自第二段 less persistence（名詞）；第二格出自第三段 only weak overall effects。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "The 1998 research included six studies.",
+     "The 2023 review examined 63 studies.",
+     "Praising intelligence made children more persistent.",
+     "The 2019 lesson helped lower-achieving students.",
+     "The 2019 effects were the same in every school.",
+     "The author says growth mindset is completely worthless."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A 第二段；B 第三段；D 第四段。C 正反顛倒（更不堅持）；E 正反顛倒（取決於環境）；F 正反顛倒（原本的洞見並非沒價值）。"
+   },
+   {
+    "kind": "short",
+    "q": "Who developed mindset theory?",
+    "answer": [
+     "Carol Dweck",
+     "the psychologist Carol Dweck"
+    ],
+    "why": "第一段。"
+   }
+  ]
+ }
 }

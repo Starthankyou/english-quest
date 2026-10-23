@@ -537,5 +537,164 @@
    "zh": "一個著名實驗：為什麼人們即使知道群體錯了，仍會跟著附和。（5 分鐘）",
    "question": "How is the Asch experiment similar to the crowd in Andersen’s story?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "Few fairy tales have entered everyday language as fully as Hans Christian Andersen’s “The Emperor’s New Clothes”. First published in Copenhagen on 7 April 1837, in the same booklet as “The Little Mermaid”, it has since been translated into more than a hundred languages. Its central image, a ruler parading in invisible clothes while his people applaud, has become shorthand for any situation in which a falsehood survives because no one is willing to name it.",
+    "很少有童話像安徒生的〈國王的新衣〉這樣徹底融入日常語言。它在 1837 年 4 月 7 日於哥本哈根首次出版，和〈小美人魚〉收在同一本小冊子裡，此後被譯成一百多種語言。它的核心畫面——統治者穿著看不見的衣服遊行、百姓還拍手叫好——已成為一種簡稱，用來形容任何「因為沒人敢說破，謊言才得以存在」的情況。"
+   ],
+   [
+    "Andersen sets up his ruler in a single joke: where people normally say a king is “sitting in council” (meeting with his advisers), of this emperor they say he is “sitting in his wardrobe”. Two swindlers then arrive, claiming to weave cloth that is invisible to anyone “unfit for the office he held, or who was extraordinarily simple in character”. Turning sight into a test of competence, the trick works on everyone. Each minister who inspects the empty looms faces the same choice: admitting the truth would expose him as unfit, while pretending costs nothing.",
+    "安徒生用一個笑話就交代了這位統治者：一般說國王「在議事」，說到這位皇帝，大家卻說他「坐在衣櫥裡」。接著兩個騙子來了，聲稱能織出一種布，凡是「不適任其職位，或特別愚蠢」的人都看不見。把「看不看得見」變成能力的考驗，這個騙局對每個人都奏效。每位去查看空織布機的大臣，都面臨同樣的選擇：說實話會暴露自己不適任，假裝卻不必付出任何代價。"
+   ],
+   [
+    "Andersen adapted the plot from a tale of 1335 in a Spanish collection by Juan Manuel, which he knew from a German translation. In the original, the cloth is invisible to any man who is not the true son of his supposed father, so the fear is of illegitimacy. Andersen’s change is revealing. By making the test one of fitness for office and intelligence, he turned the story into a satire of pride, a fault that belongs not to one king but to whole institutions.",
+    "安徒生的情節改編自胡安．曼努埃爾一本西班牙故事集裡 1335 年的故事，他是讀德文譯本知道的。在原版中，那塊布對「不是父親親生兒子」的男人是看不見的，所以大家怕的是身世被拆穿。安徒生的改動很能說明問題：把考驗改成是否適任與是否聰明，他就把故事變成對驕傲的諷刺——而驕傲不只屬於某位國王，更屬於整個體制。"
+   ],
+   [
+    "Modern psychology has a name for the crowd’s behaviour: pluralistic ignorance (a situation in which most people privately reject a belief but wrongly assume that others accept it). Everyone in the procession doubts the clothes, yet no one knows that everyone else doubts them too. It is the child’s cry, “But the Emperor has nothing at all on!”, that changes everything — not because it reveals new information, but because it makes private knowledge public. Once spoken aloud, the truth spreads instantly through the crowd.",
+    "現代心理學為群眾的這種行為取了一個名字：多數無知（大多數人私下不相信某件事，卻誤以為別人都相信）。遊行隊伍裡每個人都懷疑那套衣服，卻沒有人知道其他人也都懷疑。改變一切的，是孩子那一聲「可是皇帝什麼都沒穿啊！」——不是因為它揭露了新資訊，而是因為它讓私下的認知變成公開的事實。一旦說出口，真相立刻傳遍整個人群。"
+   ],
+   [
+    "Andersen’s ending, however, refuses a simple triumph. The emperor knows the people are right, yet he decides that the procession must go on, and his servants keep holding up a train that does not exist. So stubborn is this final scene that it teaches two lessons at once: stating the obvious can require real courage, and the truth, once spoken, still depends on people willing to act on it.",
+    "然而安徒生的結局拒絕給出簡單的勝利。皇帝知道百姓說得對，卻決定遊行必須繼續，他的侍從也繼續捧著一條不存在的長裙襬。這最後一幕頑固到同時教了兩課：說出顯而易見的事可能需要真正的勇氣；而真相即使被說出來，仍要靠願意據此行動的人。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "Why emperors should spend less money on clothes.",
+     "How Andersen wrote “The Little Mermaid” in 1837.",
+     "Why people stay silent about obvious truths in a famous tale.",
+     "How cloth was woven in medieval Spain."
+    ],
+    "a": 2,
+    "evidence": "has become shorthand for any situation in which a falsehood survives because no one is willing to name it",
+    "why": "全文：故事的心理機制、改編來源與結局的兩層教訓。",
+    "traps": [
+     "過度推論：故事重點不是勸國王省錢。",
+     "以偏概全：〈小美人魚〉只是同一本小冊子的另一篇。",
+     "",
+     "字面誤讀：織布只是騙局。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What is “pluralistic ignorance” as described in the fourth paragraph?",
+    "options": [
+     "Most people privately doubt a belief but think others accept it.",
+     "Many people know the truth and say it loudly.",
+     "A ruler who does not know his own people.",
+     "A crowd that cannot see anything at all."
+    ],
+    "a": 0,
+    "evidence": "a situation in which most people privately reject a belief but wrongly assume that others accept it",
+    "why": "括號直接解釋。",
+    "traps": [
+     "",
+     "正反顛倒：大家都不敢說。",
+     "原文字眼、錯誤關係：國王是故事人物，不是這個概念的定義。",
+     "字面誤讀：問題不在看不見，而在不敢說。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The emperor ended the procession immediately.",
+     "In the Spanish source, the cloth tested intelligence.",
+     "The child’s cry gave the crowd new information.",
+     "Andersen knew the Spanish tale from a German translation."
+    ],
+    "a": 3,
+    "evidence": "which he knew from a German translation",
+    "why": "第三段。",
+    "traps": [
+     "正反顛倒：他決定繼續遊行。",
+     "張冠李戴：西班牙原版考驗的是否為親生子。",
+     "正反顛倒：原文 not because it reveals new information。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What can be inferred from the emperor’s decision to continue the procession?",
+    "options": [
+     "The emperor finally believed he was wearing clothes.",
+     "Exposing a falsehood does not automatically lead to change.",
+     "The crowd quickly forgot what the child had said.",
+     "The swindlers returned to finish weaving the cloth."
+    ],
+    "a": 1,
+    "evidence": "the truth, once spoken, still depends on people willing to act on it",
+    "why": "真相說出來了，皇帝仍照舊遊行，可推知揭穿謊言不一定帶來改變。",
+    "traps": [
+     "正反顛倒：他知道百姓說得對。",
+     "",
+     "正反顛倒：真相立刻傳遍人群。",
+     "捏造：騙子沒有再回來。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "The swindlers claimed their cloth was invisible to anyone unfit for his [47], and each minister chose [48] rather than admit he saw nothing.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "office"
+      ],
+      "partial": [
+       "offices"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "pretending"
+      ],
+      "partial": [
+       "pretend",
+       "pretended",
+       "pretence"
+      ]
+     }
+    ],
+    "why": "第一格出自第二段 unfit for the office he held；第二格出自 pretending costs nothing（choose 後接動名詞較自然，也可接名詞 pretence）。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "The tale was first published in Copenhagen in 1837.",
+     "People said the emperor was “sitting in his wardrobe”.",
+     "The Spanish source was written in 1835.",
+     "A child cried that the emperor had nothing on.",
+     "The emperor’s servants stopped holding up the train.",
+     "The tale has been translated into about ten languages."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A 第一段；B 第二段；D 第四段。C 數字錯位（1335 年）；E 正反顛倒（繼續捧著）；F 數字錯位（一百多種）。"
+   },
+   {
+    "kind": "short",
+    "q": "In which other tale’s booklet was “The Emperor’s New Clothes” first published?",
+    "answer": [
+     "“The Little Mermaid”",
+     "The Little Mermaid"
+    ],
+    "why": "第一段。"
+   }
+  ]
+ }
 }

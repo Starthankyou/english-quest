@@ -547,5 +547,159 @@
    "zh": "一隻章魚在家中解開罐子謎題。（5 分鐘）",
    "question": "Is opening a jar evidence of intelligence? What else would you want to test?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "When an octopus named Inky vanished from the National Aquarium of New Zealand in 2016, the story spread around the world. Staff believed he had slipped through a lid left slightly open, crossed several metres of floor and disappeared down a 50-metre drainpipe into the sea. Entertaining as it is, the story points to a genuinely puzzling fact: some of the most flexible behaviour in the animal kingdom belongs to a creature whose body and brain have almost nothing in common with ours.",
+    "2016 年，一隻名叫印奇的章魚從紐西蘭國家水族館消失，這個故事傳遍全世界。工作人員認為，牠從一個沒蓋緊的蓋子溜出來，爬過幾公尺的地板，再鑽進一條 50 公尺長的排水管，一路到了海裡。這個故事很有趣，卻也點出一個真正令人困惑的事實：動物界中最靈活的一些行為，屬於一種身體和大腦跟我們幾乎沒有共通點的生物。"
+   ],
+   [
+    "Laboratory research supports the impression of intelligence. In maze and problem-solving experiments, octopuses show both short-term and long-term memory, and they can readily be trained to tell shapes and patterns apart. More firmly established is tool use: the veined octopus gathers discarded coconut shells and carries them beneath its body to use later as a shelter. Octopuses have also been seen doing something that looks like play, such as pushing a bottle around with jets of water.",
+    "實驗室研究支持「章魚很聰明」的印象。在迷宮和解題實驗中，章魚表現出短期和長期記憶，也很容易被訓練來分辨形狀和圖案。更確定的是使用工具：條紋蛸會收集別人丟棄的椰子殼，抱在身體下方帶著走，之後拿來當藏身處。人們也看過章魚做出像是在玩的行為，例如用噴水把瓶子推來推去。"
+   ],
+   [
+    "What makes these abilities so striking is the design behind them. An octopus has more than 500 million neurons (nerve cells), roughly as many as a dog, yet only some of them are in its brain. About two-thirds lie in the nerve cords of its arms, which allows each arm to act with a degree of independence. Intelligence, in this design, is not kept in a single control centre but spread throughout the body.",
+    "讓這些能力如此驚人的，是背後的構造。章魚有超過五億個神經元（神經細胞），大約和狗一樣多，但只有一部分在大腦裡。大約三分之二位在腕足的神經索中，讓每一隻腕足都能在某種程度上獨立行動。在這種設計裡，智慧不是集中在單一的控制中心，而是分散在全身。"
+   ],
+   [
+    "This matters because the octopus represents a separate path of evolution. Octopuses have evolved apart from animals with backbones for more than 600 million years; our last common ancestor was probably a simple, worm-like creature. If complex minds arose along both paths, then intelligence may not be a one-time accident but something evolution can build more than once. So different is the rest of its body that it only adds to the point: three hearts, blue blood, skin that changes colour in an instant, and a lifespan of at most about four years.",
+    "這很重要，因為章魚代表一條獨立的演化路線。章魚和有脊椎的動物已經分開演化超過六億年；我們最後的共同祖先，可能是一種簡單、像蟲一樣的生物。如果複雜的心智在兩條路線上都出現了，那麼智慧也許不是一次性的意外，而是演化能夠一再打造的東西。牠身體其他部分的不同，更強化了這一點：三顆心臟、藍色的血、瞬間就能變色的皮膚，以及最多只有大約四年的壽命。"
+   ],
+   [
+    "Our view of such animals has changed accordingly. Aristotle called the octopus “a stupid creature” because it would approach a human hand lowered into the water. In 2021, by contrast, a review led by Jonathan Birch of the London School of Economics drew on more than 300 scientific studies and concluded that octopuses should be regarded as sentient; the UK government then extended its animal welfare law to cover them. Recognising intelligence, it seems, depends less on how similar an animal is to us than on whether we are willing to look for minds that work differently.",
+    "我們對這類動物的看法也隨之改變。亞里斯多德曾因為章魚會靠近伸進水裡的人手，而稱牠是「愚蠢的生物」。相對地，2021 年由倫敦政經學院的伯奇領導的一項研究回顧，根據三百多篇科學研究，認定章魚應被視為有感知能力的生物；英國政府隨後把動物福利法的保護範圍擴大到章魚。看來，能否辨認出智慧，與其說取決於動物有多像我們，不如說取決於我們是否願意去尋找運作方式不同的心智。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "How the UK changed its laws about aquariums.",
+     "How Inky escaped from an aquarium in New Zealand.",
+     "Why octopuses live for only about four years.",
+     "How octopuses show intelligence with a very different body and brain."
+    ],
+    "a": 3,
+    "evidence": "Intelligence, in this design, is not kept in a single control centre but spread throughout the body.",
+    "why": "全文：章魚的聰明行為、分散式的神經構造，以及人類看法的改變。",
+    "traps": [
+     "張冠李戴：法律保護的是章魚，不是水族館。",
+     "以偏概全：逃脫只是開頭的故事。",
+     "以偏概全：壽命只是第四段的一個細節。",
+     ""
+    ]
+   },
+   {
+    "type": "REF",
+    "q": "What does “them” in “carries them beneath its body” in the second paragraph refer to?",
+    "options": [
+     "Jets of water.",
+     "Discarded coconut shells.",
+     "Shapes and patterns.",
+     "Short-term memories."
+    ],
+    "a": 1,
+    "evidence": "the veined octopus gathers discarded coconut shells",
+    "why": "同一句前半：被收集、帶著走的是椰子殼。",
+    "traps": [
+     "原文字眼、錯誤關係：噴水是推瓶子的方式。",
+     "",
+     "原文字眼、錯誤關係：形狀和圖案是被分辨的對象。",
+     "原文字眼、錯誤關係：記憶不是能帶著走的東西。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Aristotle believed octopuses were very clever.",
+     "An octopus has fewer neurons than a dog has.",
+     "About two-thirds of an octopus’s neurons are in its arms.",
+     "The 2021 review was based on about 30 studies."
+    ],
+    "a": 2,
+    "evidence": "About two-thirds lie in the nerve cords of its arms",
+    "why": "第三段。",
+    "traps": [
+     "正反顛倒：他說章魚愚蠢。",
+     "數字錯位：大約和狗一樣多。",
+     "",
+     "數字錯位：原文是三百多篇。"
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "Why does the author think the octopus’s separate evolution matters?",
+    "options": [
+     "It suggests evolution can build complex minds more than once.",
+     "It proves that octopuses evolved from dogs.",
+     "It shows that octopuses are close relatives of humans.",
+     "It explains why octopuses have red blood."
+    ],
+    "a": 0,
+    "evidence": "intelligence may not be a one-time accident but something evolution can build more than once",
+    "why": "第四段。",
+    "traps": [
+     "",
+     "原文字眼、錯誤關係：狗只是比較神經元數量的對象。",
+     "正反顛倒：兩者分開演化超過六億年。",
+     "正反顛倒：章魚的血是藍色的。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Because two-thirds of its neurons lie in its arms, an octopus’s intelligence is [47] throughout its body, and in 2021 a review concluded that octopuses are [48].",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "spread"
+      ],
+      "partial": [
+       "spreads",
+       "spreading"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "sentient"
+      ]
+     }
+    ],
+    "why": "第一格出自第三段 spread throughout the body（被動語態，spread 的過去分詞同形）；第二格出自第五段 sentient。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "Inky escaped through a 50-metre drainpipe.",
+     "The veined octopus uses coconut shells as a shelter.",
+     "An octopus has two hearts and red blood.",
+     "Octopuses have been seen pushing a bottle with jets of water.",
+     "Octopuses can live for more than twenty years.",
+     "Aristotle praised the octopus for its intelligence."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A 第一段；B、D 第二段。C 數字錯位（三顆心臟、藍色的血）；E 數字錯位（最多約四年）；F 正反顛倒（他說章魚愚蠢）。"
+   },
+   {
+    "kind": "short",
+    "q": "Which phrase in the third paragraph explains what neurons are?",
+    "answer": [
+     "nerve cells"
+    ],
+    "why": "括號註解。"
+   }
+  ]
+ }
 }

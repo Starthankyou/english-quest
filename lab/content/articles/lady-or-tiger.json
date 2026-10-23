@@ -537,5 +537,162 @@
    "zh": "一位英文老師的詳細摘要與分析。（25 分鐘）",
    "question": "Does the teacher choose the lady or the tiger? Do you agree with her reasoning?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "Few short stories have caused as much argument from so little resolution as Frank R. Stockton’s “The Lady, or the Tiger?”, published in The Century Magazine in November 1882. The story’s fame rests on a deliberate refusal. Having built a situation of maximum suspense, Stockton holds back the outcome and hands the burden of judgement to the reader. The result is less a normal tale than a carefully designed thought experiment about human motives.",
+    "很少有短篇小說像史托克頓的〈美女還是老虎？〉這樣，用這麼少的結論引發這麼多爭論。它在 1882 年 11 月刊登於《世紀雜誌》。這個故事的名氣來自一個刻意的拒絕：營造出最大的懸念之後，史托克頓卻不說結局，把判斷的重擔交給讀者。與其說它是一般的故事，不如說它是一場精心設計、關於人性動機的思想實驗。"
+   ],
+   [
+    "The setting is an imaginary kingdom ruled by a “semi-barbaric king” (a ruler only partly civilised). An accused man must choose between two identical doors in a public arena: behind one is a hungry tiger, which kills him and proves his guilt; behind the other is a lady, whom he must marry at once to prove his innocence. The doors are so thick that no sound can pass through them. With conspicuous irony, Stockton calls the arena “an agent of poetic justice”, in which crime is punished or virtue rewarded by an impartial chance.",
+    "故事發生在一個由「半野蠻的國王」（只有一半開化的統治者）統治的想像王國。被告必須在公開競技場裡的兩扇一模一樣的門之間做選擇：一扇門後是飢餓的老虎，會咬死他、證明他有罪；另一扇門後是一位女子，他必須立刻娶她，證明他無罪。門厚到任何聲音都傳不出來。史托克頓以明顯的反諷，稱這座競技場是「詩意正義的代理人」，由公正無私的機運來懲罰罪行、獎賞美德。"
+   ],
+   [
+    "The moral dilemma falls not on the accused but on the princess. Her lover, a handsome youth of low rank, has been sent to the arena. Using gold and the power of her will, she alone has discovered which door hides which fate, and she recognises the waiting lady as a rival she hates. When the young man looks to her, she moves her hand to the right without hesitation, and he opens that door.",
+    "道德的兩難不落在被告身上，而是落在公主身上。她的愛人——一位英俊卻地位低微的青年——被送進了競技場。靠著金錢和自己的意志力，只有她查出了哪扇門後藏著哪種命運，而她認出那位等待的女子是她痛恨的情敵。當年輕人望向她時，她毫不遲疑地把手往右一指，他便打開了那扇門。"
+   ],
+   [
+    "At this point, Stockton turns from storytelling to analysis. He asks the reader to imagine the princess’s horror at the thought of her lover torn by the tiger, and equally her pain at picturing him happily married to her rival. Her decision, he says, was shown in an instant but made after “days and nights of anguished deliberation.” Every argument for one door is matched by an argument for the other. Yet not even a sequel published in 1885 revealed the answer.",
+    "說到這裡，史托克頓從敘事轉向分析。他要讀者想像，公主想到愛人被老虎撕裂時的恐懼，以及想到他和情敵幸福成婚時同樣的痛苦。他說，她的決定雖然在一瞬間顯示出來，卻是經過「日日夜夜痛苦的考慮」才做出的。支持某一扇門的每個理由，都有支持另一扇門的理由相抗衡。然而連 1885 年出版的續集，也沒有揭曉答案。"
+   ],
+   [
+    "The story ends by addressing its readers directly: “And so I leave it with all of you: Which came out of the opened door,—the lady, or the tiger?” That final sentence turns readers into judges, much as the king’s arena turned chance into a judge. It is evidence from the text that students must rely on, not a correct answer to look up. Only by weighing that evidence can a reader defend an answer. The princess’s jealousy, her love and her “semi-barbaric” nature are all the clues there are.",
+    "故事最後直接對讀者說：「所以我把它交給你們每一個人：從打開的門裡出來的，是美女，還是老虎？」這最後一句把讀者變成了法官，就像國王的競技場把機運變成了法官。學生能依靠的，是文本裡的證據，而不是一個可以查到的標準答案。只有權衡這些證據，讀者才能為自己的答案辯護。公主的嫉妒、她的愛和她「半野蠻」的天性，就是全部的線索。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "How a story with no ending turns readers into judges.",
+     "How kings trained tigers for public arenas.",
+     "Why the princess married a rich young man.",
+     "How Stockton wrote a sequel that solved the mystery."
+    ],
+    "a": 0,
+    "evidence": "That final sentence turns readers into judges",
+    "why": "全文：故事刻意不給結局，把判斷交給讀者。",
+    "traps": [
+     "",
+     "捏造：文中沒提訓練老虎。",
+     "正反顛倒：她愛的是地位低微的青年。",
+     "正反顛倒：續集也沒有揭曉答案。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does Stockton’s description of the arena as “an agent of poetic justice” suggest?",
+    "options": [
+     "He thinks the arena was built by poets.",
+     "He believes it is the best system of justice.",
+     "He praises it as fair while showing it depends on luck.",
+     "He wants readers to admire the king’s wisdom."
+    ],
+    "a": 2,
+    "evidence": "With conspicuous irony, Stockton calls the arena “an agent of poetic justice”",
+    "why": "作者以明顯的反諷稱它公正，其實全靠機運。",
+    "traps": [
+     "字面誤讀：poetic justice 不是詩人蓋的。",
+     "正反顛倒：他是在反諷。",
+     "",
+     "正反顛倒：作者稱國王「半野蠻」。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The young man was a prince from a rich kingdom.",
+     "The princess moved her hand to the right without hesitation.",
+     "Sounds could be heard clearly through the doors.",
+     "The story first appeared in The Century Magazine in 1885."
+    ],
+    "a": 1,
+    "evidence": "she moves her hand to the right without hesitation",
+    "why": "第三段。",
+    "traps": [
+     "正反顛倒：他地位低微。",
+     "",
+     "正反顛倒：門厚到聽不到聲音。",
+     "數字錯位：1882 年，1885 年是續集。"
+    ]
+   },
+   {
+    "type": "INS",
+    "q": "Here is a sentence: “Readers have argued about the answer ever since.” Which paragraph is most suitable to have it as the final sentence?",
+    "options": [
+     "Paragraph 2.",
+     "Paragraph 3.",
+     "Paragraph 4.",
+     "Paragraph 5."
+    ],
+    "a": 2,
+    "evidence": "Yet not even a sequel published in 1885 revealed the answer.",
+    "why": "第四段結尾說連續集都沒揭曉答案，接「讀者從此爭論不休」最順；ever since 也呼應前一句的時間點。",
+    "traps": [
+     "位置陷阱：第二段在介紹審判制度，還沒有懸念。",
+     "位置陷阱：第三段結尾才剛打開門，還沒到「沒答案」。",
+     "",
+     "位置陷阱：第五段已是收尾，談的是讀者成為法官。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "The princess learned the secret through gold and the power of her [47], and she knew that the lady was a [48] she hated.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "will"
+      ],
+      "partial": [
+       "willing"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "rival"
+      ],
+      "partial": [
+       "rivals"
+      ]
+     }
+    ],
+    "why": "第一格出自第三段 the power of her will；第二格出自 a rival she hates。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "The story appeared in November 1882.",
+     "The king is described as “semi-barbaric”.",
+     "The princess hesitated for a long time in the arena.",
+     "The princess’s decision followed days and nights of deliberation.",
+     "The young man was of royal birth.",
+     "Stockton’s sequel revealed what came out of the door."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A 第一段；B 第二段；D 第四段。C 正反顛倒（毫不遲疑）；E 正反顛倒（地位低微）；F 正反顛倒（續集也沒有揭曉）。"
+   },
+   {
+    "kind": "short",
+    "q": "In which direction did the princess move her hand?",
+    "answer": [
+     "to the right",
+     "right"
+    ],
+    "why": "第三段。"
+   }
+  ]
+ }
 }

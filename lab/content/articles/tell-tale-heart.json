@@ -537,5 +537,164 @@
    "zh": "故事主題與敘事者的摘要和分析。（7 分鐘）",
    "question": "Does the video agree that the narrator is unreliable? What evidence does it use?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "Edgar Allan Poe’s “The Tell-Tale Heart”, first published in the Boston magazine The Pioneer in January 1843, is barely a few pages long, yet it remains one of the most studied short stories in American literature. From the opening line, “True! — nervous — very, very dreadfully nervous I had been and am; but why will you say that I am mad?”, the narrator is on the defensive, arguing with an accuser, who never speaks.",
+    "愛倫坡的〈告密的心〉在 1843 年 1 月首次刊登於波士頓的《拓荒者》雜誌，只有短短幾頁，卻至今仍是美國文學中最常被研究的短篇小說之一。從第一句「沒錯！——緊張——我一直都非常、非常、極度地緊張，現在也是；但你為什麼要說我瘋了？」開始，敘述者就處於防衛狀態，和一位從不開口的指控者爭辯。"
+   ],
+   [
+    "The narrator’s argument defeats itself. He claims that his illness has sharpened his senses, and that the calm way he can tell the story proves he is sane. Yet he also admits that the crime had no reasonable motive: “Object there was none. Passion there was none. I loved the old man.” The only reason he gives is the old man’s pale blue eye, “the eye of a vulture”. It is in this gap that the reader’s doubt begins: his claims of reason clash with his unreasonable motive.",
+    "敘述者的論點自相矛盾。他聲稱疾病讓他的感官更敏銳，又說自己能冷靜地講述經過，就證明他沒瘋。然而他也承認，這樁罪行沒有任何合理的動機：「沒有目的，也沒有激情。我愛那個老人。」他給出的唯一理由，是老人那隻淡藍色的眼睛——「禿鷹的眼睛」。讀者的懷疑，就從他宣稱的理性和他不理性的動機之間的落差開始。"
+   ],
+   [
+    "Poe builds the story so that the narrator’s evidence of sanity becomes evidence against it. He boasts of his caution, describing how for seven nights he opened the old man’s door so slowly that it took an hour to put his head inside. After the murder, he hides the remains beneath the floorboards. When police officers arrive, he invites them to sit in the very room, placing his own chair above the hiding place. Offered as proof of control, each detail instead reveals obsession.",
+    "愛倫坡把故事設計成：敘述者用來證明自己沒瘋的證據，反而成了不利於他的證據。他吹噓自己有多謹慎，描述自己連續七個晚上打開老人的門，動作慢到光是把頭伸進去就要一小時。殺人之後，他把遺體藏在地板下。警察來時，他請他們在那個房間坐下，甚至把自己的椅子放在藏屍處正上方。每個細節本來是要證明他能掌控一切，卻反而暴露了他的執迷。"
+   ],
+   [
+    "The climax turns on sound. As the officers chat, the narrator hears a low, dull, quick noise that grows louder until he can bear it no longer. “Villains! dissemble no more! I admit the deed! — tear up the planks! — here, here! — It is the beating of his hideous heart!” What he hears is deliberately left unclear. It may be his imagination, the pounding of his own heart, or the deathwatch beetles (insects linked by superstition with approaching death) that he earlier claims to have heard in the wall.",
+    "高潮建立在聲音上。警察閒聊時，敘述者聽到一種低沉、悶悶的、急促的聲音，越來越響，直到他再也受不了：「惡棍！別再裝了！我承認！——撬開地板！——這裡，這裡！——是他那可怕的心臟在跳！」他聽到的究竟是什麼，被刻意留白。那可能是他的想像、他自己狂跳的心，或是他先前說在牆裡聽到的報死甲蟲（迷信中和死亡將近有關的昆蟲）。"
+   ],
+   [
+    "This is the heart of the unreliable narrator, a voice whose account the reader must test rather than accept. So skilfully does Poe place us in the position of the police that we listen to a confident explanation while noticing what it accidentally reveals. Not only does the skill matter in fiction, but it also matters well beyond it. Whenever someone insists too loudly on their own reasonableness, the story suggests, it is worth listening not only to what they say but also to how they say it.",
+    "這就是「不可靠敘述者」的核心：一個讀者必須檢驗、而不能照單全收的聲音。愛倫坡巧妙地把我們放在警察的位置上，讓我們一邊聽一段自信的解釋，一邊注意它不小心透露的事。這種能力不只在小說裡重要，在小說之外也很重要。這個故事暗示：每當有人過度大聲地強調自己有多理性時，值得注意的不只是他說了什麼，還有他怎麼說。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "How deathwatch beetles cause the death of old people.",
+     "How the police caught a dangerous criminal in Boston.",
+     "Why vultures have pale blue eyes.",
+     "How Poe makes a narrator’s own words work against him."
+    ],
+    "a": 3,
+    "evidence": "Poe builds the story so that the narrator’s evidence of sanity becomes evidence against it.",
+    "why": "全文：敘述者越想證明自己沒瘋，越暴露他的不正常。",
+    "traps": [
+     "捏造：甲蟲只和迷信有關。",
+     "正反顛倒：是他自己招供。",
+     "字面誤讀：禿鷹只是比喻。",
+     ""
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “dissemble” mean in “dissemble no more”?",
+    "options": [
+     "Take something apart into pieces.",
+     "Hide one’s true knowledge or feelings.",
+     "Speak loudly in a public place.",
+     "Search a room very carefully."
+    ],
+    "a": 1,
+    "evidence": "Villains! dissemble no more! I admit the deed!",
+    "why": "他以為警察早知道真相只是在裝，所以喊「別再裝了」。",
+    "traps": [
+     "字面誤讀：disassemble 才是拆開。",
+     "",
+     "原文字眼、錯誤關係：大喊的是敘述者自己。",
+     "捏造：警察只是在閒聊。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The story first appeared in a New York magazine.",
+     "The narrator wanted the old man’s gold.",
+     "The narrator placed his chair above the hiding place.",
+     "The narrator opened the door for eight nights before the crime."
+    ],
+    "a": 2,
+    "evidence": "placing his own chair above the hiding place",
+    "why": "第三段。",
+    "traps": [
+     "張冠李戴：是波士頓的雜誌。",
+     "捏造：他說沒有目的，愛那個老人。",
+     "",
+     "數字錯位：連續七晚，第八晚才行兇。"
+    ]
+   },
+   {
+    "type": "INS",
+    "q": "Here is a sentence: “The more he insists on his calm, the less calm he appears.” Which paragraph is most suitable to have it as the final sentence?",
+    "options": [
+     "Paragraph 1.",
+     "Paragraph 2.",
+     "Paragraph 3.",
+     "Paragraph 4."
+    ],
+    "a": 2,
+    "evidence": "Offered as proof of control, each detail instead reveals obsession.",
+    "why": "第三段說每個用來證明掌控的細節，反而暴露他的執迷，接「他越強調冷靜，看起來越不冷靜」最順。",
+    "traps": [
+     "位置陷阱：第一段只介紹出版與開頭句。",
+     "位置陷阱：第二段談的是動機的矛盾，還沒談他的行為細節。",
+     "",
+     "位置陷阱：第四段談聲音與高潮，已經崩潰認罪。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "The narrator claims his illness has [47] his senses, but his careful planning reveals [48] rather than sanity.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "sharpened"
+      ],
+      "partial": [
+       "sharpen",
+       "sharp"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "obsession"
+      ],
+      "partial": [
+       "obsessed",
+       "obsessive"
+      ]
+     }
+    ],
+    "why": "第一格出自第二段 has sharpened（現在完成式）；第二格出自第三段 reveals obsession（名詞）。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "The story first appeared in January 1843.",
+     "The narrator says he loved the old man.",
+     "The police clearly heard the beating heart.",
+     "The narrator hid the remains under the floorboards.",
+     "Poe explains exactly what the sound was.",
+     "The old man had a dark brown eye."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A 第一段；B 第二段；D 第三段。C 正反顛倒（警察似乎什麼都沒聽到）；E 正反顛倒（刻意留白）；F 張冠李戴（淡藍色的眼睛）。"
+   },
+   {
+    "kind": "short",
+    "q": "What does the narrator call the old man’s eye?",
+    "answer": [
+     "the eye of a vulture",
+     "“the eye of a vulture”"
+    ],
+    "why": "第二段。"
+   }
+  ]
+ }
 }

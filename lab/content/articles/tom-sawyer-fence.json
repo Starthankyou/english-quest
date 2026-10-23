@@ -537,5 +537,164 @@
    "zh": "一場關於為什麼獎勵不一定能提高動機的演講。",
    "question": "How does Pink’s argument connect to Twain’s idea that wages can “turn it into work”?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "The second chapter of Mark Twain’s The Adventures of Tom Sawyer, published in 1876, contains one of the most famous lessons in persuasion in American literature. On a bright Saturday morning, Tom faces “thirty yards of board fence nine feet high” that his Aunt Polly has ordered him to whitewash. Twain describes his despair with comic grandeur: life seems “hollow, and existence but a burden”, and soon the other boys will pass by and laugh at him.",
+    "馬克．吐溫 1876 年出版的《湯姆歷險記》第二章，收錄了美國文學中最著名的說服術之一。在一個晴朗的星期六早上，湯姆面對「三十碼長、九呎高的木板籬笆」，波麗姨媽命令他把它刷白。吐溫用誇張的滑稽口吻描寫他的絕望：人生顯得「空虛，存在只是負擔」，而其他男孩很快就會經過、嘲笑他。"
+   ],
+   [
+    "Tom first thinks of paying someone to help, but his worldly wealth — “bits of toys, marbles, and trash” — could not buy even half an hour of freedom. His solution is cleverer: he changes not the task but its meaning. When Ben Rogers, the boy whose teasing he fears most, comes along eating an apple, Tom ignores him and works with the focus of an artist. Asked whether he is really working, he replies: “Does a boy get a chance to whitewash a fence every day?”",
+    "湯姆先想到付錢請人幫忙，但他的「家當」——「玩具碎片、彈珠和破爛」——連半小時的自由都買不到。他的辦法更聰明：他改變的不是工作，而是工作的意義。當他最怕被嘲笑的班．羅傑斯啃著蘋果走過來時，湯姆不理他，像藝術家一樣專心工作。被問到是不是真的在幹活，他回答：「哪個男孩能天天有機會刷籬笆？」"
+   ],
+   [
+    "What follows is a lesson in creating scarcity. When Ben asks to try, Tom refuses, explaining that Aunt Polly is “awful particular about this fence” and that perhaps not one boy in a thousand could do it properly. So effective is this refusal that Ben hands over his apple for a turn, and a stream of boys who “came to jeer, but remained to whitewash” pays Tom in kites, marbles and even a dead rat. By the afternoon, the fence has three coats of whitewash, and Tom is “literally rolling in wealth”.",
+    "接下來是一堂「製造稀有」的課。班想試試看時，湯姆拒絕了，說波麗姨媽「對這道籬笆講究得要命」，大概一千個男孩裡也沒一個能刷得好。這個拒絕效果好到班交出蘋果換一次機會，接著一群「來嘲笑、卻留下來刷籬笆」的男孩，用風箏、彈珠甚至一隻死老鼠付給湯姆。到了下午，籬笆刷了三層白漆，而湯姆「簡直富得流油」。"
+   ],
+   [
+    "Twain then steps forward to state the moral with gentle irony. Tom, he says, had discovered “a great law of human action”: to make someone want a thing, “it is only necessary to make the thing difficult to attain.” Work, Twain adds, is whatever a person is obliged to do, and play is whatever a person is not obliged to do. Wealthy English gentlemen pay to drive passenger coaches for pleasure, yet if they were offered wages, “that would turn it into work and then they would resign.”",
+    "接著吐溫親自出面，以溫和的反諷點出寓意。他說，湯姆發現了「人類行為的一大法則」：要讓人想要某樣東西，「只需要讓它難以得到」。吐溫補充說，工作就是一個人「必須」做的事，玩樂則是「不必」做的事。富有的英國紳士付錢駕駛載客馬車當作消遣，但如果有人付他們薪水，「那就會變成工作，他們就會辭職了」。"
+   ],
+   [
+    "That last joke anticipates what psychologists later called the overjustification effect: offering expected rewards for an activity people already enjoy can sometimes reduce their own interest in it. Researchers still debate how strongly such findings apply to real life. It was Twain, however, who caught the core idea with remarkable economy. How we frame an activity, as a chore or as a privilege, can matter as much as the activity itself.",
+    "最後那個笑話，預示了心理學家後來所說的「過度合理化效應」：為人們本來就喜歡的活動提供預期中的獎勵，有時反而會降低他們自己的興趣。研究者仍在爭論這類發現在現實生活中適用到什麼程度。然而，吐溫以驚人的精簡抓住了核心概念：我們如何框架一件事——當成苦差還是特權——可能和那件事本身一樣重要。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "How Tom turned a chore into a privilege others paid for.",
+     "How to whitewash a long wooden fence properly.",
+     "Why Aunt Polly was particular about her fence.",
+     "How English gentlemen learned to drive coaches."
+    ],
+    "a": 0,
+    "evidence": "he changes not the task but its meaning",
+    "why": "全文：湯姆改變工作的意義，讓別人搶著付錢刷籬笆，以及吐溫點出的寓意。",
+    "traps": [
+     "",
+     "捏造：重點不是刷漆技巧。",
+     "原文字眼、錯誤關係：那是湯姆的說詞，不是重點。",
+     "以偏概全：紳士只是第四段的例子。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “obliged” mean in the fourth paragraph?",
+    "options": [
+     "Paid well to do something.",
+     "Happy to do something.",
+     "Required to do something.",
+     "Too tired to do something."
+    ],
+    "a": 2,
+    "evidence": "Work, Twain adds, is whatever a person is obliged to do",
+    "why": "和「玩樂是不必做的事」對照：必須做。",
+    "traps": [
+     "原文字眼、錯誤關係：薪水是紳士例子裡的條件。",
+     "正反顛倒：那比較接近玩樂。",
+     "",
+     "捏造：obliged 跟累不累沒有關係。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The fence was nine yards long and thirty feet high.",
+     "The fence was given three coats of whitewash.",
+     "Tom paid the other boys to paint the fence.",
+     "Ben offered Tom a kite before his apple."
+    ],
+    "a": 1,
+    "evidence": "the fence has three coats of whitewash",
+    "why": "第三段。",
+    "traps": [
+     "數字錯位：三十碼長、九呎高。",
+     "",
+     "正反顛倒：是男孩們付東西給湯姆。",
+     "時序錯置：班先交出蘋果，風箏是其他男孩給的。"
+    ]
+   },
+   {
+    "type": "ORG",
+    "q": "Why does Twain mention the English gentlemen who drive coaches?",
+    "options": [
+     "To describe the rich people Tom wanted to meet.",
+     "To prove that coaches were common in America.",
+     "To explain how Tom earned his marbles.",
+     "To show how pay can turn play into work."
+    ],
+    "a": 3,
+    "evidence": "if they were offered wages, “that would turn it into work and then they would resign.”",
+    "why": "作者手法：用紳士的例子說明「付錢會讓玩樂變成工作」。",
+    "traps": [
+     "捏造：文中沒說湯姆想見有錢人。",
+     "捏造：文中沒提美國的馬車。",
+     "張冠李戴：彈珠是男孩們給湯姆的。",
+     ""
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Tom realised that to make someone want a thing, it is only necessary to make it difficult to [47], and Twain’s joke [48] what psychologists later called the overjustification effect.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "attain"
+      ],
+      "partial": [
+       "attained",
+       "attaining"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "anticipates"
+      ],
+      "partial": [
+       "anticipate",
+       "anticipated"
+      ]
+     }
+    ],
+    "why": "第一格出自第四段 difficult to attain（to 後接原形）；第二格出自第五段 anticipates（主詞 joke 是單數）。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "The book was published in 1876.",
+     "Tom’s possessions could not buy half an hour of freedom.",
+     "Ben Rogers was Tom’s cousin.",
+     "Boys paid Tom with kites, marbles and a dead rat.",
+     "Tom finished the fence alone by noon.",
+     "Researchers all agree on the overjustification effect."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A 第一段；B 第二段；D 第三段。C 捏造（文中沒說是表兄弟）；E 正反顛倒（是其他男孩刷的）；F 正反顛倒（研究者仍在爭論）。"
+   },
+   {
+    "kind": "short",
+    "q": "What question does Tom ask Ben to make whitewashing seem special?",
+    "answer": [
+     "Does a boy get a chance to whitewash a fence every day?",
+     "Does a boy get a chance to whitewash a fence every day"
+    ],
+    "why": "第二段。"
+   }
+  ]
+ }
 }

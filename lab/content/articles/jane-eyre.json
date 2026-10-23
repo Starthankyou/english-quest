@@ -537,5 +537,162 @@
    "zh": "小說情節、角色與主題總覽。（7 分鐘）",
    "question": "Which stage of Jane’s life in the video matches the “I am no bird” scene?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "When Jane Eyre was published in October 1847, the title page named its author as “Currer Bell”. The name hid Charlotte Brontë, a clergyman’s daughter who, like her sisters, chose a name that did not reveal her gender at a time when women’s writing was often dismissed. The concealment is fitting, for the novel itself is about being judged accurately — about the gap between how others classify a person and who that person really is.",
+    "《簡愛》在 1847 年 10 月出版時，書名頁上的作者是「柯勒．貝爾」。這個名字掩蓋了夏綠蒂．勃朗特——一位牧師之女。在女性作品常被輕視的年代，她和姊妹們一樣，選了一個看不出性別的名字。這種隱藏很貼切，因為這本小說本身談的就是被正確看待——別人怎麼歸類一個人，和那個人真正是誰之間的落差。"
+   ],
+   [
+    "The novel follows Jane through five stages: an unhappy childhood at Gateshead Hall, a harsh education at Lowood, work as a governess at Thornfield Hall, a period at Moor House with her cold cousin St John Rivers, and her reunion with Rochester. The Lowood chapters carry real pain. Helen Burns, Jane’s friend, dies of tuberculosis, just as Brontë’s elder sisters Maria and Elizabeth died after their time at the Clergy Daughters’ School at Cowan Bridge.",
+    "這部小說帶著簡愛走過五個階段：在蓋茨海德府不快樂的童年、在羅伍德的嚴苛求學、在桑菲爾德府擔任家庭教師、和冷淡的表哥聖約翰．里弗斯住在沼澤居，以及與羅徹斯特重逢。羅伍德的章節承載著真實的傷痛：簡的朋友海倫．彭斯死於肺結核，就像勃朗特的兩位姊姊瑪麗亞和伊莉莎白在考恩橋的牧師女兒學校待過之後相繼去世。"
+   ],
+   [
+    "The novel’s most celebrated passages turn on Jane’s insistence on her own worth. She becomes a governess at Thornfield, a role Brontë knew well from her own life, and falls in love with her employer, Edward Rochester. She rejects the idea that a low position means an empty heart: “Do you think, because I am poor, obscure, plain, and little, I am soulless and heartless? You think wrong!” When he compares her to “a wild frantic bird”, she turns his image into a declaration: “I am no bird; and no net ensnares me; I am a free human being with an independent will.”",
+    "小說最著名的段落，都圍繞著簡對自身價值的堅持。她到桑菲爾德府當家庭教師——勃朗特自己就做過這份工作——並愛上了她的雇主愛德華．羅徹斯特。她拒絕接受「地位低就沒有心」的想法：「你以為，因為我貧窮、卑微、不美、矮小，我就沒有靈魂、沒有心嗎？你想錯了！」當他把她比作「一隻狂亂的野鳥」時，她把這個比喻變成一份宣言：「我不是鳥；沒有網能困住我；我是一個有獨立意志的自由人。」"
+   ],
+   [
+    "Brontë also extends this claim beyond one person. Pacing the third-storey corridor at Thornfield, Jane reflects that women are supposed to be calm, “but women feel just as men feel”; they need exercise for their abilities and a field for their efforts, as much as their brothers do. So bold was this statement for 1847 that the novel has been read as an early protest against the limits placed on women’s lives.",
+    "勃朗特也把這個主張延伸到一個人之外。在桑菲爾德府三樓的走廊上來回踱步時，簡想到：人們期待女性要平靜，「但女人的感受和男人一樣」；她們和兄弟們一樣，需要施展能力的機會和努力的舞台。這段話在 1847 年大膽到讓這本小說被視為對女性生活限制的早期抗議。"
+   ],
+   [
+    "Jane’s independence faces its hardest test when she learns that Rochester is already married. Alone and without money, she still refuses to stay, explaining that “laws and principles are not for the times when there is no temptation”. Her departure is not a rejection of love; it is a claim that love must not cost her self-respect. Not every reader agrees with the book: Jean Rhys’s 1966 novel Wide Sargasso Sea gives a voice to Rochester’s first wife. Yet such responses show how powerfully the novel raised the question of who has the right to speak.",
+    "當簡得知羅徹斯特早已結婚時，她的獨立面臨最嚴峻的考驗。孤身一人、身無分文，她仍拒絕留下，理由是「法律和原則不是為沒有誘惑的時候而設的」。她的離開不是拒絕愛，而是主張愛不能以失去自尊為代價。並不是每位讀者都認同這本書：珍．瑞絲 1966 年的小說《夢迴藻海》就為羅徹斯特的第一任妻子發聲。然而，這些回應正顯示這部小說多麼有力地提出了「誰有權發聲」這個問題。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "Why Rochester married his first wife in secret.",
+     "How Charlotte Brontë became a successful governess.",
+     "How the novel insists on a woman’s inner worth and independence.",
+     "How Jean Rhys rewrote the story of Jane Eyre."
+    ],
+    "a": 2,
+    "evidence": "The novel’s most celebrated passages turn on Jane’s insistence on her own worth.",
+    "why": "全文：出版背景、簡對自身價值的堅持，以及小說對女性處境的發聲。",
+    "traps": [
+     "捏造：文中沒說他秘密結婚。",
+     "以偏概全：勃朗特當過家庭教師只是背景。",
+     "",
+     "以偏概全：只是最後一段提到的回應。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “concealment” in the first paragraph refer to?",
+    "options": [
+     "Hiding the author’s real name and gender.",
+     "Hiding the novel in a secret library.",
+     "Keeping Jane’s cousin away from Thornfield.",
+     "Covering the third-storey corridor."
+    ],
+    "a": 0,
+    "evidence": "The name hid Charlotte Brontë",
+    "why": "前一句：筆名掩蓋了勃朗特的真名與性別。",
+    "traps": [
+     "",
+     "字面誤讀：不是把書藏起來。",
+     "時序錯置：表哥在第二段的另一個階段。",
+     "原文字眼、錯誤關係：三樓走廊是第四段的場景。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Jean Rhys’s novel appeared in 1847.",
+     "Jane Eyre was first published under Brontë’s real name.",
+     "St John Rivers is Jane’s warm and gentle uncle.",
+     "Helen Burns dies of tuberculosis at Lowood."
+    ],
+    "a": 3,
+    "evidence": "Helen Burns, Jane’s friend, dies of tuberculosis",
+    "why": "第二段。",
+    "traps": [
+     "數字錯位：1966 年。",
+     "正反顛倒：用的是筆名柯勒．貝爾。",
+     "張冠李戴：他是冷淡的表哥。",
+     ""
+    ]
+   },
+   {
+    "type": "SEQ",
+    "q": "Which of the following shows the correct order of Jane’s stages? a. Thornfield Hall b. Gateshead Hall c. Moor House d. Lowood",
+    "options": [
+     "b → d → a → c",
+     "d → b → a → c",
+     "b → a → d → c",
+     "b → d → c → a"
+    ],
+    "a": 0,
+    "evidence": "The novel follows Jane through five stages",
+    "why": "蓋茨海德府的童年 → 羅伍德求學 → 桑菲爾德府 → 沼澤居。",
+    "traps": [
+     "",
+     "時序顛倒：童年在蓋茨海德府，先於羅伍德。",
+     "時序顛倒：先求學，才去當家庭教師。",
+     "時序顛倒：桑菲爾德府在沼澤居之前。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Jane tells Rochester that she is a free human being with an [47] will, and she leaves because love must not cost her [48].",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "independent"
+      ],
+      "partial": [
+       "independence"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "self-respect"
+      ],
+      "partial": [
+       "respect"
+      ]
+     }
+    ],
+    "why": "第一格出自第三段 an independent will（修飾名詞用形容詞）；第二格出自第五段 cost her self-respect。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "The novel was published in October 1847.",
+     "Brontë had worked as a governess herself.",
+     "Jane stays at Thornfield after learning Rochester is married.",
+     "Jane says women feel just as men feel.",
+     "Maria and Elizabeth were Brontë’s younger sisters.",
+     "Rochester compares Jane to a calm and gentle bird."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A 第一段；B 第三段；D 第四段。C 正反顛倒（她拒絕留下）；E 正反顛倒（是姊姊）；F 正反顛倒（是狂亂的野鳥）。"
+   },
+   {
+    "kind": "short",
+    "q": "What name appeared on the title page as the author of Jane Eyre?",
+    "answer": [
+     "Currer Bell",
+     "“Currer Bell”"
+    ],
+    "why": "第一段。"
+   }
+  ]
+ }
 }

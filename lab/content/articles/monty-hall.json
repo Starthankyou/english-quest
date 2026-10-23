@@ -541,5 +541,164 @@
    "zh": "喜劇片段：兩個角色為這道謎題爭論不休。（4 分鐘）",
    "question": "Which character is “confidently wrong”, and how does the scene show it?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "Few puzzles have humbled as many clever people as the Monty Hall problem. Named after the original host of the American game show Let’s Make a Deal, it was first posed by the statistician Steve Selvin in a 1975 letter. It became famous in 1990, when a reader’s version appeared in Marilyn vos Savant’s “Ask Marilyn” column in Parade magazine. A contestant chooses one of three doors, behind one of which is a car; the host, who knows where the car is, opens another door to reveal a goat and offers a chance to switch.",
+    "很少有謎題像「蒙提霍爾問題」這樣，讓這麼多聰明人吃癟。它以美國遊戲節目《來做個交易吧》的原始主持人命名，最早由統計學家塞爾文在 1975 年的一封信中提出。1990 年，讀者版本出現在《遊行》雜誌莎凡特的「問瑪莉蓮」專欄，才讓它出了名。參賽者從三扇門中選一扇，其中一扇門後有一輛汽車；知道車在哪裡的主持人打開另一扇門，露出一隻山羊，然後讓參賽者有機會換門。"
+   ],
+   [
+    "Vos Savant’s answer, that the contestant should switch, provoked an extraordinary reaction. About 10,000 readers, including nearly 1,000 with PhDs, wrote to the magazine, most of them claiming she was wrong. Even when given explanations and simulations, many still refused to accept the result. The mathematician Paul Erdős reportedly remained unconvinced until he saw a computer simulation, and the argument reached the front page of The New York Times.",
+    "莎凡特的答案是參賽者應該換門，這引發了不尋常的反應。大約一萬名讀者寫信到雜誌社，其中將近一千人有博士學位，大多數都說她錯了。即使給了解釋和模擬，很多人還是拒絕接受。據說數學家艾狄胥直到看了電腦模擬才信服，這場爭論甚至登上了《紐約時報》頭版。"
+   ],
+   [
+    "Under the standard assumptions, the mathematics is not difficult. The first choice has a one-third chance of being correct, so there is a two-thirds chance that the car is behind one of the other two doors. Crucially, the host’s action is constrained (limited by fixed rules): he knows where the car is and will never reveal it. By opening a losing door from the unchosen pair, he moves that entire two-thirds chance onto the remaining closed door. Switching therefore wins two times out of three; staying wins only once.",
+    "在標準假設下，數學並不難。第一次選對的機率是三分之一，所以有三分之二的機率車在另外兩扇門之一後面。關鍵在於，主持人的行動受到限制（受固定規則約束）：他知道車在哪裡，絕不會打開那扇門。他從沒被選的兩扇門中打開一扇沒獎的門，就把那整整三分之二的機率移到剩下那扇關著的門上。因此，換門三次中能贏兩次；不換只能贏一次。"
+   ],
+   [
+    "Why, then, is the error so persistent? Part of the answer is that people treat the two remaining doors as equal, ignoring the information carried by the host’s choice. Another part is that the popular wording left important conditions unstated. As critics noted at the time, the Parade version did not say that the host always opens a door and always offers a switch. If he could choose whether to do so, the chances might differ.",
+    "那麼，這個錯誤為什麼這麼頑固？部分原因是，人們把剩下的兩扇門當成一樣，忽略了主持人的選擇所帶的資訊。另一部分原因是，流行的說法沒有講清楚重要的條件。當時的批評者就指出，《遊行》雜誌的版本沒有說主持人「一定」會開門、「一定」會讓人換。如果他可以選擇要不要這麼做，機率就可能不同。"
+   ],
+   [
+    "Perhaps the most humbling detail comes from animal research. It is pigeons that learn quickly to always switch when they face the problem again and again, while humans tend not to. Learning from experience, the birds are untroubled by the feeling that “it must be fifty-fifty”. Not until we test such a claim, rather than defend our first feeling, do we discover how often confidence and truth part ways. The lasting lesson is simple: confidence is not evidence.",
+    "最讓人汗顏的細節，也許來自動物研究。反覆面對這個問題時，很快學會「一律換門」的是鴿子，人類卻往往學不會。從經驗中學習的鴿子，不受「一定是五五波」這種感覺困擾。直到我們去檢驗這種說法，而不是捍衛自己的第一感覺，才會發現信心和真相有多常分道揚鑣。長久的教訓很簡單：信心不是證據。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "How to win a car on an American game show.",
+     "A puzzle whose answer fools many people, and why it does.",
+     "Why pigeons are better at maths than mathematicians.",
+     "How Parade magazine became famous in 1990."
+    ],
+    "a": 1,
+    "evidence": "Why, then, is the error so persistent?",
+    "why": "全文：三門問題的答案、引發的爭議，以及人們為何頑固地出錯。",
+    "traps": [
+     "以偏概全：贏車只是題目設定。",
+     "",
+     "過度推論：鴿子只是較快學會換門，不代表數學較好。",
+     "因果顛倒：是謎題讓專欄出名，文中沒說雜誌因此出名。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “constrained” in the third paragraph mean?",
+    "options": [
+     "Unwilling to offer a switch.",
+     "Free to choose any door.",
+     "Unaware of the car’s location.",
+     "Limited by fixed rules."
+    ],
+    "a": 3,
+    "evidence": "limited by fixed rules",
+    "why": "括號直接解釋。",
+    "traps": [
+     "正反顛倒：標準假設下他一定讓人換。",
+     "正反顛倒：他不能隨便開。",
+     "正反顛倒：他知道車在哪。",
+     ""
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Nearly 1,000 of the readers who wrote had PhDs.",
+     "Steve Selvin wrote the “Ask Marilyn” column.",
+     "Staying with the first choice wins two times in three.",
+     "Erdős agreed with vos Savant right away."
+    ],
+    "a": 0,
+    "evidence": "About 10,000 readers, including nearly 1,000 with PhDs",
+    "why": "第二段。",
+    "traps": [
+     "",
+     "張冠李戴：專欄是莎凡特的，塞爾文是更早提出謎題的人。",
+     "張冠李戴：換門才是三分之二。",
+     "正反顛倒：他看了電腦模擬才信服。"
+    ]
+   },
+   {
+    "type": "INS",
+    "q": "Here is a sentence: “Vos Savant’s million-door version makes the logic almost visible.” Which paragraph is most suitable to have it as the final sentence?",
+    "options": [
+     "Paragraph 1.",
+     "Paragraph 2.",
+     "Paragraph 3.",
+     "Paragraph 4."
+    ],
+    "a": 2,
+    "evidence": "Switching therefore wins two times out of three; staying wins only once.",
+    "why": "第三段剛解釋完數學邏輯，接「百萬扇門的版本讓這個邏輯幾乎一目了然」最順。",
+    "traps": [
+     "位置陷阱：第一段只是介紹謎題，還沒解釋邏輯。",
+     "位置陷阱：第二段講讀者的反應。",
+     "",
+     "位置陷阱：第四段在談錯誤的原因與條件。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Because the host never reveals the car, [47] wins two times out of three, yet thousands of readers [48] that vos Savant was wrong.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "switching"
+      ],
+      "partial": [
+       "switch",
+       "switched"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "claimed"
+      ],
+      "partial": [
+       "claim",
+       "claiming"
+      ]
+     }
+    ],
+    "why": "第一格出自第三段 Switching therefore wins（動名詞當主詞）；第二格出自第二段 claiming she was wrong，敘述過去用過去式。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "Steve Selvin posed the puzzle in a 1975 letter.",
+     "About 10,000 readers wrote to Parade magazine.",
+     "The host opens a door without knowing where the car is.",
+     "The argument reached the front page of The New York Times.",
+     "Pigeons never learned to switch doors.",
+     "The Parade version stated every condition clearly."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A 第一段；B、D 第二段。C 正反顛倒（主持人知道車在哪）；E 正反顛倒（鴿子很快學會換）；F 正反顛倒（批評者說條件沒講清楚）。"
+   },
+   {
+    "kind": "short",
+    "q": "After whom is the puzzle named?",
+    "answer": [
+     "the original host of Let’s Make a Deal",
+     "Monty Hall"
+    ],
+    "why": "第一段：以節目原始主持人命名。"
+   }
+  ]
+ }
 }

@@ -547,5 +547,163 @@
    "zh": "快思與慢想，並以定錨和框架效應作為日常例子。（4 分鐘）",
    "question": "Is anchoring a “System 1” or a “System 2” mistake? Explain."
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "A price tag reading “Was $999, now $499” is not just information. The crossed-out figure says nothing about the jacket’s quality, yet it reliably makes the second number feel like a bargain. Traditional economics long assumed that people judge prices more or less rationally. Much of the research explaining why they often do not began with two Israeli psychologists, Amos Tversky and Daniel Kahneman, whose work helped found the field now known as behavioural economics.",
+    "一張寫著「原價 999 元，現價 499 元」的價格標籤，不只是在提供資訊。被劃掉的數字完全沒說明外套的品質，卻總能讓第二個數字感覺像撿到便宜。傳統經濟學長久以來假設，人們判斷價格時大致是理性的。而解釋人們為什麼常常不理性的研究，很多是從兩位以色列心理學家特沃斯基和康納曼開始的——他們的研究幫助奠定了今天所說的行為經濟學。"
+   ],
+   [
+    "Their idea of anchoring describes how a first number pulls later estimates towards it, because people do not adjust away from it enough. In one study, participants had five seconds to estimate the product of the numbers from one to eight. Those who saw the numbers in rising order gave a median estimate of 512; those who saw them in falling order gave 2,250. So different were the two answers that the order alone seemed to decide them — and both were wildly wrong, since the true figure is 40,320.",
+    "他們提出的「定錨」概念，描述第一個數字如何把之後的估計拉向自己，因為人們從它那裡調整得不夠。在一項研究中，參與者有五秒鐘估計 1 乘到 8 的結果。看到數字由小到大排列的人，估計的中位數是 512；看到由大到小的人是 2,250。兩組差距大到彷彿光是順序就決定了答案——而兩組都錯得離譜，因為正確答案是 40,320。"
+   ],
+   [
+    "More striking is the power of numbers that are plainly irrelevant. Participants who watched a wheel set to stop at either 10 or 65 later estimated the percentage of African countries in the United Nations at 25 and 45 percent respectively. It is worth adding, however, that a few studies using clearly random methods, such as rolling a die, have failed to reproduce the effect, which suggests that people may sometimes treat an anchor as a hint.",
+    "更驚人的是那些明顯毫不相關的數字的力量。看了停在 10 或 65 的轉盤後，參與者估計聯合國中非洲國家所占的比例，分別是 25% 和 45%。不過值得補充的是，有少數研究用明顯隨機的方法（例如擲骰子）時，沒能重現這個效應，這顯示人們有時可能把錨點當成一種暗示。"
+   ],
+   [
+    "A second pillar of the research is loss aversion (the tendency to feel losses more strongly than equal gains), which Kahneman and Tversky introduced in 1979. Losses tend to weigh roughly twice as heavily as gains of the same size. A related finding came from a 1990 study in which students who owned a mug asked for about $7 to sell it, while buyers offered only about $3. Not every scholar accepts that loss aversion is universal, yet later studies have repeated the pattern in several groups.",
+    "這項研究的第二根支柱是損失規避（覺得損失比同等的收穫更強烈的傾向），由康納曼和特沃斯基在 1979 年提出。損失的分量，大約是同樣大小的收穫的兩倍。一個相關的發現來自 1990 年的研究：擁有馬克杯的學生，要大約 7 美元才肯賣，而買方只願出大約 3 美元。並非每位學者都接受損失規避是普遍現象，但後來的研究在好幾個族群中重現了這個模式。"
+   ],
+   [
+    "Retailers use both habits. They set anchors with inflated “original” prices, and they make not buying feel like a loss through countdown timers and warnings that stock is running out. Kahneman, who received the Nobel Prize in economics in 2002, did not conclude that people are foolish; he showed that our quick judgements follow predictable patterns. Knowing those patterns cannot make us perfectly rational, but it allows us to pause and question the first number we see.",
+    "商家兩種習慣都會利用。他們用灌水的「原價」設下錨點，再用倒數計時器和「庫存快沒了」的警告，讓不買感覺像一種損失。2002 年獲得諾貝爾經濟學獎的康納曼，並沒有下結論說人很愚蠢；他證明的是，我們的直覺判斷遵循可預測的模式。了解這些模式無法讓我們完全理性，卻能讓我們停下來，質疑眼前的第一個數字。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "How students decide what a coffee mug is worth.",
+     "How to calculate the product of the numbers one to eight.",
+     "Why most African countries joined the United Nations.",
+     "How anchoring and loss aversion shape our judgements of prices."
+    ],
+    "a": 3,
+    "evidence": "Retailers use both habits.",
+    "why": "全文：定錨效應與損失規避如何影響判斷，以及商家如何利用。",
+    "traps": [
+     "以偏概全：馬克杯只是一個例子。",
+     "以偏概全：乘法估計只是實驗題目。",
+     "原文字眼、錯誤關係：聯合國問題只是轉盤實驗的題目。",
+     ""
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “inflated” mean in “inflated “original” prices” in the last paragraph?",
+    "options": [
+     "Printed in large and colourful letters.",
+     "Made higher than they really should be.",
+     "Changed every day by a countdown timer.",
+     "Calculated carefully from real costs."
+    ],
+    "a": 1,
+    "evidence": "They set anchors with inflated “original” prices",
+    "why": "商家故意把「原價」灌高，讓現價看起來很便宜。",
+    "traps": [
+     "字面誤讀：inflate 原意是充氣，不是字變大。",
+     "",
+     "原文字眼、錯誤關係：倒數計時器是另一個手法。",
+     "正反顛倒：灌水的價格並非依實際成本。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The true product of one to eight is 2,250.",
+     "Buyers offered about $7 for the mug.",
+     "Owners of the mug asked for about $7 to sell it.",
+     "Kahneman received the Nobel Prize in 1979."
+    ],
+    "a": 2,
+    "evidence": "students who owned a mug asked for about $7 to sell it",
+    "why": "第四段。",
+    "traps": [
+     "數字錯位：2,250 是估計中位數，正確答案是 40,320。",
+     "數字錯位：買方只出約 3 美元。",
+     "",
+     "數字錯位：1979 年提出損失規避，2002 年得獎。"
+    ]
+   },
+   {
+    "type": "NOT",
+    "q": "Which of the following is NOT mentioned as a way retailers influence shoppers?",
+    "options": [
+     "Offering free gifts with every purchase.",
+     "Showing an inflated original price.",
+     "Using countdown timers.",
+     "Warning that stock is running out."
+    ],
+    "a": 0,
+    "evidence": "They set anchors with inflated “original” prices, and they make not buying feel like a loss through countdown timers and warnings that stock is running out.",
+    "why": "最後一段列出灌水原價、倒數計時、庫存警告，沒有提到贈品。",
+    "traps": [
+     "",
+     "有提到：inflated “original” prices。",
+     "有提到：countdown timers。",
+     "有提到：warnings that stock is running out。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "In the wheel study, a completely [47] number changed people’s estimates, and in the mug study, simply [48] the mug made it feel more valuable.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "irrelevant"
+      ],
+      "partial": [
+       "relevant"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "owning"
+      ],
+      "partial": [
+       "owned",
+       "own"
+      ]
+     }
+    ],
+    "why": "第一格出自第三段 plainly irrelevant；第二格出自第四段 students who owned a mug，simply 後面當主詞要用動名詞 owning。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "Rising-order viewers gave a median estimate of 512.",
+     "The wheel was set to stop at 10 or 65.",
+     "Every study has reproduced the anchoring effect.",
+     "Losses weigh about twice as much as equal gains.",
+     "All scholars agree loss aversion is universal.",
+     "Kahneman concluded that people are foolish."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A 第二段；B 第三段；D 第四段。C 正反顛倒（擲骰子的研究沒能重現）；E 正反顛倒（並非每位學者都接受）；F 正反顛倒（他沒有這樣下結論）。"
+   },
+   {
+    "kind": "short",
+    "q": "What is the name of the field that Tversky and Kahneman’s work helped found?",
+    "answer": [
+     "behavioural economics",
+     "behavioral economics"
+    ],
+    "why": "第一段。"
+   }
+  ]
+ }
 }

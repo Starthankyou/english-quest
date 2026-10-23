@@ -536,5 +536,163 @@
    "zh": "為什麼任何一種語言的消失，都是全人類的損失。",
    "question": "Do you agree that losing a language means losing part of history? Why?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "We rarely think of languages as fragile. They seem as permanent as the landscapes in which they are spoken. Yet a language survives only as long as people choose to pass it on, and that choice can quietly disappear within a few generations. When parents decide, often for understandable economic or social reasons, that their children will be better off speaking a dominant language, a chain of transmission that may have lasted for thousands of years can break in a single household.",
+    "我們很少把語言想成脆弱的東西，它們看起來就像說這些語言的土地一樣永恆。然而，一種語言只有在人們選擇傳下去時才能存活，而這個選擇可能在幾代之內悄悄消失。當父母——常常出於可以理解的經濟或社會理由——決定孩子說強勢語言比較好時，一條可能延續了數千年的傳承鏈，就可能在一個家庭裡斷掉。"
+   ],
+   [
+    "UNESCO’s Atlas of the World’s Languages in Danger tracks this process on a scale. A language is “definitely endangered” when children no longer learn it as their mother tongue at home, and “severely endangered” when it is spoken mostly by the grandparents’ generation and older. Beyond that lie “critically endangered” and, finally, “extinct”. It is transmission that the scale focuses on, not the number of speakers: a language with many elderly speakers and no young ones is already in decline.",
+    "聯合國教科文組織的《世界瀕危語言地圖》用一套分級追蹤這個過程。當孩子不再在家裡把某種語言當母語學習，它就是「確實瀕危」；當它主要只由祖父母那一代或更老的人使用，就是「嚴重瀕危」。再往下是「極度瀕危」，最後是「滅絕」。這套分級看的是傳承，而不是使用人數：有很多老年使用者、卻沒有年輕人的語言，已經在衰退了。"
+   ],
+   [
+    "Taiwan offers a clear example. In its 2010 edition, the Atlas described six of the island’s Austronesian languages as critically endangered, with speaker numbers ranging from the low twenties down to just one — the last known speaker of Pazeh. Other languages, such as Kavalan and Thao, have survived with only small numbers of speakers. For many families, the shift happened within one or two generations, as children grew up speaking Mandarin at school and at home.",
+    "台灣就是一個清楚的例子。2010 年版的地圖把島上六種南島語言列為極度瀕危，使用人數從二十出頭到只剩一人——也就是巴宰語最後一位已知的使用者。其他語言，例如噶瑪蘭語和邵語，則只靠少數使用者延續下來。對許多家庭來說，這個轉變在一兩代之內就發生了，因為孩子在學校和家裡都說華語長大。"
+   ],
+   [
+    "Extinction, however, is not always the end of the story. In Europe, the last first-language speaker of Manx, on the Isle of Man, died in 1974, and the last first-language speaker of Livonian died in 2009. Yet Livonian, according to the Atlas, continues to be learned as a second language by people determined to keep it alive. Efforts to revive languages usually combine recording elders and compiling dictionaries with teaching the language in schools and using it in broadcasting.",
+    "然而，滅絕不一定是故事的結局。在歐洲，曼島上最後一位以曼島語為母語的人於 1974 年去世，最後一位以利沃尼亞語為母語的人於 2009 年去世。但根據地圖，利沃尼亞語仍被一群決心讓它延續的人當作第二語言學習。復振語言的努力，通常結合記錄長者的話語、編纂字典，以及在學校教學和在廣播中使用。"
+   ],
+   [
+    "In 2017, Taiwan passed the Indigenous Languages Development Act, which recognised indigenous languages as national languages. Laws alone cannot save a language — only speakers can — but they can make it easier for the next generation to choose to learn. For learners of English, a language spoken around the world, the subject offers an unexpected lesson. Only when we stop treating a dominant language as a replacement can we see that learning it need not mean abandoning one’s own.",
+    "2017 年，台灣通過《原住民族語言發展法》，承認原住民族語言為國家語言。光靠法律救不了一種語言——只有使用者能——但法律能讓下一代更容易選擇去學。對學英文——一種通行世界的語言——的人來說，這個主題帶來一個意想不到的啟示：只有不再把強勢語言當成替代品，我們才看得出學會它，並不代表要放棄自己的語言。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "How UNESCO teaches indigenous languages in Taiwan.",
+     "Why every student should stop learning English.",
+     "How languages disappear and how they can be kept alive.",
+     "Why the Isle of Man changed its official language."
+    ],
+    "a": 2,
+    "evidence": "Extinction, however, is not always the end of the story.",
+    "why": "全文：語言如何因傳承中斷而消失，以及如何復振。",
+    "traps": [
+     "張冠李戴：UNESCO 是做分級與地圖，不是教語言。",
+     "正反顛倒：作者說學強勢語言不必放棄自己的語言。",
+     "",
+     "捏造：曼島只是曼島語消失的例子。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “transmission” in the second paragraph refer to?",
+    "options": [
+     "Passing a language from parents to children.",
+     "Sending radio programs in many languages.",
+     "Counting the number of elderly speakers.",
+     "Translating dictionaries into Mandarin."
+    ],
+    "a": 0,
+    "evidence": "It is transmission that the scale focuses on, not the number of speakers",
+    "why": "和「孩子不再在家學」的定義對照：指代代相傳。",
+    "traps": [
+     "",
+     "一字多義：transmission 也有廣播的意思，但這裡不是。",
+     "正反顛倒：作者說分級看的不是人數。",
+     "捏造：文中沒有翻譯字典。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Taiwan’s 2017 law made Mandarin the only national language.",
+     "The last first-language speaker of Manx died in 2009.",
+     "Livonian is no longer learned by anyone today.",
+     "The 2010 Atlas listed six of Taiwan’s languages as critically endangered."
+    ],
+    "a": 3,
+    "evidence": "the Atlas described six of the island’s Austronesian languages as critically endangered",
+    "why": "第三段。",
+    "traps": [
+     "正反顛倒：法律承認原住民族語言為國家語言。",
+     "數字錯位：曼島語是 1974 年，2009 年是利沃尼亞語。",
+     "正反顛倒：仍有人當第二語言學。",
+     ""
+    ]
+   },
+   {
+    "type": "ORG",
+    "q": "Why does the author mention Manx and Livonian in the fourth paragraph?",
+    "options": [
+     "To prove that European languages are safer than Asian languages.",
+     "To show that a language can live on after its last native speaker.",
+     "To explain why UNESCO first began publishing its Atlas.",
+     "To compare the grammar of two different island languages."
+    ],
+    "a": 1,
+    "evidence": "Extinction, however, is not always the end of the story.",
+    "why": "作者手法：用兩個例子說明最後一位母語者去世後，語言仍可能被學習與延續。",
+    "traps": [
+     "捏造：文中沒有比較歐亞語言。",
+     "",
+     "捏造：文中沒說地圖的起源。",
+     "捏造：文中沒談文法。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "A language becomes definitely endangered when children no longer learn it at [47], and laws can make it easier for young people to [48] to learn it.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "home"
+      ],
+      "partial": [
+       "homes"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "choose"
+      ],
+      "partial": [
+       "chose",
+       "choice",
+       "chosen"
+      ]
+     }
+    ],
+    "why": "第一格出自第二段 at home；第二格出自第五段 to choose to learn，to 後接原形動詞。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "Six of Taiwan’s languages were listed as critically endangered.",
+     "Pazeh had just one known speaker in the 2010 Atlas.",
+     "The last first-language speaker of Manx died in 2009.",
+     "Livonian is still learned as a second language.",
+     "UNESCO’s scale looks only at the number of speakers.",
+     "Taiwan’s 2017 law made English a national language."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A、B 第三段；D 第四段。C 數字錯位（1974 年）；E 正反顛倒（看的是傳承）；F 張冠李戴（承認的是原住民族語言）。"
+   },
+   {
+    "kind": "short",
+    "q": "Which language had only one known speaker left, according to the 2010 Atlas?",
+    "answer": [
+     "Pazeh"
+    ],
+    "why": "第三段。"
+   }
+  ]
+ }
 }

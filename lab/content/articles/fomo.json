@@ -535,5 +535,163 @@
    "zh": "研究者質疑關於青少年與科技的簡化說法。",
    "question": "How does her talk connect to the difference between correlation and cause?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "Social comparison is not new. In 1954, the psychologist Leon Festinger proposed that people judge their own abilities and opinions partly by comparing themselves with others. What has changed is the scale of the comparison. A single scroll through a feed can show a teenager dozens of carefully chosen moments — concerts, holidays, celebrations — each one presented without the dull hours that surrounded it.",
+    "社會比較並不新鮮。1954 年，心理學家費斯廷格提出，人們部分是透過和別人比較，來判斷自己的能力和看法。改變的是比較的規模。滑一次動態，青少年就能看到幾十個精心挑選的時刻——演唱會、假期、慶祝活動——每一個都去掉了周圍那些無聊的時光。"
+   ],
+   [
+    "This environment gave rise to a feeling that researchers began to measure in 2013. Andrew Przybylski and his colleagues defined the fear of missing out, or FOMO, as “a pervasive apprehension that others might be having rewarding experiences from which one is absent”. People with strong FOMO, they found, want to stay continually connected with what others are doing. Social media, as they pointed out, shows us more options than we could ever pursue with our limited time.",
+    "這樣的環境催生了一種感受，研究者在 2013 年開始測量它。普日比爾斯基和同事把「錯失恐懼」（FOMO）定義為「一種無所不在的擔憂：擔心別人正在享受自己缺席的美好經驗」。他們發現，FOMO 強的人想要時時掌握別人在做什麼。他們也指出，社群媒體讓我們看到的選項，遠超過有限的時間所能追求的。"
+   ],
+   [
+    "Their findings outlined a troubling profile. Higher FOMO was linked to lower mood, lower life satisfaction and greater social media use, and even to distracted driving and using social media during lectures. Yet the study was correlational (it measured links, not causes). It could not tell whether feeds produce anxiety, or whether anxious people simply seek out feeds. The authors did find, however, that FOMO helped explain why some personal differences were linked to heavier social media use.",
+    "他們的發現勾勒出令人擔憂的樣貌：FOMO 越高，情緒越差、生活滿意度越低、使用社群媒體越多，甚至和分心駕駛、上課滑手機有關。然而，這項研究是相關性研究（測量的是關聯，不是因果），無法判斷是動態讓人焦慮，還是焦慮的人本來就會去找動態看。不過作者確實發現，FOMO 有助於解釋為什麼某些個人差異和較重度的社群媒體使用有關。"
+   ],
+   [
+    "To test cause and effect, a team at the University of Pennsylvania ran an experiment published in 2018. After a week of monitoring, 143 undergraduates were randomly assigned either to limit Facebook, Instagram and Snapchat to ten minutes per platform per day or to use them as usual, for three weeks. The limited group showed significant reductions in loneliness and depression. Based on these results, the authors suggested that limiting social media to about 30 minutes a day may improve well-being, although the sample came from a single university.",
+    "為了檢驗因果，賓州大學的團隊做了一個 2018 年發表的實驗。經過一週的監測後，143 名大學生被隨機分成兩組：一組在三週內把 Facebook、Instagram 和 Snapchat 每個平台每天限制在十分鐘，另一組照常使用。限制組的孤單感和憂鬱明顯下降。根據這些結果，作者建議把社群媒體限制在每天約 30 分鐘，可能改善身心健康——雖然樣本只來自一所大學。"
+   ],
+   [
+    "One detail deserves attention. It was both groups, not just the limited one, that showed less anxiety and less FOMO by the end, which the researchers took as a possible benefit of simply watching one’s own use. So important may awareness be that it matters as much as limits do. A chosen feed, after all, is a selection, not a life. Noticing how we feel before and after we scroll may be the first step towards using comparison wisely.",
+    "有個細節值得注意：到最後，焦慮和 FOMO 下降的是兩組人，而不只是限制組；研究者認為，這可能是單純留意自己使用情況帶來的好處。覺察可能重要到跟限制一樣重要。畢竟，被挑選過的動態只是精選，不是人生。留意滑手機前後自己的感受，也許是學會明智比較的第一步。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "How to take better photos for social media feeds.",
+     "What FOMO is, what research shows, and why awareness matters.",
+     "Why Leon Festinger invented social media in 1954.",
+     "How university students should choose their lectures."
+    ],
+    "a": 1,
+    "evidence": "Noticing how we feel before and after we scroll may be the first step",
+    "why": "全文：FOMO 的定義、相關研究、限制使用的實驗與覺察的重要。",
+    "traps": [
+     "捏造：文中沒談拍照。",
+     "",
+     "張冠李戴：Festinger 提出的是社會比較理論。",
+     "原文字眼、錯誤關係：上課滑手機只是 FOMO 的相關行為。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “correlational” in the third paragraph mean?",
+    "options": [
+     "Using students from many different universities.",
+     "Proving clearly that feeds cause anxiety.",
+     "Based on a test that lasted three weeks.",
+     "Showing links between things, not what causes what."
+    ],
+    "a": 3,
+    "evidence": "it measured links, not causes",
+    "why": "括號直接解釋。",
+    "traps": [
+     "張冠李戴：2018 年實驗只有一所大學的學生。",
+     "正反顛倒：它無法證明因果。",
+     "張冠李戴：三週是 2018 年實驗。",
+     ""
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The limited group used each platform for ten minutes a day.",
+     "The 2018 experiment lasted three months.",
+     "The limited group felt lonelier than the other group.",
+     "The 2013 study proved that feeds cause anxiety."
+    ],
+    "a": 0,
+    "evidence": "limit Facebook, Instagram and Snapchat to ten minutes per platform per day",
+    "why": "第四段。",
+    "traps": [
+     "",
+     "數字錯位：實驗只有三週。",
+     "正反顛倒：孤單感下降。",
+     "正反顛倒：2013 年是相關研究，無法證明因果。"
+    ]
+   },
+   {
+    "type": "INS",
+    "q": "Here is a sentence: “Each new post, in other words, can feel like a reminder of something we are missing.” Which paragraph is most suitable to have it as the final sentence?",
+    "options": [
+     "Paragraph 1.",
+     "Paragraph 2.",
+     "Paragraph 3.",
+     "Paragraph 4."
+    ],
+    "a": 1,
+    "evidence": "Social media, as they pointed out, shows us more options than we could ever pursue with our limited time.",
+    "why": "第二段結尾說社群媒體讓人看到太多選項，正好接「每則新貼文都像在提醒我們錯過了什麼」，in other words 換句話重述。",
+    "traps": [
+     "位置陷阱：第一段還沒提到 FOMO。",
+     "",
+     "位置陷阱：第三段結尾在談研究限制。",
+     "位置陷阱：第四段在講實驗結果與建議。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Limiting social media for three weeks reduced feelings of [47] and depression, and simply monitoring one’s own use may also help, since [48] can matter as much as limits.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "loneliness"
+      ],
+      "partial": [
+       "lonely",
+       "lonelier"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "awareness"
+      ],
+      "partial": [
+       "aware"
+      ]
+     }
+    ],
+    "why": "第一格出自第四段 reductions in loneliness（名詞）；第二格出自第五段 awareness。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "Festinger proposed his idea about comparison in 1954.",
+     "FOMO was linked to using social media during lectures.",
+     "The 2018 study took place at Stanford University.",
+     "143 undergraduates took part in the 2018 experiment.",
+     "Only the limited group showed less FOMO.",
+     "The authors suggested about 60 minutes a day."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A 第一段；B 第三段；D 第四段。C 張冠李戴（賓州大學）；E 正反顛倒（兩組都下降）；F 數字錯位（約 30 分鐘）。"
+   },
+   {
+    "kind": "short",
+    "q": "What does the abbreviation FOMO stand for?",
+    "answer": [
+     "the fear of missing out",
+     "fear of missing out"
+    ],
+    "why": "第二段。"
+   }
+  ]
+ }
 }

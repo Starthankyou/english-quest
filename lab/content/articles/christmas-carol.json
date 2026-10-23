@@ -530,5 +530,164 @@
    "zh": "逐章摘要並分析主題。（10 分鐘）",
    "question": "Which theme in the video connects most to “Ignorance and Want”?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "A Christmas Carol is so familiar, through countless films and plays, that it is easy to forget how sharp a book it is. Its main character, Ebenezer Scrooge, a wealthy businessman who keeps his clerk Bob Cratchit working in a freezing office, has become shorthand for anyone mean with money. Beneath the ghosts and festive warmth, however, lies an argument about money, responsibility and whether a hardened person can change.",
+    "《小氣財神》透過無數電影和戲劇變得如此熟悉，讓人容易忘記它是一本多犀利的書。主角史顧己是個富商，讓他的職員鮑伯．克拉奇在冰冷的辦公室裡工作，他的名字已成了吝嗇之人的代稱。然而在鬼魂和節日溫情之下，藏著一個關於金錢、責任，以及一個冷硬的人能否改變的論證。"
+   ],
+   [
+    "The circumstances of its writing explain some of its urgency. Moved in part by a visit to the Field Lane Ragged School (one of several schools for London’s street children), Charles Dickens wrote the book in about six weeks in late 1843, hoping to awaken sympathy for the poor. It was published on 19 December. So eager were readers that the first edition sold out by Christmas Eve, and thirteen editions had appeared by the end of 1844.",
+    "寫作的背景說明了它為何如此急切。狄更斯部分受到參訪菲爾德巷貧民學校——倫敦幾所收容街頭孩童的學校之一——的觸動，在 1843 年底用大約六週寫成這本書，希望喚起人們對窮人的同情。它在 12 月 19 日出版。讀者熱烈到第一版在聖誕夜前就賣光了，到 1844 年底已經出了十三版。"
+   ],
+   [
+    "Scrooge is not lectured into goodness; he is made to see. After a visit from the ghost of Jacob Marley, who had been his business partner, three spirits show him scenes — each one stripping away a defence. The Ghost of Christmas Past reveals the lonely boy he once was and the love he gave up for money. The Ghost of Christmas Present shows the Cratchits’ poor but joyful home and their fragile son, Tiny Tim. The silent Ghost of Christmas Yet to Come shows a death that no one mourns.",
+    "史顧己不是被說教才變好的，而是被迫「看見」。在昔日合夥人馬里的鬼魂來訪之後，三個幽靈帶他看了一幕幕景象——每一幕都剝掉他的一層防衛。過去之靈讓他看見從前那個孤單的男孩，以及他為了錢放棄的愛。現在之靈讓他看見克拉奇一家貧窮卻快樂的家，以及他們體弱的兒子小提姆。沉默的未來之靈讓他看見一場沒有人哀悼的死亡。"
+   ],
+   [
+    "The book’s most striking image widens the lens from one man to a whole society. From beneath the robe of the Ghost of Christmas Present emerge two miserable children: “This boy is Ignorance. This girl is Want. Beware them both.” Earlier, Scrooge had dismissed the poor by asking whether there were no prisons or workhouses for them. Now the spirit turns his own cruel words back on him, and he can no longer pretend that they were harmless.",
+    "這本書最震撼的畫面，把鏡頭從一個人拉大到整個社會。從現在之靈的長袍底下，走出兩個悲慘的孩子：「這男孩叫無知，這女孩叫匱乏。兩個都要提防。」先前，史顧己曾問：難道沒有監獄或濟貧院收容窮人嗎？現在，幽靈把他自己的冷酷話語丟回給他，他再也無法假裝那些話無害。"
+   ],
+   [
+    "When Scrooge wakes on Christmas morning, he is transformed. He sends a prize turkey to the Cratchits, gives generously to the poor and vows: “I will honour Christmas in my heart, and try to keep it all the year.” Some critics find the change too sudden to believe. Yet the words “try to keep it all the year” put the stress on continued effort rather than on one dramatic night. Not until we look honestly at our past, our present and our future, Dickens suggests, can real change begin.",
+    "聖誕節早晨醒來，史顧己脫胎換骨。他送一隻得獎火雞給克拉奇家，慷慨捐助窮人，並發誓：「我要在心裡敬重聖誕節，並努力整年都保持這份心意。」有些評論家覺得這個轉變太突然，難以置信。然而「努力整年都保持」這幾個字，把重點放在持續的努力，而不是戲劇性的一夜。狄更斯暗示：唯有誠實面對自己的過去、現在和未來，真正的改變才會開始。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "Why Bob Cratchit chose to work in a freezing office.",
+     "How Charles Dickens spent Christmas in 1843.",
+     "How the book uses one man’s change to make readers face poverty.",
+     "How films have changed the story of Scrooge."
+    ],
+    "a": 2,
+    "evidence": "The book’s most striking image widens the lens from one man to a whole society.",
+    "why": "全文：寫作背景、史顧己被迫看見的過程，以及書中對社會的批判。",
+    "traps": [
+     "捏造：是史顧己讓他在冰冷的辦公室工作。",
+     "捏造：文中只說他在 1843 年底寫書。",
+     "",
+     "以偏概全：電影只在第一段一句帶過。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does the author mean by saying Scrooge “is not lectured into goodness; he is made to see”?",
+    "options": [
+     "He changes by witnessing scenes, not by being told what to do.",
+     "He is taught by a teacher at the Ragged School.",
+     "He loses his sight and must learn to see again.",
+     "He reads many books about good behaviour."
+    ],
+    "a": 0,
+    "evidence": "three spirits show him scenes",
+    "why": "三個幽靈帶他「看」景象，而不是對他說教。",
+    "traps": [
+     "",
+     "張冠李戴：貧民學校是狄更斯的寫作靈感。",
+     "字面誤讀：see 在這裡是領悟，不是視力。",
+     "捏造：文中沒提他讀書。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Tiny Tim is Scrooge’s own son.",
+     "Dickens took about six years to write the book.",
+     "The Ghost of Christmas Yet to Come speaks at length.",
+     "Thirteen editions had appeared by the end of 1844."
+    ],
+    "a": 3,
+    "evidence": "thirteen editions had appeared by the end of 1844",
+    "why": "第二段。",
+    "traps": [
+     "張冠李戴：小提姆是克拉奇家的孩子。",
+     "數字錯位：他只花了大約六週。",
+     "正反顛倒：未來之靈是沉默的。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What can be inferred from the last paragraph?",
+    "options": [
+     "Critics all agree the ending is believable.",
+     "The author sees Scrooge’s vow as the start of ongoing effort.",
+     "Scrooge plans to keep Christmas for only one day.",
+     "Dickens thought people could never really change."
+    ],
+    "a": 1,
+    "evidence": "put the stress on continued effort rather than on one dramatic night",
+    "why": "「努力整年都保持」強調持續的努力，可推知作者把這個誓言看成持續改變的開始。",
+    "traps": [
+     "正反顛倒：有評論家覺得太突然。",
+     "",
+     "正反顛倒：他說要整年都保持。",
+     "正反顛倒：故事說人可以改變。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Dickens hoped to awaken [47] for the poor, and in the story the spirit turns Scrooge’s own [48] words about prisons and workhouses back on him.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "sympathy"
+      ],
+      "partial": [
+       "sympathetic",
+       "sympathies"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "cruel"
+      ],
+      "partial": [
+       "cruelty",
+       "cruelly"
+      ]
+     }
+    ],
+    "why": "第一格出自第二段 awaken sympathy；第二格出自第四段 his own cruel words，修飾名詞用形容詞。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "The book was published on 19 December 1843.",
+     "The first edition sold out by Christmas Eve.",
+     "Scrooge was visited first by the Ghost of Christmas Past.",
+     "The two children were called Ignorance and Want.",
+     "Scrooge sent money instead of a turkey to the Cratchits.",
+     "Dickens wrote the book after visiting a prison."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A、B 第二段；D 第四段。C 時序錯置（先來的是馬里的鬼魂）；E 正反顛倒（他送了一隻火雞）；F 張冠李戴（他參訪的是貧民學校）。"
+   },
+   {
+    "kind": "short",
+    "q": "What was the name of the school that partly inspired Dickens to write the book?",
+    "answer": [
+     "the Field Lane Ragged School",
+     "Field Lane Ragged School"
+    ],
+    "why": "第二段。"
+   }
+  ]
+ }
 }

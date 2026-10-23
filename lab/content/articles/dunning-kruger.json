@@ -551,5 +551,164 @@
    "zh": "較長的影片，深入探討過度自信與相關爭議。（24 分鐘）",
    "question": "Which side of the statistical debate does the video find more convincing?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "The story is almost too perfect. On 6 January 1995, McArthur Wheeler and Clifton Earl Johnson robbed two banks in the Pittsburgh area without disguising themselves. They had covered their faces with lemon juice, believing it would make them invisible to security cameras — just as lemon juice works as invisible ink. Wheeler had reportedly even tested the method with a Polaroid camera. Identified from surveillance images, he was soon arrested, and the case directly inspired one of the most famous findings in modern psychology.",
+    "這個故事幾乎完美得不像真的。1995 年 1 月 6 日，惠勒和強森沒有任何偽裝，就在匹茲堡一帶搶了兩家銀行。他們在臉上塗了檸檬汁，以為這樣就能在監視器前隱形，就像檸檬汁可以當隱形墨水一樣。據說惠勒甚至先用拍立得相機測試過這個方法。他從監視器畫面被認出來，很快就被逮捕；這個案子直接啟發了現代心理學最有名的發現之一。"
+   ],
+   [
+    "In 1999, the psychologists David Dunning and Justin Kruger, who had been inspired by the case, tested university students on logical reasoning, English grammar and the appreciation of humour, and then asked them to estimate how well they had done compared with their peers. Across four studies, those who scored in the bottom quarter greatly overestimated themselves. Their scores placed them, on average, around the 12th percentile, yet they ranked themselves around the 62nd.",
+    "1999 年，受這個案子啟發的心理學家鄧寧和克魯格測驗大學生的邏輯推理、英文文法和幽默鑑賞力，再請他們估計自己和同儕相比表現如何。在四項研究中，分數落在最後四分之一的人都大大高估了自己：他們的分數平均約在第 12 百分位，自評卻約在第 62 百分位。"
+   ],
+   [
+    "Their explanation was metacognitive (concerning people’s ability to judge their own thinking). The skills needed to do well in an area are often the same skills needed to judge performance in it, so the unskilled face a double burden: they make mistakes and cannot recognise them. Later work by Dunning’s group reported that poor performers lacked insight into their errors even when offered rewards for being accurate. In 2000, the pair received the Ig Nobel Prize, a humorous award for research that first makes people laugh and then makes them think.",
+    "他們的解釋屬於「後設認知」（關於人判斷自己思考的能力）。在某個領域表現好所需的能力，往往正是判斷這個領域表現好壞所需的能力，因此能力不足的人背負雙重負擔：他們會犯錯，又認不出錯誤。鄧寧團隊後來的研究指出，即使給予獎勵鼓勵他們準確評估，表現差的人仍看不出自己的錯。2000 年，兩人獲得搞笑諾貝爾獎——一個頒給「先讓人發笑、再讓人思考」的研究的幽默獎項。"
+   ],
+   [
+    "The idea became hugely popular, and often misunderstood. It does not claim that unintelligent people are generally overconfident; it describes overconfidence in a specific area where a person lacks skill. More fundamentally, some researchers argue that much of the pattern is a statistical artefact. Whenever two measures are imperfectly related, people with extreme scores on one will tend to have less extreme scores on the other, a pattern called regression toward the mean. So easily can this produce the classic graph that simulations using random data reproduce much of its shape.",
+    "這個概念大受歡迎，也常被誤解。它並不是說不聰明的人普遍過度自信，而是描述一個人在自己缺乏能力的特定領域裡過度自信。更根本的是，有些研究者認為，這個模式很大一部分是統計上的假象。每當兩個測量只有不完全的關聯時，在其中一項得到極端分數的人，在另一項往往比較不極端——這叫做「均值回歸」。這種現象太容易產生那張經典圖表了，連用隨機資料做模擬，都能重現它大部分的形狀。"
+   ],
+   [
+    "Dunning has replied that calling the effect regression toward the mean merely relabels it without explaining it, and the debate continues. Fittingly, the controversy shows the very virtue the original research recommends: intellectual humility. It is when we feel most certain in an unfamiliar area that we should most seek feedback. The most useful application of the idea, in other words, may be personal rather than an accusation aimed at others.",
+    "鄧寧回應說，把這個效應稱為均值回歸，只是換了個名字，並沒有解釋它；這場爭論仍在持續。恰如其分地，這場爭議正好展現了原研究所推崇的美德：知識上的謙遜。正是在不熟悉的領域裡最有把握的時候，我們最該尋求回饋。換句話說，這個概念最有用的應用，可能是用在自己身上，而不是拿來指責別人。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "Why grammar tests are harder than humour tests.",
+     "How lemon juice works as invisible ink.",
+     "A famous effect about overconfidence and the debate around it.",
+     "How to win an Ig Nobel Prize for research."
+    ],
+    "a": 2,
+    "evidence": "the debate continues",
+    "why": "全文：效應的起源、發現、解釋，以及統計爭議。",
+    "traps": [
+     "捏造：文中沒有比較測驗難度。",
+     "以偏概全：檸檬汁只是搶案細節。",
+     "",
+     "以偏概全：得獎只是一個細節。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “metacognitive” in the third paragraph refer to?",
+    "options": [
+     "The ability to judge one’s own thinking.",
+     "The ability to remember many facts.",
+     "The ability to work well in groups.",
+     "The ability to make other people laugh."
+    ],
+    "a": 0,
+    "evidence": "concerning people’s ability to judge their own thinking",
+    "why": "括號直接解釋。",
+    "traps": [
+     "",
+     "捏造：重點不是記憶力。",
+     "捏造：文中沒提團隊合作。",
+     "原文字眼、錯誤關係：幽默是測驗項目之一。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Dunning agreed the effect is only regression toward the mean.",
+     "The lowest scorers were around the 62nd percentile.",
+     "The robbers wore masks during the robberies.",
+     "The lowest scorers ranked themselves around the 62nd percentile."
+    ],
+    "a": 3,
+    "evidence": "yet they ranked themselves around the 62nd",
+    "why": "第二段。",
+    "traps": [
+     "正反顛倒：他說這只是換了名字。",
+     "數字錯位：實際約第 12 百分位。",
+     "正反顛倒：他們沒有偽裝，只塗了檸檬汁。",
+     ""
+    ]
+   },
+   {
+    "type": "SEQ",
+    "q": "Which of the following shows the correct order? a. The bank robberies take place. b. Dunning and Kruger publish their study. c. The pair receive the Ig Nobel Prize. d. Wheeler tests the lemon juice with a camera.",
+    "options": [
+     "a → d → b → c",
+     "d → a → c → b",
+     "d → a → b → c",
+     "d → b → a → c"
+    ],
+    "a": 2,
+    "evidence": "In 2000, the pair received the Ig Nobel Prize",
+    "why": "搶案前先用拍立得測試 → 1995 搶案 → 1999 發表研究 → 2000 得獎。",
+    "traps": [
+     "時序顛倒：測試在搶案之前。",
+     "時序顛倒：先發表研究才得獎。",
+     "",
+     "時序顛倒：搶案啟發了研究，所以在研究之前。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Students in the bottom quarter greatly [47] themselves, and the authors explained that the unskilled cannot [48] their own mistakes.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "overestimated"
+      ],
+      "partial": [
+       "overestimate",
+       "overestimates"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "recognise",
+       "recognize"
+      ],
+      "partial": [
+       "recognised",
+       "recognized"
+      ]
+     }
+    ],
+    "why": "第一格出自第二段 greatly overestimated themselves；第二格出自第三段 cannot recognise them（cannot 後接原形）。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "The robberies took place on 6 January 1995.",
+     "The students were tested on grammar and humour.",
+     "The effect says unintelligent people are always overconfident.",
+     "Simulations with random data can reproduce the classic graph.",
+     "The study was published in 1995.",
+     "Poor performers saw their errors once rewards were offered."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A 第一段；B 第二段；D 第四段。C 正反顛倒（只限缺乏能力的特定領域）；E 數字錯位（1999 年）；F 正反顛倒（仍然看不出錯誤）。"
+   },
+   {
+    "kind": "short",
+    "q": "What did the robbers put on their faces?",
+    "answer": [
+     "lemon juice"
+    ],
+    "why": "第一段。"
+   }
+  ]
+ }
 }

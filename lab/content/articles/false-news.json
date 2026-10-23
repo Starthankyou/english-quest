@@ -554,5 +554,163 @@
    "zh": "動畫課程：為什麼我們的大腦會被錯誤資訊騙過。",
    "question": "What habit of mind makes you more likely to believe a false story?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "We like to imagine that, given enough time, true claims will win out over false ones. Yet social media complicates this comforting belief. When any user can share a post with thousands of people, the question is no longer simply what is true, but what is likely to be passed on.",
+    "我們喜歡想像：只要時間夠久，真話終究會勝過假話。然而社群媒體讓這個令人安心的想法變得複雜。當任何使用者都能把貼文分享給成千上萬人，問題就不再只是什麼是真的，而是什麼比較可能被傳下去。"
+   ],
+   [
+    "A 2018 study in the journal Science by Soroush Vosoughi, Deb Roy and Sinan Aral offered one of the most detailed answers. Drawing on Twitter’s archive, the researchers examined about 126,000 news “cascades” (unbroken chains of retweets) that were shared more than 4.5 million times by about three million people between 2006 and 2017. Crucially, they did not judge the stories themselves — they relied on six independent fact-checking organizations, whose verdicts agreed more than 95 percent of the time.",
+    "2018 年，沃索吉、羅伊和阿拉爾在《科學》期刊發表的研究，提供了最詳細的答案之一。研究者利用推特的資料庫，分析了約 12 萬 6 千個新聞「轉推鏈」（連續不斷的轉推串），它們在 2006 到 2017 年間被大約三百萬人分享了超過 450 萬次。關鍵在於，他們不自己判斷新聞真假，而是依靠六個獨立的事實查核機構，而這些機構的判斷有超過 95% 的時候一致。"
+   ],
+   [
+    "Their central finding was clear: false news spread farther, faster, deeper and more broadly than the truth in every category. False stories were 70 percent more likely to be retweeted, and true stories took about six times as long to reach 1,500 people. The effect was strongest for political news, an area in which a false claim can mislead the public long before any correction appears.",
+    "他們的核心發現很明確：在每一類新聞中，假新聞都比真相傳得更遠、更快、更深、更廣。假新聞被轉推的機率高出 70%，真新聞要花大約六倍的時間才能傳到 1,500 人。這個效應在政治新聞上最強——在這個領域，假消息可能在任何更正出現之前，就已經誤導了大眾。"
+   ],
+   [
+    "More unsettling was the question of responsibility. Automated accounts, or bots, spread true and false stories at similar rates, so removing them did not change the overall pattern; the difference was driven by human users. The authors pointed to novelty: false stories were more surprising, and the replies they attracted expressed more surprise and disgust, whereas replies to true stories leaned towards sadness, anticipation and trust. Sharing something new may make a person look “in the know.” The researchers were careful, however, to say that they could not prove novelty causes sharing.",
+    "更令人不安的是責任歸屬的問題。自動帳號，也就是機器人，傳播真假新聞的速度差不多，所以把它們移除並沒有改變整體模式；造成差異的是人類使用者。作者指出新奇性的作用：假新聞比較令人驚訝，引來的回應表現出更多驚訝與厭惡，而真新聞的回應則偏向悲傷、期待和信任。分享新東西可能讓人看起來「消息靈通」。不過研究者很謹慎，說他們無法證明新奇性會造成分享。"
+   ],
+   [
+    "If the problem lies with people rather than machines, then the solutions must involve people too. As Aral observed, a technical fix might be enough if bots alone were to blame; because humans are the main drivers, changing behaviour becomes even more important. So simple are some of the proposed tools, such as fact-checking labels and features that slow down sharing, that they aim only to add a moment of reflection between seeing and sharing. None is a complete remedy. Still, the study reveals an uncomfortable truth: the speed of a story tells us little about whether it is true, and a great deal about ourselves.",
+    "如果問題出在人而不是機器，解方也必須和人有關。阿拉爾指出，如果只是機器人的錯，技術上的修補或許就夠了；但既然人才是主要推手，改變行為就更加重要。有些提議的工具簡單到只是想在「看到」和「分享」之間加入一刻思考，例如事實查核標籤和讓分享變慢的功能。沒有一種是完整的解方。即便如此，這項研究揭露了一個令人不安的真相：一則消息傳得多快，幾乎無法告訴我們它是不是真的，卻能透露很多關於我們自己的事。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "A study showing false news spreads faster, mainly because of people.",
+     "How to build a reliable fact-checking organization.",
+     "Why bots are the main cause of false news online.",
+     "How political news is written for social media."
+    ],
+    "a": 0,
+    "evidence": "the difference was driven by human users",
+    "why": "全文：大型研究發現假新聞傳得比真相快，推手是人而不是機器人。",
+    "traps": [
+     "",
+     "捏造：查核機構只是研究判斷真假的依據。",
+     "正反顛倒：移除機器人後模式不變。",
+     "以偏概全：政治新聞只是效應最強的一類。"
+    ]
+   },
+   {
+    "type": "REF",
+    "q": "What does “them” in “removing them did not change the overall pattern” refer to?",
+    "options": [
+     "The replies showing surprise and disgust.",
+     "The six fact-checking organizations.",
+     "Automated accounts, or bots.",
+     "The true stories that spread slowly."
+    ],
+    "a": 2,
+    "evidence": "Automated accounts, or bots, spread true and false stories at similar rates",
+    "why": "同一句前半：被移除的是機器人帳號。",
+    "traps": [
+     "原文字眼、錯誤關係：回應是後面描述的現象。",
+     "時序錯置：查核機構在第二段。",
+     "",
+     "原文字眼、錯誤關係：真新聞是被比較的對象。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "False stories were six times more likely to be retweeted.",
+     "True stories took about six times as long to reach 1,500 people.",
+     "The researchers judged each story’s truth by themselves.",
+     "Bots spread false stories much faster than true ones."
+    ],
+    "a": 1,
+    "evidence": "true stories took about six times as long to reach 1,500 people",
+    "why": "第三段。",
+    "traps": [
+     "數字錯位：被轉推的機率高 70%，六倍是到達 1,500 人的時間。",
+     "",
+     "正反顛倒：他們依靠六個查核機構。",
+     "正反顛倒：機器人傳真假新聞的速度差不多。"
+    ]
+   },
+   {
+    "type": "NOT",
+    "q": "Which of the following is NOT mentioned as a feeling expressed in replies to true stories?",
+    "options": [
+     "Trust.",
+     "Sadness.",
+     "Anticipation.",
+     "Disgust."
+    ],
+    "a": 3,
+    "evidence": "whereas replies to true stories leaned towards sadness, anticipation and trust",
+    "why": "對真新聞的回應是悲傷、期待和信任；厭惡是對假新聞的回應。",
+    "traps": [
+     "有提到：trust。",
+     "有提到：sadness。",
+     "有提到：anticipation。",
+     ""
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "False stories were 70 percent more likely to be [47], and the authors suggested that their [48] might help explain why people shared them.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "retweeted"
+      ],
+      "partial": [
+       "retweet",
+       "retweets"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "novelty"
+      ],
+      "partial": [
+       "novel",
+       "new"
+      ]
+     }
+    ],
+    "why": "第一格出自第三段 more likely to be retweeted（被動）；第二格出自第四段 novelty。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "About 126,000 news cascades were examined.",
+     "The fact-checkers agreed more than 95 percent of the time.",
+     "The researchers proved that novelty causes sharing.",
+     "The effect was strongest for political news.",
+     "Removing bots made false news disappear.",
+     "The study covered news shared on Facebook."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A、B 第二段；D 第三段。C 正反顛倒（無法證明）；E 正反顛倒（模式沒變）；F 張冠李戴（是推特）。"
+   },
+   {
+    "kind": "short",
+    "q": "Which phrase in the second paragraph explains what a news cascade is?",
+    "answer": [
+     "unbroken chains of retweets"
+    ],
+    "why": "括號註解。"
+   }
+  ]
+ }
 }

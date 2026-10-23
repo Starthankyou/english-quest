@@ -537,5 +537,164 @@
    "zh": "一位當年的參與者講述他的經歷，包括一次絕食抗議。（4 分鐘）",
    "question": "Does his account support the “acting” explanation or the “power of situations” explanation?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "Few psychology studies have reached as far into popular culture as the Stanford prison experiment. Conducted in August 1971 and funded by the US Office of Naval Research, it was planned as a two-week simulation of prison life. A newspaper advertisement offered male college students $15 a day; twenty-four were chosen after tests of psychological stability and randomly assigned to be guards or prisoners. Philip Zimbardo, the professor leading the project, acted as superintendent, while a student research assistant, David Jaffe, served as warden.",
+    "很少有心理學研究像史丹佛監獄實驗這樣深入大眾文化。它在 1971 年 8 月進行，由美國海軍研究辦公室資助，原本計畫進行兩週的監獄生活模擬。報紙廣告以每天 15 美元招募男性大學生；24 人通過心理穩定度測驗後入選，並被隨機分配擔任獄警或囚犯。主持計畫的教授津巴多擔任監獄主管，學生研究助理賈菲則擔任典獄長。"
+   ],
+   [
+    "The usual story is dramatic. Guards forced prisoners to count off and do push-ups, restricted their use of the bathroom and made them use buckets in their cells. After 36 hours, prisoner 8612, Douglas Korpi, appeared to break down and was released. When the psychologist Christina Maslach, who was visiting, challenged Zimbardo about the conditions, he ended the study on the sixth day. For decades, the episode was taught as proof that situations can turn ordinary people cruel.",
+    "一般流傳的版本很戲劇化：獄警逼囚犯報數、做伏地挺身，限制他們上廁所，還要他們在牢房裡用桶子。36 小時後，8612 號囚犯科爾皮似乎精神崩潰，被釋放了。心理學家瑪斯拉克來訪並質疑實驗條件後，津巴多在第六天結束了研究。幾十年來，這段經過一直被當成證據來教：情境能讓普通人變得殘忍。"
+   ],
+   [
+    "That interpretation has faced sustained criticism. As early as 1975, two researchers argued that participants were reacting to demand characteristics (doing what they believed the researchers wanted) rather than to the prison setting itself. In 2007, others suggested that an advertisement for a study of “prison life” may have attracted people already inclined towards aggression. Recordings that circulated widely in 2017 show the warden urging a reluctant guard to be “tough” for the sake of the experiment, and most guards have since said they were acting.",
+    "這種解讀一直受到批評。早在 1975 年，就有兩位研究者主張，參與者是在回應「需求特徵」（做他們以為研究者想要的事），而不是對監獄環境本身起反應。2007 年，又有人指出，以「監獄生活研究」為名的廣告，可能吸引了本來就比較具攻擊性的人。2017 年廣為流傳的錄音顯示，典獄長為了實驗催促一位不太情願的獄警要「強硬」，而多數獄警後來也說他們是在演戲。"
+   ],
+   [
+    "The sharpest critique came in 2019, when Thibault Le Texier argued in American Psychologist that Zimbardo had told the guards how to behave in order to confirm conclusions he had largely formed in advance. Even the most famous moment has been questioned — in a 2017 interview, Korpi claimed his breakdown had been faked so that he could leave and study for an exam. Yet Zimbardo rejected these criticisms, maintaining that other guards behaved cruelly without any such encouragement.",
+    "最尖銳的批評出現在 2019 年：勒泰克西耶在《美國心理學家》期刊上主張，津巴多事先告訴獄警該怎麼做，以證實他大致已預設好的結論。連最著名的那一幕都受到質疑：科爾皮在 2017 年的訪談中說，他的崩潰是裝的，好讓自己能離開去準備考試。津巴多否認這些批評，堅稱其他獄警在沒有任何鼓勵的情況下也表現得很殘忍。"
+   ],
+   [
+    "A later study offers a revealing contrast. In the 2002 BBC Prison Study, Alex Haslam and Steve Reicher gave guards no instructions on how to behave, and participants did not simply slip into cruel roles. It was through leadership and shared group identity that tyranny emerged, when it did, rather than through automatic obedience to a uniform. The Stanford experiment may therefore teach less about the darkness of human nature than about how fragile scientific stories can be. So dramatic was this finding that it deserves more doubt, not less.",
+    "後來的一項研究提供了很有啟發的對照。在 2002 年的 BBC 監獄研究中，哈斯拉姆和萊歇沒有告訴獄警該怎麼做，參與者也沒有自然地變成殘忍的角色。暴政若出現，是透過領導和共同的群體認同，而不是自動服從制服。因此，史丹佛實驗教給我們的，與其說是人性的黑暗，不如說是科學故事可以多麼脆弱。這個發現戲劇性到更值得懷疑，而不是更少。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "Why guards always become cruel in prisons.",
+     "How prisons in California were run in 1971.",
+     "Why a famous prison study’s lesson has been seriously questioned.",
+     "How the BBC made a television show about prisons."
+    ],
+    "a": 2,
+    "evidence": "That interpretation has faced sustained criticism.",
+    "why": "全文：實驗經過、流傳的結論，以及各種質疑與對照研究。",
+    "traps": [
+     "正反顛倒：作者正是在質疑這個結論。",
+     "捏造：那是模擬的監獄。",
+     "",
+     "原文字眼、錯誤關係：BBC 監獄研究是學術研究，不是節目。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “demand characteristics” refer to in the third paragraph?",
+    "options": [
+     "Participants doing what they think the researchers want.",
+     "The price participants demanded for joining.",
+     "Rules that guards demanded prisoners obey.",
+     "Features of the prison building itself."
+    ],
+    "a": 0,
+    "evidence": "doing what they believed the researchers wanted",
+    "why": "括號直接解釋。",
+    "traps": [
+     "",
+     "一字多義：demand 也有「要價」的意思，但這裡不是。",
+     "原文字眼、錯誤關係：獄警的命令是實驗內容。",
+     "正反顛倒：原文說他們反應的不是監獄環境本身。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Le Texier’s critique appeared in 1975.",
+     "The study lasted the full two weeks as planned.",
+     "Korpi said in 2019 that he had really broken down.",
+     "David Jaffe, a student assistant, served as warden."
+    ],
+    "a": 3,
+    "evidence": "a student research assistant, David Jaffe, served as warden",
+    "why": "第一段。",
+    "traps": [
+     "時序錯置：Le Texier 是 2019 年，1975 年是另一篇批評。",
+     "正反顛倒：第六天就結束了。",
+     "正反顛倒：他在 2017 年說是裝的。",
+     ""
+    ]
+   },
+   {
+    "type": "ORG",
+    "q": "Why does the author mention the 2002 BBC Prison Study?",
+    "options": [
+     "To prove that the Stanford study was done perfectly.",
+     "To contrast it with the Stanford study’s usual conclusion.",
+     "To show that guards should always be given instructions.",
+     "To explain how prisoners were chosen in 1971."
+    ],
+    "a": 1,
+    "evidence": "A later study offers a revealing contrast.",
+    "why": "作者手法：用沒有給指示的 BBC 研究做對照，削弱史丹佛實驗的經典結論。",
+    "traps": [
+     "正反顛倒：作者是在質疑史丹佛實驗。",
+     "",
+     "過度推論：研究重點是不給指示的結果。",
+     "時序錯置：1971 年的招募在第一段。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Critics argue that the guards were [47] rather than truly cruel, and that the study shows how [48] scientific stories can be.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "acting"
+      ],
+      "partial": [
+       "act",
+       "acted"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "fragile"
+      ],
+      "partial": [
+       "fragility"
+      ]
+     }
+    ],
+    "why": "第一格出自第三段 they were acting（進行式）；第二格出自第五段 how fragile scientific stories can be。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "The study was funded by the US Office of Naval Research.",
+     "Participants were paid $15 a day.",
+     "Guards and prisoners chose their own roles.",
+     "Maslach challenged Zimbardo about the conditions.",
+     "The BBC study told guards exactly how to behave.",
+     "Zimbardo agreed with all of the criticisms."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A、B 第一段；D 第二段。C 正反顛倒（隨機分配）；E 正反顛倒（沒有給指示）；F 正反顛倒（他否認）。"
+   },
+   {
+    "kind": "short",
+    "q": "After how many hours did prisoner 8612 appear to break down?",
+    "answer": [
+     "36 hours",
+     "36",
+     "thirty-six"
+    ],
+    "why": "第二段。"
+   }
+  ]
+ }
 }

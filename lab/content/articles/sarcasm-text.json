@@ -532,5 +532,165 @@
    "zh": "一位電台主持人分享好好說話、好好傾聽的實用原則。",
    "question": "Which of the ten rules is hardest for you?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "Imagine tapping the rhythm of a familiar song on a table and asking a friend to name it. In studies cited by the psychologist Justin Kruger and his colleagues, tappers estimated that about half of their listeners would succeed; only 3 percent did. If you have ever tried this game yourself, you may have been surprised by how badly it went. The tappers could hear the melody in their heads, but the listeners heard only knocks. The same trap, the researchers suspected, lies hidden in every text message.",
+    "想像你在桌上敲出一首熟悉歌曲的節奏，請朋友猜歌名。在心理學家克魯格等人引用的研究中，敲的人估計大約一半的聽者會猜中，實際上只有 3%。如果你自己玩過這個遊戲，可能會驚訝結果有多糟。敲的人腦中聽得到旋律，聽的人卻只聽到敲擊聲。研究者懷疑，同樣的陷阱就藏在每一則文字訊息裡。"
+   ],
+   [
+    "In 2005, Kruger, Nicholas Epley and their colleagues reported a series of experiments on email. In one, students wrote pairs of sentences on ten everyday topics, such as food and sports — one serious and one sarcastic — and sent them without emoticons. Writers expected 97 percent of their messages to be understood correctly; the actual figure was 84 percent. People were not poor at sarcasm, in other words, but they were not as good as they believed.",
+    "2005 年，克魯格、艾普利和同事發表了一系列關於電子郵件的實驗。其中一個實驗裡，學生針對食物、運動等十個日常話題，各寫一句正經話和一句反話，不加表情符號寄出。寫的人預期 97% 會被正確理解，實際只有 84%。換句話說，人們並不是不會講反話，只是沒有自己以為的那麼厲害。"
+   ],
+   [
+    "Later experiments sharpened the picture. When the same kinds of statements were delivered by voice, listeners identified nearly three-quarters correctly; by email, accuracy was no better than chance. Yet senders felt just as confident in both cases. In a larger study with 154 pairs of students, participants predicted that they would communicate 88.8 percent of their intended tones but actually managed 70.4 percent, with friends doing no better than strangers.",
+    "後續實驗讓情況更清楚。同樣的話用語音傳達時，聽者辨認對了將近四分之三；用電子郵件時，準確率跟亂猜差不多。然而寄件者在兩種情況下一樣有信心。在一項有 154 對學生參與的較大型研究中，參與者預估自己能傳達 88.8% 想表達的語氣，實際只有 70.4%——而且朋友之間並沒有比陌生人好。"
+   ],
+   [
+    "The researchers traced this overconfidence to egocentrism (the difficulty of stepping outside one’s own point of view). Writers already know what they mean. As they type, they “hear” the sarcastic tone in their heads. So sure are they of that tone that they assume the reader will hear it too. In one clever test, writers read their sarcastic sentences aloud in a serious voice before predicting how they would be received. Once their own sense of the tone was disturbed, their overconfidence disappeared. It was not a lack of skill that caused the problem, then, but a lack of perspective.",
+    "研究者把這種過度自信歸因於自我中心（很難跳脫自己的觀點）。寫的人早就知道自己要表達什麼。打字時，他們腦中「聽得到」諷刺的語氣，而且對這個語氣篤定到以為讀的人也聽得到。在一個巧妙的測驗中，寫的人先用嚴肅的語氣把反話唸出來，再預估對方會怎麼理解。自己對語氣的感覺一被打亂，過度自信就消失了。所以，問題不在於缺乏能力，而在於缺乏換位思考。"
+   ],
+   [
+    "Messaging apps have changed a great deal since 2005, and emoji now carry some of the emotional weight that plain email could not. The underlying bias, however, is psychological, not technical. The lesson is not to give up humour in writing, but to remember that a tone we hear so clearly may not travel at all. Reading a message as a stranger would before pressing “send” is a small act of empathy.",
+    "從 2005 年以來，通訊軟體改變了很多，表情符號也承擔了一部分純文字電子郵件無法傳達的情緒。然而，背後的偏誤是心理的，不是技術的。教訓不是要放棄文字裡的幽默，而是記得：我們聽得那麼清楚的語氣，可能根本傳不過去。按下「傳送」前，像陌生人一樣讀一遍訊息，是一個小小的同理行動。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "How friends understand each other better than strangers.",
+     "How to tap the rhythm of a song so others can guess it.",
+     "Why emoji have completely solved problems in messaging.",
+     "Why writers overestimate how clearly their sarcasm comes through."
+    ],
+    "a": 3,
+    "evidence": "The researchers traced this overconfidence to egocentrism",
+    "why": "全文：寫的人高估讀者理解反話的能力，原因是自我中心。",
+    "traps": [
+     "正反顛倒：朋友並沒有比陌生人好。",
+     "以偏概全：敲節奏只是開頭的類比。",
+     "正反顛倒：原文說偏誤是心理的，不是技術的。",
+     ""
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “egocentrism” mean as used in the fourth paragraph?",
+    "options": [
+     "A habit of making fun of other people.",
+     "Difficulty seeing beyond one’s own point of view.",
+     "A skill in writing clear email messages.",
+     "Confidence that comes from long friendships."
+    ],
+    "a": 1,
+    "evidence": "the difficulty of stepping outside one’s own point of view",
+    "why": "括號直接解釋。",
+    "traps": [
+     "原文字眼、錯誤關係：講反話是研究的話題，不是這個字的意思。",
+     "",
+     "正反顛倒：問題正是表達不如自己以為的清楚。",
+     "正反顛倒：朋友並沒有比較會理解語氣。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Senders were less confident when they used email.",
+     "Writers expected 84 percent to be understood.",
+     "Readers of the emails did no better than chance.",
+     "Friends understood each other’s tone far better."
+    ],
+    "a": 2,
+    "evidence": "by email, accuracy was no better than chance",
+    "why": "第三段。",
+    "traps": [
+     "正反顛倒：兩種情況一樣有信心。",
+     "數字錯位：預期 97%，實際 84%。",
+     "",
+     "正反顛倒：朋友沒有比陌生人好。"
+    ]
+   },
+   {
+    "type": "INS",
+    "q": "Here is a sentence: “Familiarity, it seems, does not cure egocentrism.” Which paragraph is most suitable to have it as the final sentence?",
+    "options": [
+     "Paragraph 2.",
+     "Paragraph 3.",
+     "Paragraph 4.",
+     "Paragraph 5."
+    ],
+    "a": 1,
+    "evidence": "with friends doing no better than strangers",
+    "why": "第三段結尾說朋友並沒有比陌生人好，正好接「熟悉並不能治好自我中心」。",
+    "traps": [
+     "位置陷阱：第二段還沒談到朋友與陌生人。",
+     "",
+     "位置陷阱：第四段已在解釋原因，最後一句是結論。",
+     "位置陷阱：第五段談的是現代通訊與建議。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Writers [47] that 97 percent of their messages would be understood, but only 84 percent were, because they could “hear” a [48] that their readers could not.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "expected"
+      ],
+      "partial": [
+       "expect",
+       "expects",
+       "expectation"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "tone"
+      ],
+      "partial": [
+       "tones"
+      ]
+     }
+    ],
+    "why": "第一格出自第二段 Writers expected；第二格出自第四段 the sarcastic tone。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "Only 3 percent of listeners named the tapped songs.",
+     "Statements were sent without emoticons.",
+     "Voice messages were understood no better than chance.",
+     "The larger study involved 154 pairs of students.",
+     "Reading sentences aloud in a serious voice increased overconfidence.",
+     "The 2005 study used emoji in the messages."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A 第一段；B 第二段；D 第三段。C 張冠李戴（亂猜的是電子郵件）；E 正反顛倒（過度自信消失）；F 正反顛倒（不加表情符號）。"
+   },
+   {
+    "kind": "short",
+    "q": "What percentage of their intended tones did participants actually communicate in the larger study?",
+    "answer": [
+     "70.4 percent",
+     "70.4%",
+     "70.4"
+    ],
+    "why": "第三段。"
+   }
+  ]
+ }
 }

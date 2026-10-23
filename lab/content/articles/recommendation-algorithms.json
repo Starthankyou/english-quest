@@ -556,5 +556,163 @@
    "zh": "簡單說明演算法如何一步步解決問題。（5 分鐘）",
    "question": "How is a recommendation algorithm different from the simple examples in the video?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "Recommendation algorithms now decide much of what people read, watch and hear. By ranking content according to past behaviour, which includes what we have viewed, liked, shared or skipped, they try to predict what will hold our attention. As a result, two friends using the same app may see strikingly different versions of the world.",
+    "推薦演算法如今決定了人們讀什麼、看什麼、聽什麼的很大一部分。它們根據過去的行為——包括我們看過、按讚、分享或略過什麼——為內容排序，試圖預測什麼能抓住我們的注意力。結果，兩個用同一個 app 的朋友，可能看到截然不同的世界。"
+   ],
+   [
+    "The most influential criticism of this came from the internet activist Eli Pariser, who coined the term “filter bubble” around 2010. In his 2011 book, he predicted that personalised feeds would cut people off from different ideas, as users were shown mainly material that confirmed what they already believed. In one example, he asked friends to search Google for “Egypt”: one received coverage of the revolution then under way, while another did not. So intuitive was the image that it quickly became common wisdom.",
+    "對此最有影響力的批評來自網路運動者帕理澤，他在 2010 年左右創造了「過濾泡泡」這個詞。在 2011 年的書中，他預言個人化的動態會讓人與不同的觀點隔絕，因為使用者看到的主要是證實自己既有信念的內容。他舉了一個例子：請朋友用 Google 搜尋「埃及」，其中一人看到當時正在發生的革命報導，另一人卻沒有。這個意象直觀到很快就成了普遍的常識。"
+   ],
+   [
+    "Research, however, has complicated the picture. In 2015, researchers at Facebook analysed data from 10.1 million US users and concluded that people’s own choices about what to click played a stronger role than the algorithm in limiting their exposure to opposing views. A 2021 study of the browsing records of more than 300,000 Americans found that political news on YouTube was dominated by mainstream sources, and it reported no evidence that recommendations were pushing people towards far-right content.",
+    "然而研究讓情況變得複雜。2015 年，Facebook 的研究者分析了 1,010 萬名美國使用者的資料，結論是：比起演算法，人們自己選擇點什麼，更大程度地限制了他們接觸對立觀點。2021 年一項分析三十多萬美國人瀏覽紀錄的研究發現，YouTube 上的政治新聞以主流來源為主，也沒有證據顯示推薦會把人推向極右內容。"
+   ],
+   [
+    "The most careful test was an experiment carried out during the 2020 US election. Consenting Facebook and Instagram users were moved from the usual algorithmic feeds to feeds showing posts in reverse time order (newest first). These users spent much less time on the apps and saw a different mix of content: political and untrustworthy posts increased on both platforms, while insulting content decreased on Facebook. Despite these large changes, their levels of political division and knowledge did not change significantly over three months.",
+    "最嚴謹的檢驗，是 2020 年美國大選期間進行的一項實驗。同意參與的 Facebook 和 Instagram 使用者，從一般的演算法動態，改成按時間倒序（最新的在前）顯示的動態。這些使用者花在 app 上的時間少了很多，看到的內容組成也不同：兩個平台上的政治貼文和不可信貼文都增加了，而 Facebook 上的辱罵內容減少了。儘管變化這麼大，三個月內他們的政治對立程度和政治知識都沒有明顯改變。"
+   ],
+   [
+    "None of this means algorithms are harmless — they clearly shape how long we stay online and what we see, and short experiments cannot capture effects that may build up over years. Several of the studies also involved researchers who worked for the platforms themselves, a fact readers may reasonably keep in mind. It is the simplest version of the story that the evidence undermines: the idea that passive users are trapped by code. The walls of our bubbles appear to be built jointly, by algorithms and by our own preferences.",
+    "這一切不代表演算法無害——它們顯然影響我們上網多久、看到什麼，而短期實驗也無法捕捉可能累積多年的影響。其中幾項研究的研究者本身就在平台工作，讀者合理地記住這一點也無妨。證據削弱的，是這個故事最簡化的版本：被動的使用者被程式碼困住。我們泡泡的牆，似乎是演算法和我們自己的偏好一起築起來的。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "How to search Google for news about Egypt.",
+     "Whether algorithms alone trap people in filter bubbles.",
+     "Why Facebook users spend more time online.",
+     "How Eli Pariser wrote his book in 2011."
+    ],
+    "a": 1,
+    "evidence": "The walls of our bubbles appear to be built jointly, by algorithms and by our own preferences.",
+    "why": "全文：過濾泡泡的說法，以及研究顯示泡泡是演算法和個人偏好共同造成的。",
+    "traps": [
+     "以偏概全：埃及只是帕理澤舉的例子。",
+     "",
+     "正反顛倒：實驗中使用時間反而減少。",
+     "以偏概全：書只是他提出觀點的地方。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “coined” mean in the second paragraph?",
+    "options": [
+     "Searched for something online.",
+     "Paid money for something.",
+     "Collected old ideas from books.",
+     "Created a new word or phrase."
+    ],
+    "a": 3,
+    "evidence": "who coined the term “filter bubble” around 2010",
+    "why": "coin a term＝創造新詞。",
+    "traps": [
+     "原文字眼、錯誤關係：搜尋是他舉的例子。",
+     "一字多義：coin 也是硬幣，但這裡是創造詞語。",
+     "捏造：他是創造，不是蒐集。",
+     ""
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Users with time-order feeds saw more political posts.",
+     "The 2021 study found YouTube pushed users to the far right.",
+     "Time-order feeds made users spend more time on the apps.",
+     "Pariser’s friends got the same results for “Egypt”."
+    ],
+    "a": 0,
+    "evidence": "political and untrustworthy posts increased on both platforms",
+    "why": "第四段。",
+    "traps": [
+     "",
+     "正反顛倒：沒有證據顯示推薦把人推向極右。",
+     "正反顛倒：使用時間少了很多。",
+     "正反顛倒：兩人的結果不同。"
+    ]
+   },
+   {
+    "type": "ORG",
+    "q": "Why does the author mention that some researchers worked for the platforms?",
+    "options": [
+     "To explain why the studies were so large.",
+     "To prove that all of the results are false.",
+     "To suggest readers keep a possible conflict of interest in mind.",
+     "To show that the platforms want people in bubbles."
+    ],
+    "a": 2,
+    "evidence": "a fact readers may reasonably keep in mind",
+    "why": "作者手法：提醒讀者留意可能的利益衝突，但沒有否定結果。",
+    "traps": [
+     "捏造：文中沒說研究規模和研究者受僱有關。",
+     "過度推論：作者只說值得留意，沒說結果是假的。",
+     "",
+     "捏造：文中沒說平台想要同溫層。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Pariser warned that personalised feeds would create a filter [47], but research suggests that people’s own [48] also limit what they see.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "bubble"
+      ],
+      "partial": [
+       "bubbles"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "choices"
+      ],
+      "partial": [
+       "choice",
+       "choose",
+       "preferences"
+      ]
+     }
+    ],
+    "why": "第一格出自第二段 filter bubble；第二格出自第三段 people’s own choices（複數）。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "The 2015 study analysed data from 10.1 million users.",
+     "The 2021 study looked at more than 300,000 Americans.",
+     "Insulting content increased on Facebook in the 2020 experiment.",
+     "The 2020 experiment lasted three months.",
+     "The author says algorithms are completely harmless.",
+     "Pariser coined the term “filter bubble” in 2015."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A、B 第三段；D 第四段。C 正反顛倒（辱罵內容減少）；E 正反顛倒（作者說並非無害）；F 數字錯位（約 2010 年）。"
+   },
+   {
+    "kind": "short",
+    "q": "What does “reverse time order” mean, according to the fourth paragraph?",
+    "answer": [
+     "newest first"
+    ],
+    "why": "括號註解。"
+   }
+  ]
+ }
 }

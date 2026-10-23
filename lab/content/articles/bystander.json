@@ -536,5 +536,164 @@
    "zh": "談為什麼我們有時會等別人先動，以及如何不再等待。",
    "question": "What makes it easier for you to act in a difficult situation?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "Few ideas in psychology are as famous, or as depressing, as the bystander effect: the claim that the more people who witness an emergency, the less likely anyone is to help. Repeated in textbooks and recalled whenever a video shows passers-by apparently ignoring someone in trouble, it seems to describe a cold truth about crowds. The history of this idea and the most recent evidence, however, suggest a more hopeful picture.",
+    "心理學裡很少有觀念像「旁觀者效應」這麼有名，又這麼令人沮喪：目擊緊急事件的人越多，就越不可能有人出手。它被教科書一再重複，每當有影片拍到路人似乎對求助者視而不見時，大家就會想起它，彷彿道出了群眾冷漠的真相。然而，這個觀念的來歷和最新的證據，呈現出一幅更有希望的圖像。"
+   ],
+   [
+    "The classic evidence came from a 1968 experiment by John Darley and Bibb Latané. College students, who were each in a separate room, took part in a discussion over an intercom, during which one participant appeared to suffer a seizure. Of the students who believed they were the only listener, 85 percent sought help before the seizure ended; of those who believed four others could also hear, only 31 percent did. The researchers called the explanation “diffusion of responsibility” (each person feeling less responsible).",
+    "經典證據來自達利和拉塔內 1968 年的實驗。大學生各自待在不同房間，透過對講機討論，過程中有一位參與者似乎癲癇發作。以為自己是唯一聽者的學生，有 85% 在發作結束前去求助；以為還有四個人也聽得到的學生，只有 31% 這麼做。研究者把原因稱為「責任分散」（每個人都覺得自己的責任變小了）。"
+   ],
+   [
+    "The experiment was clever, but it had obvious limits. The emergency was staged, and the students could neither see the victim nor speak with the other listeners. Moreover, the research had been partly inspired by a 1964 newspaper report claiming that 38 witnesses in New York had watched a murder without helping. Later studies of the records found that this famous claim was not supported: some neighbours did call for help, and many could not see the attack at all.",
+    "這個實驗很巧妙，但限制也很明顯：緊急事件是安排好的，學生既看不到受害者，也無法和其他聽者交談。此外，這項研究部分受到 1964 年一篇報導的啟發，那篇報導說紐約有 38 名目擊者眼看一樁謀殺卻沒有出手。後來對紀錄的研究發現，這個著名的說法站不住腳：有些鄰居確實打電話求助，很多人根本看不到攻擊的過程。"
+   ],
+   [
+    "It was in 2020 that Richard Philpot and his colleagues published a large study of what bystanders actually do. They analysed 219 public conflicts recorded by security cameras in the United Kingdom, the Netherlands and South Africa, where the footage captured real events rather than staged ones. In 90.9 percent of the incidents, at least one bystander stepped in, usually joined by others. So consistent was the pattern that rates were similar in all three countries. Most strikingly, each additional bystander made it more, not less, likely that a victim received help.",
+    "2020 年，菲爾波特和同事發表了一項大型研究，探討旁觀者實際上會怎麼做。他們分析了英國、荷蘭和南非監視器拍下的 219 起公共衝突，這些畫面記錄的是真實事件，而不是安排好的情境。在 90.9% 的事件中，至少有一位旁觀者出手，而且通常還有其他人加入。這個模式一致到三個國家的比例都差不多。最驚人的是：每多一位旁觀者，受害者得到幫助的可能性就更高，而不是更低。"
+   ],
+   [
+    "How can both findings be true? An individual in a crowd may indeed feel a little less responsible, yet a crowd contains more potential helpers, so the chance that someone acts can still rise. The lesson, then, is neither that people are selfish nor that we can leave it to others. It is that help is common — and that it often begins with one person deciding not to wait.",
+    "這兩種發現怎麼可能同時成立？人群中的個人也許真的覺得責任小了一點，但人群裡潛在的幫手更多，所以總有人出手的機率仍可能上升。因此，教訓既不是「人都很自私」，也不是「交給別人就好」，而是：幫助其實很常見——而且常常始於某一個人決定不再等待。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "Why people in New York refused to help in 1964.",
+     "How to stage an emergency in a psychology laboratory.",
+     "Why the famous bystander effect may be less true than believed.",
+     "How security cameras reduce crime in three countries."
+    ],
+    "a": 2,
+    "evidence": "The history of this idea and the most recent evidence, however, suggest a more hopeful picture.",
+    "why": "第一段點題，後面檢視經典實驗、其靈感來源和新證據。",
+    "traps": [
+     "正反顛倒：後來的研究發現這個說法站不住腳。",
+     "以偏概全：安排緊急事件只是 1968 年實驗的細節。",
+     "",
+     "原文字眼、錯誤關係：監視器是資料來源，文中沒說能減少犯罪。"
+    ]
+   },
+   {
+    "type": "REF",
+    "q": "What does “this famous claim” in the third paragraph refer to?",
+    "options": [
+     "That 38 witnesses watched a murder without helping.",
+     "That 85 percent of the students sought help.",
+     "That crowds always make people more helpful.",
+     "That the emergency in the intercom study was real."
+    ],
+    "a": 0,
+    "evidence": "a 1964 newspaper report claiming that 38 witnesses in New York had watched a murder without helping",
+    "why": "前一句提到的報導內容。",
+    "traps": [
+     "",
+     "張冠李戴：85% 是 1968 年實驗的數據。",
+     "以偏概全：這是 2020 年研究的趨勢，不是那個說法。",
+     "正反顛倒：緊急事件是安排好的。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Rates of helping differed greatly among the three countries.",
+     "In 1968, students could see the victim through a window.",
+     "Bystanders stepped in during about half of the incidents.",
+     "Only 31 percent sought help when four others could hear."
+    ],
+    "a": 3,
+    "evidence": "of those who believed four others could also hear, only 31 percent did",
+    "why": "第二段。",
+    "traps": [
+     "正反顛倒：三國比例差不多。",
+     "正反顛倒：學生看不到受害者。",
+     "數字錯位：90.9% 的事件有人出手。",
+     ""
+    ]
+   },
+   {
+    "type": "ORG",
+    "q": "How does the author develop the ideas in this passage?",
+    "options": [
+     "By listing the steps for helping a victim of a crime.",
+     "By presenting a famous claim and then testing it with later evidence.",
+     "By comparing the laws of three different countries.",
+     "By describing one experiment from beginning to end."
+    ],
+    "a": 1,
+    "evidence": "The history of this idea and the most recent evidence, however, suggest a more hopeful picture.",
+    "why": "先介紹著名說法與經典實驗，再用後來的研究檢驗它。",
+    "traps": [
+     "捏造：文中沒有教人怎麼救人。",
+     "",
+     "原文字眼、錯誤關係：三個國家只是研究資料的來源。",
+     "以偏概全：文中談了好幾項研究。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Darley and Latané explained their results as a [47] of responsibility, but real footage later showed that help became more likely as more [48] were present.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "diffusion"
+      ],
+      "partial": [
+       "diffuse",
+       "diffusing"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "bystanders"
+      ],
+      "partial": [
+       "bystander"
+      ]
+     }
+    ],
+    "why": "第一格出自第二段 diffusion of responsibility；第二格出自第四段 bystander，more 後面接複數。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are true according to the passage? Choose ALL that apply.",
+    "options": [
+     "The emergency in the 1968 study was staged.",
+     "The 1964 newspaper report has been fully confirmed.",
+     "Philpot’s team analysed 219 public conflicts.",
+     "The footage came from three different countries.",
+     "Each extra bystander made help less likely.",
+     "The 1968 students sat together in one room."
+    ],
+    "a": [
+     0,
+     2,
+     3
+    ],
+    "why": "A 第三段；C、D 第四段。B 正反顛倒（說法站不住腳）；E 正反顛倒（更可能得到幫助）；F 正反顛倒（各自在不同房間）。"
+   },
+   {
+    "kind": "short",
+    "q": "In what percentage of incidents did at least one bystander step in?",
+    "answer": [
+     "90.9 percent",
+     "90.9%",
+     "90.9"
+    ],
+    "why": "第四段。"
+   }
+  ]
+ }
 }

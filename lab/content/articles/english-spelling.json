@@ -547,5 +547,164 @@
    "zh": "母音大推移如何讓英文拼字跟發音脫節。（14 分鐘）",
    "question": "Find two words in the video whose spelling shows an old pronunciation."
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "English spelling has a reputation for chaos. The letters “ough” alone are pronounced differently in tough, though, through and cough, and they defeat even educated native speakers. Reformers have tried for centuries to make the system regular, mostly without success. Yet the system is less random than it first appears. Its oddities are largely the traces of history: sound changes that spelling never caught up with, the habits of early printers, and the wishes of scholars who wanted English to look more classical.",
+    "英文拼字向來以混亂聞名。光是 ough 這幾個字母，在 tough、though、through、cough 裡的發音就各不相同，連受過教育的母語人士都會被難倒。幾百年來，改革者一直想讓它變得規則，大多沒有成功。然而這套系統並不像乍看那麼隨機。它的怪異之處，大多是歷史留下的痕跡：拼字沒跟上的發音變化、早期印刷工人的習慣，以及想讓英文看起來更古典的學者的意圖。"
+   ],
+   [
+    "The most important of these changes is the Great Vowel Shift, a series of changes in pronunciation that took place mainly between 1400 and 1700. During this period, every long vowel of English altered; the vowel in “bite”, for instance, once sounded closer to the one in modern “beat”. It was just as spelling was beginning to settle down that speech was shifting, so the written forms froze while the spoken ones moved on. Consonants changed too: the “k” in “knight” and “knot” was once pronounced, as it still is in the German word for knee, Knie.",
+    "這些變化中最重要的，是「母音大推移」——主要發生在 1400 到 1700 年間的一連串發音變化。在這段期間，英文的每一個長母音都改變了；例如 bite 的母音，從前聽起來比較接近現代的 beat。正當拼字開始固定下來時，口語卻在改變，於是書寫形式凍結了，口語卻繼續往前走。子音也變了：knight 和 knot 裡的 k 曾經會發音，就像德文的「膝蓋」Knie 至今仍會發出 k 的音。"
+   ],
+   [
+    "Technology added another layer. William Caxton, who is thought to have brought the printing press to England in 1476, helped fix spellings in place. Some early compositors (the workers who set the type) spoke several languages and occasionally borrowed patterns from them; the Middle English “gost”, for example, gained its silent “h” from a Flemish spelling that happened to stick. Caxton himself was well aware of how unstable English was, recalling a merchant who asked a woman for “egges” and was told she spoke no French, because in her dialect the word was “eyren”.",
+    "科技又加了一層。被認為在 1476 年把印刷機引進英國的卡克斯頓，幫助把拼字固定了下來。一些早期的排字工人（負責排列鉛字的工人）會說好幾種語言，偶爾會借用其他語言的拼法；例如中古英語的 gost，就是從一個剛好被沿用下來的法蘭德斯拼法，得到了不發音的 h。卡克斯頓自己也很清楚英語有多不穩定，他記下一個商人向一位婦人要 egges（蛋），對方卻說她不會講法語，因為在她的方言裡，這個字是 eyren。"
+   ],
+   [
+    "A final layer was added on purpose. Scholars in the Renaissance and after sometimes inserted silent letters to show a word’s classical roots. The “b” in “debt” (earlier “dette”) and the “p” in “receipt” were added to make the words look Latin, though they were never pronounced. Some insertions were simply mistakes. So confident were some scholars that they added an “s” to “island” to link it with Latin insula, whereas the word actually comes from Old English.",
+    "最後一層是刻意加上的。文藝復興時期及之後的學者，有時會插入不發音的字母，來顯示一個字的古典來源。debt（早期拼作 dette）裡的 b、receipt 裡的 p，都是為了讓字看起來像拉丁文而加上的，雖然從來不發音。有些添加根本是錯的。有些學者自信到在 island 裡加了一個 s，好讓它和拉丁文 insula 連在一起，但這個字其實來自古英語。"
+   ],
+   [
+    "For learners, this history offers more than trivia. Treating spelling as a record of history rather than a list of exceptions can make it easier to master. Noticing that “knee” and “knight” share a lost sound, or that “debt” is related to “debit”, turns random memorising into a meaningful pattern. Spelling, in the end, is a map of where the language has been.",
+    "對學習者來說，這段歷史不只是冷知識。把拼字當成歷史紀錄，而不是一串例外，能讓它更容易掌握。注意到 knee 和 knight 共有一個消失的音，或 debt 和 debit 有關，就能把死記硬背變成有意義的規律。說到底，拼字是一張地圖，記錄著這個語言走過的路。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "Why English spelling should be reformed right away.",
+     "How history explains the oddities of English spelling.",
+     "How William Caxton invented the printing press.",
+     "Why German is easier to spell than English."
+    ],
+    "a": 1,
+    "evidence": "Its oddities are largely the traces of history",
+    "why": "第一段點題，後面三段分別說明三層原因。",
+    "traps": [
+     "正反顛倒：作者說改革大多失敗，重點在理解歷史。",
+     "",
+     "張冠李戴：他是把印刷機引進英國，不是發明。",
+     "捏造：德文只是用來證明 k 曾經發音。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “compositors” in the third paragraph refer to?",
+    "options": [
+     "Merchants who travelled to Flanders.",
+     "Scholars who studied Latin words.",
+     "Writers who composed poems in English.",
+     "Workers who set the type for printing."
+    ],
+    "a": 3,
+    "evidence": "the workers who set the type",
+    "why": "括號直接解釋。",
+    "traps": [
+     "原文字眼、錯誤關係：法蘭德斯只是拼法的來源。",
+     "張冠李戴：學者是第四段的人。",
+     "字面誤讀：compose 也有作曲、寫作之意，但這裡是排版。",
+     ""
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The “k” in “knight” was once pronounced.",
+     "The Great Vowel Shift happened after 1900.",
+     "The “b” in “debt” has always been pronounced.",
+     "“Island” comes from the Latin word insula."
+    ],
+    "a": 0,
+    "evidence": "the “k” in “knight” and “knot” was once pronounced",
+    "why": "第二段。",
+    "traps": [
+     "",
+     "數字錯位：主要在 1400 到 1700 年。",
+     "正反顛倒：原文 they were never pronounced。",
+     "正反顛倒：它其實來自古英語，s 是誤加的。"
+    ]
+   },
+   {
+    "type": "ORG",
+    "q": "Why does the author mention the merchant who asked for “egges”?",
+    "options": [
+     "To prove that English is a dialect of French.",
+     "To explain how eggs were sold in medieval markets.",
+     "To show how unstable English was in Caxton’s time.",
+     "To show that Caxton could not speak French."
+    ],
+    "a": 2,
+    "evidence": "Caxton himself was well aware of how unstable English was",
+    "why": "作者手法：用卡克斯頓記下的故事，說明當時英語有多不統一。",
+    "traps": [
+     "過度推論：婦人只是把方言字誤會成法語。",
+     "字面誤讀：重點在方言差異，不是賣蛋。",
+     "",
+     "捏造：文中沒說卡克斯頓的語言能力。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Many silent letters were [47] by scholars to make words look Latin, and treating spelling as a record of history can make it easier to [48].",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "added"
+      ],
+      "partial": [
+       "add",
+       "adding"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "master"
+      ],
+      "partial": [
+       "mastered",
+       "mastering"
+      ]
+     }
+    ],
+    "why": "第一格出自第四段 were added（被動）；第二格出自第五段 easier to master（to 後接原形）。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "The vowel in “bite” once sounded like the one in “beat”.",
+     "Caxton is thought to have brought printing to England in 1476.",
+     "“Gost” gained its silent “h” from a Latin spelling.",
+     "The “p” in “receipt” was added to make it look Latin.",
+     "Reformers have easily made English spelling regular.",
+     "German no longer pronounces the “k” in Knie."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A 第二段；B 第三段；D 第四段。C 張冠李戴（來自法蘭德斯拼法）；E 正反顛倒（大多沒有成功）；F 正反顛倒（德文仍發 k 音）。"
+   },
+   {
+    "kind": "short",
+    "q": "What name is given to the series of vowel changes between 1400 and 1700?",
+    "answer": [
+     "the Great Vowel Shift",
+     "Great Vowel Shift"
+    ],
+    "why": "第二段。"
+   }
+  ]
+ }
 }

@@ -561,5 +561,160 @@
    "zh": "一位神經科學家兼音樂人談音樂與大腦。（10 分鐘）",
    "question": "Which claim in the talk would you want to check with a scientific study?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "Music presents a puzzle. It provides no food or shelter, yet it is found in every human society and can produce responses as intense as those caused by real rewards. Charles Darwin, writing in The Descent of Man, counted the enjoyment of music among the most mysterious abilities humans have. One of its most vivid effects is frisson, or aesthetic chills: a shiver down the spine, often with goosebumps, in response to a powerful piece of music.",
+    "音樂是一個謎。它不提供食物或住所，卻存在於每一個人類社會，而且能引發和真正的獎賞一樣強烈的反應。達爾文在《人類的由來》中，把欣賞音樂列為人類最神秘的能力之一。音樂最鮮明的效果之一是「顫慄」，也叫審美寒顫：聽到一段強而有力的音樂時，背脊竄過一陣顫抖，常伴隨著雞皮疙瘩。"
+   ],
+   [
+    "Chills are often linked to moments when music breaks our expectations. Sudden changes in loudness, unexpected harmonies, shifts to a new key and notes that are unusually high or low can all activate the autonomic nervous system, which controls automatic body responses such as heart rate and breathing. So closely is this system linked to the music that its activity strongly predicts frisson. The brain, it seems, keeps predicting what will come next, and a well-placed surprise produces a physical response.",
+    "寒顫常和音樂打破我們預期的時刻有關。音量突然改變、意料之外的和聲、轉到新的調，以及異常高或低的音，都可能啟動自主神經系統——它控制心跳、呼吸等自動的身體反應。這個系統的活動和寒顫緊密相連，能有力地預測寒顫的出現。看來，大腦不斷預測接下來會發生什麼，而一個恰到好處的驚喜，就會帶來身體反應。"
+   ],
+   [
+    "The brain basis of this pleasure was first mapped in 2001 by Anne Blood and Robert Zatorre at McGill University. Using brain scans, they studied listeners who had chosen music that reliably gave them chills. As the chills grew stronger, activity changed in regions linked to reward, emotion and arousal — the same areas that respond to food and other powerful rewards. The listeners’ heart rate, muscle activity and breathing also changed, showing that the experience was physical as well as emotional.",
+    "這種愉悅的大腦基礎，最早在 2001 年由麥基爾大學的布拉德和札托雷繪製出來。他們用腦部掃描，研究那些自選了總能讓自己起寒顫的音樂的聽者。寒顫越強，和獎賞、情緒、興奮有關的腦區活動就越有變化——這些腦區也會對食物和其他強烈的獎賞起反應。聽者的心跳、肌肉活動和呼吸也都改變了，顯示這種體驗既是情緒的，也是生理的。"
+   ],
+   [
+    "A decade later, Valorie Salimpoor and her colleagues provided chemical evidence. They found that dopamine (a brain chemical linked to pleasure) was released at moments of peak emotion. One part of the brain was more involved while listeners waited for a favourite moment, and another when the moment actually arrived. It is in two stages that pleasure in music comes: the craving and the reward. An earlier small study had even found that blocking certain brain receptors reduced or prevented chills in some listeners.",
+    "十年後，薩林波和同事提出了化學證據。他們發現，在情緒最高漲的時刻，大腦會釋放多巴胺（一種和愉悅有關的大腦化學物質）。聽者等待最愛的段落時，某個腦區比較活躍；那一刻真正來臨時，則是另一個腦區。所以，音樂帶來的愉悅分成兩個階段：渴望和獎賞。更早的一項小型研究甚至發現，阻斷某些大腦受體，能減少或阻止部分聽者起寒顫。"
+   ],
+   [
+    "Yet people differ greatly. Some listeners feel chills often; others rarely or never. In 2016, Matthew Sachs and colleagues reported that stronger connections between brain areas for processing sound and areas for emotion and social processing helped explain these differences. The authors suggested that music’s power may come from its role in social and emotional communication. If so, Darwin’s mystery may have a partial answer: music moves us because it speaks to the parts of the brain built for connecting with others.",
+    "然而人和人之間差異很大：有些人常起寒顫，有些人很少或從來沒有。2016 年，薩克斯和同事報告，處理聲音的腦區與處理情緒和社交的腦區之間連結較強，有助於解釋這些差異。作者認為，音樂的力量可能來自它在社交與情緒溝通上的角色。若真是如此，達爾文的謎題或許有了部分答案：音樂之所以打動我們，是因為它對大腦中為了與他人連結而生的部分說話。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "Why only some songs are found in every society.",
+     "How Charles Darwin learned to play music.",
+     "What happens in the brain when music gives people chills.",
+     "How to make goosebumps disappear quickly."
+    ],
+    "a": 2,
+    "evidence": "The brain basis of this pleasure was first mapped in 2001",
+    "why": "全文：音樂寒顫的觸發、大腦機制與個別差異。",
+    "traps": [
+     "正反顛倒：是「音樂」存在於每個社會，不是某些歌曲。",
+     "捏造：達爾文只是提出這個謎題。",
+     "",
+     "捏造：文中沒有教人消除雞皮疙瘩。"
+    ]
+   },
+   {
+    "type": "REF",
+    "q": "What does “its activity” in the second paragraph refer to?",
+    "options": [
+     "The activity of the autonomic nervous system.",
+     "The activity of the listeners’ favourite song.",
+     "The activity of people in every society.",
+     "The activity of Charles Darwin’s research."
+    ],
+    "a": 0,
+    "evidence": "So closely is this system linked to the music that its activity strongly predicts frisson.",
+    "why": "its 指同一句的 this system，也就是自主神經系統。",
+    "traps": [
+     "",
+     "原文字眼、錯誤關係：音樂是被追蹤的對象。",
+     "時序錯置：每個社會是第一段的內容。",
+     "時序錯置：達爾文在第一段。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Blood and Zatorre worked at a university in France.",
+     "Dopamine was released only after the music had ended.",
+     "Everyone feels musical chills equally often.",
+     "Listeners in the 2001 study chose music that gave them chills."
+    ],
+    "a": 3,
+    "evidence": "they studied listeners who had chosen music that reliably gave them chills",
+    "why": "第三段。",
+    "traps": [
+     "張冠李戴：他們在麥基爾大學，法文只是 frisson 的字源。",
+     "時序錯置：在情緒最高峰時釋放。",
+     "正反顛倒：原文說人和人差異很大。",
+     ""
+    ]
+   },
+   {
+    "type": "INF",
+    "q": "What can be inferred from the two-stage finding in the fourth paragraph?",
+    "options": [
+     "Music stops being enjoyable after the first stage.",
+     "Waiting for a favourite moment is itself part of the pleasure.",
+     "Only the final note of a song matters.",
+     "People cannot enjoy music they already know."
+    ],
+    "a": 1,
+    "evidence": "One part of the brain was more involved while listeners waited for a favourite moment",
+    "why": "等待時也有腦區參與，可推知期待本身就是愉悅的一部分。",
+    "traps": [
+     "捏造：文中沒有。第二階段是獎賞。",
+     "",
+     "正反顛倒：期待階段也有作用。",
+     "捏造：聽者選的正是自己喜歡的音樂。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Chills often come when music breaks our [47], and the pleasure is linked to the release of [48] in the brain.",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "expectations"
+      ],
+      "partial": [
+       "expectation",
+       "expect",
+       "expected"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "dopamine"
+      ]
+     }
+    ],
+    "why": "第一格出自第二段 breaks our expectations（複數）；第二格出自第四段 dopamine。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "Darwin called the enjoyment of music mysterious.",
+     "Sudden changes in loudness can trigger chills.",
+     "Blood and Zatorre published their study in 2011.",
+     "Heart rate and breathing changed during chills.",
+     "Music provides food and shelter for listeners.",
+     "Sachs’s 2016 study found no differences between people."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A 第一段；B 第二段；D 第三段。C 數字錯位（2001 年）；E 正反顛倒（音樂不提供食物住所）；F 正反顛倒（研究解釋了差異）。"
+   },
+   {
+    "kind": "short",
+    "q": "What is another name for frisson given in the first paragraph?",
+    "answer": [
+     "aesthetic chills"
+    ],
+    "why": "第一段。"
+   }
+  ]
+ }
 }

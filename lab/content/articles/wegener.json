@@ -542,5 +542,163 @@
    "zh": "韋格納簡傳，以及通往板塊構造論的漫長道路。（5 分鐘）",
    "question": "Does the video mention the critics’ fair point about a mechanism?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "The history of science is often told as a contest between brave outsiders and stubborn experts, and Alfred Wegener seems to fit the pattern perfectly. On 6 January 1912, the German scientist proposed that the continents had once formed a single landmass, which had broken apart and drifted into their present positions. He set out the idea in 1915 in The Origin of Continents and Oceans, yet mainstream geology did not accept it until the 1960s. A closer look, however, suggests a more instructive story.",
+    "科學史常被講成勇敢的圈外人對抗頑固專家的故事，而韋格納似乎完全符合這個模式。1912 年 1 月 6 日，這位德國科學家提出：各大陸曾經是一整塊陸地，後來裂開並漂移到現在的位置。他在 1915 年的《大陸與海洋的起源》中闡述這個想法，但主流地質學界直到 1960 年代才接受。然而仔細一看，這個故事能帶來更多啟發。"
+   ],
+   [
+    "Wegener was not the first to wonder about drifting continents; the mapmaker Abraham Ortelius had suggested it in 1596. But he developed the idea far more fully. Beyond the jigsaw-like fit of the Atlantic coastlines, he compared rocks, geological structures and fossils on both sides of the ocean. Fossils of Mesosaurus, a freshwater reptile, appear in both Brazil and South Africa — an unlikely result if the two continents had always been separated by an ocean. It was, he said, as if one were checking whether the lines of print ran smoothly across the torn pieces of a newspaper.",
+    "韋格納並不是第一個想到大陸會漂移的人；製圖師奧特柳斯在 1596 年就提過。但他把這個想法發展得完整得多。除了大西洋兩岸海岸線像拼圖般吻合，他還比對了大洋兩側的岩石、地質構造和化石。淡水爬蟲類中龍的化石，同時出現在巴西和南非——如果兩塊大陸一直隔著海洋，這是不太可能的。他說，這就像拼回撕碎的報紙，檢查字行是否能順暢地連起來。"
+   ],
+   [
+    "The response was largely hostile. Many geologists saw Wegener, a meteorologist (a scientist who studies weather) and polar researcher, as an outsider. When he presented the theory at a 1926 meeting in New York, it was rejected by almost everyone except the chairman. Some of the criticism was undoubtedly defensive. Yet the strongest objection was scientifically fair: no known force could push continents across the globe, and Wegener’s own suggestions, such as forces from the Earth’s rotation, were inadequate.",
+    "反應大多充滿敵意。許多地質學家把身為氣象學家（研究天氣的科學家）兼極地研究者的韋格納看成外行人。他在 1926 年紐約的一場會議上發表這個理論時，除了主席之外，幾乎所有人都反對。有些批評無疑帶著防衛心。然而最有力的反對在科學上是合理的：沒有任何已知的力量能推動大陸橫越地球，而韋格納自己提出的解釋，例如來自地球自轉的力量，都不夠充分。"
+   ],
+   [
+    "Ironically, part of a solution was already emerging. In 1931, the English geologist Arthur Holmes proposed slow movements deep inside the Earth as a possible driving force. Wegener did not live to see such ideas developed. In November 1930, while leaving a station on the Greenland ice sheet with Rasmus Villumsen, he died, probably of heart failure brought on by exhaustion. So harsh were the conditions that his body was not found until May 1931.",
+    "諷刺的是，解答的一部分其實已經浮現。1931 年，英國地質學家霍姆斯提出，地球深處的緩慢運動可能就是驅動力。韋格納沒能活著看到這些想法發展起來。1930 年 11 月，他和維盧姆森離開格陵蘭冰原上的一個站時去世，很可能是過度疲勞引發心臟衰竭。當地條件惡劣到他的遺體直到 1931 年 5 月才被找到。"
+   ],
+   [
+    "Not until the ocean floor was studied did proof arrive. Between 1959 and 1963, researchers found that the sea floor carried zebra-like stripes of magnetism, best explained by new crust forming at mid-ocean ridges and spreading outward. Continental drift became part of the wider theory of plate tectonics. The lesson is subtler than “the experts were wrong”: Wegener’s critics were wrong about his conclusion but right to demand a mechanism. Science advanced not by rewarding boldness alone, but by insisting on evidence until it finally came.",
+    "直到研究了海底，證據才出現。1959 到 1963 年間，研究者發現海底帶有斑馬紋般的磁性條帶，最好的解釋是新的地殼在中洋脊形成並向外擴張。大陸漂移成了更廣泛的板塊構造理論的一部分。教訓比「專家錯了」更細膩：批評韋格納的人在結論上錯了，但要求他提出機制是對的。科學的進步不是光靠獎勵大膽，而是堅持要證據，直到證據終於出現。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "How to survive a winter on the Greenland ice sheet.",
+     "How Abraham Ortelius drew the first world map.",
+     "Why fossils of Mesosaurus are found only in Brazil.",
+     "Why Wegener’s idea was rejected and how it was finally proved."
+    ],
+    "a": 3,
+    "evidence": "Wegener’s critics were wrong about his conclusion but right to demand a mechanism.",
+    "why": "全文：大陸漂移說的證據、被拒的理由，以及後來如何被證實。",
+    "traps": [
+     "以偏概全：格陵蘭只是他去世的地方。",
+     "以偏概全：Ortelius 只是更早提過漂移的人。",
+     "正反顛倒：化石同時出現在巴西和南非。",
+     ""
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "What does “hostile” mean as used in the third paragraph?",
+    "options": [
+     "Curious and eager to learn more.",
+     "Unfriendly and strongly opposed.",
+     "Polite but slightly unsure.",
+     "Quiet and without any opinion."
+    ],
+    "a": 1,
+    "evidence": "it was rejected by almost everyone except the chairman",
+    "why": "後面說幾乎所有人都反對，可知反應「充滿敵意」。",
+    "traps": [
+     "正反顛倒：他們是排斥，不是好奇。",
+     "",
+     "程度錯誤：反應不是溫和的猶豫。",
+     "正反顛倒：他們有強烈的意見。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Arthur Holmes was the chairman of the 1926 meeting.",
+     "Wegener published his book in 1930.",
+     "Wegener’s body was found in May 1931.",
+     "Wegener correctly explained what moved continents."
+    ],
+    "a": 2,
+    "evidence": "his body was not found until May 1931",
+    "why": "第四段。",
+    "traps": [
+     "張冠李戴：Holmes 是 1931 年提出驅動力的地質學家。",
+     "數字錯位：書在 1915 年出版，1930 年是他去世。",
+     "",
+     "正反顛倒：他的解釋不夠充分。"
+    ]
+   },
+   {
+    "type": "SEQ",
+    "q": "Which of the following shows the correct order? a. Ortelius suggests continents may have drifted. b. Wegener presents his idea. c. Holmes proposes a possible driving force. d. Wegener’s theory is rejected at a New York meeting.",
+    "options": [
+     "a → b → c → d",
+     "b → a → d → c",
+     "a → b → d → c",
+     "a → d → b → c"
+    ],
+    "a": 2,
+    "evidence": "In 1931, the English geologist Arthur Holmes proposed",
+    "why": "1596 Ortelius → 1912 韋格納提出 → 1926 紐約會議 → 1931 Holmes。",
+    "traps": [
+     "時序顛倒：紐約會議（1926）在 Holmes（1931）之前。",
+     "時序顛倒：Ortelius 早在 1596 年。",
+     "",
+     "時序顛倒：先提出理論，才會在會議上被否定。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Wegener’s critics were right to [47] a mechanism, and proof finally came from magnetic stripes on the sea [48].",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "demand"
+      ],
+      "partial": [
+       "demanded",
+       "demands"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "floor"
+      ],
+      "partial": [
+       "floors"
+      ]
+     }
+    ],
+    "why": "第一格出自第五段 right to demand a mechanism（to 後接原形）；第二格出自 the sea floor。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "Ortelius suggested drifting continents in 1596.",
+     "Mesosaurus fossils appear in Brazil and South Africa.",
+     "Wegener was a geologist trained in New York.",
+     "Wegener died on the Greenland ice sheet.",
+     "The magnetic stripes were found in the 1920s.",
+     "Everyone at the 1926 meeting accepted the theory."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A、B 第二段；D 第四段。C 張冠李戴（他是氣象學家）；E 時序錯置（1959 到 1963 年）；F 正反顛倒（幾乎所有人反對）。"
+   },
+   {
+    "kind": "short",
+    "q": "What wider theory did continental drift become part of?",
+    "answer": [
+     "plate tectonics",
+     "the theory of plate tectonics"
+    ],
+    "why": "第五段。"
+   }
+  ]
+ }
 }

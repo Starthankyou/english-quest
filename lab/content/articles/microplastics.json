@@ -530,5 +530,163 @@
    "zh": "研究者說明微塑膠有多普遍，以及我們能做些什麼。",
    "question": "Which of her suggestions could your school try?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "For years, plastic pollution has been pictured as something out there: bottles on beaches, bags caught in trees, rubbish floating far out at sea. Such images are troubling, but they also let us keep a comfortable distance. The pollution, we assume, is in the environment, not inside us. A small study published in 2022 has begun to challenge that assumption.",
+    "多年來，塑膠污染總被想像成「外面」的東西：海灘上的瓶子、掛在樹上的袋子、漂在遠洋的垃圾。這些畫面令人不安，卻也讓我們保持舒服的距離——我們以為污染在環境裡，不在身體裡。一項 2022 年發表的小型研究，開始挑戰這個假設。"
+   ],
+   [
+    "The problem begins with the material’s greatest strength. Designed to resist decay, plastic does not disappear when it is thrown away; instead, it slowly breaks into microplastics (tiny fragments, many too small to see) and even smaller nanoplastics. These particles have been found in oceans, soil, drinking water and air. Whether they also enter the human body, however, proved harder to answer, because measuring tiny amounts of plastic in blood requires sensitive methods — and researchers must make sure that the plastic they detect has not come from their own equipment, which is often made of plastic too.",
+    "問題始於這種材料最大的優點。塑膠被設計成不易分解，丟掉後並不會消失，而是慢慢碎成微塑膠（細小的碎片，很多小到肉眼看不見），甚至更小的奈米塑膠。這些微粒已在海洋、土壤、飲用水和空氣中被發現。但它們是否也進入人體，就比較難回答了，因為要測量血液中的微量塑膠，需要靈敏的方法——研究者還得確定測到的塑膠不是來自自己的器材，而那些器材往往也是塑膠做的。"
+   ],
+   [
+    "In 2022, a team led by Heather Leslie in the Netherlands reported what it described as the first measurement of plastic particles in human blood. Analysing samples from 22 healthy adult donors, the researchers found measurable plastic in 17 of them, with an average of 1.6 micrograms per millilitre of blood. PET, commonly used in drink bottles, appeared in half of the samples; polystyrene, used for food packaging, in about a third; and polyethylene, the material of many plastic bags, in about a quarter.",
+    "2022 年，荷蘭的海瑟．萊斯莉帶領團隊，發表了他們所稱首次在人類血液中測量塑膠微粒的研究。分析 22 位健康成年捐血者的樣本後，研究者在其中 17 人的血液中測到塑膠，平均每毫升血液 1.6 微克。常用於飲料瓶的 PET 出現在一半的樣本中；用於食品包裝的聚苯乙烯約占三分之一；許多塑膠袋的材料聚乙烯約占四分之一。"
+   ],
+   [
+    "It is important to read these findings carefully. So small was the study that it could not tell us how much plastic is in everyone’s blood, nor whether the particles cause harm; the health impact, the researchers stressed, is not yet known. The study was designed to show that plastic particles could be detected and measured, not to establish how widespread they are. Although treating the results as proof of danger would be an overstatement, dismissing them because the sample was small would be an understatement.",
+    "仔細解讀這些結果很重要。這項研究規模小到無法告訴我們每個人血液裡有多少塑膠，也無法說明這些微粒是否有害；研究者強調，對健康的影響尚不清楚。這項研究的設計，是為了證明塑膠微粒可以被偵測和測量，而不是要確定它們有多普遍。把結果當成危險的證據是言過其實，但因為樣本小就置之不理，則是輕描淡寫。"
+   ],
+   [
+    "Only by asking such careful questions can we see what the study really shows: the line between the environment and our bodies is thinner than we like to think. The plastic we use for a few minutes may stay in the environment for decades, and some of it may find its way back to us. Whatever future research reveals about its effects, the discovery invites a simple reflection on how we use things designed to last for centuries.",
+    "只有問出這麼謹慎的問題，我們才看得清這項研究真正顯示的事：環境與身體之間的界線，比我們願意相信的更薄。我們只用幾分鐘的塑膠，可能在環境中留存數十年，其中一些還可能回到我們身上。不論未來的研究揭露它有什麼影響，這項發現都邀請我們簡單地反思：我們是怎麼使用那些被設計成能存在幾百年的東西。"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "What a small study of plastic in blood can and cannot show.",
+     "How plastic is designed to resist decay for centuries.",
+     "Why PET bottles are more harmful than plastic bags.",
+     "How to remove microplastics from drinking water."
+    ],
+    "a": 0,
+    "evidence": "It is important to read these findings carefully.",
+    "why": "全文：一項血液塑膠研究的發現，以及該如何解讀它的意義與限制。",
+    "traps": [
+     "",
+     "以偏概全：只是第二段的背景。",
+     "捏造：文中沒有比較危害程度。",
+     "捏造：文中沒談如何去除。"
+    ]
+   },
+   {
+    "type": "WD",
+    "q": "Which of the following is closest in meaning to “overstatement” in the fourth paragraph?",
+    "options": [
+     "Measuring plastic with very sensitive methods.",
+     "Ignoring evidence because the sample is small.",
+     "A claim that goes beyond what the evidence supports.",
+     "Repeating a study with many more donors."
+    ],
+    "a": 2,
+    "evidence": "treating the results as proof of danger would be an overstatement",
+    "why": "把結果當成危險的證據＝說得比證據更多。",
+    "traps": [
+     "原文字眼、錯誤關係：靈敏的方法是第二段的測量問題。",
+     "張冠李戴：那是 understatement。",
+     "",
+     "捏造：文中沒有提到重做研究。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "Plastic was found in the blood of all 22 donors.",
+     "Polyethylene appeared in about a quarter of the samples.",
+     "PET was found in only about a third of the samples.",
+     "The researchers proved that the particles harm health."
+    ],
+    "a": 1,
+    "evidence": "polyethylene, the material of many plastic bags, in about a quarter",
+    "why": "第三段。",
+    "traps": [
+     "數字錯位：22 人中只有 17 人。",
+     "",
+     "數字錯位：PET 是一半，三分之一是聚苯乙烯。",
+     "正反顛倒：原文 the health impact … is not yet known。"
+    ]
+   },
+   {
+    "type": "INS",
+    "q": "Here is a sentence: “By identifying several different plastics, the study suggested that the particles came from a variety of everyday sources.” Which paragraph is most suitable to have it as the final sentence?",
+    "options": [
+     "Paragraph 2.",
+     "Paragraph 3.",
+     "Paragraph 4.",
+     "Paragraph 5."
+    ],
+    "a": 1,
+    "evidence": "PET, commonly used in drink bottles, appeared in half of the samples",
+    "why": "第三段列出 PET、聚苯乙烯、聚乙烯三種塑膠，正好接「找到好幾種塑膠，顯示來源多元」。",
+    "traps": [
+     "位置陷阱：第二段還沒有談到研究結果。",
+     "",
+     "位置陷阱：第四段在談如何解讀研究，接這句會打斷論點。",
+     "位置陷阱：第五段已是全文的反思收尾。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "Plastic was found in the blood of 17 of the 22 [47], but the researchers stressed that its effect on health is not yet [48].",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "donors"
+      ],
+      "partial": [
+       "donor"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "known"
+      ],
+      "partial": [
+       "know",
+       "knowing"
+      ]
+     }
+    ],
+    "why": "第一格出自第三段 22 healthy adult donors（複數）；第二格出自第四段 is not yet known（被動語態）。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "The study was carried out by a team in the Netherlands.",
+     "The average amount was 1.6 micrograms per millilitre.",
+     "PET, used in drink bottles, appeared in half the samples.",
+     "The researchers’ equipment never contained any plastic.",
+     "The study proved that everyone has plastic in their blood.",
+     "Nanoplastics are larger than microplastics."
+    ],
+    "a": [
+     0,
+     1,
+     2
+    ],
+    "why": "A、B、C 第三段。D 正反顛倒（器材常是塑膠做的）；E 正反顛倒（研究太小無法下此結論）；F 正反顛倒（奈米塑膠更小）。"
+   },
+   {
+    "kind": "short",
+    "q": "Which phrase in the second paragraph explains what microplastics are?",
+    "answer": [
+     "tiny fragments, many too small to see",
+     "tiny fragments"
+    ],
+    "why": "括號註解是學測處理難字的典型寫法。"
+   }
+  ]
+ }
 }

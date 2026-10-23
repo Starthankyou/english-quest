@@ -537,5 +537,162 @@
    "zh": "簡短分析故事中犧牲與同情的主題。（3 分鐘）",
    "question": "Does the video mention Wilde’s satire of the Mayor and councillors?"
   }
- ]
+ ],
+ "gsat": {
+  "minutes": 10,
+  "paras": [
+   [
+    "Published on 1 May 1888 in The Happy Prince and Other Tales, Oscar Wilde’s title story belongs to a kind of writing that is easy to underestimate. Its fairy-tale surface, which includes a jewelled statue, a talking swallow and an angel, hides a sharp criticism of Victorian society. From the first paragraph, Wilde sets up the contrast that drives the story: the statue is admired for its gold, sapphires and ruby, yet a town councillor praises it as beautiful, “only not quite so useful”.",
+    "王爾德的同名故事 1888 年 5 月 1 日收錄於《快樂王子及其他故事》出版，屬於一種很容易被低估的作品。它的童話外表——鑲滿寶石的雕像、會說話的燕子和天使——底下藏著對維多利亞時代社會的尖銳批判。從第一段起，王爾德就設下推動整個故事的對比：雕像因為黃金、藍寶石和紅寶石而受人讚賞，但一位市議員稱讚它美，卻「只是不太實用」。"
+   ],
+   [
+    "The Prince’s past turns his title into tragic irony. In life, he explains, he lived in a palace “where sorrow is not allowed to enter”, and he never cared to ask what lay beyond its walls. “Happy indeed I was, if pleasure be happiness,” he says. Not until after his death, placed high above the city, does he see all its ugliness and misery.",
+    "王子的過去讓他的稱號成了悲劇性的反諷。他說，生前他住在一座「不允許悲傷進入」的宮殿裡，從不想知道宮牆外是什麼。「如果享樂就是快樂，那我確實很快樂。」他說。直到死後被高高立在城市上方，他才看見城裡所有的醜陋與悲慘。"
+   ],
+   [
+    "The central action is a process of giving himself away. Through a swallow delayed on its way to Egypt, the Prince sends his ruby to a seamstress whose son has a fever, his sapphire eyes to a starving young writer and a frightened match-girl, and finally his gold, leaf by leaf, to the poor, observing that “the living always think that gold can make them happy.” Each gift makes the statue less beautiful in the eyes of the town and more admirable in the eyes of the reader. So complete is the swallow’s own change that it chooses to stay with the blind Prince, knowing the winter will kill it.",
+    "故事的主線是一個把自己送出去的過程。王子透過一隻延誤了埃及之行的燕子，把紅寶石送給兒子發燒的裁縫，把藍寶石眼睛送給挨餓的年輕作家和害怕的賣火柴女孩，最後把身上的金箔一片片送給窮人，還說：「活著的人總以為金子能讓他們快樂。」每一份禮物，都讓雕像在鎮民眼中變得更不美，在讀者眼中卻更令人敬佩。燕子自己的轉變也很徹底：牠明知冬天會奪走自己的命，仍選擇留在失明的王子身邊。"
+   ],
+   [
+    "Wilde’s satire is sharpest in what follows. When the Mayor sees the stripped statue, he exclaims at how shabby it looks, and the councillors, “who always agreed with the Mayor”, repeat his words. The Art Professor declares that “as he is no longer beautiful he is no longer useful”, and the statue is melted down. The Mayor then proposes a new statue of himself, and each councillor demands one of himself instead.",
+    "王爾德的諷刺在接下來的情節中最為尖銳。市長看到被剝光的雕像，驚呼它看起來多麼寒酸，而「總是附和市長」的議員們也跟著重複他的話。藝術教授宣稱「既然它不再美麗，也就不再有用」，於是雕像被熔掉了。市長接著提議為自己立一座新雕像，每位議員卻都要求立自己的。"
+   ],
+   [
+    "The ending overturns these values. The lead heart will not melt and is thrown on a rubbish heap beside the dead swallow. When God asks an angel to bring “the two most precious things in the city”, it is exactly these that the angel brings. Worth, Wilde suggests, lies not in surface splendour but in kindness and sacrifice. The story leaves modern readers with an uncomfortable question: whether we, like the Prince in his palace, live behind walls that keep us from seeing the suffering around us.",
+    "結局推翻了這些價值。那顆鉛心熔不掉，被丟到垃圾堆上，躺在死去的燕子旁邊。當上帝要天使帶回「城裡最珍貴的兩樣東西」時，天使帶回的正是這兩樣。王爾德暗示：價值不在表面的華麗，而在慈悲與犧牲。這個故事留給現代讀者一個令人不安的問題：我們是否也像宮殿裡的王子一樣，住在一道道牆後面，看不見周遭的苦難？"
+   ]
+  ],
+  "questions": [
+   {
+    "type": "MI",
+    "q": "What is the passage mainly about?",
+    "options": [
+     "Why swallows fly to Egypt every winter.",
+     "How statues were made of gold in 1888.",
+     "How the tale judges worth by kindness rather than appearance.",
+     "How the Mayor chose a new statue for the town."
+    ],
+    "a": 2,
+    "evidence": "Worth, Wilde suggests, lies not in surface splendour but in kindness and sacrifice.",
+    "why": "全文：故事如何諷刺以外表衡量價值的社會，並推翻這種價值觀。",
+    "traps": [
+     "以偏概全：埃及只是燕子原本的目的地。",
+     "捏造：文中沒談雕像的製作。",
+     "",
+     "以偏概全：只是第四段的諷刺情節。"
+    ]
+   },
+   {
+    "type": "REF",
+    "q": "What does “these” in “it is exactly these that the angel brings” refer to?",
+    "options": [
+     "The lead heart and the dead swallow.",
+     "The ruby and the sapphires.",
+     "The Mayor and the councillors.",
+     "The new statues of the councillors."
+    ],
+    "a": 0,
+    "evidence": "The lead heart will not melt and is thrown on a rubbish heap beside the dead swallow.",
+    "why": "前一句：熔不掉的鉛心和死去的燕子。",
+    "traps": [
+     "",
+     "時序錯置：寶石早已送給窮人。",
+     "正反顛倒：他們正是被諷刺的對象。",
+     "捏造：新雕像根本沒立成。"
+    ]
+   },
+   {
+    "type": "TF",
+    "q": "Which of the following is true according to the passage?",
+    "options": [
+     "The swallow flew safely on to Egypt for the winter.",
+     "The Prince’s heart was made of solid gold.",
+     "The Art Professor praised the statue after it was stripped.",
+     "The ruby went to a seamstress whose son had a fever."
+    ],
+    "a": 3,
+    "evidence": "sends his ruby to a seamstress whose son has a fever",
+    "why": "第三段。",
+    "traps": [
+     "正反顛倒：牠留下來，凍死了。",
+     "張冠李戴：心是鉛做的，金箔在身上。",
+     "正反顛倒：他說它不美、也不再有用。",
+     ""
+    ]
+   },
+   {
+    "type": "SEQ",
+    "q": "Which of the following shows the correct order? a. The ruby is given away. b. The gold is given away leaf by leaf. c. A sapphire eye goes to the young writer. d. The swallow dies.",
+    "options": [
+     "a → c → b → d",
+     "c → a → b → d",
+     "a → b → c → d",
+     "a → c → d → b"
+    ],
+    "a": 0,
+    "evidence": "and finally his gold, leaf by leaf, to the poor",
+    "why": "紅寶石 → 藍寶石眼睛 → 最後才是金箔 → 冬天燕子死去。",
+    "traps": [
+     "",
+     "時序顛倒：紅寶石最先送出。",
+     "時序顛倒：金箔是最後才送的。",
+     "時序顛倒：燕子死在金箔送完之後。"
+    ]
+   }
+  ],
+  "mixed": [
+   {
+    "kind": "fill",
+    "prompt": "As the Prince gives away his jewels and gold, the statue looks [47] to the Mayor, and the Art Professor says that it is no longer [48].",
+    "blanks": [
+     {
+      "no": 47,
+      "answer": [
+       "shabby"
+      ],
+      "partial": [
+       "shabbier"
+      ]
+     },
+     {
+      "no": 48,
+      "answer": [
+       "useful"
+      ],
+      "partial": [
+       "use",
+       "usefully"
+      ]
+     }
+    ],
+    "why": "第一格出自第四段 how shabby it looks；第二格出自 he is no longer useful。"
+   },
+   {
+    "kind": "multi",
+    "q": "Which of the following are stated in the passage? Choose ALL that apply.",
+    "options": [
+     "The story was published on 1 May 1888.",
+     "In life, the Prince lived in a palace where sorrow could not enter.",
+     "The swallow gave the sapphires to the Mayor.",
+     "The councillors always agreed with the Mayor.",
+     "The Prince’s lead heart melted in the fire.",
+     "The councillors agreed to build a statue of the Mayor."
+    ],
+    "a": [
+     0,
+     1,
+     3
+    ],
+    "why": "A 第一段；B 第二段；D 第四段。C 張冠李戴（給了作家和賣火柴女孩）；E 正反顛倒（鉛心熔不掉）；F 正反顛倒（每位議員都要立自己的）。"
+   },
+   {
+    "kind": "short",
+    "q": "Where was the swallow going before it stopped to help the Prince?",
+    "answer": [
+     "Egypt"
+    ],
+    "why": "第三段。"
+   }
+  ]
+ }
 }
